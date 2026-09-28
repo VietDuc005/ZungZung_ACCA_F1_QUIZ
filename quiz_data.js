@@ -2867,7 +2867,7 @@ window.QUIZ_DATA = [
         "id": 101,
         "question_number": 101,
         "part": 6,
-        "question_text": "The supply curve ofafirm operating in a competitive market is its:",
+        "question_text": "The supply curve of a firm operating in a competitive market is its:",
         "options": [
           {
             "key": "A",
@@ -2887,7 +2887,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong thị trường cạnh tranh hoàn hảo, đường cung ngắn hạn của doanh nghiệp chính là phần đường chi phí cận biên (Marginal cost curve - MC) nằm phía trên điểm cực tiểu của đường chi phí biến đổi trung bình (Average variable cost curve - AVC). Nếu giá thấp hơn AVC, doanh nghiệp sẽ đóng cửa sản xuất (shutdown point).",
         "image_file": "images/cau_101.png",
         "has_image": false,
         "diagram_file": null
@@ -2896,7 +2896,7 @@ window.QUIZ_DATA = [
         "id": 102,
         "question_number": 102,
         "part": 6,
-        "question_text": "A legal minimum price is set which is below the equilibrium price. What will be the impact of this?",
+        "question_text": "A legal minimum price is set which is below the equilibrium price. What will be the impact on the market?",
         "options": [
           {
             "key": "A",
@@ -2912,7 +2912,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Giá sàn hợp pháp (Minimum price / Price floor) đặt dưới mức giá cân bằng thị trường (below the equilibrium price) sẽ không có bất kỳ tác động nào đến thị trường (Nothing / Non-binding), vì các bên vẫn tự do giao dịch tại mức giá cân bằng cao hơn mức giá sàn tối thiểu.",
         "image_file": "images/cau_102.png",
         "has_image": false,
         "diagram_file": null
@@ -2921,7 +2921,7 @@ window.QUIZ_DATA = [
         "id": 103,
         "question_number": 103,
         "part": 6,
-        "question_text": "Which of the following would cause the supply curve for a good to shift to the right (outwards from the origin)?",
+        "question_text": "Which of the following would cause the supply curve for a good to shift to the right (outwards)?",
         "options": [
           {
             "key": "A",
@@ -2937,11 +2937,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. The imposition ofa minimum price"
+            "text": "D. The imposition of a minimum price"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chi phí sản xuất giảm (A fall in production costs) làm cho việc sản xuất trở nên có lãi hơn tại mọi mức giá, từ đó làm tăng lượng cung và dịch chuyển toàn bộ đường cung sang phải (outward shift of the supply curve).",
         "image_file": "images/cau_103.png",
         "has_image": false,
         "diagram_file": null
@@ -2950,7 +2950,7 @@ window.QUIZ_DATA = [
         "id": 104,
         "question_number": 104,
         "part": 6,
-        "question_text": "When the price ofa good is held above the equilibrium price, the result will be",
+        "question_text": "When the price of a good is held above the equilibrium price, the result will be:",
         "options": [
           {
             "key": "A",
@@ -2966,7 +2966,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Khi giá được giữ cao hơn mức giá cân bằng (above equilibrium price), lượng cung của nhà sản xuất (Qs) sẽ lớn hơn lượng cầu của người tiêu dùng (Qd), dẫn đến hiện tượng dư thừa hàng hóa trên thị trường (A surplus of the good / Excess supply).",
         "image_file": "images/cau_104.png",
         "has_image": false,
         "diagram_file": null
@@ -2995,7 +2995,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sự thay đổi về giá của chính sản phẩm đó (A rise in the price of overseas holidays) chỉ gây ra sự trượt dọc trên đường cầu (movement along the demand curve), chứ KHÔNG làm dịch chuyển toàn bộ đường cầu (NOT lead to a shift).",
         "image_file": "images/cau_105.png",
         "has_image": false,
         "diagram_file": null
@@ -3024,7 +3024,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đối với hàng hóa thông thường (normal good), khi thu nhập hộ gia đình giảm (fall in household incomes), lượng cầu sẽ giảm -> đường cầu dịch sang trái -> giá cân bằng của hàng hóa Q sẽ giảm.",
         "image_file": "images/cau_106.png",
         "has_image": false,
         "diagram_file": null
@@ -3049,11 +3049,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. There are many producers but they each use product differentiation to"
+            "text": "D. There are many producers but they each use product differentiation to distinguish themselves from each other"
           }
         ],
         "correct_answer": "C",
-        "explanation": "distinguish themselves from each other",
+        "explanation": "Thị trường độc quyền nhóm (Oligopoly) là thị trường bị chi phối bởi một vài doanh nghiệp lớn (few large producers, ví dụ 4 doanh nghiệp) có sức ảnh hưởng đáng kể và có sự phụ thuộc lẫn nhau về chiến lược. (A là cạnh tranh hoàn hảo, B là độc quyền thuần túy, D là cạnh tranh độc quyền).",
         "image_file": "images/cau_107.png",
         "has_image": false,
         "diagram_file": null
@@ -3078,7 +3078,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Lớp lót thảm (Carpet underlay) là hàng hóa bổ sung (complementary good) được dùng kèm dưới lớp thảm để tăng độ êm và cách âm, KHÔNG PHẢI là hàng hóa thay thế (substitute) cho thảm.",
         "image_file": "images/cau_108.png",
         "has_image": false,
         "diagram_file": null
@@ -3103,7 +3103,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Xăng dầu (Petrol) và Lốp xe (Tyres) là các hàng hóa bổ sung thiết yếu đi liền với ô tô. Kỳ nghỉ lễ (Holidays) không phải là hàng hóa bổ sung trực tiếp cho việc sử dụng ô tô.",
         "image_file": "images/cau_109.png",
         "has_image": false,
         "diagram_file": null
@@ -3132,7 +3132,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sự phi hiệu quả trong phân bổ nguồn lực của các nhà sản xuất (Allocative inefficiency) là yếu tố thuộc phía cung (supply-side), KHÔNG ảnh hưởng trực tiếp đến đường cầu tiêu dùng của khách hàng đối với hàng thời trang.",
         "image_file": "images/cau_110.png",
         "has_image": false,
         "diagram_file": null
@@ -3141,7 +3141,7 @@ window.QUIZ_DATA = [
         "id": 111,
         "question_number": 111,
         "part": 6,
-        "question_text": "Ill.lfthe price of coffee falls, which the following outcomes should be expected to",
+        "question_text": "If the price of coffee falls, which of the following outcomes should be expected to occur?",
         "options": [
           {
             "key": "A",
@@ -3161,7 +3161,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Cà phê và trà là hai hàng hóa thay thế (substitutes). Khi giá cà phê giảm, người tiêu dùng sẽ chuyển sang uống cà phê nhiều hơn, dẫn đến lượng cầu đối với trà giảm (A fall in the demand for tea - D).",
         "image_file": "images/cau_111.png",
         "has_image": false,
         "diagram_file": null
@@ -3170,7 +3170,7 @@ window.QUIZ_DATA = [
         "id": 112,
         "question_number": 112,
         "part": 6,
-        "question_text": "What is an inferiorgood?",
+        "question_text": "What is an inferior good?",
         "options": [
           {
             "key": "A",
@@ -3178,7 +3178,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. A good for which the cross elasticity of demand with a substitute product is greater than I"
+            "text": "B. A good for which the cross elasticity of demand with a substitute product is greater than 1"
           },
           {
             "key": "C",
@@ -3186,7 +3186,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hàng hóa thứ cấp/thứ phẩm (Inferior good) là hàng hóa có độ co giãn của cầu theo thu nhập mang giá trị âm (YED < 0), tức là khi thu nhập hộ gia đình tăng lên (household income rises), lượng cầu về hàng hóa này sẽ giảm xuống (demand will fall).",
         "image_file": "images/cau_112.png",
         "has_image": false,
         "diagram_file": null
@@ -3195,7 +3195,7 @@ window.QUIZ_DATA = [
         "id": 113,
         "question_number": 113,
         "part": 6,
-        "question_text": "Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?",
+        "question_text": "Consider the price and demand for flower vases. The price of cut flowers goes up sharply.\nWhich of the following should happen?",
         "options": [
           {
             "key": "A",
@@ -3215,7 +3215,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Bình cắm hoa (vases) và hoa tươi (cut flowers) là hàng hóa bổ sung (complements). Khi giá hoa tươi tăng mạnh, người tiêu dùng mua ít hoa hơn, dẫn tới nhu cầu mua bình hoa giảm -> đường cầu bình hoa dịch sang trái (shift to the left) và giá bình hoa sẽ giảm xuống (price will go down).",
         "image_file": "images/cau_113.png",
         "has_image": false,
         "diagram_file": null
