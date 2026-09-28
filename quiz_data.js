@@ -1782,7 +1782,7 @@ window.QUIZ_DATA = [
         "id": 62,
         "question_number": 62,
         "part": 4,
-        "question_text": "Which of the following words completes this sentence appropriately? nn organisation is a social arrangement which pursues collective , which controls its own performance and has a boundary separating it from its environment.'",
+        "question_text": "Which of the following words completes this sentence appropriately?\n'An organisation is a social arrangement which pursues collective _____ , which controls its own performance and has a boundary separating it from its environment.'",
         "options": [
           {
             "key": "A",
@@ -1802,7 +1802,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo định nghĩa về tổ chức (Organisation): 'An organisation is a social arrangement which pursues collective goals, which controls its own performance and has a boundary separating it from its environment.' (Tổ chức là một sắp xếp xã hội theo đuổi các mục tiêu tập thể/chung - collective goals).",
         "image_file": "images/cau_062.png",
         "has_image": false,
         "diagram_file": null
@@ -1811,7 +1811,7 @@ window.QUIZ_DATA = [
         "id": 63,
         "question_number": 63,
         "part": 4,
-        "question_text": "What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?",
+        "question_text": "What is the term given to the idea that the combined output of a number of individuals working together will exceed that of the same individuals working separately?",
         "options": [
           {
             "key": "A",
@@ -1831,7 +1831,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Synergy (Hiệu ứng cộng hưởng 2 + 2 = 5) thể hiện ý tưởng rằng kết quả kết hợp của nhiều cá nhân khi làm việc cùng nhau sẽ vượt trội hơn tổng kết quả của các cá nhân đó khi làm việc riêng rẽ.",
         "image_file": "images/cau_063.png",
         "has_image": false,
         "diagram_file": null
