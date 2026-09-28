@@ -3273,7 +3273,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Nếu đồng USD mất giá (fall in value of US dollars), khách du lịch Mỹ sẽ thấy chi phí du lịch đến London đắt hơn, làm giảm lượng cầu phòng khách sạn tại London.",
+        "explanation": "Nếu đồng USD mất giá (fall in value of US dollars), khách du lịch Mỹ sẽ thấy chi phí du lịch đến London đắt đỏ hơn, làm giảm lượng cầu phòng khách sạn tại London (1). Trong khi giá vé máy bay giảm hoặc đồng Bảng Anh giảm giá sẽ làm tăng nhu cầu du lịch tới London.",
         "image_file": "images/cau_115.png",
         "has_image": false,
         "diagram_file": null
@@ -3302,7 +3302,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thị trường chỉ có 3 nhà sản xuất (ABC và 2 đối thủ cạnh tranh) chi phối toàn bộ ngành, có quy mô lớn và sử dụng sự khác biệt hóa sản phẩm. Đây là đặc trưng kinh điển của thị trường độc quyền nhóm (Oligopoly - D).",
         "image_file": "images/cau_116.png",
         "has_image": false,
         "diagram_file": null
