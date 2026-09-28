@@ -2444,7 +2444,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chính sách tài khóa (Fiscal policy) bao gồm: chi tiêu chính phủ (Government spending), vay nợ công (Government borrowing), và thuế (Taxation). Tỷ giá hối đoái (Exchange rates) và lãi suất thuộc công cụ của Chính sách tiền tệ (Monetary policy).",
         "image_file": "images/cau_085.png",
         "has_image": false,
         "diagram_file": null
@@ -2473,7 +2473,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Public Sector Net Cash Requirement (PSNCR) là nhu cầu vay ròng của khu vực công (khi chi tiêu vượt quá nguồn thu/thâm hụt ngân sách thì PSNCR mang giá trị dương). Khi PSNCR mang giá trị âm (negative PSNCR), điều đó có nghĩa là thu nhập của chính phủ vượt quá chi tiêu, tức chính phủ đang đạt thặng dư ngân sách (The government is running a budget surplus).",
         "image_file": "images/cau_086.png",
         "has_image": false,
         "diagram_file": null
@@ -2532,7 +2532,7 @@ window.QUIZ_DATA = [
         "id": 89,
         "question_number": 89,
         "part": 5,
-        "question_text": "The currency in country X is the Krone while country Y uses the Euro. Country Y has recently experienced an increase in its exchange rate with Country X. Which of the following effects would result in Country Y?",
+        "question_text": "The currency in country X is the Krone while country Y uses the Euro. Country Y has recently experienced an increase in its exchange rate with Country X.\nWhich of the following effects would result in Country Y?",
         "options": [
           {
             "key": "A",
@@ -2552,7 +2552,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đồng Euro của nước Y tăng giá so với đồng Krone của nước X (tỷ giá tăng), làm cho hàng hóa nhập khẩu từ nước X trở nên rẻ hơn khi tính bằng Euro. Điều này làm giảm chi phí nguyên vật liệu nhập khẩu, từ đó giúp giảm bớt áp lực lạm phát do chi phí đẩy (cost-push inflation) tại nước Y.",
         "image_file": "images/cau_089.png",
         "has_image": false,
         "diagram_file": null
@@ -2581,7 +2581,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Are the following statements true or false?",
+        "explanation": "Các biện pháp bảo hộ mậu dịch (protectionist measures) nhằm hạn chế hàng hóa nhập khẩu tràn vào thị trường nội địa (như Thuế quan - Tariffs, Hạn ngạch nhập khẩu - Import quotas, hay Thủ tục hải quan phức tạp - Customs procedures). Trong khi đó, Trợ cấp cho nhà xuất khẩu (Subsidies for exporters) là biện pháp kích thích xuất khẩu ra nước ngoài chứ không phải biện pháp trực tiếp bảo hộ ngăn cản nhập khẩu.",
         "image_file": "images/cau_090.png",
         "has_image": false,
         "diagram_file": null
