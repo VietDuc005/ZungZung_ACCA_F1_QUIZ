@@ -6572,7 +6572,7 @@ window.QUIZ_DATA = [
         "id": 233,
         "question_number": 233,
         "part": 12,
-        "question_text": "Which of the following activities create vulnerability to fraud? (1) Calculating payslips (2) Preparing delivery notes (3) Paying supplier invoices (4) Meeting budgets and performance targets",
+        "question_text": "Which of the following activities create vulnerability to fraud?\n(1) Calculating payslips\n(2) Preparing delivery notes\n(3) Paying supplier invoices\n(4) Meeting budgets and performance targets",
         "options": [
           {
             "key": "A",
@@ -6592,7 +6592,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thanh toán hóa đơn nhà cung cấp (3 - Paying supplier invoices) tạo cơ hội gian lận rút tiền (lập hóa đơn khống, công ty ma). Áp lực hoàn thành chỉ tiêu ngân sách và lợi nhuận (4 - Meeting budgets and performance targets) tạo động cơ làm đẹp số liệu BCTC (fraudulent financial reporting). Cả (3) và (4) tạo rủi ro gian lận cao.",
         "image_file": "images/cau_233.png",
         "has_image": false,
         "diagram_file": null
@@ -6601,7 +6601,7 @@ window.QUIZ_DATA = [
         "id": 234,
         "question_number": 234,
         "part": 12,
-        "question_text": "X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects?",
+        "question_text": "X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off. The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects?",
         "options": [
           {
             "key": "A",
@@ -6621,7 +6621,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Việc kế toán cố tình không xóa sổ các khoản nợ khó đòi lâu ngày sẽ dẫn đến việc khai khống có chủ đích (D - intentional overstatement) lợi nhuận và tài sản ròng của doanh nghiệp. Yếu tố 'intentional' (cố ý) là căn cứ cốt lõi xác định hành vi gian lận (Fraud).",
         "image_file": "images/cau_234.png",
         "has_image": false,
         "diagram_file": null
