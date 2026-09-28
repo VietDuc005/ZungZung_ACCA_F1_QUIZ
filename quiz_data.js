@@ -1310,7 +1310,7 @@ window.QUIZ_DATA = [
         "id": 46,
         "question_number": 46,
         "part": 3,
-        "question_text": "Antonio is a supervisor within the purchasing department ofa large company. His team is responsible for raising purchase orders for raw materials used in the production of the company's products. The department has been set a limit as to how much raw material they are allowed to purchase each week. Which of the following will not be one of Antonio's normal functions as a supervisor?",
+        "question_text": "Antonio is a supervisor within the purchasing department of a large company. His team is responsible for raising purchase orders for raw materials used in the production of the company's products. The department has been set a limit as to how much raw material they are allowed to purchase each week. Which of the following will NOT be one of Antonio's normal functions as a supervisor?",
         "options": [
           {
             "key": "A",
@@ -1330,7 +1330,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remember of key functions of supervisors. Supervising their team; Undertaking technical or operational work, alongside thegrpup#hey oversee Providing advice and support to their teams in order to help solve problems; Monitoring work by means of detailed, daily information Periodically summarizing information and passing it to more senioh management for review 15:34 CN 27thg 9 100% Option D is correct A supervisor would not normally be responsiblefo changing the objectives (purchasing limits) they have been set b) senior management; Options A, B, C is incorrect A supervisor is supposed to help controt staff and appl the olicies and strate iessetb more senio managemen t)",
+        "explanation": "Thay đổi hạn mức mua hàng (purchasing limits) là quyết định mang tính chiến lược hoặc chính sách do cấp quản lý cấp cao (senior management) ban hành. Người giám sát (supervisor) chỉ có nhiệm vụ thực thi, giải quyết thắc mắc của nhóm, tổng hợp báo cáo và cùng tham gia vào công việc chuyên môn, chứ không có thẩm quyền tự ý thay đổi hạn mức này.",
         "image_file": "images/cau_046.png",
         "has_image": false,
         "diagram_file": null
@@ -1388,7 +1388,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Remember the 4 management styles from the Ashridge Management College} • Tells (autocratic): the manager makes all the decisions and issues instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to accept them in orde 15:34 CN 27thg 9 100% Remember the 4 management styles from the Ashridge Management Collgge • Tells (autocratic): the manager makes all the decisions instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to acce t them in orde to carry them out properly • Consults (participative): the manager confers with the team and takes their views into account, although still retains the final say • Joins (democratic): the leader and the team members make the decision together on the basis of consensus) Liam is asking employeesfor their opinions, but still retains the final say abog what changes are madeffhis is consistentvith qgonsults (participative) styleu Be cautious to be conflicted with tells and sells style, in which the final decisioniS also made by the management instead ofcooperation among the team.'",
+        "explanation": "Theo mô hình lãnh đạo của Ashridge Management College:\n• Tells: Nhà quản lý ra quyết định và bắt buộc cấp dưới tuân theo.\n• Sells: Nhà quản lý ra quyết định nhưng giải thích thuyết phục để cấp dưới chấp nhận.\n• Consults (Tham vấn): Nhà quản lý hỏi ý kiến, lắng nghe đề xuất từ cấp dưới nhưng vẫn giữ quyền quyết định cuối cùng (như trường hợp của Liam).\n• Joins (Dân chủ): Nhà quản lý cùng cấp dưới thảo luận và ra quyết định trên cơ sở đồng thuận chung.",
         "image_file": "images/cau_048.png",
         "has_image": false,
         "diagram_file": null
@@ -1397,7 +1397,7 @@ window.QUIZ_DATA = [
         "id": 49,
         "question_number": 49,
         "part": 3,
-        "question_text": "1n a recent staff survey, manager Martina has been identified as highly focused on meeting production needs, but having little real concern for the wellbeing of the employees who report to her. According to Blake and Mouton, which key point on the managerial grid is Martina being placed at by the staff survey?",
+        "question_text": "In a recent staff survey, manager Martina has been identified as highly focused on meeting production needs, but having little real concern for the wellbeing of the employees who report to her. According to Blake and Mouton, which key point on the managerial grid is Martina being placed at by the staff survey?",
         "options": [
           {
             "key": "A",
@@ -1417,7 +1417,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remember the management.tylesfrom the Blake and Mouton manageria grid.? • Management impoverished: this manager only makes a minimum effort in either area and will make the smallest possible effort required to get the job doneu • 'Country Club' management: this manager is thoughtful and attentiv to the needs of the people, which leads to a comfortable, friendly organizational atmosphere but very little work is actually achieved! • Task management: this manager is only concerned with productio and arranges work in such a way that people's interference is minimized • 'Middleofthe road management: this isa manager who is ambivalent in style towards the task andpgpple but achieves onl moderatel _gppd results on both dimensions • Team management: this manager integrates the two areas to foste working together and high production to produce true team leadershipß • Option D is correct Martina is focused on meeting production, but no on employee welfare. This plots her at 9,1 on the managerial grid — g task manager • Option A is incorrect. 1m overished indicates no concern o production or employees: • ODtion B is incorrect Team manaaement indicates a hiah concern foh 15:34 CN 27thg 9 100% • Option D is correct Martina is ocused on meetingproduction, but no on employee welfare,This plots her at 9,1 on the managerial grid—Q task manager • Option A is incorrect. Impoverished indicates no concern production or employees, • Option B is incorrect Team concernfg} both production and employees '_Option C is incorrect. Country club indicates little concern o production but high concern for employees and team managemen indicates a high degree o concern for both p.pple and production)",
+        "explanation": "Theo Lưới quản trị của Blake và Mouton (Managerial Grid):\n• Task management (9,1): Quan tâm tối đa đến sản xuất/nhiệm vụ nhưng rất ít quan tâm đến con người (trường hợp của Martina).\n• Country club (1,9): Rất quan tâm đến con người nhưng ít quan tâm đến sản xuất.\n• Impoverished (1,1): Không quan tâm đến cả sản xuất lẫn con người.\n• Team management (9,9): Quan tâm tối đa đến cả công việc lẫn con người.",
         "image_file": "images/cau_049.png",
         "has_image": false,
         "diagram_file": null
@@ -1690,11 +1690,11 @@ window.QUIZ_DATA = [
         "id": 59,
         "question_number": 59,
         "part": 3,
-        "question_text": "Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is faced with difficult problems. (ii) Jim is respected by all team members for his analytical skills, though he rarely gets invited to out-of-office private parties as many find him tactless. (iii) Esther is the company's HR manager, she ensures that any potential conflicts are promptly identified and resolved and the team members work harmoniously.",
+        "question_text": "Match the following team roles with the appropriate personality:\n(i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is faced with difficult problems.\n(ii) Jim is respected by all team members for his analytical skills, though he rarely gets invited to out-of-office private parties as many find him tactless.\n(iii) Esther is the company's HR manager, she ensures that any potential conflicts are promptly identified and resolved and the team members work harmoniously.",
         "options": [
           {
             "key": "A",
-            "text": "A. I - Shaper, 2 - Leader, 3 - Company worker"
+            "text": "A. 1 - Shaper, 2 - Leader, 3 - Company worker"
           },
           {
             "key": "B",
@@ -1702,15 +1702,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. I - Plant, 2 - Monitor-Evaluator, 3 — Team worker"
+            "text": "C. 1 - Plant, 2 - Monitor-Evaluator, 3 - Team worker"
           },
           {
             "key": "D",
-            "text": "D. 1 - Resource-Investigator, 2 - Shaper, 3 — Company worker"
+            "text": "D. 1 - Resource-Investigator, 2 - Shaper, 3 - Company worker"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Remember of Belbin's team role* Thinking Plant Innovators & ideas, roles Prefer to work alon Specialist@pgrt) Provides pecialized skills} • (i) is the plant role, as Sarah is a creativeindividual) _(ii) is the monitor-evaluator role, as Jim is good at making accurate 15:34 CN 27thg 9 100% (i) is the plant role, as Sarah is a creativeindividual.! (ii) is the monitor-evaluator role, as Jim is good at making accurat judgments (iii) is the team worker role, as Esther looks after the atmosphere within the team",
+        "explanation": "Theo mô hình vai trò nhóm Belbin (Belbin's Team Roles):\n• (i) Sarah: Người sáng tạo, đưa ra ý tưởng độc đáo giải quyết vấn đề khó -> Plant (Người gieo mầm ý tưởng).\n• (ii) Jim: Kỹ năng phân tích, đánh giá sắc sảo, khách quan, thiếu khéo léo trong giao tiếp -> Monitor-Evaluator (Người giám sát - đánh giá).\n• (iii) Esther: Thúc đẩy hòa thuận, xử lý xung đột, duy trì bầu không khí làm việc nhóm tích cực -> Team worker (Người gắn kết đồng đội).",
         "image_file": "images/cau_059.png",
         "has_image": false,
         "diagram_file": null
