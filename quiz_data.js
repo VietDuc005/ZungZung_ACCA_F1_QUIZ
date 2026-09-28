@@ -1455,7 +1455,7 @@ window.QUIZ_DATA = [
         "id": 51,
         "question_number": 51,
         "part": 3,
-        "question_text": "A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to use?",
+        "question_text": "A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma.\nWhich TWO of the following sources of power is the manager planning to use?",
         "options": [
           {
             "key": "A",
@@ -1474,8 +1474,11 @@ window.QUIZ_DATA = [
             "text": "D. Coercive"
           }
         ],
-        "correct_answer": "C",
-        "explanation": "Remember the 5 types of power from French and Raven. • Reward power: one person is able to reward another person fo carrying out their orders or meeting other requirements. • Coercive power: one person having the ability to punish anothe person for failing to carry out their orders satisfactorily • Expert power: one person is regarded by others as having speciat expertise or knowledge that others do not. • Referent power: is based on the persppal qualitie.pfthe individua? and often occurs when one person identifies with or wishes to imitate another.' • Legitimate power: thWs power derived from being in a position o authority within the organization; her Staffa reward for adopting the stem Option She is also relying on referent power by using her charisma/relationship with heh employeeS Option",
+        "correct_answer": [
+          "A",
+          "C"
+        ],
+        "explanation": "Theo French và Raven có 5 nguồn gốc của quyền lực (Sources of power):\n• Reward power (Quyền lực từ phần thưởng): Quản lý hứa hẹn thưởng thêm tiền (bonuses) cho nhân viên để khuyến khích dùng hệ thống mới -> Chọn A.\n• Referent power (Quyền lực tham chiếu/sức hút cá nhân): Dựa trên uy tín, sự lôi cuốn và sức hút bản thân (personal charisma) -> Chọn C.\n• Legitimate power: Quyền lực pháp lý theo vị trí/chức vụ.\n• Coercive power: Quyền lực cưỡng chế, trừng phạt.",
         "image_file": "images/cau_051.png",
         "has_image": false,
         "diagram_file": null
@@ -1753,7 +1756,7 @@ window.QUIZ_DATA = [
         "id": 61,
         "question_number": 61,
         "part": 4,
-        "question_text": "Communication between two members ofa project team from different functions, but with the same level of authority, is:",
+        "question_text": "Communication between two members of a project team from different functions, but with the same level of authority, is:",
         "options": [
           {
             "key": "A",
@@ -1773,7 +1776,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Dö båi dang höi httångwiao tiépgiüa hai thånh vién thuöc 2 nh6m khåc nhaå nhtrng cd cüng carbéc dtrgcgpi lå gi? Giao tiåp theo chiöu ngang (Lateral) lå gia tiépgiüa nhüng ngtråi cünggåp b(ic nhtrng thuöc cåc nh6m khåc nhau",
+        "explanation": "Giao tiếp ngang (Lateral/Horizontal communication) diễn ra giữa các cá nhân hoặc bộ phận khác nhau nhưng có cùng cấp bậc quyền hạn trong tổ chức (same level of authority).",
         "image_file": "images/cau_061.png",
         "has_image": false,
         "diagram_file": null
@@ -2143,7 +2146,7 @@ window.QUIZ_DATA = [
         "id": 75,
         "question_number": 75,
         "part": 4,
-        "question_text": "Porter'sfiveforces model identifies factors which determine the nature and strength of competition in an industry. Which of the following is NOT one of the five forces identified in Porter's model?",
+        "question_text": "Porter's five forces model identifies factors which determine the nature and strength of competition in an industry.\nWhich of the following is NOT one of the five forces identified in Porter's model?",
         "options": [
           {
             "key": "A",
@@ -2163,7 +2166,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Năm lực lượng cạnh tranh của Michael Porter (Porter's Five Forces) bao gồm:\n1. Nguy cơ từ các đối thủ mới gia nhập (Threat of new entrants)\n2. Quyền thương lượng của khách hàng (Bargaining power of customers)\n3. Quyền thương lượng của nhà cung cấp (Bargaining power of suppliers)\n4. Nguy cơ từ các sản phẩm/dịch vụ thay thế (Threat of substitute products or services)\n5. Cạnh tranh giữa các đối thủ hiện tại trong ngành (Competitive rivalry)\n-> Sự quản lý/quy định của chính phủ (Government regulation) KHÔNG phải là một trong năm lực lượng của mô hình.",
         "image_file": "images/cau_075.png",
         "has_image": false,
         "diagram_file": null
@@ -2255,7 +2258,7 @@ window.QUIZ_DATA = [
         "id": 79,
         "question_number": 79,
         "part": 4,
-        "question_text": "BCD Co is a large trading company. Steve is the administration manager and is also responsible for legal and compliance functions. Sheila is responsible for after sales service and has responsibility for ensuring that customers who have purchased goods from BCD Co are fully satisfied. Sunny deals with suppliers and negotiates on the price and quality of inventory. He is also responsible for identifying the most appropriate suppliers of plant and machinery for the factory. Sam is the information technology manager and is responsible for all information systems within the company. According to Porter's value chain, which of the managers is involved in a primary activity as opposed to a support activity?",
+        "question_text": "BCD Co is a large trading company. Steve is the administration manager and is also responsible for legal and compliance functions. Sheila is responsible for after sales service and has responsibility for ensuring that customers who have purchased goods from BCD Co are fully satisfied. Sunny deals with suppliers and negotiates on the price and quality of inventory. He is also responsible for identifying the most appropriate suppliers of plant and machinery for the factory. Sam is the information technology manager and is responsible for all information systems within the company.\nAccording to Porter's value chain, which of the managers is involved in a primary activity as opposed to a support activity?",
         "options": [
           {
             "key": "A",
@@ -2275,7 +2278,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong chuỗi giá trị của Michael Porter (Porter's Value Chain):\n• Hoạt động sơ cấp (Primary activities) gồm: Inbound logistics, Operations, Outbound logistics, Marketing & sales, và Dịch vụ hậu mãi (Service / After sales service - do Sheila phụ trách).\n• Hoạt động hỗ trợ (Support activities) gồm: Cơ sở hạ tầng doanh nghiệp/pháp lý (Steve - Administration/Legal), Mua sắm (Sunny - Procurement/Suppliers), và Phát triển công nghệ/CNTT (Sam - IT/Information systems).",
         "image_file": "images/cau_079.png",
         "has_image": false,
         "diagram_file": null
@@ -2400,7 +2403,7 @@ window.QUIZ_DATA = [
         "id": 84,
         "question_number": 84,
         "part": 5,
-        "question_text": "Technological developments (automation and A1) mean that the role of the accountant and auditor to record and verify day-to-day transactions has become more important.",
+        "question_text": "Technological developments (automation and AI) mean that the role of the accountant and auditor to record and verify day-to-day transactions has become more important.",
         "options": [
           {
             "key": "A",
@@ -2412,7 +2415,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phát biểu này SAI (False). Sự phát triển của tự động hóa và Trí tuệ nhân tạo (AI) giúp các hệ thống tự động hóa khâu ghi chép và đối soát các giao dịch hàng ngày. Vì vậy, vai trò kiểm tra thủ công các giao dịch thường nhật giảm đi, nhường chỗ cho vai trò phân tích chiến lược, tư vấn giá trị gia tăng và quản trị rủi ro.",
         "image_file": "images/cau_084.png",
         "has_image": false,
         "diagram_file": null
@@ -2587,7 +2590,7 @@ window.QUIZ_DATA = [
         "id": 91,
         "question_number": 91,
         "part": 5,
-        "question_text": "(91) Frictional unemployment will be short term.",
+        "question_text": "Frictional unemployment will be short term.",
         "options": [
           {
             "key": "A",
@@ -2599,7 +2602,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đúng (True). Thất nghiệp cọ xát (Frictional unemployment) xảy ra khi người lao động đang trong quá trình chuyển dịch giữa các công việc (chờ nhận việc mới hoặc tìm việc thích hợp hơn). Đây là hiện tượng bình thường và mang tính chất ngắn hạn (short-term).",
         "image_file": "images/cau_091.png",
         "has_image": false,
         "diagram_file": null
@@ -2608,7 +2611,7 @@ window.QUIZ_DATA = [
         "id": 92,
         "question_number": 92,
         "part": 5,
-        "question_text": "(92) Governments can encourage labour mobility if they want to reduce unemployment.",
+        "question_text": "Governments can encourage labour mobility if they want to reduce unemployment.",
         "options": [
           {
             "key": "A",
@@ -2620,7 +2623,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đúng (True). Chính phủ có thể thúc đẩy sự dịch chuyển lao động (Labour mobility - bao gồm dịch chuyển theo địa lý và dịch chuyển theo ngành nghề thông qua đào tạo lại kỹ năng) để người thất nghiệp dễ dàng tiếp cận công việc mới, từ đó giảm tỷ lệ thất nghiệp.",
         "image_file": "images/cau_092.png",
         "has_image": false,
         "diagram_file": null
@@ -2661,7 +2664,7 @@ window.QUIZ_DATA = [
         "id": 94,
         "question_number": 94,
         "part": 5,
-        "question_text": "Which of the following organisations would benefitfrom a period of high price inflation?",
+        "question_text": "Which of the following organisations would benefit from a period of high price inflation?",
         "options": [
           {
             "key": "A",
@@ -2677,7 +2680,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tổ chức có nhiều khoản nợ phải trả dài hạn (long-term payables) sẽ được hưởng lợi trong thời kỳ lạm phát cao vì giá trị thực của số tiền nợ phải trả trong tương lai bị xói mòn/giảm sút (trả nợ bằng đồng tiền mất giá).",
         "image_file": "images/cau_094.png",
         "has_image": false,
         "diagram_file": null
@@ -2698,7 +2701,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Achievement ofa balance between exports and imports"
+            "text": "C. Achievement of a balance between exports and imports"
           },
           {
             "key": "D",
@@ -2709,8 +2712,12 @@ window.QUIZ_DATA = [
             "text": "E. Maximising a currency's foreign exchange value"
           }
         ],
-        "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "explanation": "Bốn mục tiêu kinh tế vĩ mô cốt lõi của chính phủ gồm:\n1. Tăng trưởng kinh tế bền vững (Encouraging economic growth - A)\n2. Tỷ lệ thất nghiệp thấp/toàn dụng lao động (Low unemployment - B)\n3. Cân bằng cán cân thanh toán/xuất nhập khẩu (Achievement of a balance between exports and imports - C)\n4. Kiểm soát lạm phát ở mức thấp và ổn định (Price stability / Low inflation, không phải zero inflation vì lạm phát bằng 0 có thể dẫn tới nguy cơ giảm phát và đình trệ sản xuất).",
         "image_file": "images/cau_095.png",
         "has_image": false,
         "diagram_file": null
@@ -3644,10 +3651,18 @@ window.QUIZ_DATA = [
           {
             "key": "E",
             "text": "E. A rise in the price of complements"
+          },
+          {
+            "key": "F",
+            "text": "F. An increase in population"
           }
         ],
-        "correct_answer": "D",
-        "explanation": "E An increase in population 15:36 CN 27thg 9 100%",
+        "correct_answer": [
+          "C",
+          "D",
+          "F"
+        ],
+        "explanation": "Đường cầu dịch chuyển sang phải (tăng cầu) đối với hàng hóa thông thường (normal good) khi:\n• C. Thu nhập hộ gia đình tăng (An increase in household incomes)\n• D. Người tiêu dùng kỳ vọng giá hàng hóa sẽ tăng trong tương lai (An expected future rise in the price of the good -> kích thích mua tích trữ)\n• F. Dân số hoặc quy mô thị trường tăng (An increase in population).",
         "image_file": "images/cau_129.png",
         "has_image": false,
         "diagram_file": null
@@ -3925,10 +3940,18 @@ window.QUIZ_DATA = [
           {
             "key": "E",
             "text": "E. They are legally constituted organisations with commercial aims."
+          },
+          {
+            "key": "F",
+            "text": "F. They are measured in terms of effectiveness and efficiency."
           }
         ],
-        "correct_answer": "C",
-        "explanation": "E They are measured in terms of effectiveness and efficiency.",
+        "correct_answer": [
+          "C",
+          "D",
+          "F"
+        ],
+        "explanation": "Đặc điểm của tổ chức phi chính phủ (NGO - Non-Governmental Organisation):\n• C. Thúc đẩy thay đổi về mặt xã hội, chính trị hoặc môi trường (social, political or environmental change).\n• D. Thường gây quỹ hoạt động thông qua quyên góp, tài trợ (donations).\n• F. Đánh giá kết quả thông qua tính hiệu quả và hiệu suất (effectiveness and efficiency / 3E - Value for money), không đặt mục tiêu lợi nhuận thương mại.",
         "image_file": "images/cau_139.png",
         "has_image": false,
         "diagram_file": null
