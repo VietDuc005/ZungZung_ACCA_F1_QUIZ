@@ -5286,7 +5286,7 @@ window.QUIZ_DATA = [
         "id": 187,
         "question_number": 187,
         "part": 10,
-        "question_text": "According to Schein there are three determinants of culture, the first being observable.\n• Patterns of greeting styles and business formalities are known as _____.\n• Concrete expressions, such as office premises design, are _____.\n\nWhich of the following correctly fills the two blanks?",
+        "question_text": "According to Schein there are three determinants of culture, the first being observable.\n[Available terms: Artefacts | Attitudes | Behaviour]\n\n• Patterns of greeting styles and business formalities are known as _____.\n• Concrete expressions, such as office premises design, are _____.\n\nWhich of the following correctly fills the two blanks?",
         "options": [
           {
             "key": "A",
@@ -5427,7 +5427,7 @@ window.QUIZ_DATA = [
         "id": 192,
         "question_number": 192,
         "part": 10,
-        "question_text": "Fill in the gaps in the King report's summary of the role of the board below:\n(1) To define the _____ of the company.\n(2) To define the _____ by which the company will perform its daily duties.\n(3) To identify the _____ relevant to the company.\n(4) To develop a _____ combining these factors.\n(5) To ensure _____ of this strategy.\n\nWhich of the following options shows the correct words in order from (1) to (5)?",
+        "question_text": "Fill in the gaps in the King report's summary of the role of the board below (Drag-and-drop format):\n[Available words: Implementation | Purpose | Stakeholders | Strategy | Values]\n\n(1) To define the _____ of the company.\n(2) To define the _____ by which the company will perform its daily duties.\n(3) To identify the _____ relevant to the company.\n(4) To develop a _____ combining these factors.\n(5) To ensure _____ of this strategy.\n\nWhich of the following options shows the correct order of words to fill into blanks (1) to (5)?",
         "options": [
           {
             "key": "A",
@@ -5447,7 +5447,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Theo Báo cáo King, vai trò của HĐQT gồm: (1) Xác định mục đích (Purpose); (2) Xác định các giá trị (Values); (3) Xác định các bên liên quan (Stakeholders); (4) Xây dựng chiến lược (Strategy); (5) Đảm bảo thực thi (Implementation) chiến lược.",
+        "explanation": "Theo Báo cáo King về vai trò của HĐQT:\n• (1) Purpose: Xác định mục đích công ty.\n• (2) Values: Xác định các giá trị định hướng hoạt động hàng ngày.\n• (3) Stakeholders: Xác định các bên liên quan.\n• (4) Strategy: Phát triển chiến lược kết hợp các yếu tố trên.\n• (5) Implementation: Đảm bảo thực thi chiến lược.",
         "image_file": "images/cau_192.png",
         "has_image": false,
         "diagram_file": null
