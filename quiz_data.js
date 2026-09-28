@@ -1869,7 +1869,7 @@ window.QUIZ_DATA = [
         "id": 65,
         "question_number": 65,
         "part": 4,
-        "question_text": "An organisation is owned and run by central government agencies. The organisation should be described as which of the following statements?",
+        "question_text": "An organisation is owned and run by central government agencies.\nThe organisation should be described as which of the following statements?",
         "options": [
           {
             "key": "A",
@@ -1885,7 +1885,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tổ chức được sở hữu và điều hành bởi các cơ quan chính phủ trung ương thuộc khu vực công (Public sector organisation). Khu vực công bao gồm các cơ quan quản lý nhà nước, chính quyền địa phương và doanh nghiệp công ích.",
         "image_file": "images/cau_065.png",
         "has_image": false,
         "diagram_file": null
@@ -1894,15 +1894,15 @@ window.QUIZ_DATA = [
         "id": 66,
         "question_number": 66,
         "part": 4,
-        "question_text": "Which of the following groups may be considered to be stakeholders in the activities ofa nuclear power station? (I) The government (2) Environmental pressure groups (3) Employees (4) Local residents",
+        "question_text": "Which of the following groups may be considered to be stakeholders in the activities of a nuclear power station?\n(1) The government\n(2) Environmental pressure groups\n(3) Employees\n(4) Local residents",
         "options": [
           {
             "key": "A",
-            "text": "A. (3) and (4)"
+            "text": "A. (1), (3) and (4)"
           },
           {
             "key": "B",
-            "text": "B. (3) and (4)"
+            "text": "B. (1), (2), (3) and (4)"
           },
           {
             "key": "C",
@@ -1914,7 +1914,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tất cả 4 nhóm đều là các bên liên quan (stakeholders) chịu ảnh hưởng hoặc có ảnh hưởng đến hoạt động của nhà máy điện hạt nhân: Chính phủ (1), Nhóm bảo vệ môi trường (2), Nhân viên (3) và Cư dân địa phương (4).",
         "image_file": "images/cau_066.png",
         "has_image": false,
         "diagram_file": null
