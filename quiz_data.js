@@ -5874,7 +5874,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phát biểu C sai (đáp án cần chọn). Dữ liệu (Data) có thể tồn tại ở dạng số liệu, chữ viết, ký hiệu hay hình ảnh; và thông tin (Information) cũng có thể ở dạng biểu đồ, bảng số liệu hoặc văn bản. Dữ liệu không bắt buộc phải luôn ở dạng số.",
         "image_file": "images/cau_207.png",
         "has_image": false,
         "diagram_file": null
