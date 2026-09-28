@@ -7014,7 +7014,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Big Data (Dữ liệu lớn) đặc trưng bởi khối lượng dữ liệu khổng lồ đến từ nhiều nguồn khác nhau, giúp doanh nghiệp tạo lợi thế cạnh tranh.",
+        "explanation": "Big Data (Dữ liệu lớn) đặc trưng bởi khối lượng dữ liệu khổng lồ (Volume), đa dạng các nguồn (Variety) và tốc độ cao (Velocity). Việc Landis Co phân tích khối lượng dữ liệu khổng lồ từ nhiều nguồn nhằm tìm kiếm lợi thế cạnh tranh chính là ứng dụng Big Data.",
         "image_file": "images/cau_248.png",
         "has_image": false,
         "diagram_file": null
@@ -7043,7 +7043,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Velocity trong 4 chữ V của Big Data mô tả tốc độ tạo lập và xử lý dữ liệu truyền phát theo thời gian thực (real-time streaming).",
+        "explanation": "Trong các đặc trưng của Big Data (4Vs), Velocity (Tốc độ) là đặc tính liên quan đến tốc độ phát sinh, truyền phát và xử lý dữ liệu theo thời gian thực (real-time streaming).",
         "image_file": "images/cau_249.png",
         "has_image": false,
         "diagram_file": null
@@ -7072,7 +7072,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Phân tích dữ liệu (Data analytics) giúp quản trị rủi ro (Risk management) hiệu quả hơn thông qua phân tích dự đoán và cảnh báo sớm các dấu hiệu bất thường.",
+        "explanation": "Phân tích dữ liệu (Data analytics) giúp nâng cao hiệu quả quản trị rủi ro (Risk management) thông qua việc phân tích hành vi, phát hiện xu hướng bất thường và cảnh báo sớm gian lận.",
         "image_file": "images/cau_250.png",
         "has_image": false,
         "diagram_file": null
@@ -7097,7 +7097,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Open data (Dữ liệu mở) là nguồn dữ liệu công khai do các cơ quan nhà nước và dịch vụ công phát hành mà mọi người đều có thể tiếp cận.",
+        "explanation": "Dữ liệu mở (Open data) là nguồn dữ liệu bắt nguồn từ khu vực công (như giao thông, tài chính công, dịch vụ công) được công khai để mọi người tự do tiếp cận và khai thác.",
         "image_file": "images/cau_251.png",
         "has_image": false,
         "diagram_file": null
@@ -7126,7 +7126,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Nhược điểm chính của phần mềm kế toán đám mây là phụ thuộc hoàn toàn vào nhà cung cấp về bảo mật, kết nối và sao lưu dữ liệu.",
+        "explanation": "Nhược điểm của phần mềm kế toán đám mây là doanh nghiệp phụ thuộc hoàn toàn vào nhà cung cấp dịch vụ để đảm bảo an ninh bảo mật và sao lưu dữ liệu (D).",
         "image_file": "images/cau_252.png",
         "has_image": false,
         "diagram_file": null
@@ -7135,7 +7135,7 @@ window.QUIZ_DATA = [
         "id": 253,
         "question_number": 253,
         "part": 13,
-        "question_text": "Which of the following technologies allows unconnected organisations and individuals people to trust a shared record of events?",
+        "question_text": "Which of the following technologies allows unconnected organisations and individuals to trust a shared record of events?",
         "options": [
           {
             "key": "A",
@@ -7155,7 +7155,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Công nghệ sổ cái phân tán (Distributed ledger / Blockchain) cho phép các cá nhân và tổ chức không có mối quan hệ quen biết tin cậy lẫn nhau thông qua một bản ghi sự kiện chung bất biến và an toàn mật mã.",
         "image_file": "images/cau_253.png",
         "has_image": false,
         "diagram_file": null
@@ -7184,7 +7184,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tự động hóa (Automation) phát huy hiệu quả cao nhất ở các công việc lặp đi lặp lại có quy tắc cố định, như tự động tải sao kê giao dịch ngân hàng vào hệ thống kế toán (A).",
         "image_file": "images/cau_254.png",
         "has_image": false,
         "diagram_file": null
@@ -7213,7 +7213,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trí tuệ nhân tạo (Artificial Intelligence - AI) có thể học hỏi các mẫu nghiệp vụ trong quá khứ để tự động phân loại và định khoản nghiệp vụ vào các tài khoản tổng hợp/danh nghĩa phù hợp (D - Posting transactions to nominal codes).",
         "image_file": "images/cau_255.png",
         "has_image": false,
         "diagram_file": null
@@ -7222,7 +7222,7 @@ window.QUIZ_DATA = [
         "id": 256,
         "question_number": 256,
         "part": 13,
-        "question_text": "Which word or phrase correctly completes this statement? Distributed ledgers reduce the need for auditors to because they have a source of information that they can trust.",
+        "question_text": "Which word or phrase correctly completes this statement?\nDistributed ledgers reduce the need for auditors to _____ because they have a source of information that they can trust.",
         "options": [
           {
             "key": "A",
@@ -7238,7 +7238,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sổ cái phân tán ghi nhận bất biến quyền sở hữu tài sản kỹ thuật số, do đó giúp giảm bớt nhu cầu kiểm toán viên phải đi xác minh quyền sở hữu tài sản (C - Verify the ownership of assets).",
         "image_file": "images/cau_256.png",
         "has_image": false,
         "diagram_file": null
@@ -7247,11 +7247,11 @@ window.QUIZ_DATA = [
         "id": 257,
         "question_number": 257,
         "part": 13,
-        "question_text": "For each of the following users of financial information, match the appropriate reason for wanting the information:\n1. Managers\n2. Financial analysts / advisers\n3. Tax authorities (HMRC / IRS)\n4. Trade creditors / Suppliers",
+        "question_text": "The following are reasons why people might be interested in financial information about a large public company:\n• Assessing how effectively management is running the company\n• To advise clients\n• To assess tax payable by the company\n• To assess the ability of the company to pay its debts\n\nFor each of the following users of financial information, match the appropriate reason for wanting the information:\n1. Shareholders\n2. Financial analysts / advisers\n3. Tax authorities (HMRC / IRS)\n4. Suppliers / Trade creditors",
         "options": [
           {
             "key": "A",
-            "text": "A. 1-Assessing how effectively management is running the company, 2-To advise clients, 3-To assess tax payable, 4-To assess ability to pay debts"
+            "text": "A. 1-Assessing management performance, 2-To advise clients, 3-To assess tax payable, 4-To assess ability to pay debts"
           },
           {
             "key": "B",
@@ -7267,7 +7267,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Nhà quản lý đánh giá hiệu quả điều hành. Chuyên viên tư vấn để khuyến nghị khách hàng. Cơ quan thuế tính số thuế phải nộp. Nhà cung cấp đánh giá khả năng thanh toán nợ.",
+        "explanation": "• Cổ đông (Shareholders): Đánh giá hiệu quả điều hành công ty của ban quản trị.\n• Chuyên gia tư vấn/phân tích (Financial analysts): Tư vấn cho khách hàng.\n• Cơ quan thuế (Tax authorities): Xác định số thuế phải nộp.\n• Nhà cung cấp (Suppliers): Đánh giá khả năng thanh toán công nợ của doanh nghiệp.",
         "image_file": "images/cau_257.png",
         "has_image": false,
         "diagram_file": null
@@ -7276,7 +7276,7 @@ window.QUIZ_DATA = [
         "id": 258,
         "question_number": 258,
         "part": 13,
-        "question_text": "0nly businesses need to prepare financial statements.",
+        "question_text": "Only businesses need to prepare financial statements.",
         "options": [
           {
             "key": "A",
@@ -7288,7 +7288,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False) vì các tổ chức phi lợi nhuận (not-for-profit organisations), quỹ từ thiện, tổ chức công và cơ quan nhà nước cũng đều cần lập báo cáo tài chính.",
         "image_file": "images/cau_258.png",
         "has_image": false,
         "diagram_file": null
@@ -7297,7 +7297,7 @@ window.QUIZ_DATA = [
         "id": 259,
         "question_number": 259,
         "part": 13,
-        "question_text": "Which of the following correctly fills the blank? The statement of financial position must give view of the company at the end of the financial year.",
+        "question_text": "Which of the following correctly fills the blank?\nThe statement of financial position must give a _____ view of the company at the end of the financial year.",
         "options": [
           {
             "key": "A",
@@ -7313,7 +7313,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Báo cáo tình hình tài chính (Statement of financial position) phải cung cấp một cái nhìn trung thực và hợp lý (B - A true and fair view) về thực trạng tài chính của công ty vào ngày kết thúc niên độ kế toán.",
         "image_file": "images/cau_259.png",
         "has_image": false,
         "diagram_file": null
@@ -7322,27 +7322,27 @@ window.QUIZ_DATA = [
         "id": 260,
         "question_number": 260,
         "part": 13,
-        "question_text": "QRT Co has implemented a new computerised accounting package with features:\n1. All accounting entries must balance or they cannot be entered.\n2. A module exists so that non-current asset purchases can be authorised by the relevant member of management.\n3. Users are set up with passwords in order to login to the system.\n4. An audit trail is produced so all transactions can be traced to the time of entry.\nMatch each feature to the correct accounting control type:",
+        "question_text": "QRT Co has implemented a new computerised accounting package with features:\n1. All accounting entries must balance or they cannot be entered.\n2. A module exists so that non-current asset purchases can be authorised by the relevant member of management.\n3. Users are set up with passwords in order to login to the system.\n4. An audit trail is produced so all transactions can be traced to the time of entry.\n\nIdentify which controls are Discretionary (cần phán đoán/tùy ý con người) and Non-discretionary (hệ thống tự động ép buộc):",
         "options": [
           {
             "key": "A",
-            "text": "A. 1-Internal check, 2-Authorization, 3-Access control, 4-Audit trail"
+            "text": "A. Non-discretionary: 1, 3 | Discretionary: 2, 4"
           },
           {
             "key": "B",
-            "text": "B. 1-Authorization, 2-Internal check, 3-Audit trail, 4-Access control"
+            "text": "B. Non-discretionary: 2, 4 | Discretionary: 1, 3"
           },
           {
             "key": "C",
-            "text": "C. 1-Access control, 2-Audit trail, 3-Internal check, 4-Authorization"
+            "text": "C. Non-discretionary: 1, 2 | Discretionary: 3, 4"
           },
           {
             "key": "D",
-            "text": "D. 1-Audit trail, 2-Access control, 3-Authorization, 4-Internal check"
+            "text": "D. Non-discretionary: 3, 4 | Discretionary: 1, 2"
           }
         ],
         "correct_answer": "A",
-        "explanation": "1: Tự động kiểm tra cân đối kép (Internal check). 2: Phê duyệt của người có thẩm quyền (Authorization). 3: Mật khẩu kiểm soát đăng nhập (Access control). 4: Vết kiểm toán truy xuất thời điểm nhập liệu (Audit trail).",
+        "explanation": "• Non-discretionary (Kiểm soát tự động/bắt buộc): (1) Bắt buộc cân đối bút toán và (3) Mật khẩu đăng nhập - do phần mềm tự động thực thi không thể bỏ qua.\n• Discretionary (Kiểm soát tùy ý): (2) Phê duyệt mua sắm TSCĐ và (4) Đọc/xem xét dấu vết kiểm toán - phụ thuộc vào hành vi và quyết định của nhà quản lý.",
         "image_file": "images/cau_260.png",
         "has_image": false,
         "diagram_file": null
@@ -7359,7 +7359,7 @@ window.QUIZ_DATA = [
         "id": 261,
         "question_number": 261,
         "part": 14,
-        "question_text": "Which of the following correctly fills the blank? audit is testing and evaluating internal controls of an organisation.",
+        "question_text": "Which of the following correctly fills the blank?\nA _____ audit is testing and evaluating internal controls of an organisation.",
         "options": [
           {
             "key": "A",
@@ -7375,7 +7375,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm toán hệ thống (A systems audit - A) là việc kiểm tra và đánh giá hệ thống kiểm soát nội bộ của một tổ chức.",
         "image_file": "images/cau_261.png",
         "has_image": false,
         "diagram_file": null
@@ -7396,7 +7396,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False). Mọi hệ thống kiểm soát đều có những hạn chế cố hữu (Inherent limitations) như sai sót con người, sự thông đồng, lạm quyền của quản lý, nên không thể đạt hiệu quả tuyệt đối (entirely effective).",
         "image_file": "images/cau_262.png",
         "has_image": false,
         "diagram_file": null
@@ -7405,36 +7405,7 @@ window.QUIZ_DATA = [
         "id": 263,
         "question_number": 263,
         "part": 14,
-        "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?\n1. The risk of errors in the information is eradicated\n2. Information is available quickly\n3. Changes to information are made in real-time\n4. Information is less accessible to accounting staff",
-        "options": [
-          {
-            "key": "A",
-            "text": "A. 1 and 2"
-          },
-          {
-            "key": "B",
-            "text": "B. 2 and 3"
-          },
-          {
-            "key": "C",
-            "text": "C. 1 and 4"
-          },
-          {
-            "key": "D",
-            "text": "D. 3 and 4"
-          }
-        ],
-        "correct_answer": "B",
-        "explanation": "Ý 2 và 3 đúng: Hệ thống tin học hóa cung cấp thông tin nhanh chóng và cập nhật thời gian thực. Rủi ro sai sót không bị triệt tiêu hoàn toàn vì vẫn có thể sai sót do con người nhập liệu (Garbage in, garbage out).",
-        "image_file": "images/cau_263.png",
-        "has_image": false,
-        "diagram_file": null
-      },
-      {
-        "id": 264,
-        "question_number": 264,
-        "part": 14,
-        "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?",
+        "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?\n(🎯 Chọn 2 đáp án đúng)",
         "options": [
           {
             "key": "A",
@@ -7457,7 +7428,32 @@ window.QUIZ_DATA = [
           "B",
           "C"
         ],
-        "explanation": "Hệ thống kế toán tin học hóa giúp thông tin luôn sẵn sàng nhanh chóng (B) và các thay đổi được cập nhật theo thời gian thực (C).",
+        "explanation": "Hệ thống kế toán tin học hóa giúp thông tin luôn sẵn sàng nhanh chóng (B) và các thay đổi được cập nhật theo thời gian thực (C). Rủi ro sai sót không bao giờ bị xóa bỏ hoàn toàn (eradicated) và thông tin trở nên dễ tiếp cận hơn chứ không phải kém đi.",
+        "image_file": "images/cau_263.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 264,
+        "question_number": 264,
+        "part": 14,
+        "question_text": "Which word fills in the blank?\nA _____ is a program that deals with a particular part of the accounting system.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Database"
+          },
+          {
+            "key": "B",
+            "text": "B. Module"
+          },
+          {
+            "key": "C",
+            "text": "C. Spreadsheet"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Phân hệ / Mô-đun (Module - B) là chương trình chuyên xử lý một mảng nghiệp vụ chuyên biệt trong hệ thống phần mềm kế toán (ví dụ phân hệ bán hàng, phân hệ mua hàng).",
         "image_file": "images/cau_264.png",
         "has_image": false,
         "diagram_file": null
@@ -7478,7 +7474,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False). Cơ sở dữ liệu cần phải liên tục được cập nhật khi có các giao dịch và dữ liệu mới phát sinh.",
         "image_file": "images/cau_265.png",
         "has_image": false,
         "diagram_file": null
@@ -7487,7 +7483,7 @@ window.QUIZ_DATA = [
         "id": 266,
         "question_number": 266,
         "part": 14,
-        "question_text": "Which TWO of the following are examples of physical access controls?",
+        "question_text": "Which TWO of the following are examples of physical access controls?\n(🎯 Chọn 2 đáp án đúng)",
         "options": [
           {
             "key": "A",
@@ -7514,7 +7510,7 @@ window.QUIZ_DATA = [
           "A",
           "C"
         ],
-        "explanation": "Kiểm soát truy cập vật lý (Physical access controls) bao gồm khóa cửa (A - Door locks) và hệ thống báo động chống đột nhập (C - Intruder alarms).",
+        "explanation": "Kiểm soát truy cập vật lý (Physical access controls) bao gồm khóa cửa (A - Door locks) và chuông báo động chống đột nhập (C - Intruder alarms).",
         "image_file": "images/cau_266.png",
         "has_image": false,
         "diagram_file": null
@@ -7539,7 +7535,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chữ số kiểm tra (Check digits), tổng kiểm soát (Control totals) và kiểm tra giới hạn (Limit checks) là các biện pháp kiểm soát dữ liệu đầu vào (C - Input control).",
         "image_file": "images/cau_267.png",
         "has_image": false,
         "diagram_file": null
@@ -7548,7 +7544,7 @@ window.QUIZ_DATA = [
         "id": 268,
         "question_number": 268,
         "part": 14,
-        "question_text": "Which word fills in the blank above? controls help an organisation recover in the event ofa disaster.",
+        "question_text": "Which word fills in the blank?\n_____ controls help an organisation recover in the event of a disaster.",
         "options": [
           {
             "key": "A",
@@ -7564,7 +7560,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm soát dự phòng / ứng phó sự cố (Contingency controls - A) giúp tổ chức khôi phục hoạt động khi có sự cố thảm họa xảy ra.",
         "image_file": "images/cau_268.png",
         "has_image": false,
         "diagram_file": null
@@ -7573,7 +7569,7 @@ window.QUIZ_DATA = [
         "id": 269,
         "question_number": 269,
         "part": 14,
-        "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action.\nJames is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report.\nWhich offences have been committed by Stella and James?",
+        "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action.\n\nJames is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report.\n\nWhich offences have been committed by Stella and James?",
         "options": [
           {
             "key": "A",
@@ -7593,7 +7589,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Stella phát hiện giao dịch gian lận/đáng ngờ nhưng cùng quản lý quyết định không làm gì -> Phạm tội 'Không báo cáo' (Failure to report). James báo cáo cho cán bộ phụ trách nhưng đồng thời lại tiết lộ cho đối tượng của khách hàng -> Phạm tội 'Tiết lộ thông tin bí mật' (Tipping off).",
+        "explanation": "• Stella: Phát hiện giao dịch gian lận/đáng ngờ nhưng cùng quản lý quyết định không báo cáo -> Tội không báo cáo (Failure to report).\n• James: Báo cáo cho cán bộ phụ trách nhưng đồng thời lại tiết lộ cho khách hàng biết việc này -> Tội tiết lộ thông tin/đánh động đối tượng (Tipping off).",
         "image_file": "images/cau_269.png",
         "has_image": false,
         "diagram_file": null
@@ -7602,7 +7598,7 @@ window.QUIZ_DATA = [
         "id": 270,
         "question_number": 270,
         "part": 14,
-        "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity.\nLaura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements.\nWhich phases of money laundering are being undertaken by Elyse and Laura?",
+        "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity.\nLaura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements.\n\nWhich phases of money laundering are being undertaken by Elyse and Laura?",
         "options": [
           {
             "key": "A",
@@ -7622,7 +7618,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "3 giai đoạn rửa tiền: 1. Placement (Đặt tiền/Gửi các khoản tiền mặt bất hợp pháp vào ngân hàng - Laura); 2. Layering (Phân tầng/Chuyển dịch tiền qua nhiều tài khoản để ngụy trang nguồn gốc - Elyse); 3. Integration (Tích hợp tiền sạch vào nền kinh tế).",
+        "explanation": "3 giai đoạn rửa tiền:\n1. Placement: Đưa các khoản tiền bất hợp pháp vào ngân hàng/hệ thống tài chính (Laura).\n2. Layering: Luân chuyển tiền liên tục qua nhiều doanh nghiệp để xóa dấu vết (Elyse).\n3. Integration: Rút tiền sạch quay lại nền kinh tế.",
         "image_file": "images/cau_270.png",
         "has_image": false,
         "diagram_file": null
@@ -7631,7 +7627,7 @@ window.QUIZ_DATA = [
         "id": 271,
         "question_number": 271,
         "part": 14,
-        "question_text": "Which of these is an example ofan 'internal check'?",
+        "question_text": "Which of these is an example of an 'internal check'?",
         "options": [
           {
             "key": "A",
@@ -7643,7 +7639,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Safeguarding ofassets"
+            "text": "C. Safeguarding of assets"
           },
           {
             "key": "D",
@@ -7651,7 +7647,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm tra nội bộ (Internal check - D) là việc tổ chức công việc sao cho các nghiệp vụ được kiểm tra độc lập và chéo lẫn nhau một cách tự động, ví dụ sử dụng tổng kiểm soát (Use of control totals).",
         "image_file": "images/cau_271.png",
         "has_image": false,
         "diagram_file": null
@@ -7660,7 +7656,7 @@ window.QUIZ_DATA = [
         "id": 272,
         "question_number": 272,
         "part": 14,
-        "question_text": "Categorise the following as relating to the work of internal or external audit:\n1. Work relates to financial statements and underlying records\n2. Designed to add value and improve operations\n3. Enables an opinion to be expressed on financial statements\n4. Report is to those charged with governance (audit committee / board)\n5. Work relates to the operations of the organisation\n6. Independent of the company and its management",
+        "question_text": "Categorise the following as relating to the work of internal or external audit:\n1. Work relates to the financial statements and underlying records\n2. Designed to add value and improve operations\n3. Enables an opinion to be expressed on financial statements\n4. Report is to those charged with governance (audit committee / board)\n5. Work relates to the operations of the organisation\n6. Independent of the company and its management",
         "options": [
           {
             "key": "A",
@@ -7680,7 +7676,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Kiểm toán độc lập (External audit) độc lập với công ty và đưa ra ý kiến về BCTC (1, 3, 6). Kiểm toán nội bộ (Internal audit) đánh giá quy trình và kiểm soát để gia tăng giá trị cho doanh nghiệp (2, 4, 5).",
+        "explanation": "Kiểm toán độc lập (External audit) độc lập với công ty và đưa ra ý kiến về BCTC (1, 3, 6). Kiểm toán nội bộ (Internal audit) gia tăng giá trị hoạt động và báo cáo lên ban quản trị (2, 4, 5).",
         "image_file": "images/cau_272.png",
         "has_image": false,
         "diagram_file": null
@@ -7689,7 +7685,7 @@ window.QUIZ_DATA = [
         "id": 273,
         "question_number": 273,
         "part": 14,
-        "question_text": "Which of the following types of power correctly completes this statement? Leaders may be distinguished from managers by the fact that they do not depend on in the organisation.",
+        "question_text": "Which of the following types of power correctly completes this statement?\nLeaders may be distinguished from managers by the fact that they do not depend on _____ in the organisation.",
         "options": [
           {
             "key": "A",
@@ -7705,7 +7701,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Nhà lãnh đạo (Leaders) được phân biệt với nhà quản lý (Managers) ở chỗ họ có thể dẫn dắt người khác bằng uy tín cá nhân chứ không phụ thuộc vào quyền lực chức vụ (C - Position power).",
         "image_file": "images/cau_273.png",
         "has_image": false,
         "diagram_file": null
@@ -7714,7 +7710,7 @@ window.QUIZ_DATA = [
         "id": 274,
         "question_number": 274,
         "part": 14,
-        "question_text": "Monica is a manager in the finance department of P Co and she has several staff working for her. She has become quite friendly with most of her staff and they like her and appreciate that she does everything she can to attend to their needs. Which type of managerial style does Monica have?",
+        "question_text": "Monica is a manager in the finance department of P Co and she has several staff working for her. She has become quite friendly with most of her staff and they like her and appreciate that she does everything she can to attend to their needs.\nWhich type of managerial style does Monica have?",
         "options": [
           {
             "key": "A",
@@ -7734,7 +7730,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Blake & Mouton, phong cách 'Country club' (1,9) quan tâm tối đa đến nhu cầu và tình cảm của nhân viên nhưng ít quan tâm đến kết quả công việc.",
         "image_file": "images/cau_274.png",
         "has_image": false,
         "diagram_file": null
@@ -7743,7 +7739,7 @@ window.QUIZ_DATA = [
         "id": 275,
         "question_number": 275,
         "part": 14,
-        "question_text": "According to Fiedler, which of the following are true of psychologically distant managers? (I) They judge their staff on the basis ofperformance (2) They are primarily task-oriented (3) They prefer formal consultation methods rather than seeking staff opinions (4) They are closer to their staff",
+        "question_text": "According to Fiedler, which of the following are true of psychologically distant managers?\n(1) They judge their staff on the basis of performance\n(2) They are primarily task-oriented\n(3) They prefer formal consultation methods rather than seeking staff opinions\n(4) They are closer to their staff",
         "options": [
           {
             "key": "A",
@@ -7755,15 +7751,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. (2) and (3)"
+            "text": "C. (1), (2) and (3)"
           },
           {
             "key": "D",
-            "text": "D. (3) and (4)"
+            "text": "D. (1), (2), (3) and (4)"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Fiedler, nhà quản lý giữ khoảng cách tâm lý (PDMs) đánh giá nhân viên theo hiệu quả (1), định hướng nhiệm vụ (2), và thích tham vấn chính thức hơn là thân mật cá nhân (3). Họ không gần gũi với nhân viên ((4) sai). Đáp án đúng là C.",
         "image_file": "images/cau_275.png",
         "has_image": false,
         "diagram_file": null
@@ -7788,7 +7784,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Quyền hạn (A - Authority) là thứ được cấp trên ủy quyền cho cấp dưới. Trách nhiệm giải trình (Responsibility) cuối cùng vẫn thuộc về cấp trên.",
         "image_file": "images/cau_276.png",
         "has_image": false,
         "diagram_file": null
@@ -7817,7 +7813,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "F.W. Taylor chủ trương chuyên môn hóa sâu từng thao tác hẹp và phản đối làm việc nhóm đa kỹ năng (C - Multi-skilled teamworking) vì cho rằng sẽ làm loãng năng suất.",
         "image_file": "images/cau_277.png",
         "has_image": false,
         "diagram_file": null
@@ -7826,7 +7822,7 @@ window.QUIZ_DATA = [
         "id": 278,
         "question_number": 278,
         "part": 14,
-        "question_text": "0fMintzberg's nine managerial roles, which is being exercised by a manager who gathers information from contacts within and outside the organisation?",
+        "question_text": "Of Mintzberg's nine managerial roles, which is being exercised by a manager who gathers information from contacts within and outside the organisation?",
         "options": [
           {
             "key": "A",
@@ -7846,7 +7842,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Mintzberg, vai trò Người thu thập thông tin (B - Monitor) là vai trò mà nhà quản lý tìm kiếm và thu nhận thông tin từ các mối quan hệ bên trong và bên ngoài doanh nghiệp.",
         "image_file": "images/cau_278.png",
         "has_image": false,
         "diagram_file": null
@@ -7855,7 +7851,7 @@ window.QUIZ_DATA = [
         "id": 279,
         "question_number": 279,
         "part": 14,
-        "question_text": "Which word or phrase correctly completes this definition? is the role at the interface between the operational core (non-managerial workers) and management.",
+        "question_text": "Which word or phrase correctly completes this definition?\n_____ is the role at the interface between the operational core (non-managerial workers) and management.",
         "options": [
           {
             "key": "A",
@@ -7871,7 +7867,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Giám sát (C - Supervision) là vai trò đóng vai trò cầu nối tiếp giáp giữa bộ phận tác nghiệp trực tiếp (Operational core) và các cấp quản lý.",
         "image_file": "images/cau_279.png",
         "has_image": false,
         "diagram_file": null
@@ -7880,7 +7876,7 @@ window.QUIZ_DATA = [
         "id": 280,
         "question_number": 280,
         "part": 14,
-        "question_text": "According to research, which of the following statements is true ofa consultative style of management, compared to other styles?",
+        "question_text": "According to research, which of the following statements is true of a consultative style of management, compared to other styles?",
         "options": [
           {
             "key": "A",
@@ -7896,7 +7892,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phong cách tham vấn (A - Consultative style - nơi nhà quản lý lắng nghe và tham khảo ý kiến cấp dưới) là phong cách được cấp dưới yêu thích nhất.",
         "image_file": "images/cau_280.png",
         "has_image": false,
         "diagram_file": null
@@ -7933,7 +7929,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Quyền hạn (B - Authority) là 'quyền' (right) chính thức được tổ chức giao phó để thực hiện một hành động hoặc ra quyết định.",
         "image_file": "images/cau_281.png",
         "has_image": false,
         "diagram_file": null
@@ -7962,7 +7958,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Mintzberg phân loại vai trò Người đại diện (B - Figurehead) thuộc nhóm vai trò quan hệ con người (Interpersonal roles).",
         "image_file": "images/cau_282.png",
         "has_image": false,
         "diagram_file": null
@@ -7991,7 +7987,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Mệnh đề 1 Đúng: Mô hình của John Adair tập trung vào hành vi lãnh đạo (Cân bằng Công việc, Đội nhóm, Cá nhân). Mệnh đề 2 Sai: Mô hình Ashridge mô tả 4 phong cách từ chuyên quyền đến dân chủ chứ không mặc định chỉ có dân chủ.",
+        "explanation": "• Mệnh đề 1 ĐÚNG: Mô hình của Adair là lý thuyết chức năng (Functional theory) tập trung vào những việc nhà lãnh đạo LÀM (Task, Team, Individual).\n• Mệnh đề 2 SAI: Mô hình Ashridge đưa ra 4 phong cách (Tells, Sells, Consults, Joins) thay đổi theo tình huống, chứ không chỉ đề xuất phong cách dân chủ.",
         "image_file": "images/cau_283.png",
         "has_image": false,
         "diagram_file": null
@@ -8020,7 +8016,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Mô hình Lãnh đạo hướng hành động (A - Action-centred leadership) của John Adair gồm 3 biến số tương tác mật thiết: Nhu cầu nhiệm vụ (Task), Nhu cầu cá nhân (Individual), và Nhu cầu nhóm (Group).",
         "image_file": "images/cau_284.png",
         "has_image": false,
         "diagram_file": null
@@ -8029,7 +8025,7 @@ window.QUIZ_DATA = [
         "id": 285,
         "question_number": 285,
         "part": 15,
-        "question_text": "Which managerial function is referred to in this definition? is the managerial function concerned with establishing a structure of tasks; grouping and assigning them to appropriate units; and establishing lines of information and reporting to support performance.",
+        "question_text": "Which managerial function is referred to in this definition?\n_____ is the managerial function concerned with establishing a structure of tasks; grouping and assigning them to appropriate units; and establishing lines of information and reporting to support performance.",
         "options": [
           {
             "key": "A",
@@ -8041,7 +8037,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tổ chức (A - Organising) là chức năng quản lý thiết lập cơ cấu công việc, phân nhóm và giao nhiệm vụ cho các đơn vị, đồng thời thiết lập các tuyến thông tin báo cáo.",
         "image_file": "images/cau_285.png",
         "has_image": false,
         "diagram_file": null
@@ -8070,7 +8066,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "5 chức năng quản lý theo Henri Fayol là: Planning, Organising, Commanding, Coordinating, Controlling. Động viên (C - Motivating) không nằm trong 5 chức năng này.",
         "image_file": "images/cau_286.png",
         "has_image": false,
         "diagram_file": null
@@ -8095,7 +8091,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Peter Drucker, 5 nhiệm vụ cơ bản của nhà quản lý gồm: Thiết lập mục tiêu, Tổ chức, Động viên & giao tiếp, Đo lường, và Phát triển con người (B - Developing people).",
         "image_file": "images/cau_287.png",
         "has_image": false,
         "diagram_file": null
