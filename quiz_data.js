@@ -5688,7 +5688,7 @@ window.QUIZ_DATA = [
         "id": 201,
         "question_number": 201,
         "part": 11,
-        "question_text": "Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised business accounting system.",
+        "question_text": "Which of the following terms correctly completes this definition?\nA _____ is a program which deals with one particular part of a computerised business accounting system.",
         "options": [
           {
             "key": "A",
@@ -5708,7 +5708,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Một phân hệ (Module) là một chương trình chuyên biệt xử lý một phần nghiệp vụ cụ thể (như tiền lương, quản lý kho, công nợ phải trả,...) trong một hệ thống phần mềm kế toán tổng thể.",
         "image_file": "images/cau_201.png",
         "has_image": false,
         "diagram_file": null
@@ -5829,7 +5829,7 @@ window.QUIZ_DATA = [
         "id": 206,
         "question_number": 206,
         "part": 11,
-        "question_text": "Which word or phrase correctly completes this sentence? Systems pool data from internal and external sources and make information available to senior managers, for strategic, unstructured decision-making.",
+        "question_text": "Which word or phrase correctly completes this sentence?\n_____ systems pool data from internal and external sources and make information available to senior managers, for strategic, unstructured decision-making.",
         "options": [
           {
             "key": "A",
@@ -5849,7 +5849,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hệ thống hỗ trợ điều hành (Executive Support Systems - ESS) tập hợp dữ liệu từ cả nguồn nội bộ lẫn bên ngoài để cung cấp thông tin cấp cao cho các nhà quản lý cấp cao ra các quyết định chiến lược, phi cấu trúc.",
         "image_file": "images/cau_206.png",
         "has_image": false,
         "diagram_file": null
@@ -5883,7 +5883,7 @@ window.QUIZ_DATA = [
         "id": 208,
         "question_number": 208,
         "part": 11,
-        "question_text": "What element ofa database system is represented by the question mark in the below diagram? Input data Database Application programs Sales Branch and staff Other applications personnel payroll applications statistics etc statistics etc analysis etc",
+        "question_text": "What element of a database system is represented by the question mark in the below diagram?",
         "options": [
           {
             "key": "A",
@@ -5903,10 +5903,10 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong cấu trúc hệ thống cơ sở dữ liệu, Hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) đứng ở vị trí trung gian giữa CSDL (Database), dữ liệu đầu vào (Input data) và các chương trình ứng dụng (Application programs) để quản lý việc truy xuất dữ liệu.",
         "image_file": "images/cau_208.png",
-        "has_image": false,
-        "diagram_file": null
+        "has_image": true,
+        "diagram_file": "images/diagram_208.png"
       },
       {
         "id": 209,
