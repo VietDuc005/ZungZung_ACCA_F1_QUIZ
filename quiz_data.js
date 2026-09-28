@@ -2060,7 +2060,7 @@ window.QUIZ_DATA = [
         "id": 72,
         "question_number": 72,
         "part": 4,
-        "question_text": "A recent trend in organisation and management is the rise in 'virtual organisation' and 'virtual teamworking'. To which of the following environmental (PEST)factors is this most directly attributed?",
+        "question_text": "A recent trend in organisation and management is the rise in 'virtual organisation' and 'virtual teamworking'.\nTo which of the following environmental (PEST) factors is this most directly attributed?",
         "options": [
           {
             "key": "A",
@@ -2080,7 +2080,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sự xuất hiện và phát triển của các 'tổ chức ảo' (Virtual organisation) và 'làm việc nhóm từ xa/ảo' (Virtual teamworking) bắt nguồn trực tiếp từ sự tiến bộ vượt bậc của công nghệ thông tin và truyền thông (Technological factors - Internet, điện toán đám mây, các công cụ họp trực tuyến).",
         "image_file": "images/cau_072.png",
         "has_image": false,
         "diagram_file": null
@@ -2089,7 +2089,7 @@ window.QUIZ_DATA = [
         "id": 73,
         "question_number": 73,
         "part": 4,
-        "question_text": "Which of the following rights of data subjects is also known as the right 'to be forgotten",
+        "question_text": "Which of the following rights of data subjects is also known as the right 'to be forgotten'?",
         "options": [
           {
             "key": "A",
@@ -2105,7 +2105,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Đạo luật bảo vệ dữ liệu (GDPR / Data Protection Act), quyền được lãng quên ('Right to be forgotten') chính là quyền yêu cầu xóa bỏ dữ liệu cá nhân (Right to erasure). Chủ thể dữ liệu có quyền yêu cầu tổ chức xóa dữ liệu của mình khi không còn mục đích sử dụng hợp pháp.",
         "image_file": "images/cau_073.png",
         "has_image": false,
         "diagram_file": null
