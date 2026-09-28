@@ -4930,7 +4930,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Quản trị công ty (Corporate governance) có tầm quan trọng mang tính chiến lược cốt lõi (Strategic importance) đối với sự tồn tại và phát triển bền vững lâu dài của doanh nghiệp, định hướng và giám sát toàn bộ hoạt động của ban điều hành.",
         "image_file": "images/cau_174.png",
         "has_image": false,
         "diagram_file": null
@@ -4951,7 +4951,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Supervision of staffin key roles"
+            "text": "C. Supervision of staff in key roles"
           },
           {
             "key": "D",
@@ -4959,7 +4959,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Dấu hiệu điển hình của việc quản trị công ty yếu kém là sự thao túng hoặc thống trị Hội đồng quản trị bởi một cá nhân duy nhất (Domination of the board by a single individual - A, ví dụ kiêm nhiệm cả Chủ tịch HĐQT lẫn CEO độc đoán mà không có sự kiểm soát đối trọng từ các giám đốc độc lập NEDs).",
         "image_file": "images/cau_175.png",
         "has_image": false,
         "diagram_file": null
@@ -4988,7 +4988,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hội đồng quản trị (The board of directors - C) có trách nhiệm giám sát Tổng Giám đốc điều hành (CEO), xây dựng và hoạch định chiến lược kinh doanh của công ty, đồng thời đảm bảo việc truyền thông hiệu quả kế hoạch chiến lược này.",
         "image_file": "images/cau_176.png",
         "has_image": false,
         "diagram_file": null
@@ -4997,7 +4997,7 @@ window.QUIZ_DATA = [
         "id": 177,
         "question_number": 177,
         "part": 9,
-        "question_text": "Which of the following would be in the principles of Corporate Social Responsibility? (1) Human rights (2) Employee welfare (3) Professional ethics (4) Support for local suppliers",
+        "question_text": "Which of the following would be in the principles of Corporate Social Responsibility?\n(1) Human rights\n(2) Employee welfare\n(3) Professional ethics\n(4) Support for local suppliers",
         "options": [
           {
             "key": "A",
@@ -5013,7 +5013,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trách nhiệm xã hội của doanh nghiệp (CSR) bao gồm: (1) Tôn trọng quyền con người (Human rights); (2) Chăm lo phúc lợi cho người lao động (Employee welfare); và (4) Hỗ trợ các nhà cung cấp địa phương (Support for local suppliers). Đạo đức nghề nghiệp (Professional ethics) là nghĩa vụ của từng cá nhân hành nghề chuyên nghiệp chứ không phải nguyên tắc cốt lõi của CSR.",
         "image_file": "images/cau_177.png",
         "has_image": false,
         "diagram_file": null
@@ -5022,7 +5022,7 @@ window.QUIZ_DATA = [
         "id": 178,
         "question_number": 178,
         "part": 9,
-        "question_text": "1n most countries, what is the usual purpose of codes of practice on corporate governance?",
+        "question_text": "In most countries, what is the usual purpose of codes of practice on corporate governance?",
         "options": [
           {
             "key": "A",
@@ -5042,7 +5042,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Ở hầu hết các quốc gia, bộ quy tắc quản trị công ty (Codes of practice / Corporate Governance Code) áp dụng theo nguyên tắc 'Tuân thủ hoặc giải trình' (Comply or Explain), nhằm đưa ra các hướng dẫn chuẩn mực thực hành tốt nhất (best practice - C) để các doanh nghiệp tự nguyện áp dụng, chứ không phải các điều luật có tính ràng buộc pháp lý bắt buộc (legally binding).",
         "image_file": "images/cau_178.png",
         "has_image": false,
         "diagram_file": null
@@ -5067,7 +5067,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo các nguyên tắc quản trị công ty chuẩn, chế độ đãi ngộ và lương thưởng của các giám đốc phải do Ủy ban lương thưởng (Remuneration committee) gồm toàn bộ các giám đốc không điều hành độc lập (independent NEDs) quyết định để tránh tình trạng các giám đốc tự ấn định lương cho chính mình (xung đột lợi ích).",
         "image_file": "images/cau_179.png",
         "has_image": false,
         "diagram_file": null
