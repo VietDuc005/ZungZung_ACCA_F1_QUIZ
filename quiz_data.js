@@ -6655,7 +6655,7 @@ window.QUIZ_DATA = [
         "id": 236,
         "question_number": 236,
         "part": 12,
-        "question_text": "All of the following, with one exception, are internal factors which might increase the risk profile ofa business. Which is the exception?",
+        "question_text": "All of the following, with one exception, are internal factors which might increase the risk profile of a business. Which is the exception?",
         "options": [
           {
             "key": "A",
@@ -6675,7 +6675,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Gia tăng cạnh tranh (A - Increased competition) là yếu tố bên ngoài (external factor) từ môi trường kinh doanh, không phải yếu tố nội bộ (internal factor).",
         "image_file": "images/cau_236.png",
         "has_image": false,
         "diagram_file": null
@@ -6704,7 +6704,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Nhân viên không chịu nghỉ phép hoặc không dùng hết ngày phép (C - Staff not taking their full holiday entitlements) là dấu hiệu cảnh báo đỏ (red flag) lớn về gian lận, vì họ sợ rằng khi người khác tạm thời tiếp quản công việc thì hành vi biển thủ hoặc che giấu sổ sách sẽ bị bại lộ.",
         "image_file": "images/cau_237.png",
         "has_image": false,
         "diagram_file": null
@@ -6733,7 +6733,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Khi một lượng lớn tiền hoặc tài sản bị biển thủ, vốn lưu động (Working capital) sẽ bị sụt giảm chứ không thể tăng lên (C là ngoại lệ).",
         "image_file": "images/cau_238.png",
         "has_image": false,
         "diagram_file": null
@@ -6762,7 +6762,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Khi nhân viên thông đồng (collusion) với khách hàng, biện pháp yêu cầu ký nhận xác nhận giao nhận hàng hóa/dịch vụ (B) sẽ kém hiệu quả nhất vì hai bên đã móc ngoặc ký khống với nhau.",
         "image_file": "images/cau_239.png",
         "has_image": false,
         "diagram_file": null
@@ -6824,7 +6824,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong tài liệu F1 CLC, các lĩnh vực rủi ro chính đối với gian lận máy tính gồm: Tin tặc (Hackers), Thiếu hiểu biết của ban quản lý (Lack of managerial understanding), và Tích hợp hệ thống dữ liệu (Integration of data systems). Đáp án C là phương án không thuộc nhóm này.",
         "image_file": "images/cau_241.png",
         "has_image": false,
         "diagram_file": null
