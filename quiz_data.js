@@ -4466,15 +4466,15 @@ window.QUIZ_DATA = [
         "id": 158,
         "question_number": 158,
         "part": 8,
-        "question_text": "Which of the following words most accurately completes the sentence? Services have certain qualities which distinguish them from products. Because of their physical elements such as vouchers, tickets, confirmations and merchandise are an important part of service provision.",
+        "question_text": "Which of the following is NOT a feature of services?",
         "options": [
           {
             "key": "A",
-            "text": "A. Inseparability"
+            "text": "A. Intangibility"
           },
           {
             "key": "B",
-            "text": "B. Intangibility"
+            "text": "B. Inflexibility"
           },
           {
             "key": "C",
@@ -4482,11 +4482,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Variability 15:37 CN 27 thg9 100%"
+            "text": "D. Variability"
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "4 đặc tính cơ bản của dịch vụ (4Is/4Ps) gồm: Tính vô hình (Intangibility), Tính không thể tách rời (Inseparability), Tính không đồng nhất/biến đổi (Variability/Heterogeneity), và Tính không lưu giữ được/dễ hỏng (Perishability). Inflexibility không phải là đặc tính của dịch vụ.",
         "image_file": "images/cau_158.png",
         "has_image": false,
         "diagram_file": null
@@ -4495,7 +4495,7 @@ window.QUIZ_DATA = [
         "id": 159,
         "question_number": 159,
         "part": 8,
-        "question_text": "U Ltd produces a portfolio of products and focuses its efforts and resources on persuading customers to buy them. This is an example of which type of 'orientation'?",
+        "question_text": "U Ltd produces a portfolio of products and focuses its efforts and resources on persuading customers to buy them.\nThis is an example of which type of 'orientation'?",
         "options": [
           {
             "key": "A",
@@ -4511,7 +4511,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Định hướng bán hàng (Sales orientation) tập trung mọi nỗ lực vào việc thúc đẩy bán hàng, thuyết phục và quảng bá để khách hàng mua những sản phẩm mà công ty đã sản xuất ra.",
         "image_file": "images/cau_159.png",
         "has_image": false,
         "diagram_file": null
@@ -4520,7 +4520,7 @@ window.QUIZ_DATA = [
         "id": 160,
         "question_number": 160,
         "part": 8,
-        "question_text": "Which of the following is/are objectives of human resource management? (I) To meet the organisation's social and legal responsibilities relating to the human resource (2) To manage an organisation's relationship with its customers (3) To develop human resources that will respond effectively to change",
+        "question_text": "Which of the following is/are objectives of human resource management?\n(1) To meet the organisation's social and legal responsibilities relating to the human resource\n(2) To manage an organisation's relationship with its customers\n(3) To develop human resources that will respond effectively to change",
         "options": [
           {
             "key": "A",
@@ -4540,7 +4540,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Mục tiêu của quản trị nguồn nhân lực (HRM) bao gồm: (1) Đáp ứng trách nhiệm pháp lý và xã hội liên quan đến người lao động; và (3) Phát triển nguồn nhân lực để thích ứng hiệu quả với sự thay đổi. Mục (2) quản lý mối quan hệ với khách hàng thuộc về Marketing/CRM chứ không phải HRM.",
         "image_file": "images/cau_160.png",
         "has_image": false,
         "diagram_file": null
@@ -4557,7 +4557,7 @@ window.QUIZ_DATA = [
         "id": 161,
         "question_number": 161,
         "part": 9,
-        "question_text": "]eff, Jane and Jaitinder work in different departments in the firm XYZ Co. They are members of the permanent 'staff committee' which meets on a monthly basis to discuss staff issues such as pensions and benefits. Their purpose is to listen to communication from staff within their department and raise issues on behalf of their department at committee meetings. What is the name given to this type of committee?",
+        "question_text": "Jeff, Jane and Jaitinder work in different departments in the firm XYZ Co. They are members of the permanent 'staff committee' which meets on a monthly basis to discuss staff issues such as pensions and benefits. Their purpose is to listen to communication from staff within their department and raise issues on behalf of their department at committee meetings.\nWhat is the name given to this type of committee?",
         "options": [
           {
             "key": "A",
@@ -4565,7 +4565,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. Taskforce"
+            "text": "B. Task force"
           },
           {
             "key": "C",
@@ -4573,7 +4573,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Ủy ban thường trực (Standing committee) là ủy ban được thành lập lâu dài, mang tính thường xuyên (permanent) để liên tục giải quyết và theo dõi các vấn đề định kỳ (như tiền lương, phúc lợi của nhân viên). Ngược lại, Task force là đội đặc nhiệm lâm thời (temporary/ad hoc) chỉ giải quyết vụ việc cụ thể.",
         "image_file": "images/cau_161.png",
         "has_image": false,
         "diagram_file": null
@@ -4611,7 +4611,7 @@ window.QUIZ_DATA = [
         "id": 163,
         "question_number": 163,
         "part": 9,
-        "question_text": "ManagersJill and Paul are talking about how to resolve a business problem. Jill suggests that a committee should be formed to discuss the issues. Paul argues that committees are: (1) Time-consuming and expensive (2) They invite a compromise instead ofa clear-cut decision Which of these statements is true?",
+        "question_text": "Managers Jill and Paul are talking about how to resolve a business problem. Jill suggests that a committee should be formed to discuss the issues. Paul argues that committees are:\n(1) Time-consuming and expensive\n(2) They invite a compromise instead of a clear-cut decision\nWhich of these statements is true?",
         "options": [
           {
             "key": "A",
@@ -4619,7 +4619,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. (I) only"
+            "text": "B. (1) only"
           },
           {
             "key": "C",
@@ -4631,7 +4631,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Cả hai nhận định đều là những nhược điểm kinh điển của việc thành lập ủy ban: (1) Tốn nhiều thời gian và chi phí tổ chức họp; (2) Có xu hướng đưa ra các giải pháp dung hòa/thỏa hiệp giữa các bên thay vì đưa ra quyết định dứt khoát, tối ưu.",
         "image_file": "images/cau_163.png",
         "has_image": false,
         "diagram_file": null
@@ -4640,7 +4640,7 @@ window.QUIZ_DATA = [
         "id": 164,
         "question_number": 164,
         "part": 9,
-        "question_text": "Diane carries out routine processing of invoices in the purchasing department of L Co. Joanne is Diane's supervisor. Lesley is trying to decide how many staff will be needed if some proposed new technology is implemented. Tracey is considering the new work that L Co will be able to offer and the new markets it could enter, once the new technology is well established. Which member of L Co carries out tactical activities?",
+        "question_text": "Diane carries out routine processing of invoices in the purchasing department of L Co. Joanne is Diane's supervisor.\nLesley is trying to decide how many staff will be needed if some proposed new technology is implemented.\nTracey is considering the new work that L Co will be able to offer and the new markets it could enter, once the new technology is well established.\nWhich member of L Co carries out tactical activities?",
         "options": [
           {
             "key": "A",
@@ -4656,11 +4656,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Tracey 15:37 CN 27 thg9 100%"
+            "text": "D. Tracey"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo 3 cấp độ hoạt động (Anthony's hierarchy): Diane thực hiện công việc tác nghiệp hàng ngày (Operational); Tracey hoạch định chiến lược dài hạn thị trường mới (Strategic); còn Lesley lập kế hoạch điều phối nhân sự trung hạn để triển khai công nghệ mới chính là cấp độ chiến thuật (Tactical - C).",
         "image_file": "images/cau_164.png",
         "has_image": false,
         "diagram_file": null
@@ -4669,7 +4669,7 @@ window.QUIZ_DATA = [
         "id": 165,
         "question_number": 165,
         "part": 9,
-        "question_text": "Mr Q is manager ofa division which is undergoing a business downturn. He tries to shelter the workforce from the effects of downsizing: taking time for consultation, organising counselling and refusing to institute compulsory redundancies. Which ofthefollowing cultural types identified in the Hofstede model does this manager represent?",
+        "question_text": "Mr Q is manager of a division which is undergoing a business downturn. He tries to shelter the workforce from the effects of downsizing: taking time for consultation, organising counselling and refusing to institute compulsory redundancies.\nWhich of the following cultural types identified in the Hofstede model does this manager represent?",
         "options": [
           {
             "key": "A",
@@ -4681,15 +4681,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Low uncertainty avoidance"
+            "text": "C. High uncertainty avoidance"
           },
           {
             "key": "D",
-            "text": "D. High individuality"
+            "text": "D. Individualism"
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo mô hình văn hóa của Hofstede: Low masculinity (Tính nữ cao / Femininity) nhấn mạnh vào sự quan tâm, chăm sóc con người, bảo vệ các mối quan hệ xã hội và chất lượng cuộc sống (che chở nhân viên, tư vấn, từ chối sa thải ép buộc) thay vì cạnh tranh quyết liệt, mục tiêu tài chính cứng rắn.",
         "image_file": "images/cau_165.png",
         "has_image": false,
         "diagram_file": null
