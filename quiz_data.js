@@ -2031,7 +2031,7 @@ window.QUIZ_DATA = [
         "id": 71,
         "question_number": 71,
         "part": 4,
-        "question_text": "Which word correctly completes the sentence? is an analysis of statistics on birth and death rates, age structures of people and ethnic groups within a community.",
+        "question_text": "Which word correctly completes the sentence?\n_____ is an analysis of statistics on birth and death rates, age structures of people and ethnic groups within a community.",
         "options": [
           {
             "key": "A",
@@ -2051,7 +2051,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Demographics (Nhân khẩu học) là việc phân tích số liệu thống kê về tỷ lệ sinh, tử, cơ cấu độ tuổi và các nhóm dân tộc trong cộng đồng dân cư.",
         "image_file": "images/cau_071.png",
         "has_image": false,
         "diagram_file": null
@@ -2114,7 +2114,7 @@ window.QUIZ_DATA = [
         "id": 74,
         "question_number": 74,
         "part": 4,
-        "question_text": "Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates (3) Focus on 'green' issues (4) Increase in single-member households",
+        "question_text": "Which of the following socio-cultural trends will have a direct impact on most business organisations?\n(1) Increasing ethnic and religious diversity in populations\n(2) Falling birthrates\n(3) Focus on 'green' issues\n(4) Increase in single-member households",
         "options": [
           {
             "key": "A",
@@ -2122,19 +2122,19 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. (I) and (3) only"
+            "text": "B. (1) and (3) only"
           },
           {
             "key": "C",
-            "text": "C. (2) and (3) only"
+            "text": "C. (1), (2) and (3) only"
           },
           {
             "key": "D",
-            "text": "D. (1), (3) and (4)"
+            "text": "D. (1), (2), (3) and (4)"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Các xu hướng văn hóa - xã hội (socio-cultural) tác động trực tiếp đến hầu hết doanh nghiệp gồm: (1) Sự đa dạng sắc tộc và tôn giáo; (2) Tỷ lệ sinh giảm ảnh hưởng đến quy mô lực lượng lao động tương lai; (3) Mối quan tâm ngày càng tăng đối với các vấn đề môi trường/xanh.",
         "image_file": "images/cau_074.png",
         "has_image": false,
         "diagram_file": null
@@ -2280,7 +2280,7 @@ window.QUIZ_DATA = [
         "id": 80,
         "question_number": 80,
         "part": 4,
-        "question_text": "1n Porter's five forces model, which of the following would NOT constitute a 'barrier to entry'?",
+        "question_text": "In Porter's five forces model, which of the following would NOT constitute a 'barrier to entry'?",
         "options": [
           {
             "key": "A",
@@ -2296,7 +2296,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chi phí chuyển đổi thấp (Low switching costs) giúp khách hàng dễ dàng chuyển sang dùng sản phẩm của đối thủ mới, do đó KHÔNG PHẢI là rào cản gia nhập thị trường (ngược lại, chi phí chuyển đổi cao mới là rào cản).",
         "image_file": "images/cau_080.png",
         "has_image": false,
         "diagram_file": null
