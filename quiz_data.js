@@ -2188,7 +2188,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thông tin nhân khẩu học về tầng lớp xã hội (Social class) là tiêu chí cốt lõi trong phân đoạn thị trường (Market segmentation), giúp bộ phận Tiếp thị (Marketing) định vị sản phẩm, định giá và thiết kế chiến lược quảng cáo hướng tới đúng đối tượng khách hàng mục tiêu.",
         "image_file": "images/cau_076.png",
         "has_image": false,
         "diagram_file": null
@@ -2217,7 +2217,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong chuỗi giá trị của Michael Porter (Value Chain):\n• Hoạt động sơ cấp (Primary activities) gồm: Inbound logistics, Operations, Outbound logistics, Marketing & Sales, Service.\n• Hoạt động hỗ trợ (Support activities) gồm: Mua sắm (Procurement), Phát triển công nghệ (Technology development), Quản trị nhân sự (HR management), Cơ sở hạ tầng doanh nghiệp (Firm infrastructure).",
         "image_file": "images/cau_077.png",
         "has_image": false,
         "diagram_file": null
