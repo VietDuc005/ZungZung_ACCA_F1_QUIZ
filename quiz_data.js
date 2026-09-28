@@ -1030,11 +1030,11 @@ window.QUIZ_DATA = [
         "id": 37,
         "question_number": 37,
         "part": 2,
-        "question_text": "L makes a variety of different products, including windows. Which TWO of the following would cause a decrease in the level of supply of L's windows?",
+        "question_text": "L makes a variety of different products, including windows.\nWhich TWO of the following would cause a decrease in the level of supply of L's windows?",
         "options": [
           {
             "key": "A",
-            "text": "A. n increase in the level of VAT charged by the government on windows"
+            "text": "A. An increase in the level of VAT charged by the government on windows"
           },
           {
             "key": "B",
@@ -1042,11 +1042,18 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Staff negotiations, leading to window production staff adopting a shift-work"
+            "text": "C. Staff negotiations, leading to window production staff adopting a shift-work approach which makes better use of L's production facilities"
+          },
+          {
+            "key": "D",
+            "text": "D. Staff negotiations, leading to a slight rise in the hourly rate paid to window production workers"
           }
         ],
-        "correct_answer": "A",
-        "explanation": "approach which makes better use of L's production facilities D. Staff negotiations, leading to a slight rise in the hourly rate paid to window production workers Remember: Upwards shifts/decreases in thesupplycurve are caused b) increases in the costs of making and/or selling the product; —+ Look for the circumstances which increase the costs of producing Options A, D are correct. Increasing VATpfwindows and hourly wages meansincreasing the total costs o producing windows. —+ Upygrd shift in the curve.] Options B and C are incorrect Reducing overheads and better uses o production facilities will lead to a decline in the total cost'Qf production of the windows —i Downward shift in the curve.] 38. Which of the following is NOT a characteristic ofa perfect market? Large numbers of customers and suppliers B. All suppliers provide a wide range of products and services c. There is perfect information for customers and suppliers D. There are no entry or exit barriers to the market 15:33 CN 27thg 9 100%",
+        "correct_answer": [
+          "A",
+          "D"
+        ],
+        "explanation": "Thuế VAT tăng (A) và tiền lương theo giờ của công nhân tăng (D) đều làm tăng chi phí sản xuất, dẫn tới việc giảm mức cung (decrease in supply / upward shift of supply curve). Các phương án B và C giúp giảm chi phí sản xuất và tối ưu cơ sở vật chất sẽ làm tăng mức cung.",
         "image_file": "images/cau_037.png",
         "has_image": false,
         "diagram_file": null
@@ -1113,7 +1120,7 @@ window.QUIZ_DATA = [
         "id": 40,
         "question_number": 40,
         "part": 2,
-        "question_text": "Freja is preparing a short-term budgetfor a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term?",
+        "question_text": "Freja is preparing a short-term budget for a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period.\nHow would Freja expect to see the average cost per unit change within the short-term?",
         "options": [
           {
             "key": "A",
@@ -1121,15 +1128,19 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. The cost per unit would be expected to initially fall, then start to rise again"
+            "text": "B. The cost per unit would be expected to initially fall, then start to rise again due to diseconomies of scale"
+          },
+          {
+            "key": "C",
+            "text": "C. The cost per unit would be unlikely to change in the short-term"
           },
           {
             "key": "D",
-            "text": "D. ue to diseconomies of scale"
+            "text": "D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns"
           }
         ],
-        "correct_answer": "A",
-        "explanation": "C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law ofdiminishing returns and diseconomies of scale in th lecturesffhey both make the costsfall initiallythen rise again, buccheygre different in the period applied • Lg»tpfdiminishing returns is appJiedfor the sho • Diseconomies of scale is appJiedfor the lonå As production increases, Jhe cost per unit will initially fall due to the larger numbe pfunits beingnade whichthetotal costis spread overÆoweyeogven withipbhé short-term, as the numbgrpfunits ofoutputgrows, the efficiency of the productioiå system will fall, leading to a rise in average cost per unit again. This is known as the law of diminishing returns. —+ Option D is correc Diseconomies ofscale (option B) occur over the long-germ)",
+        "correct_answer": "D",
+        "explanation": "Trong ngắn hạn (short-term), khi sản lượng tăng mạnh, chi phí trung bình trên mỗi đơn vị sản phẩm ban đầu sẽ giảm do chi phí cố định được phân bổ, nhưng sau đó sẽ tăng trở lại do quy luật năng suất cận biên giảm dần (law of diminishing returns). Diseconomies of scale (phương án B) chỉ áp dụng trong dài hạn (long-term).",
         "image_file": "images/cau_040.png",
         "has_image": false,
         "diagram_file": null
@@ -1829,15 +1840,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. The benefit of being a sole trader is that you have no personal liability for the"
+            "text": "C. The benefit of being a sole trader is that you have no personal liability for the debts of your business."
           },
           {
             "key": "D",
-            "text": "D. ebts of your business."
+            "text": "D. Ordinary partnerships offer the same benefits as limited companies but are usually formed by professionals such as doctors and solicitors."
           }
         ],
         "correct_answer": "B",
-        "explanation": "D. Ordinary partnerships offer the same benefits as limited companies but are usually formed by professionals such as doctors and solicitors.",
+        "explanation": "Đối với công ty TNHH (Limited company), quyền sở hữu (ownership) và quyền điều hành (control) được tách biệt về mặt pháp lý.",
         "image_file": "images/cau_064.png",
         "has_image": false,
         "diagram_file": null
@@ -2621,8 +2632,11 @@ window.QUIZ_DATA = [
             "text": "D. Exchange rates"
           }
         ],
-        "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "A",
+          "D"
+        ],
+        "explanation": "Chính sách tiền tệ (Monetary policy) tác động thông qua lãi suất (A) và tỷ giá hối đoái (D). Thuế và chi tiêu/vay nợ công (B, C) thuộc chính sách tài khóa (Fiscal policy).",
         "image_file": "images/cau_093.png",
         "has_image": false,
         "diagram_file": null
@@ -3187,19 +3201,27 @@ window.QUIZ_DATA = [
         "id": 114,
         "question_number": 114,
         "part": 6,
-        "question_text": "Consider the price and demand for tickets to travel by sea ferry. The price of travelling by hovercraft (a substitute form of travel) goes up. Which of the following should happen?",
+        "question_text": "Consider the price and demand for tickets to travel by sea ferry. The price of travelling by hovercraft (a substitute form of travel) goes up.\nWhich of the following should happen?",
         "options": [
           {
             "key": "A",
-            "text": "A. The demand curve for sea ferry tickets will shift to the left, and their price will go"
+            "text": "A. The demand curve for sea ferry tickets will shift to the left, and their price will go down. More sea ferry tickets will be sold."
+          },
+          {
+            "key": "B",
+            "text": "B. The demand curve for sea ferry tickets will shift to the right, and their price will go up. More ferry tickets will be sold."
+          },
+          {
+            "key": "C",
+            "text": "C. The demand curve for sea ferry tickets will shift to the right and their price will go down. More sea ferry tickets will be sold."
           },
           {
             "key": "D",
-            "text": "D. own. More sea ferry tickets will be sold."
+            "text": "D. The demand curve for sea ferry tickets will shift to the right and their price will go up. Fewer sea ferry tickets will be sold."
           }
         ],
-        "correct_answer": "D",
-        "explanation": "B. The demand curve for sea ferry tickets will shift to the right, and their price will go up. More ferry tickets will be sold. C. The demand curve for sea ferry tickets will shift to the right and their price will go down. More sea ferry tickets will be sold. D. The demand curve for sea ferry tickets will shift to the right and their price will go up. Fewer sea ferry tickets will be sold.",
+        "correct_answer": "B",
+        "explanation": "Hovercraft và phà biển là hàng thay thế (substitutes). Khi giá vé hovercraft tăng, cầu về vé phà biển tăng (đường cầu dịch sang phải), giá vé phà tăng và lượng bán tăng.",
         "image_file": "images/cau_114.png",
         "has_image": false,
         "diagram_file": null
@@ -3266,7 +3288,7 @@ window.QUIZ_DATA = [
         "id": 117,
         "question_number": 117,
         "part": 6,
-        "question_text": "II 7.1n a certain advanced industrialised country, the government has applied price controls over rents of both public and private rented accommodation for a number of years, and a serious problem of widespread homelessness has built up. Just recently, the rent price controls have been eased. 15:36 CN 27thg 9 100% Which TWO of the following consequences should now occur?",
+        "question_text": "In a certain advanced industrialised country, the government has applied price controls over rents of both public and private rented accommodation for a number of years, and a serious problem of widespread homelessness has built up. Just recently, the rent price controls have been eased.\nWhich TWO of the following consequences should now occur?",
         "options": [
           {
             "key": "A",
@@ -3285,8 +3307,11 @@ window.QUIZ_DATA = [
             "text": "D. Fewer owner-occupied dwellings"
           }
         ],
-        "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "B",
+          "C"
+        ],
+        "explanation": "Khi nới lỏng kiểm soát giá thuê trần, các chủ nhà có động lực cho thuê thêm phòng (C) và về lâu dài kích thích các nhà thầu xây dựng thêm nhà mới (B).",
         "image_file": "images/cau_117.png",
         "has_image": false,
         "diagram_file": null
@@ -3665,7 +3690,7 @@ window.QUIZ_DATA = [
         "id": 132,
         "question_number": 132,
         "part": 7,
-        "question_text": "Are the following statements about the rights of data subjects true or false? Data subjects have the right to access data held about them. Requested information must be supplied within one month and no charge can be made for it.",
+        "question_text": "Are the following statements about the rights of data subjects true or false?\nData subjects have the right to access data held about them. Requested information must be supplied within one month and no charge can be made for it.",
         "options": [
           {
             "key": "A",
@@ -3673,19 +3698,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. False 133. The following are steps that governments can take to influence certain areas. • Tax incentives for investment • Equal opportunities legislation o Forbid takeovers • Product safety standards Match the steps above to the areas of government concern below. Output Consumer"
-          },
-          {
-            "key": "C",
-            "text": "C. apacity Competition Employment protection Tax incentives for o investment"
-          },
-          {
-            "key": "E",
-            "text": "E. qual opportunities o o o legislation 15:36 CN 27thg 9 100%"
+            "text": "B. False"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo quy định GDPR / Đạo luật bảo vệ dữ liệu, chủ thể dữ liệu có quyền yêu cầu truy cập thông tin của mình (SAR), doanh nghiệp phải cung cấp trong 1 tháng và miễn phí.",
         "image_file": "images/cau_132.png",
         "has_image": false,
         "diagram_file": null
@@ -3804,8 +3821,11 @@ window.QUIZ_DATA = [
             "text": "E. Product quality is not important to customers"
           }
         ],
-        "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "B",
+          "D"
+        ],
+        "explanation": "Quyền lực của nhà cung cấp cao khi: (B) Thiếu sản phẩm thay thế trên thị trường; và (D) Sản phẩm có tính khác biệt hóa cao khiến khách hàng khó chuyển đổi sang nhà cung cấp khác.",
         "image_file": "images/cau_136.png",
         "has_image": false,
         "diagram_file": null
@@ -4527,7 +4547,7 @@ window.QUIZ_DATA = [
         "id": 162,
         "question_number": 162,
         "part": 9,
-        "question_text": "Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance department. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration?",
+        "question_text": "Josh, Joanne, Ed, and Sue all work for D Co. Josh works in the finance department. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department.\nWhich of the staff members would be responsible for payroll administration?",
         "options": [
           {
             "key": "A",
@@ -4538,12 +4558,16 @@ window.QUIZ_DATA = [
             "text": "B. Joanne"
           },
           {
+            "key": "C",
+            "text": "C. Ed"
+          },
+          {
             "key": "D",
             "text": "D. Sue"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Xử lý bảng lương và quản lý tiền lương (Payroll administration) là nhiệm vụ thuộc phòng tài chính / kế toán (Finance department), nơi Josh làm việc.",
         "image_file": "images/cau_162.png",
         "has_image": false,
         "diagram_file": null
@@ -5021,15 +5045,19 @@ window.QUIZ_DATA = [
         "options": [
           {
             "key": "A",
-            "text": "A. To provide the board ofdirectors with a narrative statement by the audit"
+            "text": "A. To provide the board of directors with a narrative statement by the audit committee of its findings on the efficacy of internal operational and financial controls."
+          },
+          {
+            "key": "B",
+            "text": "B. To set out the directors' analysis of the business, in order to provide investors with a historical and prospective view through the eyes of management."
           },
           {
             "key": "C",
-            "text": "C. ommittee of its findings on the efficacy of internal operational and financial"
+            "text": "C. To provide a statement that the company is a going concern."
           }
         ],
-        "correct_answer": "A",
-        "explanation": "controls. B. To set out the directors' analysis of the business, in order to provide investors with a historical and prospective view through the eyes of management. C. To provide a statement that the company is a going concern.",
+        "correct_answer": "B",
+        "explanation": "Báo cáo Đánh giá Hoạt động & Tài chính (OFR) đưa ra phân tích của ban giám đốc nhằm cung cấp cho nhà đầu tư góc nhìn toàn diện về lịch sử và triển vọng tương lai qua lăng kính quản lý.",
         "image_file": "images/cau_180.png",
         "has_image": false,
         "diagram_file": null
@@ -5166,11 +5194,11 @@ window.QUIZ_DATA = [
         "options": [
           {
             "key": "A",
-            "text": "A. Decision makers have a greater awareness of local problems"
+            "text": "A. Decision makers have a greater awareness of local circumstances"
           },
           {
             "key": "B",
-            "text": "B. Managers are able to take a wider view"
+            "text": "B. Managers are able to take a wider view of problems and consequences"
           },
           {
             "key": "C",
@@ -5185,8 +5213,11 @@ window.QUIZ_DATA = [
             "text": "E. Procedures and documentation can be standardised"
           }
         ],
-        "correct_answer": "E",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "B",
+          "E"
+        ],
+        "explanation": "Ưu điểm của cơ cấu tập quyền: (B) Ban giám đốc có cái nhìn vĩ mô, bao quát hơn; và (E) Dễ dàng chuẩn hóa quy trình và hồ sơ chứng từ trên toàn doanh nghiệp.",
         "image_file": "images/cau_185.png",
         "has_image": false,
         "diagram_file": null
@@ -5460,15 +5491,23 @@ window.QUIZ_DATA = [
         "options": [
           {
             "key": "A",
-            "text": "A. Some companies voluntarily provide specially-prepared financial information to"
+            "text": "A. Some companies voluntarily provide specially-prepared financial information to employees."
           },
           {
-            "key": "E",
-            "text": "E. mployees."
+            "key": "B",
+            "text": "B. Accounting information should be relevant, reliable, complete, objective and timely."
+          },
+          {
+            "key": "C",
+            "text": "C. Accountants have a strong obligation to ensure that company accounts conform to accounting standards."
+          },
+          {
+            "key": "D",
+            "text": "D. Charities and professional bodies do not have to produce financial statements in the same way as businesses."
           }
         ],
-        "correct_answer": "A",
-        "explanation": "B. Accounting information should be relevant, reliable, complete, objective and timely. C. Accountants have a strong obligation to ensure that company accounts conform to accounting standards. D. Charities and professional bodies do not have to produce financial statements in the same way as businesses.",
+        "correct_answer": "D",
+        "explanation": "Phát biểu D sai vì các tổ chức từ thiện và tổ chức nghề nghiệp vẫn phải lập báo cáo tài chính tuân theo các chuẩn mực và khuôn khổ pháp lý riêng.",
         "image_file": "images/cau_195.png",
         "has_image": false,
         "diagram_file": null
@@ -5539,15 +5578,19 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. To ensure that goods and services are only supplied to customers with good"
+            "text": "B. To ensure that goods and services are only supplied to customers with good credit ratings"
           },
           {
             "key": "C",
-            "text": "C. redit ratings"
+            "text": "C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers"
+          },
+          {
+            "key": "D",
+            "text": "D. To ensure that potentially doubtful debts are identified"
           }
         ],
         "correct_answer": "A",
-        "explanation": "C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers D. To ensure that potentially doubtful debts are identified",
+        "explanation": "Hệ thống kiểm soát đối với chu trình mua hàng và nợ phải trả (payables & purchases) nhằm đảm bảo tất cả giấy báo có/hóa đơn giảm giá (credit notes received) nhận từ nhà cung cấp đều được ghi nhận đầy đủ vào sổ cái và sổ chi tiết nợ phải trả (A).",
         "image_file": "images/cau_198.png",
         "has_image": false,
         "diagram_file": null
@@ -6775,11 +6818,14 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Suppliers 243. Which of the following would NOT form part ofafraud response plan? 15:39 CN 9 100%"
+            "text": "D. Suppliers"
           }
         ],
-        "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "C",
+          "D"
+        ],
+        "explanation": "Khi doanh nghiệp khai khống tình hình tài chính (overstates financial position): Nhà đầu tư (C - Investors) bị thiệt hại trực tiếp vào giá trị cổ phiếu/vốn đầu tư, và Nhà cung cấp (D - Suppliers) chịu rủi ro không thu hồi được nợ tiền bán hàng.",
         "image_file": "images/cau_242.png",
         "has_image": false,
         "diagram_file": null
@@ -7377,11 +7423,14 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Information is less accessible to accountina staff 15:40 CN 27 thg9 100% IC wor 1 smte an a ove. is a program that deals with a particular part of the accounting system."
+            "text": "D. Information is less accessible to accounting staff"
           }
         ],
-        "correct_answer": "C",
-        "explanation": "A. Database B. Module C. Spreadsheet",
+        "correct_answer": [
+          "B",
+          "C"
+        ],
+        "explanation": "Hệ thống kế toán tin học hóa giúp thông tin luôn sẵn sàng nhanh chóng (B) và các thay đổi được cập nhật theo thời gian thực (C).",
         "image_file": "images/cau_264.png",
         "has_image": false,
         "diagram_file": null
@@ -7434,8 +7483,11 @@ window.QUIZ_DATA = [
             "text": "E. Physical inspection of inventory"
           }
         ],
-        "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "correct_answer": [
+          "A",
+          "C"
+        ],
+        "explanation": "Kiểm soát truy cập vật lý (Physical access controls) bao gồm khóa cửa (A - Door locks) và hệ thống báo động chống đột nhập (C - Intruder alarms).",
         "image_file": "images/cau_266.png",
         "has_image": false,
         "diagram_file": null

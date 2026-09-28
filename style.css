@@ -678,6 +678,24 @@ body {
   color: #fff !important;
 }
 
+.option-btn.selected-pending {
+  border-color: #6366f1 !important;
+  background: rgba(99, 102, 241, 0.2) !important;
+  box-shadow: 0 0 15px rgba(99, 102, 241, 0.3) !important;
+}
+
+.option-btn.selected-pending .opt-key {
+  background: #6366f1 !important;
+  border-color: #6366f1 !important;
+  color: #fff !important;
+}
+
+.q-badge.multi {
+  background: rgba(236, 72, 153, 0.15) !important;
+  color: #f472b6 !important;
+  border-color: rgba(236, 72, 153, 0.3) !important;
+}
+
 .option-btn.disabled {
   cursor: default;
 }

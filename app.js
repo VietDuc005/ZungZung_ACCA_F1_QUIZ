@@ -215,13 +215,28 @@ function renderQuestionNavigator() {
   });
 }
 
+let pendingSelections = [];
+
+function getCorrectKeys(qData) {
+  if (Array.isArray(qData.correct_answer)) {
+    return qData.correct_answer.map(k => String(k).trim().toUpperCase());
+  }
+  if (typeof qData.correct_answer === 'string') {
+    return qData.correct_answer.split(',').map(k => k.trim().toUpperCase());
+  }
+  return [String(qData.correct_answer).trim().toUpperCase()];
+}
+
 // Display Question
 function showQuestion(qIdx) {
   currentQuestionIndex = qIdx;
+  pendingSelections = [];
   const partData = window.QUIZ_DATA[currentPartIndex];
   const qData = partData.questions[qIdx];
   const pAnswers = userAnswers[currentPartIndex] || {};
   const answered = pAnswers[qIdx];
+  const correctKeys = getCorrectKeys(qData);
+  const isMulti = correctKeys.length > 1;
 
   // Update current in navigator
   document.querySelectorAll('.nav-item').forEach((item, idx) => {
@@ -235,6 +250,9 @@ function showQuestion(qIdx) {
   if (qData.has_image && qData.diagram_file) {
     badgeEl.className = 'q-badge diagram';
     badgeEl.textContent = qData.badge_text || '📊 Câu hỏi có Sơ đồ / Bảng dữ liệu';
+  } else if (isMulti) {
+    badgeEl.className = 'q-badge multi';
+    badgeEl.textContent = `🎯 Chọn ${correctKeys.length} đáp án đúng`;
   } else {
     badgeEl.className = 'q-badge';
     badgeEl.textContent = '📝 Trắc nghiệm';
@@ -268,6 +286,10 @@ function showQuestion(qIdx) {
     { key: 'D', text: 'Đáp án D' }
   ];
 
+  const userSelected = answered 
+    ? (Array.isArray(answered.selectedKeys) ? answered.selectedKeys : (answered.selectedKey ? [answered.selectedKey] : []))
+    : [];
+
   opts.forEach(opt => {
     const btn = document.createElement('button');
     btn.className = 'option-btn';
@@ -280,12 +302,12 @@ function showQuestion(qIdx) {
 
     if (answered) {
       btn.classList.add('disabled');
-      if (opt.key === qData.correct_answer) {
+      if (correctKeys.includes(opt.key)) {
         btn.classList.add('is-correct-target');
-        if (answered.selectedKey === opt.key) {
+        if (userSelected.includes(opt.key)) {
           btn.classList.add('selected-correct');
         }
-      } else if (answered.selectedKey === opt.key && !answered.isCorrect) {
+      } else if (userSelected.includes(opt.key)) {
         btn.classList.add('selected-wrong');
       }
     } else {
@@ -301,12 +323,16 @@ function showQuestion(qIdx) {
     expBox.style.display = 'block';
     let correctText = '';
     if (qData.options) {
-      const matchOpt = qData.options.find(o => o.key === qData.correct_answer);
-      if (matchOpt) correctText = matchOpt.text;
+      const matchOpts = qData.options.filter(o => correctKeys.includes(o.key));
+      if (matchOpts.length > 0) {
+        correctText = matchOpts.map(o => o.text).join('<br>');
+      }
     }
+    if (!correctText) correctText = correctKeys.join(', ');
+
     expBox.innerHTML = `
       <div style="font-size: 1.05rem; font-weight: 700; color: #10b981; margin-bottom: 6px;">
-        ✓ Đáp án đúng: ${correctText || qData.correct_answer}
+        ✓ Đáp án đúng:<br>${correctText}
       </div>
       <div id="exp-text" style="line-height: 1.6; color: #e2e8f0; font-size: 0.95rem;">
         ${qData.explanation || 'Đáp án đã được đối soát chính xác theo đề thi gốc.'}
@@ -333,29 +359,70 @@ function showQuestion(qIdx) {
 function selectAnswer(key) {
   const partData = window.QUIZ_DATA[currentPartIndex];
   const qData = partData.questions[currentQuestionIndex];
+  const correctKeys = getCorrectKeys(qData);
 
   if (!userAnswers[currentPartIndex]) {
     userAnswers[currentPartIndex] = {};
   }
 
-  const isCorrect = (key === qData.correct_answer);
+  if (correctKeys.length > 1) {
+    // Multi-select mode
+    const idx = pendingSelections.indexOf(key);
+    if (idx >= 0) {
+      pendingSelections.splice(idx, 1);
+    } else {
+      pendingSelections.push(key);
+    }
 
-  userAnswers[currentPartIndex][currentQuestionIndex] = {
-    selectedKey: key,
-    isCorrect: isCorrect
-  };
+    // Toggle pending visual class
+    document.querySelectorAll('.option-btn').forEach(btn => {
+      const k = btn.dataset.key;
+      btn.classList.toggle('selected-pending', pendingSelections.includes(k));
+    });
 
-  saveProgress();
+    // Check if user has chosen all required selections
+    if (pendingSelections.length === correctKeys.length) {
+      const isCorrect = (
+        pendingSelections.length === correctKeys.length &&
+        pendingSelections.every(k => correctKeys.includes(k))
+      );
 
-  // Update navigation item color
-  const navItem = document.getElementById(`nav-item-${currentQuestionIndex}`);
-  if (navItem) {
-    navItem.classList.add(isCorrect ? 'correct' : 'wrong');
+      userAnswers[currentPartIndex][currentQuestionIndex] = {
+        selectedKeys: [...pendingSelections],
+        selectedKey: pendingSelections[0],
+        isCorrect: isCorrect
+      };
+
+      saveProgress();
+
+      const navItem = document.getElementById(`nav-item-${currentQuestionIndex}`);
+      if (navItem) {
+        navItem.classList.add(isCorrect ? 'correct' : 'wrong');
+      }
+
+      showQuestion(currentQuestionIndex);
+      updateGlobalStats();
+    }
+  } else {
+    // Single-select mode
+    const isCorrect = (key === correctKeys[0]);
+
+    userAnswers[currentPartIndex][currentQuestionIndex] = {
+      selectedKey: key,
+      selectedKeys: [key],
+      isCorrect: isCorrect
+    };
+
+    saveProgress();
+
+    const navItem = document.getElementById(`nav-item-${currentQuestionIndex}`);
+    if (navItem) {
+      navItem.classList.add(isCorrect ? 'correct' : 'wrong');
+    }
+
+    showQuestion(currentQuestionIndex);
+    updateGlobalStats();
   }
-
-  // Re-render question to show instant feedback and explanation
-  showQuestion(currentQuestionIndex);
-  updateGlobalStats();
 }
 
 // Previous question
