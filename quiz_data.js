@@ -2340,7 +2340,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Downsizing (thu hẹp quy mô), Delayering (cắt giảm các tầng nấc quản lý), và Outsourcing (thuê ngoài) đều là các chiến lược tái cấu trúc tổ chức (organisational restructuring) nhằm tinh gọn bộ máy và cắt giảm chi phí. Trong khi đó, Delegating (ủy quyền) là hoạt động quản trị điều hành nhân sự thường nhật giữa cấp trên và cấp dưới, không phải chiến lược tái cấu trúc.",
         "image_file": "images/cau_081.png",
         "has_image": false,
         "diagram_file": null
@@ -2365,7 +2365,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Mối quan tâm đối với sức khỏe và chế độ ăn uống (Concern with health and diet) là xu hướng văn hóa - xã hội (Cultural/Socio-cultural trend). Luật ATVSLĐ thuộc yếu tố Pháp lý (Legal), Cơ cấu dân số già hóa thuộc yếu tố Nhân khẩu học (Demographic).",
         "image_file": "images/cau_082.png",
         "has_image": false,
         "diagram_file": null
@@ -2394,7 +2394,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phong cách sống (Lifestyle - B) thuộc tiêu chí tâm lý học hành vi (Psychographics), không phải là biến số nhân khẩu học trực tiếp để xác định tầng lớp xã hội (Social class thường được phân loại dựa trên: Thu nhập, Nghề nghiệp và Trình độ học vấn).",
         "image_file": "images/cau_083.png",
         "has_image": false,
         "diagram_file": null
