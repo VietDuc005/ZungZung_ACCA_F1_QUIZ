@@ -6144,7 +6144,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Các quy định có tính ràng buộc pháp lý bắt buộc (Legally binding rules) về việc trình bày và công bố BCTC được quy định trong Luật quốc gia (National legislation / Company law). Chuẩn mực kế toán (IFRS/GAAP) chỉ mang tính ràng buộc pháp lý khi được luật pháp quốc gia đó thừa nhận và áp dụng.",
         "image_file": "images/cau_217.png",
         "has_image": false,
         "diagram_file": null
@@ -6173,7 +6173,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phát biểu B sai (đáp án cần chọn). Hệ thống kiểm soát nội bộ chỉ cung cấp sự đảm bảo hợp lý (reasonable assurance) chứ không thể loại bỏ hoàn toàn (eliminate) tác động từ những phán đoán sai lầm hoặc lỗi sai vô ý của con người (Inherent limitations).",
         "image_file": "images/cau_218.png",
         "has_image": false,
         "diagram_file": null
@@ -6227,7 +6227,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong mô hình thủ tục kiểm soát tài chính SPAMSOAP: S - Segregation of duties, P - Physical, A - Authorisation & approval, M - Management, S - Supervision, O - Organisation (Cơ cấu tổ chức), A - Arithmetical & accounting, P - Personnel.",
         "image_file": "images/cau_220.png",
         "has_image": false,
         "diagram_file": null
