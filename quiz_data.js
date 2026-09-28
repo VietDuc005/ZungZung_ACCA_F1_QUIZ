@@ -2226,7 +2226,7 @@ window.QUIZ_DATA = [
         "id": 78,
         "question_number": 78,
         "part": 4,
-        "question_text": "Which of the following statements about the impact of technological developments on the role ofaccountants is NOT true?",
+        "question_text": "Which of the following statements about the impact of technological developments on the role of accountants is NOT true?",
         "options": [
           {
             "key": "A",
@@ -2238,11 +2238,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Cloud accounting allows accountants to work collaboratively and with their"
+            "text": "C. Cloud accounting allows accountants to work collaboratively with their clients."
+          },
+          {
+            "key": "D",
+            "text": "D. Big data and data analytics assist auditors to target key business risks."
           }
         ],
         "correct_answer": "A",
-        "explanation": "clients. D. Big data and data analytics assist auditors to target key business risks",
+        "explanation": "Tự động hóa và Trí tuệ nhân tạo (AI) giúp tự động xử lý các giao dịch cơ bản lặp đi lặp lại, cho phép kế toán viên tập trung thời gian vào các phân tích chiến lược và tư vấn giá trị cao, chứ KHÔNG PHẢI dành thời gian đi xác minh các giao dịch cấp thấp.",
         "image_file": "images/cau_078.png",
         "has_image": false,
         "diagram_file": null
@@ -2475,7 +2479,7 @@ window.QUIZ_DATA = [
         "id": 87,
         "question_number": 87,
         "part": 5,
-        "question_text": "Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods.",
+        "question_text": "Which word correctly completes this statement?\n_____ taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods.",
         "options": [
           {
             "key": "A",
@@ -2491,7 +2495,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thuế gián thu (Indirect taxes - như VAT, thuế tiêu thụ đặc biệt) được cơ quan thuế thu từ doanh nghiệp, sau đó doanh nghiệp chuyển gánh nặng thuế này vào giá bán cho người tiêu dùng cuối cùng.",
         "image_file": "images/cau_087.png",
         "has_image": false,
         "diagram_file": null
@@ -2500,7 +2504,7 @@ window.QUIZ_DATA = [
         "id": 88,
         "question_number": 88,
         "part": 5,
-        "question_text": "1fa government has a macro-economic policy objective of expanding the overall level of economic activity, which of the following would NOT be consistent with such an objective?",
+        "question_text": "If a government has a macro-economic policy objective of expanding the overall level of economic activity, which of the following would NOT be consistent with such an objective?",
         "options": [
           {
             "key": "A",
@@ -2516,7 +2520,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Để mở rộng nền kinh tế (Expansionary policy), chính phủ cần tăng chi tiêu công hoặc giảm lãi suất. Tăng thuế (Increasing taxation) là chính sách tài khóa thắt chặt, làm giảm thu nhập khả dụng và làm chậm tăng trưởng kinh tế, không phù hợp với mục tiêu mở rộng.",
         "image_file": "images/cau_088.png",
         "has_image": false,
         "diagram_file": null
