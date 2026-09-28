@@ -5109,7 +5109,7 @@ window.QUIZ_DATA = [
         "id": 181,
         "question_number": 181,
         "part": 10,
-        "question_text": "Which of the following are advantages of having non-executive directors on the company board? (1) They can provide a wider perspective than executive directors. (2) They provide reassurance to shareholders. (3) They may have external experience and knowledge which executive directors do not possess. (4) They have more time to devote to the role.",
+        "question_text": "Which of the following are advantages of having non-executive directors on the company board?\n(1) They can provide a wider perspective than executive directors.\n(2) They provide reassurance to shareholders.\n(3) They may have external experience and knowledge which executive directors do not possess.\n(4) They have more time to devote to the role.",
         "options": [
           {
             "key": "A",
@@ -5117,15 +5117,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. (2) and (3)"
+            "text": "B. (1), (2) and (3)"
           },
           {
             "key": "C",
-            "text": "C. (3) and (4)"
+            "text": "C. (1), (3) and (4)"
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Lợi ích của các giám đốc không điều hành (NEDs) gồm: (1) Đưa ra góc nhìn rộng mở và độc lập; (2) Tạo niềm tin, sự an tâm cho các cổ đông; và (3) Đóng góp kiến thức và kinh nghiệm từ bên ngoài mà các giám đốc điều hành chưa có. Mục (4) sai vì NEDs thường chỉ làm việc bán thời gian và thường đảm nhiệm nhiều vị trí tại các công ty khác nhau, không nhất thiết có nhiều thời gian hơn.",
         "image_file": "images/cau_181.png",
         "has_image": false,
         "diagram_file": null
@@ -5134,31 +5134,27 @@ window.QUIZ_DATA = [
         "id": 182,
         "question_number": 182,
         "part": 10,
-        "question_text": "PauI, Mary, Alan and Kate are having a board meeting ofa newly formed company and they are discussing the orientation of the company. Paul believes that the company will actively need to persuade customers to buy their products. Mary believes they should add additional features to their products, without carrying out market research, and this will increase demand from customers. Alan believes the products will sell as they are and the company should produce as many items as it can. Kate believes that they should research what customers need and value and adapt the products to meet the findings of the research. For each board member, select the orientation they are recommending. Paul Sales orientation Mary_Product orientation Alan_Production orientation Kate Marketing orientation",
+        "question_text": "Paul, Mary, Alan and Kate are having a board meeting of a newly formed company and they are discussing the orientation of the company.\n• Paul believes that the company will actively need to persuade customers to buy their products.\n• Mary believes they should add additional features to their products, without carrying out market research, and this will increase demand from customers.\n• Alan believes the products will sell as they are and the company should produce as many items as it can.\n• Kate believes that they should research what customers need and value and adapt the products to meet the findings of the research.\n\nFor each board member, select the orientation they are recommending:",
         "options": [
           {
             "key": "A",
-            "text": "A. Marketing orientation"
+            "text": "A. Paul: Sales orientation | Mary: Product orientation | Alan: Production orientation | Kate: Marketing orientation"
           },
           {
             "key": "B",
-            "text": "B. Product orientation"
+            "text": "B. Paul: Marketing orientation | Mary: Sales orientation | Alan: Product orientation | Kate: Production orientation"
           },
           {
             "key": "C",
-            "text": "C. Production orientation"
+            "text": "C. Paul: Product orientation | Mary: Production orientation | Alan: Sales orientation | Kate: Marketing orientation"
           },
           {
             "key": "D",
-            "text": "D. Sales orientation"
-          },
-          {
-            "key": "E",
-            "text": "E. Something"
+            "text": "D. Paul: Production orientation | Mary: Sales orientation | Alan: Marketing orientation | Kate: Product orientation"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "• Paul chú trọng thuyết phục/quảng cáo để bán sản phẩm -> Định hướng bán hàng (Sales orientation).\n• Mary tin rằng việc tăng tính năng cho sản phẩm sẽ tự hút khách mà không cần nghiên cứu thị trường -> Định hướng sản phẩm (Product orientation).\n• Alan tin rằng sản phẩm tự bán được và cần tập trung sản xuất càng nhiều càng tốt -> Định hướng sản xuất (Production orientation).\n• Kate nghiên cứu nhu cầu khách hàng rồi mới điều chỉnh sản phẩm cho phù hợp -> Định hướng thị trường (Marketing orientation).",
         "image_file": "images/cau_182.png",
         "has_image": false,
         "diagram_file": null
@@ -5167,7 +5163,7 @@ window.QUIZ_DATA = [
         "id": 183,
         "question_number": 183,
         "part": 10,
-        "question_text": "Which of the options below correctly fills the blank? Breaking up the market into different groups, which each have common needs, wants and preferences is known as",
+        "question_text": "Breaking up the market into different groups, which each have common needs, wants and preferences is known as _____.\nWhich of the options below correctly fills the blank?",
         "options": [
           {
             "key": "A",
@@ -5187,7 +5183,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phân khúc thị trường (Market segmentation) là quá trình phân chia thị trường tổng thể thành các nhóm khách hàng riêng biệt có cùng nhu cầu, sở thích hoặc hành vi tiêu dùng tương tự nhau.",
         "image_file": "images/cau_183.png",
         "has_image": false,
         "diagram_file": null
