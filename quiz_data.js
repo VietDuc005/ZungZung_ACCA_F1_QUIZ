@@ -2746,7 +2746,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thất nghiệp chu kỳ (Cyclical unemployment) phát sinh do suy thoái kinh tế (recession) làm giảm sút tổng cầu. Ngành xây dựng suy thoái (Recession in the building industry - D) là ví dụ điển hình của thất nghiệp chu kỳ. (A là cọ xát, B là mùa vụ, C là công nghệ/cơ cấu).",
         "image_file": "images/cau_096.png",
         "has_image": false,
         "diagram_file": null
@@ -2780,7 +2780,7 @@ window.QUIZ_DATA = [
         "id": 98,
         "question_number": 98,
         "part": 5,
-        "question_text": "Northland, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country 'i Westland Change in GDP (96) -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices •27.50 +15.37 •2.25 +2.15 Change in working —9.76 +3.78 +1.76 -8.76 population employed (%) Which country experienced stagflation in the relevant period?",
+        "question_text": "Northland, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7.\n\n• Northland: Change in GDP (-0.30%), Current account (+$5,550.83m), Inflation (+27.50%), Employment (-4.76%)\n• Southland: Change in GDP (+2.51%), Current account (-$350.17m), Inflation (+15.37%), Employment (+3.78%)\n• Eastland: Change in GDP (-0.55%), Current account (-$150.90m), Inflation (+2.25%), Employment (+1.76%)\n• Westland: Change in GDP (+2.12%), Current account (+$220.39m), Inflation (+2.15%), Employment (-8.76%)\n\nWhich country experienced stagflation in the relevant period?",
         "options": [
           {
             "key": "A",
@@ -2800,7 +2800,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Stagflation (Lạm phát đình trệ) là hiện tượng kinh tế vừa đình trệ/suy thoái (GDP giảm: -0.30% và việc làm giảm/thất nghiệp tăng: -4.76%), vừa xảy ra lạm phát giá cả phi mã (+27.50%). Quốc gia duy nhất đồng thời có cả 2 đặc điểm này là Northland (A).",
         "image_file": "images/cau_098.png",
         "has_image": false,
         "diagram_file": null
@@ -2809,7 +2809,7 @@ window.QUIZ_DATA = [
         "id": 99,
         "question_number": 99,
         "part": 5,
-        "question_text": "Which word correctly completes this statement? economic growth is determined by supply-side rather than by demand-side factors.",
+        "question_text": "_____ economic growth is determined by the increase in the productive capacity of the economy.\nWhich word correctly completes this statement?",
         "options": [
           {
             "key": "A",
@@ -2825,7 +2825,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Tăng trưởng kinh tế tiềm năng (Potential economic growth) được quyết định bởi sự gia tăng trong năng lực sản xuất tối đa của nền kinh tế (productive capacity). Trong khi đó, tăng trưởng thực tế (Actual economic growth) được đo lường bằng tỷ lệ phần trăm gia tăng GDP thực tế trong một kỳ.",
         "image_file": "images/cau_099.png",
         "has_image": false,
         "diagram_file": null
@@ -2834,7 +2834,7 @@ window.QUIZ_DATA = [
         "id": 100,
         "question_number": 100,
         "part": 5,
-        "question_text": "1n a free market economy, the price mechanism:",
+        "question_text": "In a free market economy, the price mechanism:",
         "options": [
           {
             "key": "A",
@@ -2850,7 +2850,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong nền kinh tế thị trường tự do (free market economy), cơ chế giá cả (Price mechanism - bàn tay vô hình) đóng vai trò quyết định trong việc phân bổ các nguồn lực khan hiếm (Allocates resources) dựa trên quy luật cung và cầu.",
         "image_file": "images/cau_100.png",
         "has_image": false,
         "diagram_file": null
