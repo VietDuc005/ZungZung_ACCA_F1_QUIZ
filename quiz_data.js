@@ -188,7 +188,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "DB båi höi v; dåu lå déc diåm cüa hång hda thi cåp.Nhtr dä n6i , hång h6a thi ditec dinh nghia trong mbi quan hégiüa luvng cågyå thu nhép, Iå logi hång Ilda cé Cbu giåm khi thu nh(ipgwttåi tiéu düngtäng 8. Grouping people together who do similar tasks is called A Task departmentation C Product departmentation B Geographic departmentation D Functional departmentation",
+        "explanation": "DB båi höi v; dåu lå déc diåm cüa hång hda thi cåp.Nhtr dä n6i , hång h6a thi ditec dinh nghia trong mbi quan hégiüa luvng cågyå thu nhép, Iå logi hång Ilda cé Cbu giåm khi thu nh(ipgwttåi tiéu düngtäng",
         "image_file": "images/cau_007.png",
         "has_image": false,
         "diagram_file": null
@@ -416,7 +416,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "DB båi dang höi mét s; ngttåi c6 kj näng cüng cam köt Cho möt mvc tiéu chunb dtr«cgpilå gi? Team baogbm nhü-ng cd nhån cd nhüng 103 nängggm két cho mue tiéu chung 16. Which one of the following is NOT one of Maslow's hierarchy of needs? A. Esteem needs B. Safety needs C. Social needs",
+        "explanation": "DB båi dang höi mét s; ngttåi c6 kj näng cüng cam köt Cho möt mvc tiéu chunb dtr«cgpilå gi? Team baogbm nhü-ng cd nhån cd nhüng 103 nängggm két cho mue tiéu chung",
         "image_file": "images/cau_015.png",
         "has_image": false,
         "diagram_file": null
@@ -710,7 +710,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Remind of the Mendelow's power-interest matrix. Level ofinteresi Lo High Minimal effpre KeepO!1fogned owe High Keep satis led Key plgyeß H has comparativelyhigh power due to its large number of shares å High level o power However, it has expressed a low level of interest in the running ofA. This means thge A's directors should work to keep H from taking an active interest in thefuture Low level of interest Keep the satisfied corne 26. Under typical employment protection legislation, which of the following would be classified as an 'unfair' reason for the dismissal of an employee? The employee was a member ofa trade union B. The employee vvas guilty of misconduct c. The employee's job became redundant D. The emnlovee had a lack ofaualifications or canabilitv for the iob",
+        "explanation": "Remind of the Mendelow's power-interest matrix. Level ofinteresi Lo High Minimal effpre KeepO!1fogned owe High Keep satis led Key plgyeß H has comparativelyhigh power due to its large number of shares å High level o power However, it has expressed a low level of interest in the running ofA. This means thge A's directors should work to keep H from taking an active interest in thefuture Low level of interest Keep the satisfied corne",
         "image_file": "images/cau_025.png",
         "has_image": false,
         "diagram_file": null
@@ -760,11 +760,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. No decisions should be taken against an individual on a purely automated"
+            "text": "C. No decisions should be taken against an individual on a purely automated basis"
+          },
+          {
+            "key": "D",
+            "text": "D. The right to prevent data from being processed for the profit of others"
           }
         ],
         "correct_answer": "C",
-        "explanation": "basis D. The right to prevent data from being processed for the profit of others Refer to the lectures for some rights covered by the data protection. Be careful tu thepptions which seem to be correct! Option A is incorrect. While individuals have the right to access thei personal data, this may involve a written request being made and the pgyment ofa fee — this is unlikely to happen instantly) Option B is incorrectAppIication for the erasurepfdata may have to be through the courts.' Option D is incorrect. Data processing can only be prevented if it wilt cause damage or distress to the individual or is for the purposes of direc marketing 28. is concerned with keeping data safe from various hazards that could destroy or compromise it. Which two words complete this definition? Data protection B. Data security c. Physical risk D. Human risk By definition. Options C and D are both types of data security risks; 29.Consider the following statements:",
+        "explanation": "Theo luật bảo vệ dữ liệu (Data Protection Act / GDPR), cá nhân có quyền không phải chịu quyết định hoàn toàn tự động (no decisions should be taken against an individual on a purely automated basis).",
         "image_file": "images/cau_027.png",
         "has_image": false,
         "diagram_file": null
@@ -822,7 +826,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remind that in terms of health and safety in the workplace, both employers and employees have different responsibilities.' Be careful to consider whether the responsibility is ended after adequagely? training (i.e., statement iij is incorrect. Employees also have responsibilities under healthand safety legislation • (ii) is incorrect. Employers alsohave to provide a safe workinå environmentfovemployees — notjust train them about the hazards) 30. Which of the following is NOT a typical requirement ofconsumer rights legislation? A. The seller must have legal title to the goods being sold B. Goods sold must befit for purpose c. Item descriptions must be accurate D. Goods must be reasonably priced Remember the key principles of consumerrights legislation in terms ofgoods. • The seller must have legal title or ownership of the items • The goods sold must be of.atisfactory quality andficfor their intended purpose. • When a buyer makes a purchase based on the description of an item, the goods must correspond with this description • When digital content (e.g., online Ilms, games, e-books) isfaultyu consumers are given a clear right to repair or replacement) Be care 10 an answer that seems to be correct, which ma beri htin termso",
+        "explanation": "Remind that in terms of health and safety in the workplace, both employers and employees have different responsibilities.' Be careful to consider whether the responsibility is ended after adequagely? training (i.e., statement iij is incorrect. Employees also have responsibilities under healthand safety legislation • (ii) is incorrect. Employers alsohave to provide a safe workinå environmentfovemployees — notjust train them about the hazards)",
         "image_file": "images/cau_029.png",
         "has_image": false,
         "diagram_file": null
@@ -889,11 +893,11 @@ window.QUIZ_DATA = [
         "id": 32,
         "question_number": 32,
         "part": 2,
-        "question_text": "Sarah is a manager at V company. As part of her contract with V, she is not supposed to hire any employees who are female or over the age of thirty-five. This contract is subsequently found to be unenforceable. Which of the features ofa simple contract is missing from this agreement?",
+        "question_text": "Sarah is a manager at V company. As part of her contract with V, she is not supposed to hire any employees who are female or over the age of thirty-five. This contract is subsequently found to be unenforceable.\nWhich of the features of a simple contract is missing from this agreement?",
         "options": [
           {
             "key": "A",
-            "text": "A. greement"
+            "text": "A. Agreement"
           },
           {
             "key": "B",
@@ -902,10 +906,14 @@ window.QUIZ_DATA = [
           {
             "key": "C",
             "text": "C. Consideration"
+          },
+          {
+            "key": "D",
+            "text": "D. Capacity"
           }
         ],
         "correct_answer": "B",
-        "explanation": "Capacity Remind of the simple contract's features to be valid. • Agreement: the parties must have agreedon the terms of the contra • Consideration: each party must offer some consideration to the otheh • Intention to create legal relations: both arties must clearl intend thei relationship to be legally bindinå • Capacity and legality: each party to the contract must have the capability to enter the contract and must not or illegal purposes This contract involves discriminating against some potential employees, which iS illegal in most jurisdictions. Remember that a contract is not valid if it requires one or more parties to break the law.]",
+        "explanation": "Remind of the simple contract's features to be valid:\n• Agreement: the parties must have agreed on the terms of the contract\n• Consideration: each party must offer some consideration to the other\n• Intention to create legal relations: both parties must clearly intend their relationship to be legally binding\n• Capacity and legality: each party to the contract must have the capability to enter the contract and must not be for illegal purposes\nThis contract involves discriminating against some potential employees, which is illegal in most jurisdictions. Remember that a contract is not valid if it requires one or more parties to break the law.",
         "image_file": "images/cau_032.png",
         "has_image": false,
         "diagram_file": null
@@ -914,7 +922,7 @@ window.QUIZ_DATA = [
         "id": 33,
         "question_number": 33,
         "part": 2,
-        "question_text": "Consider the following statements: (1) Equilibrium' is the selling price above which the number of units demanded by the market starts to decline. (2) As the selling price ofa product increases, the number of units supplied by the market will also tend to rise. Which of these statements is/are correct?",
+        "question_text": "Consider the following statements:\n(1) Equilibrium is the selling price above which the number of units demanded by the market starts to decline.\n(2) As the selling price of a product increases, the number of units supplied by the market will also tend to rise.\nWhich of these statements is/are correct?",
         "options": [
           {
             "key": "A",
@@ -930,11 +938,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Neither Statement (1)+ (2): (2)"
+            "text": "D. Neither"
           }
         ],
         "correct_answer": "B",
-        "explanation": "• (1) is incorrect. Equilibrium is the selling prigegt which supply exactly equals demand) The number of units demanded by the market will usually fall as the price rises (gS per the demand curve) - this is nothing to do with the equilibrium point itself) • (2) is correct, as stated in the diagram above,]",
+        "explanation": "• (1) is incorrect: Equilibrium is the selling price at which supply exactly equals demand. The number of units demanded usually falls as price rises (as per demand curve) - this is nothing to do with the equilibrium point itself.\n• (2) is correct: As the selling price of a product increases, the number of units supplied by the market tends to rise (law of supply).",
         "image_file": "images/cau_033.png",
         "has_image": false,
         "diagram_file": null
@@ -947,7 +955,7 @@ window.QUIZ_DATA = [
         "options": [
           {
             "key": "A",
-            "text": "A. n advertising campaign by holiday-tour operators"
+            "text": "A. An advertising campaign by holiday-tour operators"
           },
           {
             "key": "B",
@@ -963,7 +971,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remember the distinctions betweenexpansion/contraction in demand and increase/decrease in demand} • Changes in price movement along with the demand curve Expansion/contraction in demand • Changes in conditions ofdemand shiftthe demand curve å Increase/decrease in demand. Conditions of demand include; O Income changes Tast\"hanges The price of other complement or substitute goodS Population increases/decreaseS Note that the question mentions the overseasholidays, be careful with option which is a case of domestic holidays} • Option D is correct. This changes the price of foreign holidays and leads to a movement along the demand curve, not a shift in the • Option A is incorrect. This may change the taste of traveling overseas which further shifts the demand curve) • Option B is incorrect.This change of income_may affect the consumers' demand, which results in a shift in the demand curv • Option Cis incorrect. Domestic holidays are considered as 'substituteS goods' for overseas holidays. Changes in substitutes' ricesshould Shift the demand curve because their e ects on demand are si Pificant,",
+        "explanation": "Remember the distinctions between expansion/contraction in demand and increase/decrease in demand: Changes in price move along the curve. Advertising campaigns, changes in consumer income, and changes in the price of substitute holidays lead to a shift in the demand curve.",
         "image_file": "images/cau_034.png",
         "has_image": false,
         "diagram_file": null
@@ -992,7 +1000,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remind of some factors which determine the price elasticitypfdemand} • Proportion of income spent on thegpga • Availability ofsubstitutes • Demandfor necessities • Habit of purchasing: • Duration ofchangesin ric • Definitionpfnarkeu Options B C match with the ctors mentioned above) 36.G Co increases the selling price of its only product, the GFIOOO by 5%. This causes a reduction in the number of units it sells by 8%. Is the GFIOOO's price elasticity of demand likely to be: Less than 1 B. Equal to 1 c. Greater than 1 D. Negative Ppmind nfthp mpnninn nfnrirp plnstiritv: tn pynlnins the rpsnnngivpnpgg ni 15:33 CN 27thg 9 100%",
+        "explanation": "Remind of some factors which determine the price elasticitypfdemand} • Proportion of income spent on thegpga • Availability ofsubstitutes • Demandfor necessities • Habit of purchasing: • Duration ofchangesin ric • Definitionpfnarkeu Options B C match with the ctors mentioned above)",
         "image_file": "images/cau_035.png",
         "has_image": false,
         "diagram_file": null
@@ -1111,7 +1119,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Be careful to mismatch between monopoly and monopolistic competition Remind of the definition of monopolistic competition: when a business has man different competitors, but each offers a somewhat differeptigtedproduct.' Option A is incorrect, as monopolistic competition consists o man competitors; Option B is incorrect, as mono olistic com etition consists o differentiated products! Option D is incorrect, as due to the large amount of competition in th market, there i'typically significant advertising expenditure by all the businesses in the market; 40.Freja is preparing a short-term budget for a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term? A. The cost per unit would be expected to fall for the entire period due to the increased output B. The cost per unit would be expected to initially fall, then start to rise again due to diseconomies of scale C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law of diminishing returns and diseconomies of scale in the lectures. They both make the costsfall initially thengise again, but they are different in the pgi@dgpplied • Laypfdiminishing returns is appliedfor the shore • Diseconomies of scale is applied for the long 15:33 CN 27thg 9 100%",
+        "explanation": "Be careful to mismatch between monopoly and monopolistic competition Remind of the definition of monopolistic competition: when a business has man different competitors, but each offers a somewhat differeptigtedproduct.' Option A is incorrect, as monopolistic competition consists o man competitors; Option B is incorrect, as mono olistic com etition consists o differentiated products! Option D is incorrect, as due to the large amount of competition in th market, there i'typically significant advertising expenditure by all the businesses in the market;",
         "image_file": "images/cau_039.png",
         "has_image": false,
         "diagram_file": null
@@ -1177,7 +1185,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "'_(ii) is incorrect. Given the high rate of unemployment, the governmen will have to pay more in social security tesgpport the increasing number of workers who are without jobs,] • The other three statements are correc 42.1ncreases in unemployment, reduced demand, falling household incomes, and low business confidence and investment are associated most strongly with which of the following? A. High-interest rates 15:34 CN 27thg 9 100%",
+        "explanation": "'_(ii) is incorrect. Given the high rate of unemployment, the governmen will have to pay more in social security tesgpport the increasing number of workers who are without jobs,] • The other three statements are correc",
         "image_file": "images/cau_041.png",
         "has_image": false,
         "diagram_file": null
@@ -1235,7 +1243,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Remember the economics theories. The classical approach: to do nothingand let the economy find its ow equilibrium The Keynesian approach (demand side): running a budge surp@$/deficit to manipulate the economy and help it reach its equilibrium point The Monetarist approach (supply side): the removal of key marke imperfectionsallowing the economy to naturallyfind its owh equilibrium) The minister is suggesting the removal ofkey market imperfections, such a union activity and monopolies. This is a classic supply-side or monetarist ap roach 44. The government of country H is planning to adopt a supply-side approach to dealing with the country's high unemployment. Which of the following strategies is consistent with a supply-side approach? Do nothing B. Borrow money from the money markets and increase government spending, creating additional jobs c. Lower interest rates to make it cheaper for firms to borrow, meaning that they can afford to hire more workers D. Improve information available to the unemployed to make it easier for them to find work Remember the economics theories. 15:34 CN 27thg 9 100%",
+        "explanation": "Remember the economics theories. The classical approach: to do nothingand let the economy find its ow equilibrium The Keynesian approach (demand side): running a budge surp@$/deficit to manipulate the economy and help it reach its equilibrium point The Monetarist approach (supply side): the removal of key marke imperfectionsallowing the economy to naturallyfind its owh equilibrium) The minister is suggesting the removal ofkey market imperfections, such a union activity and monopolies. This is a classic supply-side or monetarist ap roach",
         "image_file": "images/cau_043.png",
         "has_image": false,
         "diagram_file": null
@@ -1343,11 +1351,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Responsibility is the right to do something because of your position within"
+            "text": "C. Responsibility is the right to do something because of your position within the organisation"
+          },
+          {
+            "key": "D",
+            "text": "D. Responsibility cannot be delegated to subordinates"
           }
         ],
-        "correct_answer": "A",
-        "explanation": "an organization D. Responsibility cannot be delegated to subordinates Remember the definitions ofauthority and responsibility • Authority: is the right to do something, or ask someone else to d something, and expect it to be done! • Responsibility is the liabili o a erson to bere uired to ensure tha the given work is done Note that students should think of whetherauthority or responsibility cap_bé Option D is correct. Responsibility can never be dele ated des ite th task might be given to another member; Option A is incorrect. A is incorrect. Authority can be delegated, as manager can give a more junior member of staff the right to give orders in a certain area or for a certain lengthpftirneU Options B, C is incorrect. The definitions for B and C have beeh reversed)",
+        "correct_answer": "D",
+        "explanation": "Authority (Quyền hạn) là quyền hạn thực hiện hoặc yêu cầu người khác làm việc, và có thể ủy quyền (can be delegated). Responsibility (Trách nhiệm) là nghĩa vụ phải đảm bảo công việc được hoàn thành và KHÔNG THỂ ủy thác cho người khác (Responsibility can never be delegated).",
         "image_file": "images/cau_047.png",
         "has_image": false,
         "diagram_file": null
@@ -1434,7 +1446,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Remember the management styles from Kotter to deal with change resistance • Participation and involvement0This approach aims to involve employees, usually by allowing some input into decision-making) • Education and communication: This approach aims to keeb employees informed, usually through presentations about the reason for thegquired • Facilitation and support: For example training or counseling • Manipulation and co-optation: The information that is disseminatedUS selective and distorted to only emphasize the benefits of the change,] • Negotiation and agreement: This approach enables several parties with opppsing interests Helena is only outlining the positives of the new system and is distorting the (pformation to stress that the new system will be useful. This is an example o manipulation and co-optatipn,J 51.A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to A. Reward B. Leaitimate 15:34 CN 27thg 9 100%",
+        "explanation": "Remember the management styles from Kotter to deal with change resistance • Participation and involvement0This approach aims to involve employees, usually by allowing some input into decision-making) • Education and communication: This approach aims to keeb employees informed, usually through presentations about the reason for thegquired • Facilitation and support: For example training or counseling • Manipulation and co-optation: The information that is disseminatedUS selective and distorted to only emphasize the benefits of the change,] • Negotiation and agreement: This approach enables several parties with opppsing interests Helena is only outlining the positives of the new system and is distorting the (pformation to stress that the new system will be useful. This is an example o manipulation and co-optatipn,J",
         "image_file": "images/cau_050.png",
         "has_image": false,
         "diagram_file": null
@@ -1492,7 +1504,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Poor recruitment should result in 'poor'effects (i.e., negative e ects . shoul consider any positive result to be the correct answe It is unlikely that poor recruitment and selection will increase employee motivation Hiring the wrong person for the job usually has a detrimental impact on theiti motivation as well as (potentially) the motivation of those around them. However the remainingpptions are all possible consequences! 53.Andrew is about to start attempting to recruit a new member of staff for his department. He is currently creating a person specification and has identified that the successful candidate needs to be able to work a number of evenings and 15:34 CN 27thg 9 100%",
+        "explanation": "Poor recruitment should result in 'poor'effects (i.e., negative e ects . shoul consider any positive result to be the correct answe It is unlikely that poor recruitment and selection will increase employee motivation Hiring the wrong person for the job usually has a detrimental impact on theiti motivation as well as (potentially) the motivation of those around them. However the remainingpptions are all possible consequences!",
         "image_file": "images/cau_052.png",
         "has_image": false,
         "diagram_file": null
@@ -1550,7 +1562,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "External recruitment will involve advertisi and other recruitment costs as well (inngpy cases) higher wagg'beipgpffereå 55.A business has advertised for a new employee and has stated that they must be 15:34 CN 27thg 9 100%",
+        "explanation": "External recruitment will involve advertisi and other recruitment costs as well (inngpy cases) higher wagg'beipgpffereå",
         "image_file": "images/cau_054.png",
         "has_image": false,
         "diagram_file": null
@@ -1608,7 +1620,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "• Options A and D are incorrect. GBN's own website and tradejournal are unlikely to attract unskilled individuals, as they will have little or nb needfirfarm equipment.' • Optional B is incorrect. National television is likely to unnecessarily expensive, especially as GBN is attempting to recruit workersfor a single factory in the south of the country • Option C is correct. Local newspapergnd radio advertising inghe are where the newfactory is to be located would be the most sensible option 57.A manager has recently emailed two individuals in his team, asking for them to submit reports to him. One worker did so, while the other failed to. The second worker, when asked, stated that she thought that the wording of the email meant that it did not apply to her. Which characteristic of individual behavior is the manager having difficulties 15:34 CN 27thg 9 100%",
+        "explanation": "• Options A and D are incorrect. GBN's own website and tradejournal are unlikely to attract unskilled individuals, as they will have little or nb needfirfarm equipment.' • Optional B is incorrect. National television is likely to unnecessarily expensive, especially as GBN is attempting to recruit workersfor a single factory in the south of the country • Option C is correct. Local newspapergnd radio advertising inghe are where the newfactory is to be located would be the most sensible option",
         "image_file": "images/cau_056.png",
         "has_image": false,
         "diagram_file": null
@@ -1666,7 +1678,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Remember that teams are formal groups. The main distinction is the goal of thos groups People in a team will be committed to achieving certain targets or objectives. The employees in the scenario are meetingipformallyfor social reasons and a unlikely to be formally committed to the group; Note that options B and C could apply to either groups or team 59.Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is 15:34 CN 27thg 9 100%",
+        "explanation": "Remember that teams are formal groups. The main distinction is the goal of thos groups People in a team will be committed to achieving certain targets or objectives. The employees in the scenario are meetingipformallyfor social reasons and a unlikely to be formally committed to the group; Note that options B and C could apply to either groups or team",
         "image_file": "images/cau_058.png",
         "has_image": false,
         "diagram_file": null
@@ -1786,11 +1798,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Tactics 63. What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?"
+            "text": "D. Tactics"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Sympathy B. Specialisation C. Synergy 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_062.png",
         "has_image": false,
         "diagram_file": null
@@ -1869,11 +1881,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. A public sector organisation 66. Which of the following groups may be considered to be stakeholders in the"
+            "text": "C. A public sector organisation"
           }
         ],
         "correct_answer": "C",
-        "explanation": "activities ofa nuclear power station? (1) The government (2) Environmental pressure groups (3) Employees (4) Local residents A. (3) and (4) B. (3) and (4) C. (3) only D. (I) and (3) only 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_065.png",
         "has_image": false,
         "diagram_file": null
@@ -1977,7 +1989,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. PEST 70. Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business? 15:35 CN 27thg 9 100%"
+            "text": "C. PEST"
           }
         ],
         "correct_answer": "C",
@@ -2064,11 +2076,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Political 73. Which of the following rights of data subjects is also known as the right 'to be forgotten '?"
+            "text": "D. Political"
           }
         ],
         "correct_answer": "C",
-        "explanation": "A. Rectification B. Portability C. Erasure 74. Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates 15:35 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_072.png",
         "has_image": false,
         "diagram_file": null
@@ -2172,11 +2184,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Purchasing 77. Which of the following is a support activity in Porter's value chain model?"
+            "text": "C. Purchasing"
           }
         ],
         "correct_answer": "B",
-        "explanation": "A. Procurement B. Operations 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_076.png",
         "has_image": false,
         "diagram_file": null
@@ -2280,11 +2292,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Low switching costs in the market 81. Three of the following strategies are closely related. Which is the exception?"
+            "text": "C. Low switching costs in the market"
           }
         ],
         "correct_answer": "C",
-        "explanation": "A. Downsizing B. Delegating 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_080.png",
         "has_image": false,
         "diagram_file": null
@@ -2450,11 +2462,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Public Sector Debt Repayment (PSDR) is high. 87. Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods."
+            "text": "D. Public Sector Debt Repayment (PSDR) is high."
           }
         ],
         "correct_answer": "C",
-        "explanation": "A. Direct B. Indirect C. Progressive 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_086.png",
         "has_image": false,
         "diagram_file": null
@@ -2600,11 +2612,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. False 93. Which TWO of the following does government economic monetary policy relate"
+            "text": "B. False"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Interest rates B. Taxation 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_092.png",
         "has_image": false,
         "diagram_file": null
@@ -2719,11 +2731,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Recession in the building industry 97. Which word correctly completes this statement?"
+            "text": "D. Recession in the building industry"
           }
         ],
         "correct_answer": "D",
-        "explanation": "A surplus on the balance of payments usually refers to a surplus or deficit on the account. A. Capital B. Current C. Financial 98.NorthIand, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country v' NorthlandjÅSouthfand 'J •Eastland'. -i- Westland Change in GDP -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices +27.50 +15.37 +2.25 +2.15 Change in working 4.76 +3.78 +1.76 -8.76 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_096.png",
         "has_image": false,
         "diagram_file": null
@@ -2823,11 +2835,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Measures national wealth 101. The supply curve of a firm operating in a competitive market is its:"
+            "text": "C. Measures national wealth"
           }
         ],
         "correct_answer": "B",
-        "explanation": "A. Marginal cost curve above the average variable cost curve B. Marginal cost curve above the average total cost curve C. Average total cost curve beyond the point where the marginal cost curve cuts it from below D. Average variable cost curve below the average revenue curve 15:35 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_100.png",
         "has_image": false,
         "diagram_file": null
@@ -2997,11 +3009,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. A belief that the price of good Q is likely to double in the next three months 107.According to the theory of the firm, which of the following statements describes"
+            "text": "D. A belief that the price of good Q is likely to double in the next three months"
           }
         ],
         "correct_answer": "B",
-        "explanation": "an oligopoly? A. There are no barriers to entry into or exit from the market B. There is only one producer in the market C. There are four nroducers exertina considerable influence in the market 15:36 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_106.png",
         "has_image": false,
         "diagram_file": null
@@ -3159,11 +3171,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. A good for which demand will fall as household income rises 113.Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?"
+            "text": "C. A good for which demand will fall as household income rises"
           }
         ],
         "correct_answer": "C",
-        "explanation": "A. The demand curve for flower vases will shift to the left; their price will rise B. The demand curve for flower vases will shift to the right; their price will rise C. There will be movement in the demand curve for vases; their price will go down 15:36 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_112.png",
         "has_image": false,
         "diagram_file": null
@@ -3974,7 +3986,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "business. D. An organisation chart can indicate functional authority but not line authority within a business. 142. Which of the following is a correct definition of 'span of control'? 15:36 CN 27 thg9 100%",
+        "explanation": "business. D. An organisation chart can indicate functional authority but not line authority within a business.",
         "image_file": "images/cau_141.png",
         "has_image": false,
         "diagram_file": null
@@ -4078,7 +4090,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Managers in positions of authority generally cannot be part of the informal organisation. 146. Which of the following is an advantage of centralisation? 15:36 CN 27thg 9 100%"
+            "text": "D. Managers in positions of authority generally cannot be part of the informal organisation."
           }
         ],
         "correct_answer": "D",
@@ -4161,11 +4173,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Boundaryless organisation 149. Which of the following statements are true? (1) With a shared service centre services are likely to be less tailored (2) The IT function is commonly provided using shared service approach (3) A shared service centre is not part of the organisation"
+            "text": "D. Boundaryless organisation"
           }
         ],
         "correct_answer": "D",
-        "explanation": "A. Statement (1) and (3) only B. Statements 11) and [2) onlv 15:36 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_148.png",
         "has_image": false,
         "diagram_file": null
@@ -4244,11 +4256,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Strong values are dangerous if they filter out 'uncomfortable' environmental information 152. Which word or phrase most accurately completes the definition?"
+            "text": "D. Strong values are dangerous if they filter out 'uncomfortable' environmental information"
           }
         ],
         "correct_answer": "D",
-        "explanation": "Culture is the collective programming of the mind which distinguishes the members of one from another. 15:36 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_151.png",
         "has_image": false,
         "diagram_file": null
@@ -4356,7 +4368,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Mintzberg 156.Research has indicated that workers in country A display characteristics such 15:36 CN 27thg 9 100%"
+            "text": "D. Mintzberg"
           }
         ],
         "correct_answer": "B",
@@ -4530,11 +4542,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Standing committee 162.Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance"
-          },
-          {
-            "key": "D",
-            "text": "D. epartment. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration? 15:37 CN 27 thg9 100%"
+            "text": "C. Standing committee"
           }
         ],
         "correct_answer": "C",
@@ -4704,11 +4712,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Janet, Mary and D Group 168.Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?"
+            "text": "D. Janet, Mary and D Group"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Fixing the date and time of the next meeting B. Giving a ruling on matters in dispute C. Taking notes during the meeting 15:37 CN 27 thg9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_167.png",
         "has_image": false,
         "diagram_file": null
@@ -4742,7 +4750,7 @@ window.QUIZ_DATA = [
         "id": 169,
         "question_number": 169,
         "part": 9,
-        "question_text": "AIi is responsible for preparing and issuing documents prior to a meeting, then acting on and communicating decisions following the meeting. What is his role?",
+        "question_text": "Ali is responsible for preparing and issuing documents prior to a meeting, then acting on and communicating decisions following the meeting. What is his role?",
         "options": [
           {
             "key": "A",
@@ -4754,11 +4762,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Committee Chair 169. Which of the following is a role of the Secretary ofa committee?"
+            "text": "C. Committee Chair"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Agreeing the minutes of meetings as a true and accurate record B. Maintaining order at meetings, and ensuring that all members contribute fully to discussions C. Ascertaining whether specific matters fall within the terms of reference of the committee",
+        "explanation": "Thư ký ủy ban (Committee secretary) chịu trách nhiệm chuẩn bị tài liệu trước cuộc họp và theo dõi thực hiện các quyết định sau cuộc họp.",
         "image_file": "images/cau_169.png",
         "has_image": false,
         "diagram_file": null
@@ -4783,7 +4791,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Standing committees 171. Which of the following statements about corporate social responsibility is/are (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels 15:37 CN 27 thg9 100%"
+            "text": "D. Standing committees"
           }
         ],
         "correct_answer": "D",
@@ -5148,7 +5156,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Undifferentiated marketing 184. The main levels of strategy in an organisation are as follows: 15:38 CN 27thg 9 100%"
+            "text": "D. Undifferentiated marketing"
           }
         ],
         "correct_answer": "A",
@@ -5383,11 +5391,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Venture capital 192.Fill in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A"
+            "text": "C. Venture capital"
           }
         ],
         "correct_answer": "B",
-        "explanation": "A. Implementation B. Purpose C. Stakeholders 15:38 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_191.png",
         "has_image": false,
         "diagram_file": null
@@ -5474,11 +5482,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. To record every financial transaction individually 195. Which of the following statements about accounting information is NOT"
+            "text": "D. To record every financial transaction individually"
           }
         ],
         "correct_answer": "B",
-        "explanation": "correct? A. Some companies voluntarily provide specially-prepared financial information to employees. B. Accounting information should be relevant, reliable, complete, objective and 15:38 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_194.png",
         "has_image": false,
         "diagram_file": null
@@ -5557,11 +5565,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Pay slips 198. Which of the following is an aim of the control system relating to payables and purchases?"
+            "text": "D. Pay slips"
           }
         ],
         "correct_answer": "B",
-        "explanation": "A. To ensure that all credit notes received are recorded in the general and payables ledger B. To ensure that goods and services are only supplied to customers with good credit ratings C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers 15:38 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_197.png",
         "has_image": false,
         "diagram_file": null
@@ -5640,11 +5648,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Specialised capabilities 201. Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised"
+            "text": "D. Specialised capabilities"
           }
         ],
         "correct_answer": "D",
-        "explanation": "business accounting system. A. Database B. Module C. Spreadsheet 15:38 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_200.png",
         "has_image": false,
         "diagram_file": null
@@ -6030,11 +6038,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. The payables section 215. Which of the following is NOT part of the regulatory system?"
+            "text": "C. The payables section"
           }
         ],
         "correct_answer": "B",
-        "explanation": "A. GAAP B. International financial reporting standards C. IFAC 15:38 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_214.png",
         "has_image": false,
         "diagram_file": null
@@ -6142,7 +6150,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. To help ensure compliance with applicable laws and regulations 219. Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer 15:39 CN 9 100%"
+            "text": "D. To help ensure compliance with applicable laws and regulations"
           }
         ],
         "correct_answer": "B",
@@ -6262,11 +6270,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. The internal audit function reports to the finance director 223. The use of uninterruptible (protected) power supplies is a method of protecting"
+            "text": "D. The internal audit function reports to the finance director"
           }
         ],
         "correct_answer": "A",
-        "explanation": "data and IT systems from what sort of security threat? 15:39 CN 27thg 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_222.png",
         "has_image": false,
         "diagram_file": null
@@ -6370,7 +6378,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "assess its worth D. External auditors are concerned with the financial records and statements of the organisation 227.1n the context of audit, what are 'substantive tests' designed to accomplish? A. To establish whether internal controls are being applied as prescribed Tn iHønfrifi' ørrnrc nnH nmiccinnc in finnnr•inl rør•nrHc 15:39 CN 27thg 9 100%",
+        "explanation": "assess its worth D. External auditors are concerned with the financial records and statements of the organisation",
         "image_file": "images/cau_226.png",
         "has_image": false,
         "diagram_file": null
@@ -6474,11 +6482,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Social audit 231. Which of the following circumstances would cast doubt on the external"
+            "text": "D. Social audit"
           }
         ],
         "correct_answer": "B",
-        "explanation": "auditor's ability to rely on the work of internal auditors? A. There is evidence that management and directors consistently act on internal 15:39 CN 9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_230.png",
         "has_image": false,
         "diagram_file": null
@@ -6557,7 +6565,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. (3) and (4) 234.X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects? 15:39 CN 9 100%"
+            "text": "D. (3) and (4)"
           }
         ],
         "correct_answer": "D",
@@ -6669,7 +6677,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Consultative management style 238.All ofthe following, except one, are potential impacts on a business of removal 15:39 CN 9 100%"
+            "text": "D. Consultative management style"
           }
         ],
         "correct_answer": "C",
@@ -6958,11 +6966,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Integration 248.Landis Co has a team of experts whose role is to analyse vast volumes of data"
+            "text": "C. Integration"
           }
         ],
         "correct_answer": "A",
-        "explanation": "concerning many areas of the business that come from a wide variety of sources. Landis Co is seeking competitive advantage from: uauue•stue) pauueos 15•.39 CN 27 thg9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_247.png",
         "has_image": false,
         "diagram_file": null
@@ -7207,7 +7215,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Verify the ownership of assets 257. The following are reasons why people might be interested in financial information about a large public company. • Assessing how effectively management is running the company o To advise clients • To assess tax payable by the company o To assess the ability of the company to pay its debts For each of the following users of financial information, match the appropriate rpncnn fnr umntinn tho infnrnontinn frnm tho lict nhnvp• 15:39 CN 9 100%"
+            "text": "C. Verify the ownership of assets"
           }
         ],
         "correct_answer": "C",
@@ -7282,7 +7290,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. An informative 260.QRT Co has just implemented a new computerised accounting package and also reinforced some of its accounting controls. The new system has the following features: 1. All accounting entries must balance or they cannot be entered. 2. A module exists so that non-current asset purchases can be authorised by the relevant member of management. 3. Users are set up with passwords in order to login to the system. 4. An audit trail is produced so all transactions can be traced to the time of 15:39 CN 9 100%"
+            "text": "C. An informative"
           }
         ],
         "correct_answer": "B",
@@ -7533,15 +7541,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Security 269.SteIIa is an external auditor who has observed some cash transactions that"
-          },
-          {
-            "key": "D",
-            "text": "D. on't have any supporting documentation. Upon further investigation she"
+            "text": "C. Security"
           }
         ],
         "correct_answer": "A",
-        "explanation": "discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients 15:40 CN 27 thg9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_268.png",
         "has_image": false,
         "diagram_file": null
@@ -7550,23 +7554,27 @@ window.QUIZ_DATA = [
         "id": 269,
         "question_number": 269,
         "part": 14,
-        "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report. Which of the following offences has been committed by Stella?",
+        "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action.\nJames is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report.\nWhich offences have been committed by Stella and James?",
         "options": [
           {
             "key": "A",
-            "text": "A. Failure to report"
+            "text": "A. Stella: Failure to report | James: Tipping off"
           },
           {
             "key": "B",
-            "text": "B. No offence has been committed"
+            "text": "B. Stella: No offence has been committed | James: Tipping off"
           },
           {
             "key": "C",
-            "text": "C. Tipping off Which of the following offences has been committed by James?"
+            "text": "C. Stella: Failure to report | James: Failure to report"
+          },
+          {
+            "key": "D",
+            "text": "D. Stella: Tipping off | James: No offence has been committed"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Failure to report B. No offence has been committed C. Tipping off",
+        "explanation": "Stella phát hiện giao dịch gian lận/đáng ngờ nhưng cùng quản lý quyết định không làm gì -> Phạm tội 'Không báo cáo' (Failure to report). James báo cáo cho cán bộ phụ trách nhưng đồng thời lại tiết lộ cho đối tượng của khách hàng -> Phạm tội 'Tiết lộ thông tin bí mật' (Tipping off).",
         "image_file": "images/cau_269.png",
         "has_image": false,
         "diagram_file": null
@@ -7575,23 +7583,27 @@ window.QUIZ_DATA = [
         "id": 270,
         "question_number": 270,
         "part": 14,
-        "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity. Laura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements. Which of the following phases of money laundering is being undertaken by Elyse?",
+        "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity.\nLaura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements.\nWhich phases of money laundering are being undertaken by Elyse and Laura?",
         "options": [
           {
             "key": "A",
-            "text": "A. Integration"
+            "text": "A. Elyse: Layering | Laura: Placement"
           },
           {
             "key": "B",
-            "text": "B. Layering"
+            "text": "B. Elyse: Placement | Laura: Layering"
           },
           {
             "key": "C",
-            "text": "C. Placement Which ofthefollowing phases of money laundering is being undertaken by Laura?"
+            "text": "C. Elyse: Integration | Laura: Placement"
+          },
+          {
+            "key": "D",
+            "text": "D. Elyse: Layering | Laura: Integration"
           }
         ],
-        "correct_answer": "B",
-        "explanation": "A. Integration B. Layering C. Placement",
+        "correct_answer": "A",
+        "explanation": "3 giai đoạn rửa tiền: 1. Placement (Đặt tiền/Gửi các khoản tiền mặt bất hợp pháp vào ngân hàng - Laura); 2. Layering (Phân tầng/Chuyển dịch tiền qua nhiều tài khoản để ngụy trang nguồn gốc - Elyse); 3. Integration (Tích hợp tiền sạch vào nền kinh tế).",
         "image_file": "images/cau_270.png",
         "has_image": false,
         "diagram_file": null
@@ -7861,11 +7873,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. It encourages the highest productivity 281. Which of the following terms is used to describe the 'right' to perform an action in an organisation?"
+            "text": "C. It encourages the highest productivity"
           }
         ],
         "correct_answer": "A",
-        "explanation": "A. Responsibility 15:40 CN 27 thg9 100%",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
         "image_file": "images/cau_280.png",
         "has_image": false,
         "diagram_file": null
