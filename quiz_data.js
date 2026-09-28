@@ -6869,7 +6869,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "B",
-            "text": "B. Investigating the activities and contacts ofa suspected fraudster"
+            "text": "B. Investigating the activities and contacts of a suspected fraudster"
           },
           {
             "key": "C",
@@ -6877,7 +6877,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kế hoạch ứng phó gian lận (Fraud response plan) là biện pháp đối phó SAU KHI gian lận đã xảy ra hoặc bị nghi ngờ (như đình chỉ nhân viên, điều tra dấu vết). Đào tạo nhận thức gian lận và kiểm soát tuyển dụng (C) là các biện pháp phòng ngừa từ trước (Fraud prevention), không thuộc kế hoạch ứng phó sự vụ.",
         "image_file": "images/cau_243.png",
         "has_image": false,
         "diagram_file": null
@@ -6886,11 +6886,11 @@ window.QUIZ_DATA = [
         "id": 244,
         "question_number": 244,
         "part": 13,
-        "question_text": "0nIy allowing purchasing staff to choose suppliers from an approved list is an example of what sort of fraud prevention measure?",
+        "question_text": "Only allowing purchasing staff to choose suppliers from an approved list is an example of what sort of fraud prevention measure?",
         "options": [
           {
             "key": "A",
-            "text": "A. Segregation ofduties"
+            "text": "A. Segregation of duties"
           },
           {
             "key": "B",
@@ -6906,7 +6906,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chỉ cho phép nhân viên mua hàng lựa chọn nhà cung cấp từ danh sách đã được phê duyệt là một biện pháp kiểm soát giới hạn quyền hạn (Limitation control - C), nhằm ngăn chặn việc tự ý mua hàng từ các công ty 'ma' hoặc người quen để trục lợi.",
         "image_file": "images/cau_244.png",
         "has_image": false,
         "diagram_file": null
@@ -6915,7 +6915,7 @@ window.QUIZ_DATA = [
         "id": 245,
         "question_number": 245,
         "part": 13,
-        "question_text": "Which of the following statements aboutfraud prevention is NOT true?",
+        "question_text": "Which of the following statements about fraud prevention is NOT true?",
         "options": [
           {
             "key": "A",
@@ -6931,11 +6931,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Fraud awareness and ethics education can reduce the risk offraud."
+            "text": "D. Fraud awareness and ethics education can reduce the risk of fraud."
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phát biểu B sai (đáp án cần chọn) vì chế độ lương thưởng gắn với hiệu quả hoạt động (Performance-based rewards) thường tạo ra áp lực tài chính rất lớn khiến các nhà quản lý dễ gian lận và làm đẹp báo cáo tài chính để đạt chỉ tiêu nhận thưởng.",
         "image_file": "images/cau_245.png",
         "has_image": false,
         "diagram_file": null
@@ -6944,7 +6944,7 @@ window.QUIZ_DATA = [
         "id": 246,
         "question_number": 246,
         "part": 13,
-        "question_text": "Which word(s) completes the sentence? constitutes any financial transactions whose purpose is to conceal the origins of the proceeds of criminal activity.",
+        "question_text": "Which word(s) completes the sentence?\n_____ constitutes any financial transactions whose purpose is to conceal the origins of the proceeds of criminal activity.",
         "options": [
           {
             "key": "A",
@@ -6964,7 +6964,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Rửa tiền (Money laundering) là bất kỳ giao dịch tài chính nào nhằm che giấu nguồn gốc bất hợp pháp của các khoản tiền thu được từ hoạt động tội phạm.",
         "image_file": "images/cau_246.png",
         "has_image": false,
         "diagram_file": null
@@ -6989,7 +6989,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "3 giai đoạn của quá trình rửa tiền gồm:\n1. Placement (Tẩu tán/Gửi tiền): Đưa tiền bẩn vào hệ thống tài chính hoặc doanh nghiệp hợp pháp ban đầu (A).\n2. Layering (Phân lớp): Thực hiện nhiều giao dịch phức tạp để xóa dấu vết.\n3. Integration (Hòa nhập): Đưa tiền sạch trở lại lưu thông kinh tế.",
         "image_file": "images/cau_247.png",
         "has_image": false,
         "diagram_file": null
