@@ -5192,27 +5192,27 @@ window.QUIZ_DATA = [
         "id": 184,
         "question_number": 184,
         "part": 10,
-        "question_text": "The main levels of strategy in an organisation are Corporate strategy, Business strategy, and Operational (functional) strategy. Match each definition to the appropriate strategy level.",
+        "question_text": "The main levels of strategy in an organisation are as follows:\n• Corporate strategy\n• Business strategy\n• Operational (functional) strategy\n\nMatch the appropriate level of strategy to each strategic question below:\n(1) Which business should we be in?\n(2) Should we specialise in a profitable product?\n(3) How best can we market the products?\n(4) Should we segment the market?",
         "options": [
           {
             "key": "A",
-            "text": "A. Corporate: Overall purpose and scope of the business | Business: How to compete successfully in particular markets | Operational: How component parts deliver effectively"
+            "text": "A. (1) Corporate | (2) Business | (3) Operational | (4) Business"
           },
           {
             "key": "B",
-            "text": "B. Corporate: How component parts deliver | Business: Overall purpose | Operational: How to compete"
+            "text": "B. (1) Business | (2) Corporate | (3) Operational | (4) Corporate"
           },
           {
             "key": "C",
-            "text": "C. Corporate: How to compete | Business: Overall purpose | Operational: How component parts deliver"
+            "text": "C. (1) Corporate | (2) Operational | (3) Business | (4) Operational"
           },
           {
             "key": "D",
-            "text": "D. Corporate: Overall purpose | Business: How component parts deliver | Operational: How to compete"
+            "text": "D. (1) Operational | (2) Business | (3) Corporate | (4) Business"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Chiến lược cấp công ty (Corporate) định hình mục tiêu tổng thể. Chiến lược kinh doanh (Business) xác định cách cạnh tranh trên thị trường. Chiến lược tác nghiệp (Operational) tập trung vào thực thi của các bộ phận.",
+        "explanation": "• 'Which business should we be in?' (Doanh nghiệp nên tham gia ngành nghề/lĩnh vực nào?) -> Chiến lược cấp công ty (Corporate strategy).\n• 'Should we specialise in a profitable product?' và 'Should we segment the market?' -> Chiến lược cấp kinh doanh (Business strategy).\n• 'How best can we market the products?' (Làm thế nào để tiếp thị sản phẩm tốt nhất?) -> Chiến lược cấp chức năng/tác nghiệp (Operational strategy).",
         "image_file": "images/cau_184.png",
         "has_image": false,
         "diagram_file": null
@@ -5257,31 +5257,27 @@ window.QUIZ_DATA = [
         "id": 186,
         "question_number": 186,
         "part": 10,
-        "question_text": "Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests. Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated. Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions. Company Z has a flat organisation structure and a high level of employee participation in decision-making. For each company, select which of Hofstede's four main dimensions of cultural differences is being displayed. Company W_lndividualism Company X_ Uncertainty avoidance Company Y_MascuIinity",
+        "question_text": "Read the descriptions of four companies below:\n• Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests.\n• Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated.\n• Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions.\n• Company Z has a flat organisation structure and a high level of employee participation in decision-making.\n\nFor each company, select which of Hofstede's four main dimensions of cultural differences is being displayed:",
         "options": [
           {
             "key": "A",
-            "text": "A. Individualism"
+            "text": "A. Company W: Individualism | Company X: Uncertainty avoidance | Company Y: Masculinity | Company Z: Power distance"
           },
           {
             "key": "B",
-            "text": "B. Masculinity"
+            "text": "B. Company W: Power distance | Company X: Individualism | Company Y: Uncertainty avoidance | Company Z: Masculinity"
           },
           {
             "key": "C",
-            "text": "C. Power distance"
+            "text": "C. Company W: Uncertainty avoidance | Company X: Masculinity | Company Y: Power distance | Company Z: Individualism"
           },
           {
             "key": "D",
-            "text": "D. Femininity"
-          },
-          {
-            "key": "E",
-            "text": "E. Uncertainty avoidance"
+            "text": "D. Company W: Masculinity | Company X: Power distance | Company Y: Individualism | Company Z: Uncertainty avoidance"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo các chiều kích văn hóa của Hofstede:\n• Company W: Tập trung vào tính tự chủ cá nhân và hoàn thành công việc hơn là các mối quan hệ -> Chủ nghĩa cá nhân (Individualism).\n• Company X: Quy chế nghiêm ngặt, tuân thủ chặt chẽ, không chấp nhận bất đồng -> Né tránh bất định (Uncertainty avoidance).\n• Company Y: Tập trung vào quan hệ làm việc tốt và đồng thuận -> Được phân loại là Masculinity/Femininity trong tài liệu gốc.\n• Company Z: Cơ cấu phẳng, nhân viên tham gia tích cực vào quyết định -> Khoảng cách quyền lực thấp (Power distance).",
         "image_file": "images/cau_186.png",
         "has_image": false,
         "diagram_file": null
@@ -5290,23 +5286,27 @@ window.QUIZ_DATA = [
         "id": 187,
         "question_number": 187,
         "part": 10,
-        "question_text": "According to Schein there are three determinants of culture, the first being observable. Patterns of greeting styles and business formalities are known as .Attitudes Concrete expressions, such as office premises design, are .Artefacts",
+        "question_text": "According to Schein there are three determinants of culture, the first being observable.\n• Patterns of greeting styles and business formalities are known as _____.\n• Concrete expressions, such as office premises design, are _____.\n\nWhich of the following correctly fills the two blanks?",
         "options": [
           {
             "key": "A",
-            "text": "A. Artefacts"
+            "text": "A. (1) Attitudes | (2) Artefacts"
           },
           {
             "key": "B",
-            "text": "B. Attitudes"
+            "text": "B. (1) Artefacts | (2) Attitudes"
           },
           {
             "key": "C",
-            "text": "C. Behaviour"
+            "text": "C. (1) Behaviour | (2) Attitudes"
+          },
+          {
+            "key": "D",
+            "text": "D. (1) Artefacts | (2) Behaviour"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo mô hình 3 tầng văn hóa của Schein: Các biểu hiện về nghi thức chào hỏi, lễ nghi thuộc về Thái độ (Attitudes), còn các biểu hiện vật chất cụ thể nhìn thấy được như thiết kế văn phòng thuộc về Hiện vật (Artefacts).",
         "image_file": "images/cau_187.png",
         "has_image": false,
         "diagram_file": null
@@ -5315,27 +5315,27 @@ window.QUIZ_DATA = [
         "id": 188,
         "question_number": 188,
         "part": 10,
-        "question_text": "Match the statements below to the type of organisational structure they relate to:\n1. Employees are grouped by specialism\n2. Dominated by a key central figure\n3. Employees report to more than one manager\n4. Organised in semi-autonomous blocks",
+        "question_text": "Match the statements below to the type of organisational structure they relate to:\n(1) Employees are grouped by specialism\n(2) Dominated by a key central figure\n(3) Employees report to more than one manager\n(4) Organised in semi-autonomous blocks",
         "options": [
           {
             "key": "A",
-            "text": "A. 1-Functional, 2-Entrepreneurial, 3-Matrix, 4-Divisional"
+            "text": "A. (1) Functional | (2) Entrepreneurial | (3) Matrix | (4) Divisional"
           },
           {
             "key": "B",
-            "text": "B. 1-Entrepreneurial, 2-Functional, 3-Divisional, 4-Matrix"
+            "text": "B. (1) Entrepreneurial | (2) Functional | (3) Divisional | (4) Matrix"
           },
           {
             "key": "C",
-            "text": "C. 1-Matrix, 2-Divisional, 3-Functional, 4-Entrepreneurial"
+            "text": "C. (1) Matrix | (2) Divisional | (3) Functional | (4) Entrepreneurial"
           },
           {
             "key": "D",
-            "text": "D. 1-Divisional, 2-Matrix, 3-Entrepreneurial, 4-Functional"
+            "text": "D. (1) Divisional | (2) Matrix | (3) Entrepreneurial | (4) Functional"
           }
         ],
         "correct_answer": "A",
-        "explanation": "1: Functional (chức năng). 2: Entrepreneurial (doanh nhân/tập trung). 3: Matrix (ma trận, 2 sếp). 4: Divisional (chi nhánh/bộ phận độc lập).",
+        "explanation": "• Nhân viên nhóm theo chuyên môn -> Cơ cấu chức năng (Functional).\n• Chi phối bởi một nhân vật trung tâm -> Cơ cấu khởi nghiệp/doanh nhân (Entrepreneurial).\n• Báo cáo cho nhiều hơn một cấp quản lý -> Cơ cấu ma trận (Matrix).\n• Tổ chức thành các khối bán tự chủ -> Cơ cấu bộ phận/phân khu (Divisional).",
         "image_file": "images/cau_188.png",
         "has_image": false,
         "diagram_file": null
@@ -5344,7 +5344,7 @@ window.QUIZ_DATA = [
         "id": 189,
         "question_number": 189,
         "part": 10,
-        "question_text": "1n Marchfield Co, all of the organisation's products are produced as components by other businesses which are then assembled in Marchfield CO's factory. Which type of organisation is Marchfield Co?",
+        "question_text": "In Marchfield Co, all of the organisation's products are produced as components by other businesses which are then assembled in Marchfield Co's factory. Which type of organisation is Marchfield Co?",
         "options": [
           {
             "key": "A",
@@ -5364,7 +5364,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Doanh nghiệp dạng mô-đun (Modular organisation) thuê ngoài các doanh nghiệp khác sản xuất từng bộ phận linh kiện, sau đó tự mình lắp ráp thành sản phẩm hoàn chỉnh tại nhà máy của công ty.",
         "image_file": "images/cau_189.png",
         "has_image": false,
         "diagram_file": null
@@ -5373,27 +5373,27 @@ window.QUIZ_DATA = [
         "id": 190,
         "question_number": 190,
         "part": 10,
-        "question_text": "For each of the following tasks, select which department is responsible (Financial accounting vs Treasury):\n1. Arranging an overdraft\n2. Managing foreign currency exposure\n3. Recording financial transactions\n4. Cash budgeting\n5. Reporting to shareholders\n6. Repaying loans",
+        "question_text": "For each of the following tasks, select which department is responsible (Treasury vs Financial accounting):\n(1) Arranging an overdraft\n(2) Managing foreign currency exposure\n(3) Recording financial transactions\n(4) Cash budgeting\n(5) Reporting to shareholders\n(6) Repaying loans",
         "options": [
           {
             "key": "A",
-            "text": "A. Treasury: 1, 2, 4, 6 | Financial accounting: 3, 5"
+            "text": "A. Treasury: (1), (2), (4), (6) | Financial accounting: (3), (5)"
           },
           {
             "key": "B",
-            "text": "B. Treasury: 3, 5 | Financial accounting: 1, 2, 4, 6"
+            "text": "B. Treasury: (3), (5) | Financial accounting: (1), (2), (4), (6)"
           },
           {
             "key": "C",
-            "text": "C. Treasury: 1, 3, 5 | Financial accounting: 2, 4, 6"
+            "text": "C. Treasury: (1), (3), (5) | Financial accounting: (2), (4), (6)"
           },
           {
             "key": "D",
-            "text": "D. Treasury: 2, 4 | Financial accounting: 1, 3, 5, 6"
+            "text": "D. Treasury: (2), (4) | Financial accounting: (1), (3), (5), (6)"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Treasury (Ngân quỹ) quản lý dòng tiền, vay vốn, ngoại tệ và thanh toán nợ (1, 2, 4, 6). Financial accounting (Kế toán tài chính) ghi sổ nghiệp vụ và lập báo cáo tài chính gửi cổ đông (3, 5).",
+        "explanation": "• Bộ phận Ngân quỹ (Treasury) phụ trách quản lý nguồn vốn và dòng tiền: (1) Sắp xếp hạn mức thấu chi, (2) Quản lý rủi ro tỷ giá, (4) Lập ngân sách tiền mặt, (6) Trả nợ vay.\n• Bộ phận Kế toán tài chính (Financial accounting) phụ trách ghi sổ và báo cáo: (3) Ghi nhận các giao dịch tài chính, (5) Báo cáo gửi cổ đông.",
         "image_file": "images/cau_190.png",
         "has_image": false,
         "diagram_file": null
@@ -5402,7 +5402,7 @@ window.QUIZ_DATA = [
         "id": 191,
         "question_number": 191,
         "part": 10,
-        "question_text": "Which of the following correctly fills the gap? Markets for trading short-term financial instruments are known as",
+        "question_text": "Markets for trading short-term financial instruments are known as _____.\nWhich of the following correctly fills the blank?",
         "options": [
           {
             "key": "A",
@@ -5418,7 +5418,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thị trường tiền tệ (Money markets) là thị trường giao dịch các công cụ tài chính ngắn hạn (kỳ hạn dưới 1 năm). Thị trường vốn (Capital markets) dành cho công cụ tài chính trung và dài hạn.",
         "image_file": "images/cau_191.png",
         "has_image": false,
         "diagram_file": null
@@ -5427,31 +5427,27 @@ window.QUIZ_DATA = [
         "id": 192,
         "question_number": 192,
         "part": 10,
-        "question_text": "FiII in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A",
+        "question_text": "Fill in the gaps in the King report's summary of the role of the board below:\n(1) To define the _____ of the company.\n(2) To define the _____ by which the company will perform its daily duties.\n(3) To identify the _____ relevant to the company.\n(4) To develop a _____ combining these factors.\n(5) To ensure _____ of this strategy.\n\nWhich of the following options shows the correct words in order from (1) to (5)?",
         "options": [
           {
             "key": "A",
-            "text": "A. Implementation"
+            "text": "A. (1) Purpose - (2) Values - (3) Stakeholders - (4) Strategy - (5) Implementation"
           },
           {
             "key": "B",
-            "text": "B. Purpose"
+            "text": "B. (1) Values - (2) Purpose - (3) Strategy - (4) Stakeholders - (5) Implementation"
           },
           {
             "key": "C",
-            "text": "C. Stakeholders"
+            "text": "C. (1) Purpose - (2) Strategy - (3) Values - (4) Implementation - (5) Stakeholders"
           },
           {
             "key": "D",
-            "text": "D. Strategy"
-          },
-          {
-            "key": "E",
-            "text": "E. Values"
+            "text": "D. (1) Strategy - (2) Purpose - (3) Stakeholders - (4) Values - (5) Implementation"
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo Báo cáo King, vai trò của HĐQT gồm: (1) Xác định mục đích (Purpose); (2) Xác định các giá trị (Values); (3) Xác định các bên liên quan (Stakeholders); (4) Xây dựng chiến lược (Strategy); (5) Đảm bảo thực thi (Implementation) chiến lược.",
         "image_file": "images/cau_192.png",
         "has_image": false,
         "diagram_file": null
@@ -5460,11 +5456,11 @@ window.QUIZ_DATA = [
         "id": 193,
         "question_number": 193,
         "part": 10,
-        "question_text": "Which of the following is NOT part of the role ofa company secretary?",
+        "question_text": "Which of the following is NOT part of the role of a company secretary?",
         "options": [
           {
             "key": "A",
-            "text": "A. Establishment and maintenance ofa registered office"
+            "text": "A. Establishment and maintenance of a registered office"
           },
           {
             "key": "B",
@@ -5480,7 +5476,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Thư ký công ty (Company secretary) chịu trách nhiệm về tuân thủ pháp lý và hành chính (đăng ký trụ sở, nộp báo cáo thường niên, lưu giữ sổ sách luật định). Chủ tọa các cuộc họp ủy ban quản lý (C) không thuộc trách nhiệm của thư ký công ty.",
         "image_file": "images/cau_193.png",
         "has_image": false,
         "diagram_file": null
@@ -5509,7 +5505,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Mục tiêu chính của kế toán là cung cấp thông tin tài chính hữu ích cho người sử dụng thông tin (nhà đầu tư, ban quản trị, chủ nợ,...) để đưa ra các quyết định kinh tế.",
         "image_file": "images/cau_194.png",
         "has_image": false,
         "diagram_file": null
@@ -5547,7 +5543,7 @@ window.QUIZ_DATA = [
         "id": 196,
         "question_number": 196,
         "part": 10,
-        "question_text": "1n a typical finance function, preparation of budgets and budgetary control would usually be the responsibility of which of the following roles?",
+        "question_text": "In a typical finance function, preparation of budgets and budgetary control would usually be the responsibility of which of the following roles?",
         "options": [
           {
             "key": "A",
@@ -5563,7 +5559,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kế toán quản trị (Management Accountant) chịu trách nhiệm lập ngân sách, phân tích chi phí và kiểm soát việc thực hiện ngân sách trong nội bộ doanh nghiệp.",
         "image_file": "images/cau_196.png",
         "has_image": false,
         "diagram_file": null
@@ -5572,7 +5568,7 @@ window.QUIZ_DATA = [
         "id": 197,
         "question_number": 197,
         "part": 10,
-        "question_text": "Three of the following are outputs ofa payroll system, and one is an input to the system. Which is the input?",
+        "question_text": "Three of the following are outputs of a payroll system, and one is an input to the system. Which is the input?",
         "options": [
           {
             "key": "A",
@@ -5592,7 +5588,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Bảng chấm công / giờ làm việc (Time sheets - B) là dữ liệu đầu vào (input) để tính lương. Các tài liệu như phiếu lương (Pay slips), lệnh chuyển tiền (Credit transfer forms), phân tích chi phí lương (Payroll analysis) là sản phẩm đầu ra (output) của hệ thống tiền lương.",
         "image_file": "images/cau_197.png",
         "has_image": false,
         "diagram_file": null
@@ -5646,7 +5642,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Luật doanh nghiệp yêu cầu Báo cáo tình hình tài chính (Statement of financial position / Balance sheet) phải phản ánh trung thực và hợp lý (a true and fair view) về tình hình tài chính của công ty tại thời điểm kết thúc năm tài chính (C).",
         "image_file": "images/cau_199.png",
         "has_image": false,
         "diagram_file": null
@@ -5675,7 +5671,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Phần mềm chuyên biệt đơn lẻ (stand-alone programs) thường có tính năng chuyên sâu và tùy biến cao hơn cho từng nghiệp vụ đặc thù (Specialised capabilities - D) so với các gói phần mềm kế toán tích hợp tổng thể.",
         "image_file": "images/cau_200.png",
         "has_image": false,
         "diagram_file": null
