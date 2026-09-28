@@ -5009,7 +5009,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. (1), (2) and (4) only 15:37 CN 27 thg9 100%"
+            "text": "C. (1), (2) and (4) only"
           }
         ],
         "correct_answer": "C",
@@ -5121,7 +5121,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. (3) and (4) 15:38 CN 9 100%"
+            "text": "C. (3) and (4)"
           }
         ],
         "correct_answer": "B",
@@ -5261,7 +5261,7 @@ window.QUIZ_DATA = [
         "id": 186,
         "question_number": 186,
         "part": 10,
-        "question_text": "Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests. Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated. Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions. Company Z has a flat organisation structure and a high level of employee participation in decision-making. For each company, select which of Hofstede's four main dimensions of cultural differences is being displayed. Company W_lndividualism Company X_ Uncertainty avoidance Company Y_MascuIinity 15:38 CN 9 100% Company W Individualism Company X_ Uncertainty avoidance Company Y_MascuIinity Company Z_Power distance",
+        "question_text": "Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests. Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated. Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions. Company Z has a flat organisation structure and a high level of employee participation in decision-making. For each company, select which of Hofstede's four main dimensions of cultural differences is being displayed. Company W_lndividualism Company X_ Uncertainty avoidance Company Y_MascuIinity",
         "options": [
           {
             "key": "A",
@@ -5878,7 +5878,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Data is always in numerical form whereas information is always in text form. 15:38 CN 27thg 9 100%"
+            "text": "C. Data is always in numerical form whereas information is always in text form."
           }
         ],
         "correct_answer": "C",
@@ -5961,7 +5961,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. Productivity 15:38 CN 9 100%"
+            "text": "C. Productivity"
           }
         ],
         "correct_answer": "C",
@@ -7655,7 +7655,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Use of control totals 15:40 CN 27 thg9 100%"
+            "text": "D. Use of control totals"
           }
         ],
         "correct_answer": "D",
@@ -7767,7 +7767,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. (3) and (4) 15:40 CN 27 thg9 100%"
+            "text": "D. (3) and (4)"
           }
         ],
         "correct_answer": "C",
