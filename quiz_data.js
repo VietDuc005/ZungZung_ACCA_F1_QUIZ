@@ -5941,7 +5941,7 @@ window.QUIZ_DATA = [
         "id": 210,
         "question_number": 210,
         "part": 11,
-        "question_text": "Which word correctly completes this sentence? Office Automation Systems are designed mainly to increase the of data and information workers.",
+        "question_text": "Which word correctly completes this sentence?\nOffice Automation Systems are designed mainly to increase the _____ of data and information workers.",
         "options": [
           {
             "key": "A",
@@ -5957,7 +5957,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hệ thống tự động hóa văn phòng (Office Automation Systems - OAS) được thiết kế nhằm mục đích chính là tăng năng suất làm việc (Productivity - C) của những người làm việc với dữ liệu và thông tin.",
         "image_file": "images/cau_210.png",
         "has_image": false,
         "diagram_file": null
@@ -6099,7 +6099,7 @@ window.QUIZ_DATA = [
         "id": 216,
         "question_number": 216,
         "part": 11,
-        "question_text": "1nternational Financial Reporting Standards are issued by which of the following organisations?",
+        "question_text": "International Financial Reporting Standards are issued by which of the following organisations?",
         "options": [
           {
             "key": "A",
@@ -6115,7 +6115,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) do Hội đồng Chuẩn mực Kế toán Quốc tế (IASB - International Accounting Standards Board) ban hành.",
         "image_file": "images/cau_216.png",
         "has_image": false,
         "diagram_file": null
@@ -6182,7 +6182,7 @@ window.QUIZ_DATA = [
         "id": 219,
         "question_number": 219,
         "part": 11,
-        "question_text": "Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer system. These are classified as controls.",
+        "question_text": "Which term correctly completes this statement?\nSome controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer system. These are classified as _____ controls.",
         "options": [
           {
             "key": "A",
@@ -6202,7 +6202,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm soát bắt buộc/không tùy ý (Non-discretionary controls - D) là các biện pháp kiểm soát được hệ thống tự động thực thi và nhân viên không thể tự ý bỏ qua hoặc vượt quyền (ví dụ yêu cầu nhập mật khẩu).",
         "image_file": "images/cau_219.png",
         "has_image": false,
         "diagram_file": null
@@ -6385,7 +6385,7 @@ window.QUIZ_DATA = [
         "options": [
           {
             "key": "A",
-            "text": "A. External auditors are appointed by the shareholders ofa company"
+            "text": "A. External auditors are appointed by the shareholders of a company"
           },
           {
             "key": "B",
@@ -6393,11 +6393,15 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. External auditors may rely on the work of internal auditors, but first they have to"
+            "text": "C. External auditors may rely on the work of internal auditors, but first they have to assess its worth"
+          },
+          {
+            "key": "D",
+            "text": "D. External auditors are concerned with the financial records and statements of the organisation"
           }
         ],
         "correct_answer": "B",
-        "explanation": "assess its worth D. External auditors are concerned with the financial records and statements of the organisation",
+        "explanation": "Phát biểu B sai (đáp án cần chọn). Trách nhiệm chính của kiểm toán viên độc lập là đưa ra ý kiến độc lập về tính trung thực và hợp lý của BCTC (True and fair view), chứ không phải đi điều tra sai phạm tài chính. Việc ngăn chặn và phát hiện gian lận/sai sót là trách nhiệm của Ban giám đốc.",
         "image_file": "images/cau_226.png",
         "has_image": false,
         "diagram_file": null
@@ -6406,7 +6410,7 @@ window.QUIZ_DATA = [
         "id": 227,
         "question_number": 227,
         "part": 12,
-        "question_text": "1n the context of audit, what are 'substantive tests' designed to accomplish?",
+        "question_text": "In the context of audit, what are 'substantive tests' designed to accomplish?",
         "options": [
           {
             "key": "A",
@@ -6426,7 +6430,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm tra cơ bản (Substantive tests - B) là các thủ tục kiểm toán được thiết kế nhằm phát hiện các sai sót trọng yếu và thiếu sót trong số liệu ghi chép tài chính và BCTC.",
         "image_file": "images/cau_227.png",
         "has_image": false,
         "diagram_file": null
@@ -6460,7 +6464,7 @@ window.QUIZ_DATA = [
         "id": 229,
         "question_number": 229,
         "part": 12,
-        "question_text": "Which word or phrase correctly completes this definition? In the context of data security controls, are records showing who has accessed a computer system and what operations he or she has performed.",
+        "question_text": "Which word or phrase correctly completes this definition?\nIn the context of data security controls, _____ are records showing who has accessed a computer system and what operations he or she has performed.",
         "options": [
           {
             "key": "A",
@@ -6476,7 +6480,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Dấu vết kiểm toán (Audit trails - B) là bản ghi lại lịch sử các giao dịch, ai đã truy cập vào hệ thống máy tính và những thao tác nghiệp vụ nào đã được thực hiện.",
         "image_file": "images/cau_229.png",
         "has_image": false,
         "diagram_file": null
@@ -6505,7 +6509,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Kiểm toán hoạt động (Operational audit - B) tập trung vào việc giám sát hiệu quả điều hành của ban quản lý, đo lường đầu ra và tính hiệu quả, tính kinh tế trong vận hành của tổ chức.",
         "image_file": "images/cau_230.png",
         "has_image": false,
         "diagram_file": null
@@ -6626,7 +6630,7 @@ window.QUIZ_DATA = [
         "id": 235,
         "question_number": 235,
         "part": 12,
-        "question_text": "Which word correctly completes this statement? Dishonesty is a to act in ways which contravene accepted ethical, social, organisational or legal norms for fair and honest dealing.",
+        "question_text": "Which word correctly completes this statement?\nDishonesty is a _____ to act in ways which contravene accepted ethical, social, organisational or legal norms for fair and honest dealing.",
         "options": [
           {
             "key": "A",
@@ -6642,7 +6646,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sự không trung thực là một khuynh hướng/thiên hướng sẵn có (Pre-disposition - B) dẫn đến hành động trái với các chuẩn mực đạo đức, xã hội hoặc pháp luật.",
         "image_file": "images/cau_235.png",
         "has_image": false,
         "diagram_file": null
@@ -6767,7 +6771,7 @@ window.QUIZ_DATA = [
         "id": 240,
         "question_number": 240,
         "part": 12,
-        "question_text": "Which word or phrase correctly completes this statement? In a limited company, or plc, it is the ultimate responsibility of to take reasonable steps to prevent and detect fraud.",
+        "question_text": "Which word or phrase correctly completes this statement?\nIn a limited company, or plc, it is the ultimate responsibility of _____ to take reasonable steps to prevent and detect fraud.",
         "options": [
           {
             "key": "A",
@@ -6783,7 +6787,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Trong công ty cổ phần, trách nhiệm cao nhất và cuối cùng trong việc thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện gian lận thuộc về Hội đồng quản trị / Ban giám đốc (B - The board of directors).",
         "image_file": "images/cau_240.png",
         "has_image": false,
         "diagram_file": null
