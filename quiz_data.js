@@ -6045,7 +6045,7 @@ window.QUIZ_DATA = [
         "id": 214,
         "question_number": 214,
         "part": 11,
-        "question_text": "There is a need for co-ordinated information flow between sections and departments in accounting management, To which of the following should the receivables ledger section give information about overdue debts?",
+        "question_text": "There is a need for co-ordinated information flow between sections and departments in accounting management. To which of the following should the receivables ledger section give information about overdue debts?",
         "options": [
           {
             "key": "A",
@@ -6061,7 +6061,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Bộ phận theo dõi sổ cái các khoản phải thu (Receivables ledger) cần thông báo ngay các khoản nợ quá hạn (overdue debts) cho Bộ phận kiểm soát tín dụng (Credit control department - B) để tiến hành các biện pháp thu hồi nợ hoặc xem xét tạm ngưng cấp tín dụng cho khách hàng.",
         "image_file": "images/cau_214.png",
         "has_image": false,
         "diagram_file": null
