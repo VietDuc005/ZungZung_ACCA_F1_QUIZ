@@ -182,7 +182,7 @@ function startQuiz(partIndex) {
   document.getElementById('quiz-view').style.display = 'block';
 
   const partData = window.QUIZ_DATA[currentPartIndex];
-  document.getElementById('quiz-part-title').textContent = `${partData.title}: ${partData.name}`;
+  document.getElementById('quiz-part-title').textContent = partData.name ? `${partData.title}: ${partData.name}` : partData.title;
 
   renderQuestionNavigator();
   showQuestion(0);

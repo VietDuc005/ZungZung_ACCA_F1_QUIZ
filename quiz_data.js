@@ -1,7902 +1,8022 @@
 // ACCA F1 MCQ Quiz Data - Generated 287 questions
 window.QUIZ_DATA = [
   {
-    "id": 1,
-    "question_number": 1,
     "part": 1,
-    "question_text": "Which of the following defines an organisation?",
-    "options": [
+    "title": "Phần 1: Câu 1 - 20",
+    "questions_range": "Câu 1 - 20",
+    "pdf_file": "output_pdf/De_1_Cau_1_20.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. A social arrangement which pursues collective goals, which controls its own performance and which has a boundary separating it from its environment"
+        "id": 1,
+        "question_number": 1,
+        "part": 1,
+        "question_text": "Which of the following defines an organisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A social arrangement which pursues collective goals, which controls its own performance and which has a boundary separating it from its environment"
+          },
+          {
+            "key": "B",
+            "text": "B. Asocial arrangement which exists to make a profit, controls its own performance and which operates within certain boundaries"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Dö båi dang höi v; dinh nghia ctia mét tö chü•c.B sai vi khöng phåi tåt cå cåc td chik déu cö muc tiéu tgo ra Igi nhuän",
+        "image_file": "images/cau_001.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Asocial arrangement which exists to make a profit, controls its own performance and which operates within certain boundaries"
+        "id": 2,
+        "question_number": 2,
+        "part": 1,
+        "question_text": "A private sector organisation is one owned or run by:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Central government"
+          },
+          {
+            "key": "B",
+            "text": "B. Local government"
+          },
+          {
+            "key": "C",
+            "text": "C. Government agencies"
+          },
+          {
+            "key": "D",
+            "text": "D. None of the above"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Dé båi dang höi tö chic kinh td ttr nhån do ai så hüu.Khu vtrc ttr nhån do cå nhåh hpäc tb chic så hüu vå dih hånh. Cåc dåp ån A, B vå C diu lién quan dén khu vve kinh té cong do chinh quy;n trung zrangh@ügdia phtrong så hüu hoäc diöu hånh",
+        "image_file": "images/cau_002.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 3,
+        "question_number": 3,
+        "part": 1,
+        "question_text": "Which one of the following is a primary activity in the value chain?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Technology department"
+          },
+          {
+            "key": "B",
+            "text": "B. Procurement"
+          },
+          {
+            "key": "C",
+            "text": "C. Human resources management"
+          },
+          {
+            "key": "D",
+            "text": "D. Marketing and sale"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Dö båi höi dåu mét hogt döng caså trong chuöi giå tri Porter? Marketing and sale Iå mét hogt döng ca så trong Chudi gid tri. Nhüng dåp dn cån Igi déu Iå cåc hogc déng hd tre (Secondary activities)",
+        "image_file": "images/cau_003.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 4,
+        "question_number": 4,
+        "part": 1,
+        "question_text": "Government policy on taxation, public borrowing and public spending is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Monetary policy"
+          },
+          {
+            "key": "B",
+            "text": "B. Fiscal policy"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Chính sách tài khóa (Fiscal policy) liên quan đến thuế, chi tiêu công và vay nợ công. Chính sách tiền tệ (Monetary policy) liên quan đến cung tiền, lãi suất, tỷ giá.",
+        "image_file": "images/cau_004.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 5,
+        "question_number": 5,
+        "part": 1,
+        "question_text": "Which of the following government aims might be achieved by means of fiscal policy?\n1. A redistribution of income between firms and households.\n2. A reduction in aggregate monetary demand.\n3. A change in the pattern of consumer demand.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Objectives 1 and 2 only"
+          },
+          {
+            "key": "B",
+            "text": "B. Objectives 1 and 3 only"
+          },
+          {
+            "key": "C",
+            "text": "C. Objectives 2 and 3 only"
+          },
+          {
+            "key": "D",
+            "text": "D. Objectives 1, 2 and 3"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Cả 3 mục tiêu đều có thể đạt được thông qua chính sách tài khóa: mục tiêu 1 qua thuế trực thu/trợ cấp, mục tiêu 2 qua thắt chặt tài khóa, mục tiêu 3 qua thuế gián thu.",
+        "image_file": "images/cau_005.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 6,
+        "question_number": 6,
+        "part": 1,
+        "question_text": "A demand curve is drawn on all except which of the following assumptions?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Incomes do not change"
+          },
+          {
+            "key": "B",
+            "text": "B. Prices of substitutes are fixed"
+          },
+          {
+            "key": "C",
+            "text": "C. Price of the good is constant"
+          },
+          {
+            "key": "D",
+            "text": "D. There are no changes in tastes and preferences"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "thuyét nåo kh6ng khi xåc dinh dtcång cåu?Nhtr dä no yÉ_Quy luüt cciu, khi cåcyéu t; khåc khöng dbi, ciu v; sån phåm hoäc dich vv cb quaphé ngh•ch biånvåi iå ctiasån häm ho d'chv dd. Dodd iå håi låytu td thay dåi",
+        "image_file": "images/cau_006.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 7,
+        "question_number": 7,
+        "part": 1,
+        "question_text": "What is an inferior good?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A good of such poor quality that demand for it is very weak"
+          },
+          {
+            "key": "B",
+            "text": "B. A good of lesser quality than a substitute good, so that the price of the substitute is higher"
+          },
+          {
+            "key": "C",
+            "text": "C. A good for which the cross elasticity of demand with a substitute product is greater than 1"
+          },
+          {
+            "key": "D",
+            "text": "D. A good for which demand willfall as household income rise"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "DB båi höi v; dåu lå déc diåm cüa hång hda thi cåp.Nhtr dä n6i , hång h6a thi ditec dinh nghia trong mbi quan hégiüa luvng cågyå thu nhép, Iå logi hång Ilda cé Cbu giåm khi thu nh(ipgwttåi tiéu düngtäng 8. Grouping people together who do similar tasks is called A Task departmentation C Product departmentation B Geographic departmentation D Functional departmentation",
+        "image_file": "images/cau_007.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 8,
+        "question_number": 8,
+        "part": 1,
+        "question_text": "Grouping people together who do similar tasks is called:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Task departmentation"
+          },
+          {
+            "key": "B",
+            "text": "B. Geographic departmentation"
+          },
+          {
+            "key": "C",
+            "text": "C. Product departmentation"
+          },
+          {
+            "key": "D",
+            "text": "D. Functional departmentation"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Functional departmentation (phòng ban theo chức năng) là việc tập hợp những người làm cùng một loại công việc chuyên môn tương tự nhau.",
+        "image_file": "images/cau_008.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 9,
+        "question_number": 9,
+        "part": 1,
+        "question_text": "What are the elements of the purchasing mix?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Place, product, price, promotion"
+          },
+          {
+            "key": "B",
+            "text": "B. Quantity, quality, price, delivery"
+          },
+          {
+            "key": "C",
+            "text": "C. Product, quality, price, delivery"
+          },
+          {
+            "key": "D",
+            "text": "D. Place, product, price, delivery"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Di båi höi rång cåcyåu t; cån xem xét khi mua hång lå gi? Theo nöi dung thi cåé yéu tcf ånh httång dén viéc mua hång gåm Giå cå (Price), chåt Itteng sin phånå (Quality), sd Itrgng $åpphåm (Quanlity), svgiao hång (Delivery)",
+        "image_file": "images/cau_009.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 10,
+        "question_number": 10,
+        "part": 1,
+        "question_text": "A strategy for social responsibility which involves allowing a situation to continue unresolved until the public finds out about it is a:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Proactive strategy"
+          },
+          {
+            "key": "B",
+            "text": "B. Reactive strategy"
+          },
+          {
+            "key": "C",
+            "text": "C. Defence strategy"
+          },
+          {
+            "key": "D",
+            "text": "D. Accommodation strategy"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Dé båi dang höi v; mét chiemltr«c v; tråch nhiém xä höi lién quan dén viéc cho phép mét tinh hudng chuu dtrgcgiåi quyét xong cho dén khi cöng chüng phåt hién ra Iå chién Itcgc nåo?Theo lys thuyét thi chién Ittec phän ting Iå chién luvc v; trich nhiénp xä höi må doanh nghiép sé khöng giåiquyét, Xir I' cho dén khi bi cöng Ching, Chinh phü hoäc cåc nh6m ngtråi tiéu düng phåt hién ra n6,l",
+        "image_file": "images/cau_010.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 11,
+        "question_number": 11,
+        "part": 1,
+        "question_text": "The internal control system comprises which two of the following:\n1. Control accounting\n2. Control environment\n3. Control procedures\n4. Control audit",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1&2"
+          },
+          {
+            "key": "B",
+            "text": "B. 2&3"
+          },
+          {
+            "key": "C",
+            "text": "C. 3&4"
+          },
+          {
+            "key": "D",
+            "text": "D. 1&4"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Hệ thống KSNB bao gồm môi trường kiểm soát (2 - Control environment) và các thủ tục kiểm soát (3 - Control procedures).",
+        "image_file": "images/cau_011.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 12,
+        "question_number": 12,
+        "part": 1,
+        "question_text": "Who has the primary responsibility for preventing and detecting fraud?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The external auditors"
+          },
+          {
+            "key": "B",
+            "text": "B. The internal auditors"
+          },
+          {
+            "key": "C",
+            "text": "C. The directors"
+          },
+          {
+            "key": "D",
+            "text": "D. The shareholders"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Ai chiu tråch nhiém chfnh trong viéc ngän Chün vå phåt hién gian Iän?Theo I} thuyét thi tråch nhiém Chinh trong viéc ngän Chün vå phåt hién gian Icin Iå Bah giåm ddc.l",
+        "image_file": "images/cau_012.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 13,
+        "question_number": 13,
+        "part": 1,
+        "question_text": "1fa manager confers with subordinates, takes their views and feelings into account, but retains the right to make a final decision, this is a:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Tells style"
+          },
+          {
+            "key": "B",
+            "text": "B. Sells style"
+          },
+          {
+            "key": "C",
+            "text": "C. Consults style"
+          },
+          {
+            "key": "D",
+            "text": "D. Joins style"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Neu ngtråi quän ly' trao döi våi cap dtråi, can nhac den quan diém vå cåm nhän ctiå van giüguyén dtra ra quyét dinh cudi cüng, thi dåy lå phong cåch länh_dgb nåo?Theo l' thuyåtphong cich ctia mö hinh Ashrid e tgi muc Ill thi dåy lå dinh nghiggüa phong cåch tte vån,]",
+        "image_file": "images/cau_013.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 14,
+        "question_number": 14,
+        "part": 1,
+        "question_text": "When a person is penalised forgiving information ortaking action in pursuit ofa claim of discrimination, this is known as:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Direct discrimination"
+          },
+          {
+            "key": "B",
+            "text": "B. Indirect discrimination"
+          },
+          {
+            "key": "C",
+            "text": "C. Victimisation"
+          },
+          {
+            "key": "D",
+            "text": "D. Harassment"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Khi mét ngtråi bi phgt vi ngtråi khåc cung capthöng tin sai Iéch khien hp bi phå biét dji xt?, dibu lå dinh nghia vb phån biét ddi xti nhtr ngn nhån dtrgqnéu ra trongbåi hpglåp dg'",
+        "image_file": "images/cau_014.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 15,
+        "question_number": 15,
+        "part": 1,
+        "question_text": "A small number of people with complementary skills who are committed to a common purpose, performance goals and approach for which they hold themselves basically accountable. This is the definition of:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Group"
+          },
+          {
+            "key": "B",
+            "text": "B. Team"
+          },
+          {
+            "key": "C",
+            "text": "C. Unit"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "DB båi dang höi mét s; ngttåi c6 kj näng cüng cam köt Cho möt mvc tiéu chunb dtr«cgpilå gi? Team baogbm nhü-ng cd nhån cd nhüng 103 nängggm két cho mue tiéu chung 16. Which one of the following is NOT one of Maslow's hierarchy of needs? A. Esteem needs B. Safety needs C. Social needs",
+        "image_file": "images/cau_015.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 16,
+        "question_number": 16,
+        "part": 1,
+        "question_text": "Which one of the following is NOT one of Maslow's hierarchy of needs?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Esteem needs"
+          },
+          {
+            "key": "B",
+            "text": "B. Safety needs"
+          },
+          {
+            "key": "C",
+            "text": "C. Social needs"
+          },
+          {
+            "key": "D",
+            "text": "D. Cultural needs"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Dåu khöng phåilå möuhugiugüa thåp nhu cåuMaslow? Theo thåp nhu Cåå Maslow, nhu cau vän h6a kh6ng phåi nhu cåu cüa thåp nhu cäu Maslow",
+        "image_file": "images/cau_016.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 17,
+        "question_number": 17,
+        "part": 1,
+        "question_text": "Which of the following is NOT one of the learning styles defined by Honey and Mumford?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Pragmatist"
+          },
+          {
+            "key": "B",
+            "text": "B. Theorist"
+          },
+          {
+            "key": "C",
+            "text": "C. Abstractor"
+          },
+          {
+            "key": "D",
+            "text": "D. Reflector"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Cåch hpgnåo sau dåy khöng phåi lå mét trong nhüng phqpggåchhpc dtrgc Honey vå Mumford dé cép? Theo dinh nghia ctia Honey vå Mumfordthi phong cåch hpc to bgo gdm phong cåch theo IS' thgyét,pwtråi phån ånh, nhå hogt döng vå ngttåi theo Chü nghia thcrc dung",
+        "image_file": "images/cau_017.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 18,
+        "question_number": 18,
+        "part": 1,
+        "question_text": "Which one of the following is NOT a purpose of appraisal?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To identify performance levels"
+          },
+          {
+            "key": "B",
+            "text": "B. To assess development needs"
+          },
+          {
+            "key": "C",
+            "text": "C. To encourage communication between manager and employees"
+          },
+          {
+            "key": "D",
+            "text": "D. To highlight employees' weaknesses"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "m cdfch dånh iå nh6n vién?M tcdfch dånh i nänglcrgnhån vié@lå dé khenßhtrång vå dé xåc dinh dtcgc tiém näpg dé c6 thå dép ting direc nhu cåu phåt trién",
+        "image_file": "images/cau_018.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 19,
+        "question_number": 19,
+        "part": 1,
+        "question_text": "0ne approach to managing ethics is to ensure primarily that the company acts within the letter of the law. What type of approach is this?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Compliance-based approach"
+          },
+          {
+            "key": "B",
+            "text": "B. Integrity-based approach"
+          },
+          {
+            "key": "C",
+            "text": "C. Commercial-based approach"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Htrång tiép cin dd quån tri dgo dic dé dåm båo hogt döng Clia Cöng ty trong na dung cia luät. Theo nöi dung vci 2 htrång tiåp C(in dén vån dé dgo dic thi cåch tidb cän tuån thii nhån mgnh vb viéc tuån thii luät phåp",
+        "image_file": "images/cau_019.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 20,
+        "question_number": 20,
+        "part": 1,
+        "question_text": "Which of the following is NOT a key feature of an organization?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Controlled performance"
+          },
+          {
+            "key": "B",
+            "text": "B. Collective goals"
+          },
+          {
+            "key": "C",
+            "text": "C. Social arrangements"
+          },
+          {
+            "key": "D",
+            "text": "D. Creation of a product or service"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Tổ chức không bắt buộc phải tạo ra sản phẩm hay dịch vụ (ví dụ các tổ chức từ thiện, câu lạc bộ xã hội).",
+        "image_file": "images/cau_020.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "Dö båi dang höi v; dinh nghia ctia mét tö chü•c.B sai vi khöng phåi tåt cå cåc td chik déu cö muc tiéu tgo ra Igi nhuän",
-    "image_file": "images/cau_001.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 2,
-    "question_number": 2,
-    "part": 1,
-    "question_text": "A private sector organisation is one owned or run by:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Central government"
-      },
-      {
-        "key": "B",
-        "text": "B. Local government"
-      },
-      {
-        "key": "C",
-        "text": "C. Government agencies"
-      },
-      {
-        "key": "D",
-        "text": "D. None of the above"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Dé båi dang höi tö chic kinh td ttr nhån do ai så hüu.Khu vtrc ttr nhån do cå nhåh hpäc tb chic så hüu vå dih hånh. Cåc dåp ån A, B vå C diu lién quan dén khu vve kinh té cong do chinh quy;n trung zrangh@ügdia phtrong så hüu hoäc diöu hånh",
-    "image_file": "images/cau_002.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 3,
-    "question_number": 3,
-    "part": 1,
-    "question_text": "Which one of the following is a primary activity in the value chain?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Technology department"
-      },
-      {
-        "key": "B",
-        "text": "B. Procurement"
-      },
-      {
-        "key": "C",
-        "text": "C. Human resources management"
-      },
-      {
-        "key": "D",
-        "text": "D. Marketing and sale"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Dö båi höi dåu mét hogt döng caså trong chuöi giå tri Porter? Marketing and sale Iå mét hogt döng ca så trong Chudi gid tri. Nhüng dåp dn cån Igi déu Iå cåc hogc déng hd tre (Secondary activities)",
-    "image_file": "images/cau_003.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 4,
-    "question_number": 4,
-    "part": 1,
-    "question_text": "Government policy on taxation, public borrowing and public spending is:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Monetary policy"
-      },
-      {
-        "key": "B",
-        "text": "B. Fiscal policy"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Chính sách tài khóa (Fiscal policy) liên quan đến thuế, chi tiêu công và vay nợ công. Chính sách tiền tệ (Monetary policy) liên quan đến cung tiền, lãi suất, tỷ giá.",
-    "image_file": "images/cau_004.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 5,
-    "question_number": 5,
-    "part": 1,
-    "question_text": "Which of the following government aims might be achieved by means of fiscal policy?\n1. A redistribution of income between firms and households.\n2. A reduction in aggregate monetary demand.\n3. A change in the pattern of consumer demand.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Objectives 1 and 2 only"
-      },
-      {
-        "key": "B",
-        "text": "B. Objectives 1 and 3 only"
-      },
-      {
-        "key": "C",
-        "text": "C. Objectives 2 and 3 only"
-      },
-      {
-        "key": "D",
-        "text": "D. Objectives 1, 2 and 3"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Cả 3 mục tiêu đều có thể đạt được thông qua chính sách tài khóa: mục tiêu 1 qua thuế trực thu/trợ cấp, mục tiêu 2 qua thắt chặt tài khóa, mục tiêu 3 qua thuế gián thu.",
-    "image_file": "images/cau_005.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 6,
-    "question_number": 6,
-    "part": 1,
-    "question_text": "A demand curve is drawn on all except which of the following assumptions?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Incomes do not change"
-      },
-      {
-        "key": "B",
-        "text": "B. Prices of substitutes are fixed"
-      },
-      {
-        "key": "C",
-        "text": "C. Price of the good is constant"
-      },
-      {
-        "key": "D",
-        "text": "D. There are no changes in tastes and preferences"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "thuyét nåo kh6ng khi xåc dinh dtcång cåu?Nhtr dä no yÉ_Quy luüt cciu, khi cåcyéu t; khåc khöng dbi, ciu v; sån phåm hoäc dich vv cb quaphé ngh•ch biånvåi iå ctiasån häm ho d'chv dd. Dodd iå håi låytu td thay dåi",
-    "image_file": "images/cau_006.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 7,
-    "question_number": 7,
-    "part": 1,
-    "question_text": "What is an inferior good?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A good of such poor quality that demand for it is very weak"
-      },
-      {
-        "key": "B",
-        "text": "B. A good of lesser quality than a substitute good, so that the price of the substitute is higher"
-      },
-      {
-        "key": "C",
-        "text": "C. A good for which the cross elasticity of demand with a substitute product is greater than 1"
-      },
-      {
-        "key": "D",
-        "text": "D. A good for which demand willfall as household income rise"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "DB båi höi v; dåu lå déc diåm cüa hång hda thi cåp.Nhtr dä n6i , hång h6a thi ditec dinh nghia trong mbi quan hégiüa luvng cågyå thu nhép, Iå logi hång Ilda cé Cbu giåm khi thu nh(ipgwttåi tiéu düngtäng 8. Grouping people together who do similar tasks is called A Task departmentation C Product departmentation B Geographic departmentation D Functional departmentation",
-    "image_file": "images/cau_007.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 8,
-    "question_number": 8,
-    "part": 1,
-    "question_text": "Grouping people together who do similar tasks is called:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Task departmentation"
-      },
-      {
-        "key": "B",
-        "text": "B. Geographic departmentation"
-      },
-      {
-        "key": "C",
-        "text": "C. Product departmentation"
-      },
-      {
-        "key": "D",
-        "text": "D. Functional departmentation"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Functional departmentation (phòng ban theo chức năng) là việc tập hợp những người làm cùng một loại công việc chuyên môn tương tự nhau.",
-    "image_file": "images/cau_008.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 9,
-    "question_number": 9,
-    "part": 1,
-    "question_text": "What are the elements of the purchasing mix?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Place, product, price, promotion"
-      },
-      {
-        "key": "B",
-        "text": "B. Quantity, quality, price, delivery"
-      },
-      {
-        "key": "C",
-        "text": "C. Product, quality, price, delivery"
-      },
-      {
-        "key": "D",
-        "text": "D. Place, product, price, delivery"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Di båi höi rång cåcyåu t; cån xem xét khi mua hång lå gi? Theo nöi dung thi cåé yéu tcf ånh httång dén viéc mua hång gåm Giå cå (Price), chåt Itteng sin phånå (Quality), sd Itrgng $åpphåm (Quanlity), svgiao hång (Delivery)",
-    "image_file": "images/cau_009.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 10,
-    "question_number": 10,
-    "part": 1,
-    "question_text": "A strategy for social responsibility which involves allowing a situation to continue unresolved until the public finds out about it is a:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Proactive strategy"
-      },
-      {
-        "key": "B",
-        "text": "B. Reactive strategy"
-      },
-      {
-        "key": "C",
-        "text": "C. Defence strategy"
-      },
-      {
-        "key": "D",
-        "text": "D. Accommodation strategy"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Dé båi dang höi v; mét chiemltr«c v; tråch nhiém xä höi lién quan dén viéc cho phép mét tinh hudng chuu dtrgcgiåi quyét xong cho dén khi cöng chüng phåt hién ra Iå chién Itcgc nåo?Theo lys thuyét thi chién Ittec phän ting Iå chién luvc v; trich nhiénp xä höi må doanh nghiép sé khöng giåiquyét, Xir I' cho dén khi bi cöng Ching, Chinh phü hoäc cåc nh6m ngtråi tiéu düng phåt hién ra n6,l",
-    "image_file": "images/cau_010.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 11,
-    "question_number": 11,
-    "part": 1,
-    "question_text": "The internal control system comprises which two of the following:\n1. Control accounting\n2. Control environment\n3. Control procedures\n4. Control audit",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1&2"
-      },
-      {
-        "key": "B",
-        "text": "B. 2&3"
-      },
-      {
-        "key": "C",
-        "text": "C. 3&4"
-      },
-      {
-        "key": "D",
-        "text": "D. 1&4"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Hệ thống KSNB bao gồm môi trường kiểm soát (2 - Control environment) và các thủ tục kiểm soát (3 - Control procedures).",
-    "image_file": "images/cau_011.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 12,
-    "question_number": 12,
-    "part": 1,
-    "question_text": "Who has the primary responsibility for preventing and detecting fraud?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The external auditors"
-      },
-      {
-        "key": "B",
-        "text": "B. The internal auditors"
-      },
-      {
-        "key": "C",
-        "text": "C. The directors"
-      },
-      {
-        "key": "D",
-        "text": "D. The shareholders"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Ai chiu tråch nhiém chfnh trong viéc ngän Chün vå phåt hién gian Iän?Theo I} thuyét thi tråch nhiém Chinh trong viéc ngän Chün vå phåt hién gian Icin Iå Bah giåm ddc.l",
-    "image_file": "images/cau_012.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 13,
-    "question_number": 13,
-    "part": 1,
-    "question_text": "1fa manager confers with subordinates, takes their views and feelings into account, but retains the right to make a final decision, this is a:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Tells style"
-      },
-      {
-        "key": "B",
-        "text": "B. Sells style"
-      },
-      {
-        "key": "C",
-        "text": "C. Consults style"
-      },
-      {
-        "key": "D",
-        "text": "D. Joins style"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Neu ngtråi quän ly' trao döi våi cap dtråi, can nhac den quan diém vå cåm nhän ctiå van giüguyén dtra ra quyét dinh cudi cüng, thi dåy lå phong cåch länh_dgb nåo?Theo l' thuyåtphong cich ctia mö hinh Ashrid e tgi muc Ill thi dåy lå dinh nghiggüa phong cåch tte vån,]",
-    "image_file": "images/cau_013.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 14,
-    "question_number": 14,
-    "part": 1,
-    "question_text": "When a person is penalised forgiving information ortaking action in pursuit ofa claim of discrimination, this is known as:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Direct discrimination"
-      },
-      {
-        "key": "B",
-        "text": "B. Indirect discrimination"
-      },
-      {
-        "key": "C",
-        "text": "C. Victimisation"
-      },
-      {
-        "key": "D",
-        "text": "D. Harassment"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Khi mét ngtråi bi phgt vi ngtråi khåc cung capthöng tin sai Iéch khien hp bi phå biét dji xt?, dibu lå dinh nghia vb phån biét ddi xti nhtr ngn nhån dtrgqnéu ra trongbåi hpglåp dg'",
-    "image_file": "images/cau_014.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 15,
-    "question_number": 15,
-    "part": 1,
-    "question_text": "A small number of people with complementary skills who are committed to a common purpose, performance goals and approach for which they hold themselves basically accountable. This is the definition of:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Group"
-      },
-      {
-        "key": "B",
-        "text": "B. Team"
-      },
-      {
-        "key": "C",
-        "text": "C. Unit"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "DB båi dang höi mét s; ngttåi c6 kj näng cüng cam köt Cho möt mvc tiéu chunb dtr«cgpilå gi? Team baogbm nhü-ng cd nhån cd nhüng 103 nängggm két cho mue tiéu chung 16. Which one of the following is NOT one of Maslow's hierarchy of needs? A. Esteem needs B. Safety needs C. Social needs",
-    "image_file": "images/cau_015.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 16,
-    "question_number": 16,
-    "part": 1,
-    "question_text": "Which one of the following is NOT one of Maslow's hierarchy of needs?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Esteem needs"
-      },
-      {
-        "key": "B",
-        "text": "B. Safety needs"
-      },
-      {
-        "key": "C",
-        "text": "C. Social needs"
-      },
-      {
-        "key": "D",
-        "text": "D. Cultural needs"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Dåu khöng phåilå möuhugiugüa thåp nhu cåuMaslow? Theo thåp nhu Cåå Maslow, nhu cau vän h6a kh6ng phåi nhu cåu cüa thåp nhu cäu Maslow",
-    "image_file": "images/cau_016.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 17,
-    "question_number": 17,
-    "part": 1,
-    "question_text": "Which of the following is NOT one of the learning styles defined by Honey and Mumford?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Pragmatist"
-      },
-      {
-        "key": "B",
-        "text": "B. Theorist"
-      },
-      {
-        "key": "C",
-        "text": "C. Abstractor"
-      },
-      {
-        "key": "D",
-        "text": "D. Reflector"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Cåch hpgnåo sau dåy khöng phåi lå mét trong nhüng phqpggåchhpc dtrgc Honey vå Mumford dé cép? Theo dinh nghia ctia Honey vå Mumfordthi phong cåch hpc to bgo gdm phong cåch theo IS' thgyét,pwtråi phån ånh, nhå hogt döng vå ngttåi theo Chü nghia thcrc dung",
-    "image_file": "images/cau_017.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 18,
-    "question_number": 18,
-    "part": 1,
-    "question_text": "Which one of the following is NOT a purpose of appraisal?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To identify performance levels"
-      },
-      {
-        "key": "B",
-        "text": "B. To assess development needs"
-      },
-      {
-        "key": "C",
-        "text": "C. To encourage communication between manager and employees"
-      },
-      {
-        "key": "D",
-        "text": "D. To highlight employees' weaknesses"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "m cdfch dånh iå nh6n vién?M tcdfch dånh i nänglcrgnhån vié@lå dé khenßhtrång vå dé xåc dinh dtcgc tiém näpg dé c6 thå dép ting direc nhu cåu phåt trién",
-    "image_file": "images/cau_018.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 19,
-    "question_number": 19,
-    "part": 1,
-    "question_text": "0ne approach to managing ethics is to ensure primarily that the company acts within the letter of the law. What type of approach is this?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Compliance-based approach"
-      },
-      {
-        "key": "B",
-        "text": "B. Integrity-based approach"
-      },
-      {
-        "key": "C",
-        "text": "C. Commercial-based approach"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Htrång tiép cin dd quån tri dgo dic dé dåm båo hogt döng Clia Cöng ty trong na dung cia luät. Theo nöi dung vci 2 htrång tiåp C(in dén vån dé dgo dic thi cåch tidb cän tuån thii nhån mgnh vb viéc tuån thii luät phåp",
-    "image_file": "images/cau_019.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 20,
-    "question_number": 20,
-    "part": 1,
-    "question_text": "Which of the following is NOT a key feature of an organization?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Controlled performance"
-      },
-      {
-        "key": "B",
-        "text": "B. Collective goals"
-      },
-      {
-        "key": "C",
-        "text": "C. Social arrangements"
-      },
-      {
-        "key": "D",
-        "text": "D. Creation of a product or service"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Tổ chức không bắt buộc phải tạo ra sản phẩm hay dịch vụ (ví dụ các tổ chức từ thiện, câu lạc bộ xã hội).",
-    "image_file": "images/cau_020.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 21,
-    "question_number": 21,
     "part": 2,
-    "question_text": "Which of the following statements regarding limited companies is correct?",
-    "options": [
+    "title": "Phần 2: Câu 21 - 40",
+    "questions_range": "Câu 21 - 40",
+    "pdf_file": "output_pdf/De_2_Cau_21_40.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Public limited companies have access to a wider pool of finance than partnerships or sole traders"
+        "id": 21,
+        "question_number": 21,
+        "part": 2,
+        "question_text": "Which of the following statements regarding limited companies is correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Public limited companies have access to a wider pool of finance than partnerships or sole traders"
+          },
+          {
+            "key": "B",
+            "text": "B. Both public and private limited companies are allowed to sell shares to the public"
+          },
+          {
+            "key": "C",
+            "text": "C. Companies are always owned by many different investors"
+          },
+          {
+            "key": "D",
+            "text": "D. Shareholders are liable for any debts the company may incur"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Công ty đại chúng (PLC) có quyền huy động vốn từ công chúng nên có khả năng tiếp cận nguồn tài chính rộng lớn hơn nhiều so với công ty hợp danh hay tư nhân.",
+        "image_file": "images/cau_021.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Both public and private limited companies are allowed to sell shares to the public"
+        "id": 22,
+        "question_number": 22,
+        "part": 2,
+        "question_text": "A Co is a company that specializes in forestry. It has recently purchased B Co, which runs a chain of recreational resorts. A has allowed B to build several new resorts on land which is owned by A, but which it is no longer able to use. The resorts have proven highly profitable and popular.\nWhich of the following best explains the reason for the improved performance of the combined entity?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Specialisation"
+          },
+          {
+            "key": "B",
+            "text": "B. Social interactivity"
+          },
+          {
+            "key": "C",
+            "text": "C. Synergy"
+          },
+          {
+            "key": "D",
+            "text": "D. Service"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Synergy (Hiệu ứng hiệp đồng 2 + 2 = 5) xảy ra khi kết hợp hai doanh nghiệp mang lại giá trị và hiệu quả vượt trội hơn so với hoạt động riêng lẻ.",
+        "image_file": "images/cau_022.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Companies are always owned by many different investors"
+        "id": 23,
+        "question_number": 23,
+        "part": 2,
+        "question_text": "Employees are _____ stakeholders, while finance providers are _____ stakeholders.\nWhich two words fill the gaps in the above sentence?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Internal, Connected"
+          },
+          {
+            "key": "B",
+            "text": "B. External, Internal"
+          },
+          {
+            "key": "C",
+            "text": "C. Connected, Outsiders"
+          },
+          {
+            "key": "D",
+            "text": "D. Internal, Suppliers"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Nhân viên làm việc bên trong doanh nghiệp là Internal stakeholders; nhà cung cấp tài chính có quan hệ hợp đồng đầu tư là Connected stakeholders.",
+        "image_file": "images/cau_023.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Shareholders are liable for any debts the company may incur"
+        "id": 24,
+        "question_number": 24,
+        "part": 2,
+        "question_text": "A is a large company whose shares are owned by a large number of individual investors, who do not wish to engage with the company's decision-making despite having full rights to do so. When using Mendelow's matrix this stakeholder group would be classed as:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Minimal effort"
+          },
+          {
+            "key": "B",
+            "text": "B. Keep informed"
+          },
+          {
+            "key": "C",
+            "text": "C. Keep satisfied"
+          },
+          {
+            "key": "D",
+            "text": "D. Key players"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remind of Mendelow's power-interest matrix. Level of interes@ LOW High Level oj LOW Minimal effore Keep informed power High Reep satisfied Key players In this case, A's shareholders have a high level of power, but a low level ofinteres",
+        "image_file": "images/cau_024.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 25,
+        "question_number": 25,
+        "part": 2,
+        "question_text": "A plc has a large number of shareholders. The largest is H, a pension company. H owns 35% of A's share capital. None of the other shareholders own more than 10% of the share capital each. H has stated that it is happy with A's strategy and dividends and has no intention of intervening in A. If A prepares Mendelow's matrix, which quadrant would H fall into?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Minimal effort"
+          },
+          {
+            "key": "B",
+            "text": "B. Keep informed"
+          },
+          {
+            "key": "C",
+            "text": "C. Keep satisfied"
+          },
+          {
+            "key": "D",
+            "text": "D. Key player"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remind of the Mendelow's power-interest matrix. Level ofinteresi Lo High Minimal effpre KeepO!1fogned owe High Keep satis led Key plgyeß H has comparativelyhigh power due to its large number of shares å High level o power However, it has expressed a low level of interest in the running ofA. This means thge A's directors should work to keep H from taking an active interest in thefuture Low level of interest Keep the satisfied corne 26. Under typical employment protection legislation, which of the following would be classified as an 'unfair' reason for the dismissal of an employee? The employee was a member ofa trade union B. The employee vvas guilty of misconduct c. The employee's job became redundant D. The emnlovee had a lack ofaualifications or canabilitv for the iob",
+        "image_file": "images/cau_025.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 26,
+        "question_number": 26,
+        "part": 2,
+        "question_text": "Under typical employment protection legislation, which of the following would be classified as an 'unfair' reason for the dismissal of an employee?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The employee was a member ofa trade union"
+          },
+          {
+            "key": "B",
+            "text": "B. The employee was guilty of misconduct"
+          },
+          {
+            "key": "C",
+            "text": "C. The employee's job became redundant"
+          },
+          {
+            "key": "D",
+            "text": "D. The employee had a lack of qualifications or capability for the job"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Remember of the fair reasonsfor dismissal. • Lack of capability or qgglifications • Guilty of misconduc • Redundancy • Legal reasons Ifany reasons from the question do not lie within these 'fair' reasons, it should bé 'unfair' reasons fordismissal. Options B, C, D are thereasons whichgre mentioned abov",
+        "image_file": "images/cau_026.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 27,
+        "question_number": 27,
+        "part": 2,
+        "question_text": "Which of the following is one of the rights of individuals under typical data protection legislation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Immediate access to personal data at any time"
+          },
+          {
+            "key": "B",
+            "text": "B. The right to erase personal information through an application to the data holder"
+          },
+          {
+            "key": "C",
+            "text": "C. No decisions should be taken against an individual on a purely automated"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "basis D. The right to prevent data from being processed for the profit of others Refer to the lectures for some rights covered by the data protection. Be careful tu thepptions which seem to be correct! Option A is incorrect. While individuals have the right to access thei personal data, this may involve a written request being made and the pgyment ofa fee — this is unlikely to happen instantly) Option B is incorrectAppIication for the erasurepfdata may have to be through the courts.' Option D is incorrect. Data processing can only be prevented if it wilt cause damage or distress to the individual or is for the purposes of direc marketing 28. is concerned with keeping data safe from various hazards that could destroy or compromise it. Which two words complete this definition? Data protection B. Data security c. Physical risk D. Human risk By definition. Options C and D are both types of data security risks; 29.Consider the following statements:",
+        "image_file": "images/cau_027.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 28,
+        "question_number": 28,
+        "part": 2,
+        "question_text": "_____ is concerned with keeping data safe from various hazards that could destroy or compromise it.\nWhich two words complete this definition?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Data protection"
+          },
+          {
+            "key": "B",
+            "text": "B. Data security"
+          },
+          {
+            "key": "C",
+            "text": "C. Physical risk"
+          },
+          {
+            "key": "D",
+            "text": "D. Human risk"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Data security (An toàn dữ liệu) bảo vệ dữ liệu khỏi các rủi ro làm mất mát, hư hỏng hoặc xâm nhập trái phép.",
+        "image_file": "images/cau_028.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 29,
+        "question_number": 29,
+        "part": 2,
+        "question_text": "Consider the following statements: (1) Employers have the sole responsibility for the health and safety of their employees. As long as employers have adequately trained their staff about the potential hazards they will face in the workplace, they have discharged the health and safety responsibilities. Which of these statements is/are correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (i) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (ii) only"
+          },
+          {
+            "key": "C",
+            "text": "C. Both"
+          },
+          {
+            "key": "D",
+            "text": "D. Neither"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remind that in terms of health and safety in the workplace, both employers and employees have different responsibilities.' Be careful to consider whether the responsibility is ended after adequagely? training (i.e., statement iij is incorrect. Employees also have responsibilities under healthand safety legislation • (ii) is incorrect. Employers alsohave to provide a safe workinå environmentfovemployees — notjust train them about the hazards) 30. Which of the following is NOT a typical requirement ofconsumer rights legislation? A. The seller must have legal title to the goods being sold B. Goods sold must befit for purpose c. Item descriptions must be accurate D. Goods must be reasonably priced Remember the key principles of consumerrights legislation in terms ofgoods. • The seller must have legal title or ownership of the items • The goods sold must be of.atisfactory quality andficfor their intended purpose. • When a buyer makes a purchase based on the description of an item, the goods must correspond with this description • When digital content (e.g., online Ilms, games, e-books) isfaultyu consumers are given a clear right to repair or replacement) Be care 10 an answer that seems to be correct, which ma beri htin termso",
+        "image_file": "images/cau_029.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 30,
+        "question_number": 30,
+        "part": 2,
+        "question_text": "Which of the following is NOT a typical requirement of consumer rights legislation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The seller must have legal title to the goods being sold"
+          },
+          {
+            "key": "B",
+            "text": "B. Goods sold must befit for purpose"
+          },
+          {
+            "key": "C",
+            "text": "C. Item descriptions must be accurate"
+          },
+          {
+            "key": "D",
+            "text": "D. Goods must be reasonably priced"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remember the key principles ofgpnsumer right'legislation in term.pfgoods} • The seller must have legal title or ownership of the items.] • The goods sold mu$be of;ati$factory quality andficfqrtheir intended purpose; • When a buyernakes a purchase based on the descriptipnpfan item.@le goods must correspond with this description • When digital content (e.g., online films, games, e-books) isfauItjJ consumers are given a clear right to repair or replacement! Beggrefulo an answer thatseems to be correc which ma be r • htin termso services) Goods would not typically have to be reasonably priced, which services would be.l Options A, B, C match with the key principles mentioned above;",
+        "image_file": "images/cau_030.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 31,
+        "question_number": 31,
+        "part": 2,
+        "question_text": "Consider the following statements: (I) All contracts must be signed by all relevant parties in order to be binding. (2) Consumer legislation typically only covers purchases of goods. Which of these statements is/are correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (2) only"
+          },
+          {
+            "key": "C",
+            "text": "C. Both"
+          },
+          {
+            "key": "D",
+            "text": "D. Neither"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Be cautious of the different types of contract, whether they need to be signed to bé valid, in terms of Consider what aspects the legislation covers, in terms is incorrect. Simple contracts cambe verbal, pr evemimplied by the actions of one of the parties • (2) is incorrect. Consumer legislation often also covers the provision o only;",
+        "image_file": "images/cau_031.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 32,
+        "question_number": 32,
+        "part": 2,
+        "question_text": "Sarah is a manager at V company. As part of her contract with V, she is not supposed to hire any employees who are female or over the age of thirty-five. This contract is subsequently found to be unenforceable. Which of the features ofa simple contract is missing from this agreement?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. greement"
+          },
+          {
+            "key": "B",
+            "text": "B. Legality"
+          },
+          {
+            "key": "C",
+            "text": "C. Consideration"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Capacity Remind of the simple contract's features to be valid. • Agreement: the parties must have agreedon the terms of the contra • Consideration: each party must offer some consideration to the otheh • Intention to create legal relations: both arties must clearl intend thei relationship to be legally bindinå • Capacity and legality: each party to the contract must have the capability to enter the contract and must not or illegal purposes This contract involves discriminating against some potential employees, which iS illegal in most jurisdictions. Remember that a contract is not valid if it requires one or more parties to break the law.]",
+        "image_file": "images/cau_032.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 33,
+        "question_number": 33,
+        "part": 2,
+        "question_text": "Consider the following statements: (1) Equilibrium' is the selling price above which the number of units demanded by the market starts to decline. (2) As the selling price ofa product increases, the number of units supplied by the market will also tend to rise. Which of these statements is/are correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (2) only"
+          },
+          {
+            "key": "C",
+            "text": "C. Both"
+          },
+          {
+            "key": "D",
+            "text": "D. Neither Statement (1)+ (2): (2)"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "• (1) is incorrect. Equilibrium is the selling prigegt which supply exactly equals demand) The number of units demanded by the market will usually fall as the price rises (gS per the demand curve) - this is nothing to do with the equilibrium point itself) • (2) is correct, as stated in the diagram above,]",
+        "image_file": "images/cau_033.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 34,
+        "question_number": 34,
+        "part": 2,
+        "question_text": "Which one of the following would NOT lead to a shift in the demand curve for overseas holidays?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. n advertising campaign by holiday-tour operators"
+          },
+          {
+            "key": "B",
+            "text": "B. A fall in the disposable income of consumers"
+          },
+          {
+            "key": "C",
+            "text": "C. A rise in the price of domestic holidays"
+          },
+          {
+            "key": "D",
+            "text": "D. A rise in the exchange rate for the domestic currency"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remember the distinctions betweenexpansion/contraction in demand and increase/decrease in demand} • Changes in price movement along with the demand curve Expansion/contraction in demand • Changes in conditions ofdemand shiftthe demand curve å Increase/decrease in demand. Conditions of demand include; O Income changes Tast\"hanges The price of other complement or substitute goodS Population increases/decreaseS Note that the question mentions the overseasholidays, be careful with option which is a case of domestic holidays} • Option D is correct. This changes the price of foreign holidays and leads to a movement along the demand curve, not a shift in the • Option A is incorrect. This may change the taste of traveling overseas which further shifts the demand curve) • Option B is incorrect.This change of income_may affect the consumers' demand, which results in a shift in the demand curv • Option Cis incorrect. Domestic holidays are considered as 'substituteS goods' for overseas holidays. Changes in substitutes' ricesshould Shift the demand curve because their e ects on demand are si Pificant,",
+        "image_file": "images/cau_034.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 35,
+        "question_number": 35,
+        "part": 2,
+        "question_text": "Which of the following is NOT a factor that affects the price elasticity of demand?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The amount of customer income spent on the item"
+          },
+          {
+            "key": "B",
+            "text": "B. Duration of the price change"
+          },
+          {
+            "key": "C",
+            "text": "C. The necessity of the item to consumers"
+          },
+          {
+            "key": "D",
+            "text": "D. The initial number of units demanded"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remind of some factors which determine the price elasticitypfdemand} • Proportion of income spent on thegpga • Availability ofsubstitutes • Demandfor necessities • Habit of purchasing: • Duration ofchangesin ric • Definitionpfnarkeu Options B C match with the ctors mentioned above) 36.G Co increases the selling price of its only product, the GFIOOO by 5%. This causes a reduction in the number of units it sells by 8%. Is the GFIOOO's price elasticity of demand likely to be: Less than 1 B. Equal to 1 c. Greater than 1 D. Negative Ppmind nfthp mpnninn nfnrirp plnstiritv: tn pynlnins the rpsnnngivpnpgg ni 15:33 CN 27thg 9 100%",
+        "image_file": "images/cau_035.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 36,
+        "question_number": 36,
+        "part": 2,
+        "question_text": "G Co increases the selling price of its only product, the GFIOOO by 5%. This causes a reduction in the number of units it sells by 8%. Is the GFIOOO's price elasticity of demand likely to be:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Less than I"
+          },
+          {
+            "key": "B",
+            "text": "B. Equal to 1"
+          },
+          {
+            "key": "C",
+            "text": "C. Greater than 1"
+          },
+          {
+            "key": "D",
+            "text": "D. Negative"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remind of the meaning of price elasticity: to explains the responsiveness oj demand to changes in price. Therefore} • If changes in than chgpges in price å Pric elasticity If changes in quantitydemanded are smallerthan chgnges in priced Price inelasticity Note that in this kind of question, it is not necessary to calculate the exact amoun of price elasticity. Instead, students should focus on how the changes in demand correspond to changesimprice, due to the above explanations) The fact that the units sold fall by more than the price increase (8% compared 5%) indicates that this product is relatively elastic. This would give a PED of more than I.'",
+        "image_file": "images/cau_036.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 37,
+        "question_number": 37,
+        "part": 2,
+        "question_text": "L makes a variety of different products, including windows. Which TWO of the following would cause a decrease in the level of supply of L's windows?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. n increase in the level of VAT charged by the government on windows"
+          },
+          {
+            "key": "B",
+            "text": "B. A new automated assembly system for L's products that reduces L's window manufacturing overheads"
+          },
+          {
+            "key": "C",
+            "text": "C. Staff negotiations, leading to window production staff adopting a shift-work"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "approach which makes better use of L's production facilities D. Staff negotiations, leading to a slight rise in the hourly rate paid to window production workers Remember: Upwards shifts/decreases in thesupplycurve are caused b) increases in the costs of making and/or selling the product; —+ Look for the circumstances which increase the costs of producing Options A, D are correct. Increasing VATpfwindows and hourly wages meansincreasing the total costs o producing windows. —+ Upygrd shift in the curve.] Options B and C are incorrect Reducing overheads and better uses o production facilities will lead to a decline in the total cost'Qf production of the windows —i Downward shift in the curve.] 38. Which of the following is NOT a characteristic ofa perfect market? Large numbers of customers and suppliers B. All suppliers provide a wide range of products and services c. There is perfect information for customers and suppliers D. There are no entry or exit barriers to the market 15:33 CN 27thg 9 100%",
+        "image_file": "images/cau_037.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 38,
+        "question_number": 38,
+        "part": 2,
+        "question_text": "Which of the following is NOT a characteristic ofa perfect market?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Large numbers of customers and suppliers"
+          },
+          {
+            "key": "B",
+            "text": "B. All suppliers provide a wide range of products and services"
+          },
+          {
+            "key": "C",
+            "text": "C. There is perfect information for customers and suppliers"
+          },
+          {
+            "key": "D",
+            "text": "D. There are no entry or exit barriers to the market"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Refers to the perfect markets' criteria in the lectures.] The opposite of option B is true perfect markets assume that all goods sold by? (identical))",
+        "image_file": "images/cau_038.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 39,
+        "question_number": 39,
+        "part": 2,
+        "question_text": "Which of the following is a feature of monopolistic competition?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Few competitors in the market"
+          },
+          {
+            "key": "B",
+            "text": "B. Undifferentiated products"
+          },
+          {
+            "key": "C",
+            "text": "C. No major barriers to entry to or exit from the market"
+          },
+          {
+            "key": "D",
+            "text": "D. Low advertising expenditure"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Be careful to mismatch between monopoly and monopolistic competition Remind of the definition of monopolistic competition: when a business has man different competitors, but each offers a somewhat differeptigtedproduct.' Option A is incorrect, as monopolistic competition consists o man competitors; Option B is incorrect, as mono olistic com etition consists o differentiated products! Option D is incorrect, as due to the large amount of competition in th market, there i'typically significant advertising expenditure by all the businesses in the market; 40.Freja is preparing a short-term budget for a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term? A. The cost per unit would be expected to fall for the entire period due to the increased output B. The cost per unit would be expected to initially fall, then start to rise again due to diseconomies of scale C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law of diminishing returns and diseconomies of scale in the lectures. They both make the costsfall initially thengise again, but they are different in the pgi@dgpplied • Laypfdiminishing returns is appliedfor the shore • Diseconomies of scale is applied for the long 15:33 CN 27thg 9 100%",
+        "image_file": "images/cau_039.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 40,
+        "question_number": 40,
+        "part": 2,
+        "question_text": "Freja is preparing a short-term budgetfor a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The cost per unit would be expected to fall for the entire period due to the increased output"
+          },
+          {
+            "key": "B",
+            "text": "B. The cost per unit would be expected to initially fall, then start to rise again"
+          },
+          {
+            "key": "D",
+            "text": "D. ue to diseconomies of scale"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law ofdiminishing returns and diseconomies of scale in th lecturesffhey both make the costsfall initiallythen rise again, buccheygre different in the period applied • Lg»tpfdiminishing returns is appJiedfor the sho • Diseconomies of scale is appJiedfor the lonå As production increases, Jhe cost per unit will initially fall due to the larger numbe pfunits beingnade whichthetotal costis spread overÆoweyeogven withipbhé short-term, as the numbgrpfunits ofoutputgrows, the efficiency of the productioiå system will fall, leading to a rise in average cost per unit again. This is known as the law of diminishing returns. —+ Option D is correc Diseconomies ofscale (option B) occur over the long-germ)",
+        "image_file": "images/cau_040.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "Công ty đại chúng (PLC) có quyền huy động vốn từ công chúng nên có khả năng tiếp cận nguồn tài chính rộng lớn hơn nhiều so với công ty hợp danh hay tư nhân.",
-    "image_file": "images/cau_021.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 22,
-    "question_number": 22,
-    "part": 2,
-    "question_text": "A Co is a company that specializes in forestry. It has recently purchased B Co, which runs a chain of recreational resorts. A has allowed B to build several new resorts on land which is owned by A, but which it is no longer able to use. The resorts have proven highly profitable and popular.\nWhich of the following best explains the reason for the improved performance of the combined entity?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Specialisation"
-      },
-      {
-        "key": "B",
-        "text": "B. Social interactivity"
-      },
-      {
-        "key": "C",
-        "text": "C. Synergy"
-      },
-      {
-        "key": "D",
-        "text": "D. Service"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Synergy (Hiệu ứng hiệp đồng 2 + 2 = 5) xảy ra khi kết hợp hai doanh nghiệp mang lại giá trị và hiệu quả vượt trội hơn so với hoạt động riêng lẻ.",
-    "image_file": "images/cau_022.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 23,
-    "question_number": 23,
-    "part": 2,
-    "question_text": "Employees are _____ stakeholders, while finance providers are _____ stakeholders.\nWhich two words fill the gaps in the above sentence?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Internal, Connected"
-      },
-      {
-        "key": "B",
-        "text": "B. External, Internal"
-      },
-      {
-        "key": "C",
-        "text": "C. Connected, Outsiders"
-      },
-      {
-        "key": "D",
-        "text": "D. Internal, Suppliers"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Nhân viên làm việc bên trong doanh nghiệp là Internal stakeholders; nhà cung cấp tài chính có quan hệ hợp đồng đầu tư là Connected stakeholders.",
-    "image_file": "images/cau_023.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 24,
-    "question_number": 24,
-    "part": 2,
-    "question_text": "A is a large company whose shares are owned by a large number of individual investors, who do not wish to engage with the company's decision-making despite having full rights to do so. When using Mendelow's matrix this stakeholder group would be classed as:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Minimal effort"
-      },
-      {
-        "key": "B",
-        "text": "B. Keep informed"
-      },
-      {
-        "key": "C",
-        "text": "C. Keep satisfied"
-      },
-      {
-        "key": "D",
-        "text": "D. Key players"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remind of Mendelow's power-interest matrix. Level of interes@ LOW High Level oj LOW Minimal effore Keep informed power High Reep satisfied Key players In this case, A's shareholders have a high level of power, but a low level ofinteres",
-    "image_file": "images/cau_024.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 25,
-    "question_number": 25,
-    "part": 2,
-    "question_text": "A plc has a large number of shareholders. The largest is H, a pension company. H owns 35% of A's share capital. None of the other shareholders own more than 10% of the share capital each. H has stated that it is happy with A's strategy and dividends and has no intention of intervening in A. If A prepares Mendelow's matrix, which quadrant would H fall into?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Minimal effort"
-      },
-      {
-        "key": "B",
-        "text": "B. Keep informed"
-      },
-      {
-        "key": "C",
-        "text": "C. Keep satisfied"
-      },
-      {
-        "key": "D",
-        "text": "D. Key player"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remind of the Mendelow's power-interest matrix. Level ofinteresi Lo High Minimal effpre KeepO!1fogned owe High Keep satis led Key plgyeß H has comparativelyhigh power due to its large number of shares å High level o power However, it has expressed a low level of interest in the running ofA. This means thge A's directors should work to keep H from taking an active interest in thefuture Low level of interest Keep the satisfied corne 26. Under typical employment protection legislation, which of the following would be classified as an 'unfair' reason for the dismissal of an employee? The employee was a member ofa trade union B. The employee vvas guilty of misconduct c. The employee's job became redundant D. The emnlovee had a lack ofaualifications or canabilitv for the iob",
-    "image_file": "images/cau_025.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 26,
-    "question_number": 26,
-    "part": 2,
-    "question_text": "Under typical employment protection legislation, which of the following would be classified as an 'unfair' reason for the dismissal of an employee?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The employee was a member ofa trade union"
-      },
-      {
-        "key": "B",
-        "text": "B. The employee was guilty of misconduct"
-      },
-      {
-        "key": "C",
-        "text": "C. The employee's job became redundant"
-      },
-      {
-        "key": "D",
-        "text": "D. The employee had a lack of qualifications or capability for the job"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Remember of the fair reasonsfor dismissal. • Lack of capability or qgglifications • Guilty of misconduc • Redundancy • Legal reasons Ifany reasons from the question do not lie within these 'fair' reasons, it should bé 'unfair' reasons fordismissal. Options B, C, D are thereasons whichgre mentioned abov",
-    "image_file": "images/cau_026.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 27,
-    "question_number": 27,
-    "part": 2,
-    "question_text": "Which of the following is one of the rights of individuals under typical data protection legislation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Immediate access to personal data at any time"
-      },
-      {
-        "key": "B",
-        "text": "B. The right to erase personal information through an application to the data holder"
-      },
-      {
-        "key": "C",
-        "text": "C. No decisions should be taken against an individual on a purely automated"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "basis D. The right to prevent data from being processed for the profit of others Refer to the lectures for some rights covered by the data protection. Be careful tu thepptions which seem to be correct! Option A is incorrect. While individuals have the right to access thei personal data, this may involve a written request being made and the pgyment ofa fee — this is unlikely to happen instantly) Option B is incorrectAppIication for the erasurepfdata may have to be through the courts.' Option D is incorrect. Data processing can only be prevented if it wilt cause damage or distress to the individual or is for the purposes of direc marketing 28. is concerned with keeping data safe from various hazards that could destroy or compromise it. Which two words complete this definition? Data protection B. Data security c. Physical risk D. Human risk By definition. Options C and D are both types of data security risks; 29.Consider the following statements:",
-    "image_file": "images/cau_027.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 28,
-    "question_number": 28,
-    "part": 2,
-    "question_text": "_____ is concerned with keeping data safe from various hazards that could destroy or compromise it.\nWhich two words complete this definition?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Data protection"
-      },
-      {
-        "key": "B",
-        "text": "B. Data security"
-      },
-      {
-        "key": "C",
-        "text": "C. Physical risk"
-      },
-      {
-        "key": "D",
-        "text": "D. Human risk"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Data security (An toàn dữ liệu) bảo vệ dữ liệu khỏi các rủi ro làm mất mát, hư hỏng hoặc xâm nhập trái phép.",
-    "image_file": "images/cau_028.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 29,
-    "question_number": 29,
-    "part": 2,
-    "question_text": "Consider the following statements: (1) Employers have the sole responsibility for the health and safety of their employees. As long as employers have adequately trained their staff about the potential hazards they will face in the workplace, they have discharged the health and safety responsibilities. Which of these statements is/are correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (i) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (ii) only"
-      },
-      {
-        "key": "C",
-        "text": "C. Both"
-      },
-      {
-        "key": "D",
-        "text": "D. Neither"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remind that in terms of health and safety in the workplace, both employers and employees have different responsibilities.' Be careful to consider whether the responsibility is ended after adequagely? training (i.e., statement iij is incorrect. Employees also have responsibilities under healthand safety legislation • (ii) is incorrect. Employers alsohave to provide a safe workinå environmentfovemployees — notjust train them about the hazards) 30. Which of the following is NOT a typical requirement ofconsumer rights legislation? A. The seller must have legal title to the goods being sold B. Goods sold must befit for purpose c. Item descriptions must be accurate D. Goods must be reasonably priced Remember the key principles of consumerrights legislation in terms ofgoods. • The seller must have legal title or ownership of the items • The goods sold must be of.atisfactory quality andficfor their intended purpose. • When a buyer makes a purchase based on the description of an item, the goods must correspond with this description • When digital content (e.g., online Ilms, games, e-books) isfaultyu consumers are given a clear right to repair or replacement) Be care 10 an answer that seems to be correct, which ma beri htin termso",
-    "image_file": "images/cau_029.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 30,
-    "question_number": 30,
-    "part": 2,
-    "question_text": "Which of the following is NOT a typical requirement of consumer rights legislation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The seller must have legal title to the goods being sold"
-      },
-      {
-        "key": "B",
-        "text": "B. Goods sold must befit for purpose"
-      },
-      {
-        "key": "C",
-        "text": "C. Item descriptions must be accurate"
-      },
-      {
-        "key": "D",
-        "text": "D. Goods must be reasonably priced"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remember the key principles ofgpnsumer right'legislation in term.pfgoods} • The seller must have legal title or ownership of the items.] • The goods sold mu$be of;ati$factory quality andficfqrtheir intended purpose; • When a buyernakes a purchase based on the descriptipnpfan item.@le goods must correspond with this description • When digital content (e.g., online films, games, e-books) isfauItjJ consumers are given a clear right to repair or replacement! Beggrefulo an answer thatseems to be correc which ma be r • htin termso services) Goods would not typically have to be reasonably priced, which services would be.l Options A, B, C match with the key principles mentioned above;",
-    "image_file": "images/cau_030.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 31,
-    "question_number": 31,
-    "part": 2,
-    "question_text": "Consider the following statements: (I) All contracts must be signed by all relevant parties in order to be binding. (2) Consumer legislation typically only covers purchases of goods. Which of these statements is/are correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (1) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (2) only"
-      },
-      {
-        "key": "C",
-        "text": "C. Both"
-      },
-      {
-        "key": "D",
-        "text": "D. Neither"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Be cautious of the different types of contract, whether they need to be signed to bé valid, in terms of Consider what aspects the legislation covers, in terms is incorrect. Simple contracts cambe verbal, pr evemimplied by the actions of one of the parties • (2) is incorrect. Consumer legislation often also covers the provision o only;",
-    "image_file": "images/cau_031.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 32,
-    "question_number": 32,
-    "part": 2,
-    "question_text": "Sarah is a manager at V company. As part of her contract with V, she is not supposed to hire any employees who are female or over the age of thirty-five. This contract is subsequently found to be unenforceable. Which of the features ofa simple contract is missing from this agreement?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. greement"
-      },
-      {
-        "key": "B",
-        "text": "B. Legality"
-      },
-      {
-        "key": "C",
-        "text": "C. Consideration"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Capacity Remind of the simple contract's features to be valid. • Agreement: the parties must have agreedon the terms of the contra • Consideration: each party must offer some consideration to the otheh • Intention to create legal relations: both arties must clearl intend thei relationship to be legally bindinå • Capacity and legality: each party to the contract must have the capability to enter the contract and must not or illegal purposes This contract involves discriminating against some potential employees, which iS illegal in most jurisdictions. Remember that a contract is not valid if it requires one or more parties to break the law.]",
-    "image_file": "images/cau_032.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 33,
-    "question_number": 33,
-    "part": 2,
-    "question_text": "Consider the following statements: (1) Equilibrium' is the selling price above which the number of units demanded by the market starts to decline. (2) As the selling price ofa product increases, the number of units supplied by the market will also tend to rise. Which of these statements is/are correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (1) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (2) only"
-      },
-      {
-        "key": "C",
-        "text": "C. Both"
-      },
-      {
-        "key": "D",
-        "text": "D. Neither Statement (1)+ (2): (2)"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "• (1) is incorrect. Equilibrium is the selling prigegt which supply exactly equals demand) The number of units demanded by the market will usually fall as the price rises (gS per the demand curve) - this is nothing to do with the equilibrium point itself) • (2) is correct, as stated in the diagram above,]",
-    "image_file": "images/cau_033.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 34,
-    "question_number": 34,
-    "part": 2,
-    "question_text": "Which one of the following would NOT lead to a shift in the demand curve for overseas holidays?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. n advertising campaign by holiday-tour operators"
-      },
-      {
-        "key": "B",
-        "text": "B. A fall in the disposable income of consumers"
-      },
-      {
-        "key": "C",
-        "text": "C. A rise in the price of domestic holidays"
-      },
-      {
-        "key": "D",
-        "text": "D. A rise in the exchange rate for the domestic currency"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remember the distinctions betweenexpansion/contraction in demand and increase/decrease in demand} • Changes in price movement along with the demand curve Expansion/contraction in demand • Changes in conditions ofdemand shiftthe demand curve å Increase/decrease in demand. Conditions of demand include; O Income changes Tast\"hanges The price of other complement or substitute goodS Population increases/decreaseS Note that the question mentions the overseasholidays, be careful with option which is a case of domestic holidays} • Option D is correct. This changes the price of foreign holidays and leads to a movement along the demand curve, not a shift in the • Option A is incorrect. This may change the taste of traveling overseas which further shifts the demand curve) • Option B is incorrect.This change of income_may affect the consumers' demand, which results in a shift in the demand curv • Option Cis incorrect. Domestic holidays are considered as 'substituteS goods' for overseas holidays. Changes in substitutes' ricesshould Shift the demand curve because their e ects on demand are si Pificant,",
-    "image_file": "images/cau_034.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 35,
-    "question_number": 35,
-    "part": 2,
-    "question_text": "Which of the following is NOT a factor that affects the price elasticity of demand?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The amount of customer income spent on the item"
-      },
-      {
-        "key": "B",
-        "text": "B. Duration of the price change"
-      },
-      {
-        "key": "C",
-        "text": "C. The necessity of the item to consumers"
-      },
-      {
-        "key": "D",
-        "text": "D. The initial number of units demanded"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remind of some factors which determine the price elasticitypfdemand} • Proportion of income spent on thegpga • Availability ofsubstitutes • Demandfor necessities • Habit of purchasing: • Duration ofchangesin ric • Definitionpfnarkeu Options B C match with the ctors mentioned above) 36.G Co increases the selling price of its only product, the GFIOOO by 5%. This causes a reduction in the number of units it sells by 8%. Is the GFIOOO's price elasticity of demand likely to be: Less than 1 B. Equal to 1 c. Greater than 1 D. Negative Ppmind nfthp mpnninn nfnrirp plnstiritv: tn pynlnins the rpsnnngivpnpgg ni 15:33 CN 27thg 9 100%",
-    "image_file": "images/cau_035.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 36,
-    "question_number": 36,
-    "part": 2,
-    "question_text": "G Co increases the selling price of its only product, the GFIOOO by 5%. This causes a reduction in the number of units it sells by 8%. Is the GFIOOO's price elasticity of demand likely to be:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Less than I"
-      },
-      {
-        "key": "B",
-        "text": "B. Equal to 1"
-      },
-      {
-        "key": "C",
-        "text": "C. Greater than 1"
-      },
-      {
-        "key": "D",
-        "text": "D. Negative"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remind of the meaning of price elasticity: to explains the responsiveness oj demand to changes in price. Therefore} • If changes in than chgpges in price å Pric elasticity If changes in quantitydemanded are smallerthan chgnges in priced Price inelasticity Note that in this kind of question, it is not necessary to calculate the exact amoun of price elasticity. Instead, students should focus on how the changes in demand correspond to changesimprice, due to the above explanations) The fact that the units sold fall by more than the price increase (8% compared 5%) indicates that this product is relatively elastic. This would give a PED of more than I.'",
-    "image_file": "images/cau_036.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 37,
-    "question_number": 37,
-    "part": 2,
-    "question_text": "L makes a variety of different products, including windows. Which TWO of the following would cause a decrease in the level of supply of L's windows?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. n increase in the level of VAT charged by the government on windows"
-      },
-      {
-        "key": "B",
-        "text": "B. A new automated assembly system for L's products that reduces L's window manufacturing overheads"
-      },
-      {
-        "key": "C",
-        "text": "C. Staff negotiations, leading to window production staff adopting a shift-work"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "approach which makes better use of L's production facilities D. Staff negotiations, leading to a slight rise in the hourly rate paid to window production workers Remember: Upwards shifts/decreases in thesupplycurve are caused b) increases in the costs of making and/or selling the product; —+ Look for the circumstances which increase the costs of producing Options A, D are correct. Increasing VATpfwindows and hourly wages meansincreasing the total costs o producing windows. —+ Upygrd shift in the curve.] Options B and C are incorrect Reducing overheads and better uses o production facilities will lead to a decline in the total cost'Qf production of the windows —i Downward shift in the curve.] 38. Which of the following is NOT a characteristic ofa perfect market? Large numbers of customers and suppliers B. All suppliers provide a wide range of products and services c. There is perfect information for customers and suppliers D. There are no entry or exit barriers to the market 15:33 CN 27thg 9 100%",
-    "image_file": "images/cau_037.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 38,
-    "question_number": 38,
-    "part": 2,
-    "question_text": "Which of the following is NOT a characteristic ofa perfect market?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Large numbers of customers and suppliers"
-      },
-      {
-        "key": "B",
-        "text": "B. All suppliers provide a wide range of products and services"
-      },
-      {
-        "key": "C",
-        "text": "C. There is perfect information for customers and suppliers"
-      },
-      {
-        "key": "D",
-        "text": "D. There are no entry or exit barriers to the market"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Refers to the perfect markets' criteria in the lectures.] The opposite of option B is true perfect markets assume that all goods sold by? (identical))",
-    "image_file": "images/cau_038.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 39,
-    "question_number": 39,
-    "part": 2,
-    "question_text": "Which of the following is a feature of monopolistic competition?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Few competitors in the market"
-      },
-      {
-        "key": "B",
-        "text": "B. Undifferentiated products"
-      },
-      {
-        "key": "C",
-        "text": "C. No major barriers to entry to or exit from the market"
-      },
-      {
-        "key": "D",
-        "text": "D. Low advertising expenditure"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Be careful to mismatch between monopoly and monopolistic competition Remind of the definition of monopolistic competition: when a business has man different competitors, but each offers a somewhat differeptigtedproduct.' Option A is incorrect, as monopolistic competition consists o man competitors; Option B is incorrect, as mono olistic com etition consists o differentiated products! Option D is incorrect, as due to the large amount of competition in th market, there i'typically significant advertising expenditure by all the businesses in the market; 40.Freja is preparing a short-term budget for a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term? A. The cost per unit would be expected to fall for the entire period due to the increased output B. The cost per unit would be expected to initially fall, then start to rise again due to diseconomies of scale C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law of diminishing returns and diseconomies of scale in the lectures. They both make the costsfall initially thengise again, but they are different in the pgi@dgpplied • Laypfdiminishing returns is appliedfor the shore • Diseconomies of scale is applied for the long 15:33 CN 27thg 9 100%",
-    "image_file": "images/cau_039.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 40,
-    "question_number": 40,
-    "part": 2,
-    "question_text": "Freja is preparing a short-term budgetfor a cost incurred by her company. She is predicting that the company will experience significant increases in output during the period. How would Freja expect to see the average cost per unit change within the short-term?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The cost per unit would be expected to fall for the entire period due to the increased output"
-      },
-      {
-        "key": "B",
-        "text": "B. The cost per unit would be expected to initially fall, then start to rise again"
-      },
-      {
-        "key": "D",
-        "text": "D. ue to diseconomies of scale"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "C. The cost per unit would be unlikely to change in the short-term D. The cost per unit would be expected to initially fall, then start to rise again due to the law of diminishing returns Remember the law ofdiminishing returns and diseconomies of scale in th lecturesffhey both make the costsfall initiallythen rise again, buccheygre different in the period applied • Lg»tpfdiminishing returns is appJiedfor the sho • Diseconomies of scale is appJiedfor the lonå As production increases, Jhe cost per unit will initially fall due to the larger numbe pfunits beingnade whichthetotal costis spread overÆoweyeogven withipbhé short-term, as the numbgrpfunits ofoutputgrows, the efficiency of the productioiå system will fall, leading to a rise in average cost per unit again. This is known as the law of diminishing returns. —+ Option D is correc Diseconomies ofscale (option B) occur over the long-germ)",
-    "image_file": "images/cau_040.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 41,
-    "question_number": 41,
     "part": 3,
-    "question_text": "Country Y has an increasingly high rate of unemployment. Which of the following statements is/are correct regarding the effect of this on consumers and businesses? Businesses may offer lower wages to staff Government spending on social security will fall (iii) Businesses will find it easier to locate new employees (iv) Businesses may find that demand for their goods and services falls",
-    "options": [
+    "title": "Phần 3: Câu 41 - 60",
+    "questions_range": "Câu 41 - 60",
+    "pdf_file": "output_pdf/De_3_Cau_41_60.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. (i), (ii), and (iii) only"
+        "id": 41,
+        "question_number": 41,
+        "part": 3,
+        "question_text": "Country Y has an increasingly high rate of unemployment. Which of the following statements is/are correct regarding the effect of this on consumers and businesses? Businesses may offer lower wages to staff Government spending on social security will fall (iii) Businesses will find it easier to locate new employees (iv) Businesses may find that demand for their goods and services falls",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (i), (ii), and (iii) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (i), (iii) and (iv) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (i) and (iii) only"
+          },
+          {
+            "key": "D",
+            "text": "D. All four are correct"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "'_(ii) is incorrect. Given the high rate of unemployment, the governmen will have to pay more in social security tesgpport the increasing number of workers who are without jobs,] • The other three statements are correc 42.1ncreases in unemployment, reduced demand, falling household incomes, and low business confidence and investment are associated most strongly with which of the following? A. High-interest rates 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_041.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. (i), (iii) and (iv) only"
+        "id": 42,
+        "question_number": 42,
+        "part": 3,
+        "question_text": "1ncreases in unemployment, reduced demand, falling household incomes, and low business confidence and investment are associated most strongly with which of the following?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. High-interest rates"
+          },
+          {
+            "key": "B",
+            "text": "B. Increase in the money supply"
+          },
+          {
+            "key": "C",
+            "text": "C. A budget deficit"
+          },
+          {
+            "key": "D",
+            "text": "D. Recession"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "A recession starts when demand begins to fall and leads to reduced purchases o raw materials and increased unemployment; this, in turn, leads to reduced household incomes and a /ürther all in demand which can result in a slum",
+        "image_file": "images/cau_042.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. (i) and (iii) only"
+        "id": 43,
+        "question_number": 43,
+        "part": 3,
+        "question_text": "Country K is suffering from a recession. A government minister has recently suggested that the country's government should 'focus more on reducing the power of trade unions and the number of state-owned monopolies and less on worrying about running a budget surplus.' Which economics theory is the government minister suggesting that country K should adopt?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Classical"
+          },
+          {
+            "key": "B",
+            "text": "B. Monetarist"
+          },
+          {
+            "key": "C",
+            "text": "C. Keynesian"
+          },
+          {
+            "key": "D",
+            "text": "D. Demand side"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Remember the economics theories. The classical approach: to do nothingand let the economy find its ow equilibrium The Keynesian approach (demand side): running a budge surp@$/deficit to manipulate the economy and help it reach its equilibrium point The Monetarist approach (supply side): the removal of key marke imperfectionsallowing the economy to naturallyfind its owh equilibrium) The minister is suggesting the removal ofkey market imperfections, such a union activity and monopolies. This is a classic supply-side or monetarist ap roach 44. The government of country H is planning to adopt a supply-side approach to dealing with the country's high unemployment. Which of the following strategies is consistent with a supply-side approach? Do nothing B. Borrow money from the money markets and increase government spending, creating additional jobs c. Lower interest rates to make it cheaper for firms to borrow, meaning that they can afford to hire more workers D. Improve information available to the unemployed to make it easier for them to find work Remember the economics theories. 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_043.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. All four are correct"
+        "id": 44,
+        "question_number": 44,
+        "part": 3,
+        "question_text": "The government of country H is planning to adopt a supply-side approach to dealing with the country's high unemployment.\nWhich of the following strategies is consistent with a supply-side approach?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Do nothing"
+          },
+          {
+            "key": "B",
+            "text": "B. Borrow money from the money markets and increase government spending, creating additional jobs"
+          },
+          {
+            "key": "C",
+            "text": "C. Lower interest rates to make it cheaper for firms to borrow, meaning that they can afford to hire more workers"
+          },
+          {
+            "key": "D",
+            "text": "D. Improve information available to the unemployed to make it easier for them to find work"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Chính sách trọng cung (Supply-side approach) tập trung vào cải thiện tính hiệu quả của thị trường lao động và nguồn cung, ví dụ như nâng cao thông tin việc làm giúp người thất nghiệp dễ tìm việc hơn (Improve information available to the unemployed).",
+        "image_file": "images/cau_044.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 45,
+        "question_number": 45,
+        "part": 3,
+        "question_text": "Staffin-country G dislike their managers interfering in their work. According to Hofstede, this means that the culture is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Masculine"
+          },
+          {
+            "key": "B",
+            "text": "B. High uncertainty avoidance"
+          },
+          {
+            "key": "C",
+            "text": "C. Low power-distance"
+          },
+          {
+            "key": "D",
+            "text": "D. Collective"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remember Hofstede's cultural dimensions. Low High Embraces Egalitarian Power distance hierarchy Collectivism vs. Collectivist Individualist Individualism Comfortable Uncomfortable Uncertainty Avoidance with uncertainty with uncertainty Nurture Femininity vs. Masculinity Power important important Traditional & Short-term vs. Long-term Futuristic & snort-term Orientation long-term Normative Satisfaction is Restraint vs. Indulgence repression good",
+        "image_file": "images/cau_045.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 46,
+        "question_number": 46,
+        "part": 3,
+        "question_text": "Antonio is a supervisor within the purchasing department ofa large company. His team is responsible for raising purchase orders for raw materials used in the production of the company's products. The department has been set a limit as to how much raw material they are allowed to purchase each week. Which of the following will not be one of Antonio's normal functions as a supervisor?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Raising purchase orders for raw materials"
+          },
+          {
+            "key": "B",
+            "text": "B. Reporting the total value of purchase orders raised to management on a weekly basis"
+          },
+          {
+            "key": "C",
+            "text": "C. Dealing with queries from his team"
+          },
+          {
+            "key": "D",
+            "text": "D. Changing the size of the purchasing limits"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remember of key functions of supervisors. Supervising their team; Undertaking technical or operational work, alongside thegrpup#hey oversee Providing advice and support to their teams in order to help solve problems; Monitoring work by means of detailed, daily information Periodically summarizing information and passing it to more senioh management for review 15:34 CN 27thg 9 100% Option D is correct A supervisor would not normally be responsiblefo changing the objectives (purchasing limits) they have been set b) senior management; Options A, B, C is incorrect A supervisor is supposed to help controt staff and appl the olicies and strate iessetb more senio managemen t)",
+        "image_file": "images/cau_046.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 47,
+        "question_number": 47,
+        "part": 3,
+        "question_text": "Which of the following statements regarding authority and responsibility is correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Authority cannot be delegated to subordinates"
+          },
+          {
+            "key": "B",
+            "text": "B. Authority is the obligation a person has to fulfill a task they have been set"
+          },
+          {
+            "key": "C",
+            "text": "C. Responsibility is the right to do something because of your position within"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "an organization D. Responsibility cannot be delegated to subordinates Remember the definitions ofauthority and responsibility • Authority: is the right to do something, or ask someone else to d something, and expect it to be done! • Responsibility is the liabili o a erson to bere uired to ensure tha the given work is done Note that students should think of whetherauthority or responsibility cap_bé Option D is correct. Responsibility can never be dele ated des ite th task might be given to another member; Option A is incorrect. A is incorrect. Authority can be delegated, as manager can give a more junior member of staff the right to give orders in a certain area or for a certain lengthpftirneU Options B, C is incorrect. The definitions for B and C have beeh reversed)",
+        "image_file": "images/cau_047.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 48,
+        "question_number": 48,
+        "part": 3,
+        "question_text": "Liam manages a small team of workers. He has recently asked his team for suggestions as to how they can improve their efficiency. The team members have made several suggestions, but Liam does not feel they are practical and has decided to adopt a different approach. According to the Ashridge Management College, what management style is Liam demonstrating?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Joins"
+          },
+          {
+            "key": "B",
+            "text": "B. Tells"
+          },
+          {
+            "key": "C",
+            "text": "C. Consults"
+          },
+          {
+            "key": "D",
+            "text": "D. Sells"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remember the 4 management styles from the Ashridge Management College} • Tells (autocratic): the manager makes all the decisions and issues instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to accept them in orde 15:34 CN 27thg 9 100% Remember the 4 management styles from the Ashridge Management Collgge • Tells (autocratic): the manager makes all the decisions instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to acce t them in orde to carry them out properly • Consults (participative): the manager confers with the team and takes their views into account, although still retains the final say • Joins (democratic): the leader and the team members make the decision together on the basis of consensus) Liam is asking employeesfor their opinions, but still retains the final say abog what changes are madeffhis is consistentvith qgonsults (participative) styleu Be cautious to be conflicted with tells and sells style, in which the final decisioniS also made by the management instead ofcooperation among the team.'",
+        "image_file": "images/cau_048.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 49,
+        "question_number": 49,
+        "part": 3,
+        "question_text": "1n a recent staff survey, manager Martina has been identified as highly focused on meeting production needs, but having little real concern for the wellbeing of the employees who report to her. According to Blake and Mouton, which key point on the managerial grid is Martina being placed at by the staff survey?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Impoverished"
+          },
+          {
+            "key": "B",
+            "text": "B. Team management"
+          },
+          {
+            "key": "C",
+            "text": "C. Country club"
+          },
+          {
+            "key": "D",
+            "text": "D. Task management"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remember the management.tylesfrom the Blake and Mouton manageria grid.? • Management impoverished: this manager only makes a minimum effort in either area and will make the smallest possible effort required to get the job doneu • 'Country Club' management: this manager is thoughtful and attentiv to the needs of the people, which leads to a comfortable, friendly organizational atmosphere but very little work is actually achieved! • Task management: this manager is only concerned with productio and arranges work in such a way that people's interference is minimized • 'Middleofthe road management: this isa manager who is ambivalent in style towards the task andpgpple but achieves onl moderatel _gppd results on both dimensions • Team management: this manager integrates the two areas to foste working together and high production to produce true team leadershipß • Option D is correct Martina is focused on meeting production, but no on employee welfare. This plots her at 9,1 on the managerial grid — g task manager • Option A is incorrect. 1m overished indicates no concern o production or employees: • ODtion B is incorrect Team manaaement indicates a hiah concern foh 15:34 CN 27thg 9 100% • Option D is correct Martina is ocused on meetingproduction, but no on employee welfare,This plots her at 9,1 on the managerial grid—Q task manager • Option A is incorrect. Impoverished indicates no concern production or employees, • Option B is incorrect Team concernfg} both production and employees '_Option C is incorrect. Country club indicates little concern o production but high concern for employees and team managemen indicates a high degree o concern for both p.pple and production)",
+        "image_file": "images/cau_049.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 50,
+        "question_number": 50,
+        "part": 3,
+        "question_text": "Helena is planning on introducing a new IT system into her business. Helen knows that the new system will be complex to use, but has only told her staff that the system will make certain tasks more accurate. She has not mentioned the significant retraining required by the staff as she feels that this will cause resistance to the new' system. According to Kotter, which approach to managing change is Helena adopting ?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Education and communication"
+          },
+          {
+            "key": "B",
+            "text": "B. Facilitation and support"
+          },
+          {
+            "key": "C",
+            "text": "C. Manipulation and co-optation"
+          },
+          {
+            "key": "D",
+            "text": "D. Negotiation and agreement"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remember the management styles from Kotter to deal with change resistance • Participation and involvement0This approach aims to involve employees, usually by allowing some input into decision-making) • Education and communication: This approach aims to keeb employees informed, usually through presentations about the reason for thegquired • Facilitation and support: For example training or counseling • Manipulation and co-optation: The information that is disseminatedUS selective and distorted to only emphasize the benefits of the change,] • Negotiation and agreement: This approach enables several parties with opppsing interests Helena is only outlining the positives of the new system and is distorting the (pformation to stress that the new system will be useful. This is an example o manipulation and co-optatipn,J 51.A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to A. Reward B. Leaitimate 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_050.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 51,
+        "question_number": 51,
+        "part": 3,
+        "question_text": "A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to use?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Reward"
+          },
+          {
+            "key": "B",
+            "text": "B. Legitimate"
+          },
+          {
+            "key": "C",
+            "text": "C. Referent"
+          },
+          {
+            "key": "D",
+            "text": "D. Coercive"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remember the 5 types of power from French and Raven. • Reward power: one person is able to reward another person fo carrying out their orders or meeting other requirements. • Coercive power: one person having the ability to punish anothe person for failing to carry out their orders satisfactorily • Expert power: one person is regarded by others as having speciat expertise or knowledge that others do not. • Referent power: is based on the persppal qualitie.pfthe individua? and often occurs when one person identifies with or wishes to imitate another.' • Legitimate power: thWs power derived from being in a position o authority within the organization; her Staffa reward for adopting the stem Option She is also relying on referent power by using her charisma/relationship with heh employeeS Option",
+        "image_file": "images/cau_051.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 52,
+        "question_number": 52,
+        "part": 3,
+        "question_text": "Which of the following is NOT likely to be caused by poor recruitment and selection policies?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Increased motivation of employees"
+          },
+          {
+            "key": "B",
+            "text": "B. Wasted management time"
+          },
+          {
+            "key": "C",
+            "text": "C. Increased advertising costs"
+          },
+          {
+            "key": "D",
+            "text": "D. Reduced product or service quality"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Poor recruitment should result in 'poor'effects (i.e., negative e ects . shoul consider any positive result to be the correct answe It is unlikely that poor recruitment and selection will increase employee motivation Hiring the wrong person for the job usually has a detrimental impact on theiti motivation as well as (potentially) the motivation of those around them. However the remainingpptions are all possible consequences! 53.Andrew is about to start attempting to recruit a new member of staff for his department. He is currently creating a person specification and has identified that the successful candidate needs to be able to work a number of evenings and 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_052.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 53,
+        "question_number": 53,
+        "part": 3,
+        "question_text": "Andrew is about to start attempting to recruit a new member of staff for his department. He is currently creating a person specification and has identified that the successful candidate needs to be able to work a number of evenings and weekends. According to Rodger's seven-point plan, what aspect of person specification is Andrew focussing on?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Special aptitudes"
+          },
+          {
+            "key": "B",
+            "text": "B. Disposition"
+          },
+          {
+            "key": "C",
+            "text": "C. Interests"
+          },
+          {
+            "key": "D",
+            "text": "D. Circumstances"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "remember Rodger's seven-point plan using the acronym SCIPDAG - specia aptitudes, circumstances, interests, physical makeup, disposition, and attainments Special aptitudes - what skills and abilities should the candidate have. (i.e. manual dexterity, skill with words and numbers)) Circumstances - does thejob have any special demands such as th requirement to work unsociable hours)) Interests — is the person active or social in their ersonal li e? This ma gid the job Physical makeup - what is the appropriate personal appearance anu level of health re uiredb the ob. Disposition — what sort of nature should the ideal candidate have? D Chey need to be social, or calm in a crisis and g<gpdgcpressure e Attainments — does the ideal candidatepeed any specific qualification or achievements or the role. General intelligence - should the ideal candidate be average o above-average to be successful in the role. Working in evenings and weekends is uncommon, which means the job has speciat demands about working hours. It matches with the Circumstances poin mentioned above!",
+        "image_file": "images/cau_053.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 54,
+        "question_number": 54,
+        "part": 3,
+        "question_text": "A business has a job vacancy that it needs to fill, but is unsure of whether to recruit externally or internally. Which of the following statements regarding this decision is correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. External recruitment is likely to improve motivation for the existing workers within the business"
+          },
+          {
+            "key": "B",
+            "text": "B. Internal recruitment may help the company to obtain any specialist skills it may require"
+          },
+          {
+            "key": "C",
+            "text": "C. External recruitment reduces the need for expensive or time-consuming induction programs"
+          },
+          {
+            "key": "D",
+            "text": "D. External recruitment is likely to cost more than internal recruitment"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "External recruitment will involve advertisi and other recruitment costs as well (inngpy cases) higher wagg'beipgpffereå 55.A business has advertised for a new employee and has stated that they must be 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_054.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 55,
+        "question_number": 55,
+        "part": 3,
+        "question_text": "A business has advertised for a new employee and has stated that they must be willing to work between the hours of 3 pm and 6 pm. What type of discrimination could this be an example of?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Victimisation"
+          },
+          {
+            "key": "B",
+            "text": "B. Indirect discrimination"
+          },
+          {
+            "key": "C",
+            "text": "C. Direct discrimination"
+          },
+          {
+            "key": "D",
+            "text": "D. Positive discrimination"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Direct discrimination — this occurs when an employer treats ah employee less favorably than another, due to their gender, race, etc. Fo example, if a to male applicants, this would bé direct discrimination.) Indirect discrimination - this occurs when a working condition or rul disadvantages one grouppfpgpple more than another. For instance,u requirement for male employees to be clean-shaven would put some religious groups at a disadvantage} Victimization — this means an employer treating an employee less fgvorably because the have made or tried to make acom Iaint abou discriminatgpn,] Positive discrimination — this means giving preference to protected groups, such as ethnic minorities, older workers, or womeh This is an example of indirect discrimination as it may disadvantage certain group — such as those who have children.'",
+        "image_file": "images/cau_055.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 56,
+        "question_number": 56,
+        "part": 3,
+        "question_text": "GBN plc manufactures farming equipment and is looking to hire a large number of unskilled workers for a new factory that it is about to open in a city in the south of country U. Which of the following is likely to be the most appropriate location for GBN plc to advertise for these jobs?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. GBN's own website"
+          },
+          {
+            "key": "B",
+            "text": "B. National television"
+          },
+          {
+            "key": "C",
+            "text": "C. Local newspapers or radio"
+          },
+          {
+            "key": "D",
+            "text": "D. Farming trade publications and journals"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "• Options A and D are incorrect. GBN's own website and tradejournal are unlikely to attract unskilled individuals, as they will have little or nb needfirfarm equipment.' • Optional B is incorrect. National television is likely to unnecessarily expensive, especially as GBN is attempting to recruit workersfor a single factory in the south of the country • Option C is correct. Local newspapergnd radio advertising inghe are where the newfactory is to be located would be the most sensible option 57.A manager has recently emailed two individuals in his team, asking for them to submit reports to him. One worker did so, while the other failed to. The second worker, when asked, stated that she thought that the wording of the email meant that it did not apply to her. Which characteristic of individual behavior is the manager having difficulties 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_056.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 57,
+        "question_number": 57,
+        "part": 3,
+        "question_text": "A manager has recently emailed two individuals in his team, asking for them to submit reports to him. One worker did so, while the other failed to. The second worker, when asked, stated that she thought that the wording of the email meant that it did not apply to her. Which characteristic of individual behavior is the manager having difficulties with?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Motivation"
+          },
+          {
+            "key": "B",
+            "text": "B. Perception"
+          },
+          {
+            "key": "C",
+            "text": "C. Attitude"
+          },
+          {
+            "key": "D",
+            "text": "D. Personality"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "• Motivation level- this relates to people's desire to perform tasks and put effort into their job. It can be affected by many factors, including! reward levels, recognition, social interactions at work, and workinå conditions; • Perception — individuals select, organize and interpret the stimuli they receive. Messages from managers are always subject to distortion, the subordinate selecting parts of the message andinterpretingjtfti light of their own experiences, wants, and needs) • Attitudes - these are persistentfeelings and behavioral tendencies directed towards spgific peopggcgroups, ideas, or 0b •egts! • Personality — this is the combination of emotional, attitudinal, an behavioral responses ofan individual The two individuals have interpreted the email in di erentwa s — indicati tha they have different perceptions of what the email mean",
+        "image_file": "images/cau_057.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 58,
+        "question_number": 58,
+        "part": 3,
+        "question_text": "A manager in a business has discovered that several of his employees meet after work to socialize. Which of the following features would indicate that these employees are a group, rather than a team?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. They are committed to achieving a given objective"
+          },
+          {
+            "key": "B",
+            "text": "B. They are made up of diverse individuals"
+          },
+          {
+            "key": "C",
+            "text": "C. They have a sense of group identity"
+          },
+          {
+            "key": "D",
+            "text": "D. Their focus is mainly social in nature, with no defined goal"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Remember that teams are formal groups. The main distinction is the goal of thos groups People in a team will be committed to achieving certain targets or objectives. The employees in the scenario are meetingipformallyfor social reasons and a unlikely to be formally committed to the group; Note that options B and C could apply to either groups or team 59.Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is 15:34 CN 27thg 9 100%",
+        "image_file": "images/cau_058.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 59,
+        "question_number": 59,
+        "part": 3,
+        "question_text": "Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is faced with difficult problems. (ii) Jim is respected by all team members for his analytical skills, though he rarely gets invited to out-of-office private parties as many find him tactless. (iii) Esther is the company's HR manager, she ensures that any potential conflicts are promptly identified and resolved and the team members work harmoniously.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. I - Shaper, 2 - Leader, 3 - Company worker"
+          },
+          {
+            "key": "B",
+            "text": "B. 1 - Plant, 2 - Finisher, 3 - Team worker"
+          },
+          {
+            "key": "C",
+            "text": "C. I - Plant, 2 - Monitor-Evaluator, 3 — Team worker"
+          },
+          {
+            "key": "D",
+            "text": "D. 1 - Resource-Investigator, 2 - Shaper, 3 — Company worker"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Remember of Belbin's team role* Thinking Plant Innovators & ideas, roles Prefer to work alon Specialist@pgrt) Provides pecialized skills} • (i) is the plant role, as Sarah is a creativeindividual) _(ii) is the monitor-evaluator role, as Jim is good at making accurate 15:34 CN 27thg 9 100% (i) is the plant role, as Sarah is a creativeindividual.! (ii) is the monitor-evaluator role, as Jim is good at making accurat judgments (iii) is the team worker role, as Esther looks after the atmosphere within the team",
+        "image_file": "images/cau_059.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 60,
+        "question_number": 60,
+        "part": 3,
+        "question_text": "Which of the following necessarily make a pieces of work high priority?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Importance"
+          },
+          {
+            "key": "B",
+            "text": "B. Urgency"
+          },
+          {
+            "key": "C",
+            "text": "C. Importance and urgency"
+          },
+          {
+            "key": "D",
+            "text": "D. Other people want you to do the work by a given deadline"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Dö båi dang höi diu lå déc diém de xem xét mét cöng viéc c6 mic tru tién cao.Müc dé tru tién Clia cöng viéc phethuöc våo 2 yåu td låsgr qugmtrengyådö khån cåp",
+        "image_file": "images/cau_060.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "B",
-    "explanation": "'_(ii) is incorrect. Given the high rate of unemployment, the governmen will have to pay more in social security tesgpport the increasing number of workers who are without jobs,] • The other three statements are correc 42.1ncreases in unemployment, reduced demand, falling household incomes, and low business confidence and investment are associated most strongly with which of the following? A. High-interest rates 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_041.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 42,
-    "question_number": 42,
-    "part": 3,
-    "question_text": "1ncreases in unemployment, reduced demand, falling household incomes, and low business confidence and investment are associated most strongly with which of the following?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. High-interest rates"
-      },
-      {
-        "key": "B",
-        "text": "B. Increase in the money supply"
-      },
-      {
-        "key": "C",
-        "text": "C. A budget deficit"
-      },
-      {
-        "key": "D",
-        "text": "D. Recession"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "A recession starts when demand begins to fall and leads to reduced purchases o raw materials and increased unemployment; this, in turn, leads to reduced household incomes and a /ürther all in demand which can result in a slum",
-    "image_file": "images/cau_042.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 43,
-    "question_number": 43,
-    "part": 3,
-    "question_text": "Country K is suffering from a recession. A government minister has recently suggested that the country's government should 'focus more on reducing the power of trade unions and the number of state-owned monopolies and less on worrying about running a budget surplus.' Which economics theory is the government minister suggesting that country K should adopt?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Classical"
-      },
-      {
-        "key": "B",
-        "text": "B. Monetarist"
-      },
-      {
-        "key": "C",
-        "text": "C. Keynesian"
-      },
-      {
-        "key": "D",
-        "text": "D. Demand side"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Remember the economics theories. The classical approach: to do nothingand let the economy find its ow equilibrium The Keynesian approach (demand side): running a budge surp@$/deficit to manipulate the economy and help it reach its equilibrium point The Monetarist approach (supply side): the removal of key marke imperfectionsallowing the economy to naturallyfind its owh equilibrium) The minister is suggesting the removal ofkey market imperfections, such a union activity and monopolies. This is a classic supply-side or monetarist ap roach 44. The government of country H is planning to adopt a supply-side approach to dealing with the country's high unemployment. Which of the following strategies is consistent with a supply-side approach? Do nothing B. Borrow money from the money markets and increase government spending, creating additional jobs c. Lower interest rates to make it cheaper for firms to borrow, meaning that they can afford to hire more workers D. Improve information available to the unemployed to make it easier for them to find work Remember the economics theories. 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_043.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 44,
-    "question_number": 44,
-    "part": 3,
-    "question_text": "The government of country H is planning to adopt a supply-side approach to dealing with the country's high unemployment.\nWhich of the following strategies is consistent with a supply-side approach?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Do nothing"
-      },
-      {
-        "key": "B",
-        "text": "B. Borrow money from the money markets and increase government spending, creating additional jobs"
-      },
-      {
-        "key": "C",
-        "text": "C. Lower interest rates to make it cheaper for firms to borrow, meaning that they can afford to hire more workers"
-      },
-      {
-        "key": "D",
-        "text": "D. Improve information available to the unemployed to make it easier for them to find work"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Chính sách trọng cung (Supply-side approach) tập trung vào cải thiện tính hiệu quả của thị trường lao động và nguồn cung, ví dụ như nâng cao thông tin việc làm giúp người thất nghiệp dễ tìm việc hơn (Improve information available to the unemployed).",
-    "image_file": "images/cau_044.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 45,
-    "question_number": 45,
-    "part": 3,
-    "question_text": "Staffin-country G dislike their managers interfering in their work. According to Hofstede, this means that the culture is:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Masculine"
-      },
-      {
-        "key": "B",
-        "text": "B. High uncertainty avoidance"
-      },
-      {
-        "key": "C",
-        "text": "C. Low power-distance"
-      },
-      {
-        "key": "D",
-        "text": "D. Collective"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remember Hofstede's cultural dimensions. Low High Embraces Egalitarian Power distance hierarchy Collectivism vs. Collectivist Individualist Individualism Comfortable Uncomfortable Uncertainty Avoidance with uncertainty with uncertainty Nurture Femininity vs. Masculinity Power important important Traditional & Short-term vs. Long-term Futuristic & snort-term Orientation long-term Normative Satisfaction is Restraint vs. Indulgence repression good",
-    "image_file": "images/cau_045.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 46,
-    "question_number": 46,
-    "part": 3,
-    "question_text": "Antonio is a supervisor within the purchasing department ofa large company. His team is responsible for raising purchase orders for raw materials used in the production of the company's products. The department has been set a limit as to how much raw material they are allowed to purchase each week. Which of the following will not be one of Antonio's normal functions as a supervisor?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Raising purchase orders for raw materials"
-      },
-      {
-        "key": "B",
-        "text": "B. Reporting the total value of purchase orders raised to management on a weekly basis"
-      },
-      {
-        "key": "C",
-        "text": "C. Dealing with queries from his team"
-      },
-      {
-        "key": "D",
-        "text": "D. Changing the size of the purchasing limits"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remember of key functions of supervisors. Supervising their team; Undertaking technical or operational work, alongside thegrpup#hey oversee Providing advice and support to their teams in order to help solve problems; Monitoring work by means of detailed, daily information Periodically summarizing information and passing it to more senioh management for review 15:34 CN 27thg 9 100% Option D is correct A supervisor would not normally be responsiblefo changing the objectives (purchasing limits) they have been set b) senior management; Options A, B, C is incorrect A supervisor is supposed to help controt staff and appl the olicies and strate iessetb more senio managemen t)",
-    "image_file": "images/cau_046.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 47,
-    "question_number": 47,
-    "part": 3,
-    "question_text": "Which of the following statements regarding authority and responsibility is correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Authority cannot be delegated to subordinates"
-      },
-      {
-        "key": "B",
-        "text": "B. Authority is the obligation a person has to fulfill a task they have been set"
-      },
-      {
-        "key": "C",
-        "text": "C. Responsibility is the right to do something because of your position within"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "an organization D. Responsibility cannot be delegated to subordinates Remember the definitions ofauthority and responsibility • Authority: is the right to do something, or ask someone else to d something, and expect it to be done! • Responsibility is the liabili o a erson to bere uired to ensure tha the given work is done Note that students should think of whetherauthority or responsibility cap_bé Option D is correct. Responsibility can never be dele ated des ite th task might be given to another member; Option A is incorrect. A is incorrect. Authority can be delegated, as manager can give a more junior member of staff the right to give orders in a certain area or for a certain lengthpftirneU Options B, C is incorrect. The definitions for B and C have beeh reversed)",
-    "image_file": "images/cau_047.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 48,
-    "question_number": 48,
-    "part": 3,
-    "question_text": "Liam manages a small team of workers. He has recently asked his team for suggestions as to how they can improve their efficiency. The team members have made several suggestions, but Liam does not feel they are practical and has decided to adopt a different approach. According to the Ashridge Management College, what management style is Liam demonstrating?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Joins"
-      },
-      {
-        "key": "B",
-        "text": "B. Tells"
-      },
-      {
-        "key": "C",
-        "text": "C. Consults"
-      },
-      {
-        "key": "D",
-        "text": "D. Sells"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remember the 4 management styles from the Ashridge Management College} • Tells (autocratic): the manager makes all the decisions and issues instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to accept them in orde 15:34 CN 27thg 9 100% Remember the 4 management styles from the Ashridge Management Collgge • Tells (autocratic): the manager makes all the decisions instructions that are to be obeyed without question • Sells (persuasive): the manager still makes all the decisions, but believes that team members must be motivated to acce t them in orde to carry them out properly • Consults (participative): the manager confers with the team and takes their views into account, although still retains the final say • Joins (democratic): the leader and the team members make the decision together on the basis of consensus) Liam is asking employeesfor their opinions, but still retains the final say abog what changes are madeffhis is consistentvith qgonsults (participative) styleu Be cautious to be conflicted with tells and sells style, in which the final decisioniS also made by the management instead ofcooperation among the team.'",
-    "image_file": "images/cau_048.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 49,
-    "question_number": 49,
-    "part": 3,
-    "question_text": "1n a recent staff survey, manager Martina has been identified as highly focused on meeting production needs, but having little real concern for the wellbeing of the employees who report to her. According to Blake and Mouton, which key point on the managerial grid is Martina being placed at by the staff survey?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Impoverished"
-      },
-      {
-        "key": "B",
-        "text": "B. Team management"
-      },
-      {
-        "key": "C",
-        "text": "C. Country club"
-      },
-      {
-        "key": "D",
-        "text": "D. Task management"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remember the management.tylesfrom the Blake and Mouton manageria grid.? • Management impoverished: this manager only makes a minimum effort in either area and will make the smallest possible effort required to get the job doneu • 'Country Club' management: this manager is thoughtful and attentiv to the needs of the people, which leads to a comfortable, friendly organizational atmosphere but very little work is actually achieved! • Task management: this manager is only concerned with productio and arranges work in such a way that people's interference is minimized • 'Middleofthe road management: this isa manager who is ambivalent in style towards the task andpgpple but achieves onl moderatel _gppd results on both dimensions • Team management: this manager integrates the two areas to foste working together and high production to produce true team leadershipß • Option D is correct Martina is focused on meeting production, but no on employee welfare. This plots her at 9,1 on the managerial grid — g task manager • Option A is incorrect. 1m overished indicates no concern o production or employees: • ODtion B is incorrect Team manaaement indicates a hiah concern foh 15:34 CN 27thg 9 100% • Option D is correct Martina is ocused on meetingproduction, but no on employee welfare,This plots her at 9,1 on the managerial grid—Q task manager • Option A is incorrect. Impoverished indicates no concern production or employees, • Option B is incorrect Team concernfg} both production and employees '_Option C is incorrect. Country club indicates little concern o production but high concern for employees and team managemen indicates a high degree o concern for both p.pple and production)",
-    "image_file": "images/cau_049.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 50,
-    "question_number": 50,
-    "part": 3,
-    "question_text": "Helena is planning on introducing a new IT system into her business. Helen knows that the new system will be complex to use, but has only told her staff that the system will make certain tasks more accurate. She has not mentioned the significant retraining required by the staff as she feels that this will cause resistance to the new' system. According to Kotter, which approach to managing change is Helena adopting ?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Education and communication"
-      },
-      {
-        "key": "B",
-        "text": "B. Facilitation and support"
-      },
-      {
-        "key": "C",
-        "text": "C. Manipulation and co-optation"
-      },
-      {
-        "key": "D",
-        "text": "D. Negotiation and agreement"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remember the management styles from Kotter to deal with change resistance • Participation and involvement0This approach aims to involve employees, usually by allowing some input into decision-making) • Education and communication: This approach aims to keeb employees informed, usually through presentations about the reason for thegquired • Facilitation and support: For example training or counseling • Manipulation and co-optation: The information that is disseminatedUS selective and distorted to only emphasize the benefits of the change,] • Negotiation and agreement: This approach enables several parties with opppsing interests Helena is only outlining the positives of the new system and is distorting the (pformation to stress that the new system will be useful. This is an example o manipulation and co-optatipn,J 51.A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to A. Reward B. Leaitimate 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_050.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 51,
-    "question_number": 51,
-    "part": 3,
-    "question_text": "A manager is planning on introducing a new computer system into her department. She plans to offer her staff bonuses to encourage them to use the new system, as well as relying on her own personal charisma. Which TWO of the following sources of power is the manager planning to use?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Reward"
-      },
-      {
-        "key": "B",
-        "text": "B. Legitimate"
-      },
-      {
-        "key": "C",
-        "text": "C. Referent"
-      },
-      {
-        "key": "D",
-        "text": "D. Coercive"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remember the 5 types of power from French and Raven. • Reward power: one person is able to reward another person fo carrying out their orders or meeting other requirements. • Coercive power: one person having the ability to punish anothe person for failing to carry out their orders satisfactorily • Expert power: one person is regarded by others as having speciat expertise or knowledge that others do not. • Referent power: is based on the persppal qualitie.pfthe individua? and often occurs when one person identifies with or wishes to imitate another.' • Legitimate power: thWs power derived from being in a position o authority within the organization; her Staffa reward for adopting the stem Option She is also relying on referent power by using her charisma/relationship with heh employeeS Option",
-    "image_file": "images/cau_051.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 52,
-    "question_number": 52,
-    "part": 3,
-    "question_text": "Which of the following is NOT likely to be caused by poor recruitment and selection policies?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Increased motivation of employees"
-      },
-      {
-        "key": "B",
-        "text": "B. Wasted management time"
-      },
-      {
-        "key": "C",
-        "text": "C. Increased advertising costs"
-      },
-      {
-        "key": "D",
-        "text": "D. Reduced product or service quality"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Poor recruitment should result in 'poor'effects (i.e., negative e ects . shoul consider any positive result to be the correct answe It is unlikely that poor recruitment and selection will increase employee motivation Hiring the wrong person for the job usually has a detrimental impact on theiti motivation as well as (potentially) the motivation of those around them. However the remainingpptions are all possible consequences! 53.Andrew is about to start attempting to recruit a new member of staff for his department. He is currently creating a person specification and has identified that the successful candidate needs to be able to work a number of evenings and 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_052.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 53,
-    "question_number": 53,
-    "part": 3,
-    "question_text": "Andrew is about to start attempting to recruit a new member of staff for his department. He is currently creating a person specification and has identified that the successful candidate needs to be able to work a number of evenings and weekends. According to Rodger's seven-point plan, what aspect of person specification is Andrew focussing on?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Special aptitudes"
-      },
-      {
-        "key": "B",
-        "text": "B. Disposition"
-      },
-      {
-        "key": "C",
-        "text": "C. Interests"
-      },
-      {
-        "key": "D",
-        "text": "D. Circumstances"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "remember Rodger's seven-point plan using the acronym SCIPDAG - specia aptitudes, circumstances, interests, physical makeup, disposition, and attainments Special aptitudes - what skills and abilities should the candidate have. (i.e. manual dexterity, skill with words and numbers)) Circumstances - does thejob have any special demands such as th requirement to work unsociable hours)) Interests — is the person active or social in their ersonal li e? This ma gid the job Physical makeup - what is the appropriate personal appearance anu level of health re uiredb the ob. Disposition — what sort of nature should the ideal candidate have? D Chey need to be social, or calm in a crisis and g<gpdgcpressure e Attainments — does the ideal candidatepeed any specific qualification or achievements or the role. General intelligence - should the ideal candidate be average o above-average to be successful in the role. Working in evenings and weekends is uncommon, which means the job has speciat demands about working hours. It matches with the Circumstances poin mentioned above!",
-    "image_file": "images/cau_053.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 54,
-    "question_number": 54,
-    "part": 3,
-    "question_text": "A business has a job vacancy that it needs to fill, but is unsure of whether to recruit externally or internally. Which of the following statements regarding this decision is correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. External recruitment is likely to improve motivation for the existing workers within the business"
-      },
-      {
-        "key": "B",
-        "text": "B. Internal recruitment may help the company to obtain any specialist skills it may require"
-      },
-      {
-        "key": "C",
-        "text": "C. External recruitment reduces the need for expensive or time-consuming induction programs"
-      },
-      {
-        "key": "D",
-        "text": "D. External recruitment is likely to cost more than internal recruitment"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "External recruitment will involve advertisi and other recruitment costs as well (inngpy cases) higher wagg'beipgpffereå 55.A business has advertised for a new employee and has stated that they must be 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_054.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 55,
-    "question_number": 55,
-    "part": 3,
-    "question_text": "A business has advertised for a new employee and has stated that they must be willing to work between the hours of 3 pm and 6 pm. What type of discrimination could this be an example of?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Victimisation"
-      },
-      {
-        "key": "B",
-        "text": "B. Indirect discrimination"
-      },
-      {
-        "key": "C",
-        "text": "C. Direct discrimination"
-      },
-      {
-        "key": "D",
-        "text": "D. Positive discrimination"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Direct discrimination — this occurs when an employer treats ah employee less favorably than another, due to their gender, race, etc. Fo example, if a to male applicants, this would bé direct discrimination.) Indirect discrimination - this occurs when a working condition or rul disadvantages one grouppfpgpple more than another. For instance,u requirement for male employees to be clean-shaven would put some religious groups at a disadvantage} Victimization — this means an employer treating an employee less fgvorably because the have made or tried to make acom Iaint abou discriminatgpn,] Positive discrimination — this means giving preference to protected groups, such as ethnic minorities, older workers, or womeh This is an example of indirect discrimination as it may disadvantage certain group — such as those who have children.'",
-    "image_file": "images/cau_055.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 56,
-    "question_number": 56,
-    "part": 3,
-    "question_text": "GBN plc manufactures farming equipment and is looking to hire a large number of unskilled workers for a new factory that it is about to open in a city in the south of country U. Which of the following is likely to be the most appropriate location for GBN plc to advertise for these jobs?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. GBN's own website"
-      },
-      {
-        "key": "B",
-        "text": "B. National television"
-      },
-      {
-        "key": "C",
-        "text": "C. Local newspapers or radio"
-      },
-      {
-        "key": "D",
-        "text": "D. Farming trade publications and journals"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "• Options A and D are incorrect. GBN's own website and tradejournal are unlikely to attract unskilled individuals, as they will have little or nb needfirfarm equipment.' • Optional B is incorrect. National television is likely to unnecessarily expensive, especially as GBN is attempting to recruit workersfor a single factory in the south of the country • Option C is correct. Local newspapergnd radio advertising inghe are where the newfactory is to be located would be the most sensible option 57.A manager has recently emailed two individuals in his team, asking for them to submit reports to him. One worker did so, while the other failed to. The second worker, when asked, stated that she thought that the wording of the email meant that it did not apply to her. Which characteristic of individual behavior is the manager having difficulties 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_056.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 57,
-    "question_number": 57,
-    "part": 3,
-    "question_text": "A manager has recently emailed two individuals in his team, asking for them to submit reports to him. One worker did so, while the other failed to. The second worker, when asked, stated that she thought that the wording of the email meant that it did not apply to her. Which characteristic of individual behavior is the manager having difficulties with?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Motivation"
-      },
-      {
-        "key": "B",
-        "text": "B. Perception"
-      },
-      {
-        "key": "C",
-        "text": "C. Attitude"
-      },
-      {
-        "key": "D",
-        "text": "D. Personality"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "• Motivation level- this relates to people's desire to perform tasks and put effort into their job. It can be affected by many factors, including! reward levels, recognition, social interactions at work, and workinå conditions; • Perception — individuals select, organize and interpret the stimuli they receive. Messages from managers are always subject to distortion, the subordinate selecting parts of the message andinterpretingjtfti light of their own experiences, wants, and needs) • Attitudes - these are persistentfeelings and behavioral tendencies directed towards spgific peopggcgroups, ideas, or 0b •egts! • Personality — this is the combination of emotional, attitudinal, an behavioral responses ofan individual The two individuals have interpreted the email in di erentwa s — indicati tha they have different perceptions of what the email mean",
-    "image_file": "images/cau_057.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 58,
-    "question_number": 58,
-    "part": 3,
-    "question_text": "A manager in a business has discovered that several of his employees meet after work to socialize. Which of the following features would indicate that these employees are a group, rather than a team?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. They are committed to achieving a given objective"
-      },
-      {
-        "key": "B",
-        "text": "B. They are made up of diverse individuals"
-      },
-      {
-        "key": "C",
-        "text": "C. They have a sense of group identity"
-      },
-      {
-        "key": "D",
-        "text": "D. Their focus is mainly social in nature, with no defined goal"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Remember that teams are formal groups. The main distinction is the goal of thos groups People in a team will be committed to achieving certain targets or objectives. The employees in the scenario are meetingipformallyfor social reasons and a unlikely to be formally committed to the group; Note that options B and C could apply to either groups or team 59.Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is 15:34 CN 27thg 9 100%",
-    "image_file": "images/cau_058.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 59,
-    "question_number": 59,
-    "part": 3,
-    "question_text": "Match the following team roles with the appropriate personality. (i) Sarah is a very quiet person, she often reserves her opinion until being directly asked for it however she always offers unusual and creative suggestions when the team is faced with difficult problems. (ii) Jim is respected by all team members for his analytical skills, though he rarely gets invited to out-of-office private parties as many find him tactless. (iii) Esther is the company's HR manager, she ensures that any potential conflicts are promptly identified and resolved and the team members work harmoniously.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. I - Shaper, 2 - Leader, 3 - Company worker"
-      },
-      {
-        "key": "B",
-        "text": "B. 1 - Plant, 2 - Finisher, 3 - Team worker"
-      },
-      {
-        "key": "C",
-        "text": "C. I - Plant, 2 - Monitor-Evaluator, 3 — Team worker"
-      },
-      {
-        "key": "D",
-        "text": "D. 1 - Resource-Investigator, 2 - Shaper, 3 — Company worker"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Remember of Belbin's team role* Thinking Plant Innovators & ideas, roles Prefer to work alon Specialist@pgrt) Provides pecialized skills} • (i) is the plant role, as Sarah is a creativeindividual) _(ii) is the monitor-evaluator role, as Jim is good at making accurate 15:34 CN 27thg 9 100% (i) is the plant role, as Sarah is a creativeindividual.! (ii) is the monitor-evaluator role, as Jim is good at making accurat judgments (iii) is the team worker role, as Esther looks after the atmosphere within the team",
-    "image_file": "images/cau_059.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 60,
-    "question_number": 60,
-    "part": 3,
-    "question_text": "Which of the following necessarily make a pieces of work high priority?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Importance"
-      },
-      {
-        "key": "B",
-        "text": "B. Urgency"
-      },
-      {
-        "key": "C",
-        "text": "C. Importance and urgency"
-      },
-      {
-        "key": "D",
-        "text": "D. Other people want you to do the work by a given deadline"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Dö båi dang höi diu lå déc diém de xem xét mét cöng viéc c6 mic tru tién cao.Müc dé tru tién Clia cöng viéc phethuöc våo 2 yåu td låsgr qugmtrengyådö khån cåp",
-    "image_file": "images/cau_060.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 61,
-    "question_number": 61,
     "part": 4,
-    "question_text": "Communication between two members ofa project team from different functions, but with the same level of authority, is:",
-    "options": [
+    "title": "Phần 4: Câu 61 - 80",
+    "questions_range": "Câu 61 - 80",
+    "pdf_file": "output_pdf/De_4_Cau_61_80.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Upward"
+        "id": 61,
+        "question_number": 61,
+        "part": 4,
+        "question_text": "Communication between two members ofa project team from different functions, but with the same level of authority, is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Upward"
+          },
+          {
+            "key": "B",
+            "text": "B. Downward"
+          },
+          {
+            "key": "C",
+            "text": "C. Lateral"
+          },
+          {
+            "key": "D",
+            "text": "D. Diagonal"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Dö båi dang höi httångwiao tiépgiüa hai thånh vién thuöc 2 nh6m khåc nhaå nhtrng cd cüng carbéc dtrgcgpi lå gi? Giao tiåp theo chiöu ngang (Lateral) lå gia tiépgiüa nhüng ngtråi cünggåp b(ic nhtrng thuöc cåc nh6m khåc nhau",
+        "image_file": "images/cau_061.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Downward"
+        "id": 62,
+        "question_number": 62,
+        "part": 4,
+        "question_text": "Which of the following words completes this sentence appropriately? nn organisation is a social arrangement which pursues collective , which controls its own performance and has a boundary separating it from its environment.'",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Goals"
+          },
+          {
+            "key": "B",
+            "text": "B. Profits"
+          },
+          {
+            "key": "C",
+            "text": "C. Stakeholders"
+          },
+          {
+            "key": "D",
+            "text": "D. Tactics 63. What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Sympathy B. Specialisation C. Synergy 15:35 CN 9 100%",
+        "image_file": "images/cau_062.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Lateral"
+        "id": 63,
+        "question_number": 63,
+        "part": 4,
+        "question_text": "What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Sympathy"
+          },
+          {
+            "key": "B",
+            "text": "B. Specialisation"
+          },
+          {
+            "key": "C",
+            "text": "C. Synergy"
+          },
+          {
+            "key": "D",
+            "text": "D. Systems thinking"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_063.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Diagonal"
+        "id": 64,
+        "question_number": 64,
+        "part": 4,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Limited company status means that a company is only allowed to trade up to a predetermined turnover level in any one year."
+          },
+          {
+            "key": "B",
+            "text": "B. For organisations that have limited company status, ownership and control are legally separate."
+          },
+          {
+            "key": "C",
+            "text": "C. The benefit of being a sole trader is that you have no personal liability for the"
+          },
+          {
+            "key": "D",
+            "text": "D. ebts of your business."
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "D. Ordinary partnerships offer the same benefits as limited companies but are usually formed by professionals such as doctors and solicitors.",
+        "image_file": "images/cau_064.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 65,
+        "question_number": 65,
+        "part": 4,
+        "question_text": "An organisation is owned and run by central government agencies. The organisation should be described as which of the following statements?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A voluntary sector organisation"
+          },
+          {
+            "key": "B",
+            "text": "B. A private sector organisation"
+          },
+          {
+            "key": "C",
+            "text": "C. A public sector organisation 66. Which of the following groups may be considered to be stakeholders in the"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "activities ofa nuclear power station? (1) The government (2) Environmental pressure groups (3) Employees (4) Local residents A. (3) and (4) B. (3) and (4) C. (3) only D. (I) and (3) only 15:35 CN 9 100%",
+        "image_file": "images/cau_065.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 66,
+        "question_number": 66,
+        "part": 4,
+        "question_text": "Which of the following groups may be considered to be stakeholders in the activities ofa nuclear power station? (I) The government (2) Environmental pressure groups (3) Employees (4) Local residents",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (3) and (4)"
+          },
+          {
+            "key": "B",
+            "text": "B. (3) and (4)"
+          },
+          {
+            "key": "C",
+            "text": "C. (3) only"
+          },
+          {
+            "key": "D",
+            "text": "D. (1) and (3) only"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_066.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 67,
+        "question_number": 67,
+        "part": 4,
+        "question_text": "Which of the following organisations would rely most heavily on value for money indicators and efficiency rather than information on performance and profitability?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A private accountancy college"
+          },
+          {
+            "key": "B",
+            "text": "B. A local authority"
+          },
+          {
+            "key": "C",
+            "text": "C. A small retailer"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_067.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 68,
+        "question_number": 68,
+        "part": 4,
+        "question_text": "ADB is a business which is owned by its workers. The workers share the profits and they each have a vote on how the business is run. Which ofthefollowing should be used to describe ADB?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Public sector"
+          },
+          {
+            "key": "B",
+            "text": "B. Private sector"
+          },
+          {
+            "key": "C",
+            "text": "C. Not-for-profit"
+          },
+          {
+            "key": "D",
+            "text": "D. Co-operative"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_068.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 69,
+        "question_number": 69,
+        "part": 4,
+        "question_text": "What is an acronym used to describe the key elements of an organisation 's external environment?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. SWOT"
+          },
+          {
+            "key": "B",
+            "text": "B. SMART"
+          },
+          {
+            "key": "C",
+            "text": "C. PEST 70. Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business? 15:35 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_069.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 70,
+        "question_number": 70,
+        "part": 4,
+        "question_text": "Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Employing lobbyists to put the organisation 's case to ministers or civil servants"
+          },
+          {
+            "key": "B",
+            "text": "B. Giving lawmakers non-executive directorships"
+          },
+          {
+            "key": "C",
+            "text": "C. Offering financial incentives to public officials to use their influence on the organisation's behalf"
+          },
+          {
+            "key": "D",
+            "text": "D. Attempting to influence public opinion, to put pressure on the legislative agenda"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_070.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 71,
+        "question_number": 71,
+        "part": 4,
+        "question_text": "Which word correctly completes the sentence? is an analysis of statistics on birth and death rates, age structures of people and ethnic groups within a community.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Demographics"
+          },
+          {
+            "key": "B",
+            "text": "B. Economics"
+          },
+          {
+            "key": "C",
+            "text": "C. Ergonomics"
+          },
+          {
+            "key": "D",
+            "text": "D. Psychographics"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_071.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 72,
+        "question_number": 72,
+        "part": 4,
+        "question_text": "A recent trend in organisation and management is the rise in 'virtual organisation' and 'virtual teamworking'. To which of the following environmental (PEST)factors is this most directly attributed?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Economic"
+          },
+          {
+            "key": "B",
+            "text": "B. Socio-cultural"
+          },
+          {
+            "key": "C",
+            "text": "C. Technological"
+          },
+          {
+            "key": "D",
+            "text": "D. Political 73. Which of the following rights of data subjects is also known as the right 'to be forgotten '?"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "A. Rectification B. Portability C. Erasure 74. Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates 15:35 CN 27thg 9 100%",
+        "image_file": "images/cau_072.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 73,
+        "question_number": 73,
+        "part": 4,
+        "question_text": "Which of the following rights of data subjects is also known as the right 'to be forgotten",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Rectification"
+          },
+          {
+            "key": "B",
+            "text": "B. Portability"
+          },
+          {
+            "key": "C",
+            "text": "C. Erasure"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_073.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 74,
+        "question_number": 74,
+        "part": 4,
+        "question_text": "Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates (3) Focus on 'green' issues (4) Increase in single-member households",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (3) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (I) and (3) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (2) and (3) only"
+          },
+          {
+            "key": "D",
+            "text": "D. (1), (3) and (4)"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_074.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 75,
+        "question_number": 75,
+        "part": 4,
+        "question_text": "Porter'sfiveforces model identifies factors which determine the nature and strength of competition in an industry. Which of the following is NOT one of the five forces identified in Porter's model?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Substitute products or services"
+          },
+          {
+            "key": "B",
+            "text": "B. New entrants to the industry"
+          },
+          {
+            "key": "C",
+            "text": "C. Bargaining power of customers"
+          },
+          {
+            "key": "D",
+            "text": "D. Government regulation of the industry"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_075.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 76,
+        "question_number": 76,
+        "part": 4,
+        "question_text": "For what function in an organisation would demographic information about social class be most relevant?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Human Resources"
+          },
+          {
+            "key": "B",
+            "text": "B. Marketing"
+          },
+          {
+            "key": "C",
+            "text": "C. Purchasing 77. Which of the following is a support activity in Porter's value chain model?"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. Procurement B. Operations 15:35 CN 9 100%",
+        "image_file": "images/cau_076.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 77,
+        "question_number": 77,
+        "part": 4,
+        "question_text": "Which of the following is a support activity in Porter's value chain model?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Procurement"
+          },
+          {
+            "key": "B",
+            "text": "B. Operations"
+          },
+          {
+            "key": "C",
+            "text": "C. Marketing and sales"
+          },
+          {
+            "key": "D",
+            "text": "D. Inbound logistics"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_077.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 78,
+        "question_number": 78,
+        "part": 4,
+        "question_text": "Which of the following statements about the impact of technological developments on the role ofaccountants is NOT true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Automation and artificial intelligence allow the accountant to focus their time on verifying low-level transactions."
+          },
+          {
+            "key": "B",
+            "text": "B. Distributed ledger technology reduces the need for auditors to audit all transactions."
+          },
+          {
+            "key": "C",
+            "text": "C. Cloud accounting allows accountants to work collaboratively and with their"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "clients. D. Big data and data analytics assist auditors to target key business risks",
+        "image_file": "images/cau_078.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 79,
+        "question_number": 79,
+        "part": 4,
+        "question_text": "BCD Co is a large trading company. Steve is the administration manager and is also responsible for legal and compliance functions. Sheila is responsible for after sales service and has responsibility for ensuring that customers who have purchased goods from BCD Co are fully satisfied. Sunny deals with suppliers and negotiates on the price and quality of inventory. He is also responsible for identifying the most appropriate suppliers of plant and machinery for the factory. Sam is the information technology manager and is responsible for all information systems within the company. According to Porter's value chain, which of the managers is involved in a primary activity as opposed to a support activity?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Steve"
+          },
+          {
+            "key": "B",
+            "text": "B. Sheila"
+          },
+          {
+            "key": "C",
+            "text": "C. Sunny"
+          },
+          {
+            "key": "D",
+            "text": "D. Sam"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_079.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 80,
+        "question_number": 80,
+        "part": 4,
+        "question_text": "1n Porter's five forces model, which of the following would NOT constitute a 'barrier to entry'?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Scale economies available to existing competitors"
+          },
+          {
+            "key": "B",
+            "text": "B. High capital investment requirements"
+          },
+          {
+            "key": "C",
+            "text": "C. Low switching costs in the market 81. Three of the following strategies are closely related. Which is the exception?"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "A. Downsizing B. Delegating 15:35 CN 9 100%",
+        "image_file": "images/cau_080.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "C",
-    "explanation": "Dö båi dang höi httångwiao tiépgiüa hai thånh vién thuöc 2 nh6m khåc nhaå nhtrng cd cüng carbéc dtrgcgpi lå gi? Giao tiåp theo chiöu ngang (Lateral) lå gia tiépgiüa nhüng ngtråi cünggåp b(ic nhtrng thuöc cåc nh6m khåc nhau",
-    "image_file": "images/cau_061.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 62,
-    "question_number": 62,
-    "part": 4,
-    "question_text": "Which of the following words completes this sentence appropriately? nn organisation is a social arrangement which pursues collective , which controls its own performance and has a boundary separating it from its environment.'",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Goals"
-      },
-      {
-        "key": "B",
-        "text": "B. Profits"
-      },
-      {
-        "key": "C",
-        "text": "C. Stakeholders"
-      },
-      {
-        "key": "D",
-        "text": "D. Tactics 63. What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Sympathy B. Specialisation C. Synergy 15:35 CN 9 100%",
-    "image_file": "images/cau_062.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 63,
-    "question_number": 63,
-    "part": 4,
-    "question_text": "What is the term given to the idea that the combined output ofa number of individuals working together will exceed that of the same individuals working separately?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Sympathy"
-      },
-      {
-        "key": "B",
-        "text": "B. Specialisation"
-      },
-      {
-        "key": "C",
-        "text": "C. Synergy"
-      },
-      {
-        "key": "D",
-        "text": "D. Systems thinking"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_063.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 64,
-    "question_number": 64,
-    "part": 4,
-    "question_text": "Which of the following statements is true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Limited company status means that a company is only allowed to trade up to a predetermined turnover level in any one year."
-      },
-      {
-        "key": "B",
-        "text": "B. For organisations that have limited company status, ownership and control are legally separate."
-      },
-      {
-        "key": "C",
-        "text": "C. The benefit of being a sole trader is that you have no personal liability for the"
-      },
-      {
-        "key": "D",
-        "text": "D. ebts of your business."
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "D. Ordinary partnerships offer the same benefits as limited companies but are usually formed by professionals such as doctors and solicitors.",
-    "image_file": "images/cau_064.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 65,
-    "question_number": 65,
-    "part": 4,
-    "question_text": "An organisation is owned and run by central government agencies. The organisation should be described as which of the following statements?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A voluntary sector organisation"
-      },
-      {
-        "key": "B",
-        "text": "B. A private sector organisation"
-      },
-      {
-        "key": "C",
-        "text": "C. A public sector organisation 66. Which of the following groups may be considered to be stakeholders in the"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "activities ofa nuclear power station? (1) The government (2) Environmental pressure groups (3) Employees (4) Local residents A. (3) and (4) B. (3) and (4) C. (3) only D. (I) and (3) only 15:35 CN 9 100%",
-    "image_file": "images/cau_065.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 66,
-    "question_number": 66,
-    "part": 4,
-    "question_text": "Which of the following groups may be considered to be stakeholders in the activities ofa nuclear power station? (I) The government (2) Environmental pressure groups (3) Employees (4) Local residents",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (3) and (4)"
-      },
-      {
-        "key": "B",
-        "text": "B. (3) and (4)"
-      },
-      {
-        "key": "C",
-        "text": "C. (3) only"
-      },
-      {
-        "key": "D",
-        "text": "D. (1) and (3) only"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_066.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 67,
-    "question_number": 67,
-    "part": 4,
-    "question_text": "Which of the following organisations would rely most heavily on value for money indicators and efficiency rather than information on performance and profitability?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A private accountancy college"
-      },
-      {
-        "key": "B",
-        "text": "B. A local authority"
-      },
-      {
-        "key": "C",
-        "text": "C. A small retailer"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_067.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 68,
-    "question_number": 68,
-    "part": 4,
-    "question_text": "ADB is a business which is owned by its workers. The workers share the profits and they each have a vote on how the business is run. Which ofthefollowing should be used to describe ADB?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Public sector"
-      },
-      {
-        "key": "B",
-        "text": "B. Private sector"
-      },
-      {
-        "key": "C",
-        "text": "C. Not-for-profit"
-      },
-      {
-        "key": "D",
-        "text": "D. Co-operative"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_068.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 69,
-    "question_number": 69,
-    "part": 4,
-    "question_text": "What is an acronym used to describe the key elements of an organisation 's external environment?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. SWOT"
-      },
-      {
-        "key": "B",
-        "text": "B. SMART"
-      },
-      {
-        "key": "C",
-        "text": "C. PEST 70. Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business? 15:35 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_069.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 70,
-    "question_number": 70,
-    "part": 4,
-    "question_text": "Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Employing lobbyists to put the organisation 's case to ministers or civil servants"
-      },
-      {
-        "key": "B",
-        "text": "B. Giving lawmakers non-executive directorships"
-      },
-      {
-        "key": "C",
-        "text": "C. Offering financial incentives to public officials to use their influence on the organisation's behalf"
-      },
-      {
-        "key": "D",
-        "text": "D. Attempting to influence public opinion, to put pressure on the legislative agenda"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_070.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 71,
-    "question_number": 71,
-    "part": 4,
-    "question_text": "Which word correctly completes the sentence? is an analysis of statistics on birth and death rates, age structures of people and ethnic groups within a community.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Demographics"
-      },
-      {
-        "key": "B",
-        "text": "B. Economics"
-      },
-      {
-        "key": "C",
-        "text": "C. Ergonomics"
-      },
-      {
-        "key": "D",
-        "text": "D. Psychographics"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_071.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 72,
-    "question_number": 72,
-    "part": 4,
-    "question_text": "A recent trend in organisation and management is the rise in 'virtual organisation' and 'virtual teamworking'. To which of the following environmental (PEST)factors is this most directly attributed?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Economic"
-      },
-      {
-        "key": "B",
-        "text": "B. Socio-cultural"
-      },
-      {
-        "key": "C",
-        "text": "C. Technological"
-      },
-      {
-        "key": "D",
-        "text": "D. Political 73. Which of the following rights of data subjects is also known as the right 'to be forgotten '?"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "A. Rectification B. Portability C. Erasure 74. Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates 15:35 CN 27thg 9 100%",
-    "image_file": "images/cau_072.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 73,
-    "question_number": 73,
-    "part": 4,
-    "question_text": "Which of the following rights of data subjects is also known as the right 'to be forgotten",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Rectification"
-      },
-      {
-        "key": "B",
-        "text": "B. Portability"
-      },
-      {
-        "key": "C",
-        "text": "C. Erasure"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_073.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 74,
-    "question_number": 74,
-    "part": 4,
-    "question_text": "Which of the following socio-cultural trends will have a direct impact on most business organisations? (1) Increasing ethnic and religious diversity in populations (2) Falling birthrates (3) Focus on 'green' issues (4) Increase in single-member households",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (3) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (I) and (3) only"
-      },
-      {
-        "key": "C",
-        "text": "C. (2) and (3) only"
-      },
-      {
-        "key": "D",
-        "text": "D. (1), (3) and (4)"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_074.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 75,
-    "question_number": 75,
-    "part": 4,
-    "question_text": "Porter'sfiveforces model identifies factors which determine the nature and strength of competition in an industry. Which of the following is NOT one of the five forces identified in Porter's model?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Substitute products or services"
-      },
-      {
-        "key": "B",
-        "text": "B. New entrants to the industry"
-      },
-      {
-        "key": "C",
-        "text": "C. Bargaining power of customers"
-      },
-      {
-        "key": "D",
-        "text": "D. Government regulation of the industry"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_075.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 76,
-    "question_number": 76,
-    "part": 4,
-    "question_text": "For what function in an organisation would demographic information about social class be most relevant?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Human Resources"
-      },
-      {
-        "key": "B",
-        "text": "B. Marketing"
-      },
-      {
-        "key": "C",
-        "text": "C. Purchasing 77. Which of the following is a support activity in Porter's value chain model?"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. Procurement B. Operations 15:35 CN 9 100%",
-    "image_file": "images/cau_076.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 77,
-    "question_number": 77,
-    "part": 4,
-    "question_text": "Which of the following is a support activity in Porter's value chain model?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Procurement"
-      },
-      {
-        "key": "B",
-        "text": "B. Operations"
-      },
-      {
-        "key": "C",
-        "text": "C. Marketing and sales"
-      },
-      {
-        "key": "D",
-        "text": "D. Inbound logistics"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_077.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 78,
-    "question_number": 78,
-    "part": 4,
-    "question_text": "Which of the following statements about the impact of technological developments on the role ofaccountants is NOT true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Automation and artificial intelligence allow the accountant to focus their time on verifying low-level transactions."
-      },
-      {
-        "key": "B",
-        "text": "B. Distributed ledger technology reduces the need for auditors to audit all transactions."
-      },
-      {
-        "key": "C",
-        "text": "C. Cloud accounting allows accountants to work collaboratively and with their"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "clients. D. Big data and data analytics assist auditors to target key business risks",
-    "image_file": "images/cau_078.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 79,
-    "question_number": 79,
-    "part": 4,
-    "question_text": "BCD Co is a large trading company. Steve is the administration manager and is also responsible for legal and compliance functions. Sheila is responsible for after sales service and has responsibility for ensuring that customers who have purchased goods from BCD Co are fully satisfied. Sunny deals with suppliers and negotiates on the price and quality of inventory. He is also responsible for identifying the most appropriate suppliers of plant and machinery for the factory. Sam is the information technology manager and is responsible for all information systems within the company. According to Porter's value chain, which of the managers is involved in a primary activity as opposed to a support activity?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Steve"
-      },
-      {
-        "key": "B",
-        "text": "B. Sheila"
-      },
-      {
-        "key": "C",
-        "text": "C. Sunny"
-      },
-      {
-        "key": "D",
-        "text": "D. Sam"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_079.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 80,
-    "question_number": 80,
-    "part": 4,
-    "question_text": "1n Porter's five forces model, which of the following would NOT constitute a 'barrier to entry'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Scale economies available to existing competitors"
-      },
-      {
-        "key": "B",
-        "text": "B. High capital investment requirements"
-      },
-      {
-        "key": "C",
-        "text": "C. Low switching costs in the market 81. Three of the following strategies are closely related. Which is the exception?"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "A. Downsizing B. Delegating 15:35 CN 9 100%",
-    "image_file": "images/cau_080.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 81,
-    "question_number": 81,
     "part": 5,
-    "question_text": "Three of the following strategies are closely related. Which is the exception?",
-    "options": [
+    "title": "Phần 5: Câu 81 - 100",
+    "questions_range": "Câu 81 - 100",
+    "pdf_file": "output_pdf/De_5_Cau_81_100.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Downsizing"
+        "id": 81,
+        "question_number": 81,
+        "part": 5,
+        "question_text": "Three of the following strategies are closely related. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Downsizing"
+          },
+          {
+            "key": "B",
+            "text": "B. Delegating"
+          },
+          {
+            "key": "C",
+            "text": "C. Delayering"
+          },
+          {
+            "key": "D",
+            "text": "D. Outsourcing"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_081.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Delegating"
+        "id": 82,
+        "question_number": 82,
+        "part": 5,
+        "question_text": "Which of the following would be identified as a cultural trend?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Health and safety legislation"
+          },
+          {
+            "key": "B",
+            "text": "B. Concern with health and diet"
+          },
+          {
+            "key": "C",
+            "text": "C. Increasing age of the population"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_082.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Delayering"
+        "id": 83,
+        "question_number": 83,
+        "part": 5,
+        "question_text": "For demographic purposes, which of the following is NOT a variable in the identification of social class?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Income level"
+          },
+          {
+            "key": "B",
+            "text": "B. Lifestyle"
+          },
+          {
+            "key": "C",
+            "text": "C. Occupation"
+          },
+          {
+            "key": "D",
+            "text": "D. Education"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_083.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Outsourcing"
+        "id": 84,
+        "question_number": 84,
+        "part": 5,
+        "question_text": "Technological developments (automation and A1) mean that the role of the accountant and auditor to record and verify day-to-day transactions has become more important.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_084.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 85,
+        "question_number": 85,
+        "part": 5,
+        "question_text": "Which of the following is NOT an element of fiscal policy?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Government spending"
+          },
+          {
+            "key": "B",
+            "text": "B. Government borrowing"
+          },
+          {
+            "key": "C",
+            "text": "C. Taxation"
+          },
+          {
+            "key": "D",
+            "text": "D. Exchange rates"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_085.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 86,
+        "question_number": 86,
+        "part": 5,
+        "question_text": "Which of the following is associated with a negative Public Sector Net Cash Requirement?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The government is running a budget deficit."
+          },
+          {
+            "key": "B",
+            "text": "B. The government's expenditure exceeds its income."
+          },
+          {
+            "key": "C",
+            "text": "C. The government is running a budget surplus."
+          },
+          {
+            "key": "D",
+            "text": "D. Public Sector Debt Repayment (PSDR) is high. 87. Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods."
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "A. Direct B. Indirect C. Progressive 15:35 CN 9 100%",
+        "image_file": "images/cau_086.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 87,
+        "question_number": 87,
+        "part": 5,
+        "question_text": "Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Direct"
+          },
+          {
+            "key": "B",
+            "text": "B. Indirect"
+          },
+          {
+            "key": "C",
+            "text": "C. Progressive"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_087.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 88,
+        "question_number": 88,
+        "part": 5,
+        "question_text": "1fa government has a macro-economic policy objective of expanding the overall level of economic activity, which of the following would NOT be consistent with such an objective?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Increasing public expenditure"
+          },
+          {
+            "key": "B",
+            "text": "B. Lowering interest rates"
+          },
+          {
+            "key": "C",
+            "text": "C. Increasing taxation"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_088.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 89,
+        "question_number": 89,
+        "part": 5,
+        "question_text": "The currency in country X is the Krone while country Y uses the Euro. Country Y has recently experienced an increase in its exchange rate with Country X. Which of the following effects would result in Country Y?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A stimulus to exports in Country Y"
+          },
+          {
+            "key": "B",
+            "text": "B. An increase in the costs of imports from Country X"
+          },
+          {
+            "key": "C",
+            "text": "C. Reducing demand for imports from Country X"
+          },
+          {
+            "key": "D",
+            "text": "D. A reduction in the rate of cost push inflation"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_089.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 90,
+        "question_number": 90,
+        "part": 5,
+        "question_text": "All of the following except one are 'protectionist measures' in international trade. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Import quotas"
+          },
+          {
+            "key": "B",
+            "text": "B. Subsidies for exporters"
+          },
+          {
+            "key": "C",
+            "text": "C. Customs procedures"
+          },
+          {
+            "key": "D",
+            "text": "D. Tariffs"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Are the following statements true or false?",
+        "image_file": "images/cau_090.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 91,
+        "question_number": 91,
+        "part": 5,
+        "question_text": "(91) Frictional unemployment will be short term.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_091.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 92,
+        "question_number": 92,
+        "part": 5,
+        "question_text": "(92) Governments can encourage labour mobility if they want to reduce unemployment.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False 93. Which TWO of the following does government economic monetary policy relate"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Interest rates B. Taxation 15:35 CN 9 100%",
+        "image_file": "images/cau_092.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 93,
+        "question_number": 93,
+        "part": 5,
+        "question_text": "Which TWO of the following does government economic monetary policy relate to?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Interest rates"
+          },
+          {
+            "key": "B",
+            "text": "B. Taxation"
+          },
+          {
+            "key": "C",
+            "text": "C. Public borrowing and spending"
+          },
+          {
+            "key": "D",
+            "text": "D. Exchange rates"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_093.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 94,
+        "question_number": 94,
+        "part": 5,
+        "question_text": "Which of the following organisations would benefitfrom a period of high price inflation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. An organisation which has a large number of long-term payables"
+          },
+          {
+            "key": "B",
+            "text": "B. An exporter of goods to a country with relatively low inflation"
+          },
+          {
+            "key": "C",
+            "text": "C. A large retailer with a high level of inventory on display and low rate of inventory turnover"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_094.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 95,
+        "question_number": 95,
+        "part": 5,
+        "question_text": "Which THREE of the following are the goals of macroeconomic policy?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Encouraging economic growth"
+          },
+          {
+            "key": "B",
+            "text": "B. Low unemployment"
+          },
+          {
+            "key": "C",
+            "text": "C. Achievement ofa balance between exports and imports"
+          },
+          {
+            "key": "D",
+            "text": "D. Achieving zero inflation"
+          },
+          {
+            "key": "E",
+            "text": "E. Maximising a currency's foreign exchange value"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_095.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 96,
+        "question_number": 96,
+        "part": 5,
+        "question_text": "Which of the following is an example of cyclical unemployment?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The entry of school leavers into the labour pool each year"
+          },
+          {
+            "key": "B",
+            "text": "B. Lay-offs among agricultural labourers in winter"
+          },
+          {
+            "key": "C",
+            "text": "C. Automation of ticketing services in tourism"
+          },
+          {
+            "key": "D",
+            "text": "D. Recession in the building industry 97. Which word correctly completes this statement?"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "A surplus on the balance of payments usually refers to a surplus or deficit on the account. A. Capital B. Current C. Financial 98.NorthIand, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country v' NorthlandjÅSouthfand 'J •Eastland'. -i- Westland Change in GDP -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices +27.50 +15.37 +2.25 +2.15 Change in working 4.76 +3.78 +1.76 -8.76 15:35 CN 9 100%",
+        "image_file": "images/cau_096.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 97,
+        "question_number": 97,
+        "part": 5,
+        "question_text": "Which word correctly completes this statement?\nA surplus on the balance of payments usually refers to a surplus or deficit on the _____ account.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Capital"
+          },
+          {
+            "key": "B",
+            "text": "B. Current"
+          },
+          {
+            "key": "C",
+            "text": "C. Financial"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Thặng dư hoặc thâm hụt cán cân thanh toán (Balance of payments) thông thường đề cập đến cán cân vãng lai (Current account).",
+        "image_file": "images/cau_097.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 98,
+        "question_number": 98,
+        "part": 5,
+        "question_text": "Northland, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country 'i Westland Change in GDP (96) -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices •27.50 +15.37 •2.25 +2.15 Change in working —9.76 +3.78 +1.76 -8.76 population employed (%) Which country experienced stagflation in the relevant period?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Northland"
+          },
+          {
+            "key": "B",
+            "text": "B. Southland"
+          },
+          {
+            "key": "C",
+            "text": "C. Eastland"
+          },
+          {
+            "key": "D",
+            "text": "D. Westland"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_098.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 99,
+        "question_number": 99,
+        "part": 5,
+        "question_text": "Which word correctly completes this statement? economic growth is determined by supply-side rather than by demand-side factors.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Actual"
+          },
+          {
+            "key": "B",
+            "text": "B. National"
+          },
+          {
+            "key": "C",
+            "text": "C. Potential"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_099.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 100,
+        "question_number": 100,
+        "part": 5,
+        "question_text": "1n a free market economy, the price mechanism:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Aids government control"
+          },
+          {
+            "key": "B",
+            "text": "B. Allocates resources"
+          },
+          {
+            "key": "C",
+            "text": "C. Measures national wealth 101. The supply curve of a firm operating in a competitive market is its:"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. Marginal cost curve above the average variable cost curve B. Marginal cost curve above the average total cost curve C. Average total cost curve beyond the point where the marginal cost curve cuts it from below D. Average variable cost curve below the average revenue curve 15:35 CN 9 100%",
+        "image_file": "images/cau_100.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_081.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 82,
-    "question_number": 82,
-    "part": 5,
-    "question_text": "Which of the following would be identified as a cultural trend?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Health and safety legislation"
-      },
-      {
-        "key": "B",
-        "text": "B. Concern with health and diet"
-      },
-      {
-        "key": "C",
-        "text": "C. Increasing age of the population"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_082.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 83,
-    "question_number": 83,
-    "part": 5,
-    "question_text": "For demographic purposes, which of the following is NOT a variable in the identification of social class?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Income level"
-      },
-      {
-        "key": "B",
-        "text": "B. Lifestyle"
-      },
-      {
-        "key": "C",
-        "text": "C. Occupation"
-      },
-      {
-        "key": "D",
-        "text": "D. Education"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_083.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 84,
-    "question_number": 84,
-    "part": 5,
-    "question_text": "Technological developments (automation and A1) mean that the role of the accountant and auditor to record and verify day-to-day transactions has become more important.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_084.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 85,
-    "question_number": 85,
-    "part": 5,
-    "question_text": "Which of the following is NOT an element of fiscal policy?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Government spending"
-      },
-      {
-        "key": "B",
-        "text": "B. Government borrowing"
-      },
-      {
-        "key": "C",
-        "text": "C. Taxation"
-      },
-      {
-        "key": "D",
-        "text": "D. Exchange rates"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_085.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 86,
-    "question_number": 86,
-    "part": 5,
-    "question_text": "Which of the following is associated with a negative Public Sector Net Cash Requirement?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The government is running a budget deficit."
-      },
-      {
-        "key": "B",
-        "text": "B. The government's expenditure exceeds its income."
-      },
-      {
-        "key": "C",
-        "text": "C. The government is running a budget surplus."
-      },
-      {
-        "key": "D",
-        "text": "D. Public Sector Debt Repayment (PSDR) is high. 87. Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods."
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "A. Direct B. Indirect C. Progressive 15:35 CN 9 100%",
-    "image_file": "images/cau_086.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 87,
-    "question_number": 87,
-    "part": 5,
-    "question_text": "Which word correctly completes this statement? taxes are collected by the Revenue authority from a business, which attempts to pass on the tax to consumers in the price of goods.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Direct"
-      },
-      {
-        "key": "B",
-        "text": "B. Indirect"
-      },
-      {
-        "key": "C",
-        "text": "C. Progressive"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_087.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 88,
-    "question_number": 88,
-    "part": 5,
-    "question_text": "1fa government has a macro-economic policy objective of expanding the overall level of economic activity, which of the following would NOT be consistent with such an objective?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Increasing public expenditure"
-      },
-      {
-        "key": "B",
-        "text": "B. Lowering interest rates"
-      },
-      {
-        "key": "C",
-        "text": "C. Increasing taxation"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_088.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 89,
-    "question_number": 89,
-    "part": 5,
-    "question_text": "The currency in country X is the Krone while country Y uses the Euro. Country Y has recently experienced an increase in its exchange rate with Country X. Which of the following effects would result in Country Y?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A stimulus to exports in Country Y"
-      },
-      {
-        "key": "B",
-        "text": "B. An increase in the costs of imports from Country X"
-      },
-      {
-        "key": "C",
-        "text": "C. Reducing demand for imports from Country X"
-      },
-      {
-        "key": "D",
-        "text": "D. A reduction in the rate of cost push inflation"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_089.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 90,
-    "question_number": 90,
-    "part": 5,
-    "question_text": "All of the following except one are 'protectionist measures' in international trade. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Import quotas"
-      },
-      {
-        "key": "B",
-        "text": "B. Subsidies for exporters"
-      },
-      {
-        "key": "C",
-        "text": "C. Customs procedures"
-      },
-      {
-        "key": "D",
-        "text": "D. Tariffs"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Are the following statements true or false?",
-    "image_file": "images/cau_090.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 91,
-    "question_number": 91,
-    "part": 5,
-    "question_text": "(91) Frictional unemployment will be short term.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_091.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 92,
-    "question_number": 92,
-    "part": 5,
-    "question_text": "(92) Governments can encourage labour mobility if they want to reduce unemployment.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False 93. Which TWO of the following does government economic monetary policy relate"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Interest rates B. Taxation 15:35 CN 9 100%",
-    "image_file": "images/cau_092.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 93,
-    "question_number": 93,
-    "part": 5,
-    "question_text": "Which TWO of the following does government economic monetary policy relate to?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Interest rates"
-      },
-      {
-        "key": "B",
-        "text": "B. Taxation"
-      },
-      {
-        "key": "C",
-        "text": "C. Public borrowing and spending"
-      },
-      {
-        "key": "D",
-        "text": "D. Exchange rates"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_093.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 94,
-    "question_number": 94,
-    "part": 5,
-    "question_text": "Which of the following organisations would benefitfrom a period of high price inflation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. An organisation which has a large number of long-term payables"
-      },
-      {
-        "key": "B",
-        "text": "B. An exporter of goods to a country with relatively low inflation"
-      },
-      {
-        "key": "C",
-        "text": "C. A large retailer with a high level of inventory on display and low rate of inventory turnover"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_094.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 95,
-    "question_number": 95,
-    "part": 5,
-    "question_text": "Which THREE of the following are the goals of macroeconomic policy?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Encouraging economic growth"
-      },
-      {
-        "key": "B",
-        "text": "B. Low unemployment"
-      },
-      {
-        "key": "C",
-        "text": "C. Achievement ofa balance between exports and imports"
-      },
-      {
-        "key": "D",
-        "text": "D. Achieving zero inflation"
-      },
-      {
-        "key": "E",
-        "text": "E. Maximising a currency's foreign exchange value"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_095.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 96,
-    "question_number": 96,
-    "part": 5,
-    "question_text": "Which of the following is an example of cyclical unemployment?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The entry of school leavers into the labour pool each year"
-      },
-      {
-        "key": "B",
-        "text": "B. Lay-offs among agricultural labourers in winter"
-      },
-      {
-        "key": "C",
-        "text": "C. Automation of ticketing services in tourism"
-      },
-      {
-        "key": "D",
-        "text": "D. Recession in the building industry 97. Which word correctly completes this statement?"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "A surplus on the balance of payments usually refers to a surplus or deficit on the account. A. Capital B. Current C. Financial 98.NorthIand, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country v' NorthlandjÅSouthfand 'J •Eastland'. -i- Westland Change in GDP -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices +27.50 +15.37 +2.25 +2.15 Change in working 4.76 +3.78 +1.76 -8.76 15:35 CN 9 100%",
-    "image_file": "images/cau_096.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 97,
-    "question_number": 97,
-    "part": 5,
-    "question_text": "Which word correctly completes this statement?\nA surplus on the balance of payments usually refers to a surplus or deficit on the _____ account.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Capital"
-      },
-      {
-        "key": "B",
-        "text": "B. Current"
-      },
-      {
-        "key": "C",
-        "text": "C. Financial"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Thặng dư hoặc thâm hụt cán cân thanh toán (Balance of payments) thông thường đề cập đến cán cân vãng lai (Current account).",
-    "image_file": "images/cau_097.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 98,
-    "question_number": 98,
-    "part": 5,
-    "question_text": "Northland, Southland, Eastland and Westland are four countries of Asia. The following economic statistics have been produced for the year 20X7. Country 'i Westland Change in GDP (96) -0.30 +2.51 -0.55 +2.12 Balance of payments current +5550.83 -350.1+7 -150.90 +220.39 account (Sm) Change in consumer prices •27.50 +15.37 •2.25 +2.15 Change in working —9.76 +3.78 +1.76 -8.76 population employed (%) Which country experienced stagflation in the relevant period?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Northland"
-      },
-      {
-        "key": "B",
-        "text": "B. Southland"
-      },
-      {
-        "key": "C",
-        "text": "C. Eastland"
-      },
-      {
-        "key": "D",
-        "text": "D. Westland"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_098.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 99,
-    "question_number": 99,
-    "part": 5,
-    "question_text": "Which word correctly completes this statement? economic growth is determined by supply-side rather than by demand-side factors.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Actual"
-      },
-      {
-        "key": "B",
-        "text": "B. National"
-      },
-      {
-        "key": "C",
-        "text": "C. Potential"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_099.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 100,
-    "question_number": 100,
-    "part": 5,
-    "question_text": "1n a free market economy, the price mechanism:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Aids government control"
-      },
-      {
-        "key": "B",
-        "text": "B. Allocates resources"
-      },
-      {
-        "key": "C",
-        "text": "C. Measures national wealth 101. The supply curve of a firm operating in a competitive market is its:"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. Marginal cost curve above the average variable cost curve B. Marginal cost curve above the average total cost curve C. Average total cost curve beyond the point where the marginal cost curve cuts it from below D. Average variable cost curve below the average revenue curve 15:35 CN 9 100%",
-    "image_file": "images/cau_100.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 101,
-    "question_number": 101,
     "part": 6,
-    "question_text": "The supply curve ofafirm operating in a competitive market is its:",
-    "options": [
+    "title": "Phần 6: Câu 101 - 120",
+    "questions_range": "Câu 101 - 120",
+    "pdf_file": "output_pdf/De_6_Cau_101_120.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Marginal cost curve above the average variable cost curve"
+        "id": 101,
+        "question_number": 101,
+        "part": 6,
+        "question_text": "The supply curve ofafirm operating in a competitive market is its:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Marginal cost curve above the average variable cost curve"
+          },
+          {
+            "key": "B",
+            "text": "B. Marginal cost curve above the average total cost curve"
+          },
+          {
+            "key": "C",
+            "text": "C. Average total cost curve beyond the point where the marginal cost curve cuts it from below"
+          },
+          {
+            "key": "D",
+            "text": "D. Average variable cost curve below the average revenue curve"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_101.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Marginal cost curve above the average total cost curve"
+        "id": 102,
+        "question_number": 102,
+        "part": 6,
+        "question_text": "A legal minimum price is set which is below the equilibrium price. What will be the impact of this?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Excess of demand over supply"
+          },
+          {
+            "key": "B",
+            "text": "B. Excess of supply over demand"
+          },
+          {
+            "key": "C",
+            "text": "C. Nothing"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_102.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Average total cost curve beyond the point where the marginal cost curve cuts it from below"
+        "id": 103,
+        "question_number": 103,
+        "part": 6,
+        "question_text": "Which of the following would cause the supply curve for a good to shift to the right (outwards from the origin)?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A fall in the price of the good"
+          },
+          {
+            "key": "B",
+            "text": "B. An increase in the demand for the good"
+          },
+          {
+            "key": "C",
+            "text": "C. A fall in production costs of the good"
+          },
+          {
+            "key": "D",
+            "text": "D. The imposition ofa minimum price"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_103.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Average variable cost curve below the average revenue curve"
+        "id": 104,
+        "question_number": 104,
+        "part": 6,
+        "question_text": "When the price ofa good is held above the equilibrium price, the result will be",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Excess demand"
+          },
+          {
+            "key": "B",
+            "text": "B. A shortage of the good"
+          },
+          {
+            "key": "C",
+            "text": "C. A surplus of the good"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_104.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 105,
+        "question_number": 105,
+        "part": 6,
+        "question_text": "Which of the following would NOT lead directly to a shift in the demand curve for overseas holidays?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. An advertising campaign by holiday tour operators"
+          },
+          {
+            "key": "B",
+            "text": "B. A fall in the disposable incomes of consumers"
+          },
+          {
+            "key": "C",
+            "text": "C. A rise in the price of domestic holidays"
+          },
+          {
+            "key": "D",
+            "text": "D. A rise in the price of overseas holidays"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_105.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 106,
+        "question_number": 106,
+        "part": 6,
+        "question_text": "Which of the following would lead to a fall in the price of good Q which is a normal good?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A rise in the price of good P, a substitute for good Q"
+          },
+          {
+            "key": "B",
+            "text": "B. A fall in the level of household incomes generally"
+          },
+          {
+            "key": "C",
+            "text": "C. A fall in the price of good T, a complement to good Q"
+          },
+          {
+            "key": "D",
+            "text": "D. A belief that the price of good Q is likely to double in the next three months 107.According to the theory of the firm, which of the following statements describes"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "an oligopoly? A. There are no barriers to entry into or exit from the market B. There is only one producer in the market C. There are four nroducers exertina considerable influence in the market 15:36 CN 27thg 9 100%",
+        "image_file": "images/cau_106.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 107,
+        "question_number": 107,
+        "part": 6,
+        "question_text": "According to the theory of the firm, which of the following statements describes an oligopoly?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. There are no barriers to entry into or exit from the market"
+          },
+          {
+            "key": "B",
+            "text": "B. There is only one producer in the market"
+          },
+          {
+            "key": "C",
+            "text": "C. There are four producers exerting considerable influence in the market"
+          },
+          {
+            "key": "D",
+            "text": "D. There are many producers but they each use product differentiation to"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "distinguish themselves from each other",
+        "image_file": "images/cau_107.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 108,
+        "question_number": 108,
+        "part": 6,
+        "question_text": "Which of the following is NOT a substitute for carpets?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Ceramic floor tiles"
+          },
+          {
+            "key": "B",
+            "text": "B. Wooden floorboard"
+          },
+          {
+            "key": "C",
+            "text": "C. Carpet underlay"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_108.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 109,
+        "question_number": 109,
+        "part": 6,
+        "question_text": "Which of the following is NOT a complement to cars?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Petrol"
+          },
+          {
+            "key": "B",
+            "text": "B. Tyres"
+          },
+          {
+            "key": "C",
+            "text": "C. Holidays"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_109.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 110,
+        "question_number": 110,
+        "part": 6,
+        "question_text": "The demand for fashion goods is NOT influenced by:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Price"
+          },
+          {
+            "key": "B",
+            "text": "B. Allocative inefficiency among producers"
+          },
+          {
+            "key": "C",
+            "text": "C. The distribution of income among households"
+          },
+          {
+            "key": "D",
+            "text": "D. Expectation of future price changes"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_110.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 111,
+        "question_number": 111,
+        "part": 6,
+        "question_text": "Ill.lfthe price of coffee falls, which the following outcomes should be expected to",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A fall in the quantity of coffee demanded"
+          },
+          {
+            "key": "B",
+            "text": "B. A rise in the price of tea"
+          },
+          {
+            "key": "C",
+            "text": "C. A fall in the demand for drinking cups"
+          },
+          {
+            "key": "D",
+            "text": "D. A fall in the demand for tea"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_111.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 112,
+        "question_number": 112,
+        "part": 6,
+        "question_text": "What is an inferiorgood?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A good of such poor quality that demand for it is very weak"
+          },
+          {
+            "key": "B",
+            "text": "B. A good for which the cross elasticity of demand with a substitute product is greater than I"
+          },
+          {
+            "key": "C",
+            "text": "C. A good for which demand will fall as household income rises 113.Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "A. The demand curve for flower vases will shift to the left; their price will rise B. The demand curve for flower vases will shift to the right; their price will rise C. There will be movement in the demand curve for vases; their price will go down 15:36 CN 27thg 9 100%",
+        "image_file": "images/cau_112.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 113,
+        "question_number": 113,
+        "part": 6,
+        "question_text": "Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The demand curve for flower vases will shift to the left; their price will rise"
+          },
+          {
+            "key": "B",
+            "text": "B. The demand curve for flower vases will shift to the right; their price will rise"
+          },
+          {
+            "key": "C",
+            "text": "C. There will be movement in the demand curve for vases; their price will go down"
+          },
+          {
+            "key": "D",
+            "text": "D. The demand curve for vases will shift to the left; their price will go down"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_113.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 114,
+        "question_number": 114,
+        "part": 6,
+        "question_text": "Consider the price and demand for tickets to travel by sea ferry. The price of travelling by hovercraft (a substitute form of travel) goes up. Which of the following should happen?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The demand curve for sea ferry tickets will shift to the left, and their price will go"
+          },
+          {
+            "key": "D",
+            "text": "D. own. More sea ferry tickets will be sold."
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "B. The demand curve for sea ferry tickets will shift to the right, and their price will go up. More ferry tickets will be sold. C. The demand curve for sea ferry tickets will shift to the right and their price will go down. More sea ferry tickets will be sold. D. The demand curve for sea ferry tickets will shift to the right and their price will go up. Fewer sea ferry tickets will be sold.",
+        "image_file": "images/cau_114.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 115,
+        "question_number": 115,
+        "part": 6,
+        "question_text": "The summer demand for hotel accommodation in London comes mainly from foreign tourists. Demand for hotel rooms in London in summer could be reduced by a fall in the price or value of which of the following?\n(1) US dollars\n(2) Aeroplane tickets\n(3) Sterling",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Item 1 only"
+          },
+          {
+            "key": "B",
+            "text": "B. Items 1 and 2 only"
+          },
+          {
+            "key": "C",
+            "text": "C. Items 2 and 3 only"
+          },
+          {
+            "key": "D",
+            "text": "D. Item 3 only"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Nếu đồng USD mất giá (fall in value of US dollars), khách du lịch Mỹ sẽ thấy chi phí du lịch đến London đắt hơn, làm giảm lượng cầu phòng khách sạn tại London.",
+        "image_file": "images/cau_115.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 116,
+        "question_number": 116,
+        "part": 6,
+        "question_text": "ABC produces a variety of soft drink. It has two competitors but all three producers use product differentiation to distinguish themselves from each other. What type of market is this?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Perfect competition"
+          },
+          {
+            "key": "B",
+            "text": "B. Monopoly"
+          },
+          {
+            "key": "C",
+            "text": "C. Monopolistic competition"
+          },
+          {
+            "key": "D",
+            "text": "D. Oligopoly"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_116.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 117,
+        "question_number": 117,
+        "part": 6,
+        "question_text": "II 7.1n a certain advanced industrialised country, the government has applied price controls over rents of both public and private rented accommodation for a number of years, and a serious problem of widespread homelessness has built up. Just recently, the rent price controls have been eased. 15:36 CN 27thg 9 100% Which TWO of the following consequences should now occur?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. An increase in homelessness"
+          },
+          {
+            "key": "B",
+            "text": "B. In the longer term, an increase in new building work"
+          },
+          {
+            "key": "C",
+            "text": "C. The provision of more rented accommodation"
+          },
+          {
+            "key": "D",
+            "text": "D. Fewer owner-occupied dwellings"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_117.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 118,
+        "question_number": 118,
+        "part": 6,
+        "question_text": "The demand curve for a resource may shift because of:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A change in the demand for a good whose production is dependent on the resource"
+          },
+          {
+            "key": "B",
+            "text": "B. Concerns about potential harmful pollution from the resource"
+          },
+          {
+            "key": "C",
+            "text": "C. A change in the price ofa substitute resource"
+          },
+          {
+            "key": "D",
+            "text": "D. All of the above"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_118.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 119,
+        "question_number": 119,
+        "part": 6,
+        "question_text": "The income elasticity of demand for a product is high. This means that:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Sales will fall only slightly when incomes of households fall"
+          },
+          {
+            "key": "B",
+            "text": "B. Sales will rise sharply when incomes of households rise"
+          },
+          {
+            "key": "C",
+            "text": "C. The good is an inferior good"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_119.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 120,
+        "question_number": 120,
+        "part": 6,
+        "question_text": "Using the point method, what is the price elasticity of demand of product X as price falls from its current price of $20 to $15?\nOld Price: $20, Old Quantity: 10\nNew Price: $15, New Quantity: 15",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1.0"
+          },
+          {
+            "key": "B",
+            "text": "B. 1.5"
+          },
+          {
+            "key": "C",
+            "text": "C. 2.0"
+          },
+          {
+            "key": "D",
+            "text": "D. 0.5"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "PED = (% thay đổi lượng cầu) / (% thay đổi giá) = ((15 - 10) / 10) / ((15 - 20) / 20) = (+50%) / (-25%) = -2.0. Lấy giá trị tuyệt đối |PED| = 2.0.",
+        "image_file": "images/cau_120.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_101.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 102,
-    "question_number": 102,
-    "part": 6,
-    "question_text": "A legal minimum price is set which is below the equilibrium price. What will be the impact of this?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Excess of demand over supply"
-      },
-      {
-        "key": "B",
-        "text": "B. Excess of supply over demand"
-      },
-      {
-        "key": "C",
-        "text": "C. Nothing"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_102.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 103,
-    "question_number": 103,
-    "part": 6,
-    "question_text": "Which of the following would cause the supply curve for a good to shift to the right (outwards from the origin)?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A fall in the price of the good"
-      },
-      {
-        "key": "B",
-        "text": "B. An increase in the demand for the good"
-      },
-      {
-        "key": "C",
-        "text": "C. A fall in production costs of the good"
-      },
-      {
-        "key": "D",
-        "text": "D. The imposition ofa minimum price"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_103.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 104,
-    "question_number": 104,
-    "part": 6,
-    "question_text": "When the price ofa good is held above the equilibrium price, the result will be",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Excess demand"
-      },
-      {
-        "key": "B",
-        "text": "B. A shortage of the good"
-      },
-      {
-        "key": "C",
-        "text": "C. A surplus of the good"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_104.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 105,
-    "question_number": 105,
-    "part": 6,
-    "question_text": "Which of the following would NOT lead directly to a shift in the demand curve for overseas holidays?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. An advertising campaign by holiday tour operators"
-      },
-      {
-        "key": "B",
-        "text": "B. A fall in the disposable incomes of consumers"
-      },
-      {
-        "key": "C",
-        "text": "C. A rise in the price of domestic holidays"
-      },
-      {
-        "key": "D",
-        "text": "D. A rise in the price of overseas holidays"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_105.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 106,
-    "question_number": 106,
-    "part": 6,
-    "question_text": "Which of the following would lead to a fall in the price of good Q which is a normal good?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A rise in the price of good P, a substitute for good Q"
-      },
-      {
-        "key": "B",
-        "text": "B. A fall in the level of household incomes generally"
-      },
-      {
-        "key": "C",
-        "text": "C. A fall in the price of good T, a complement to good Q"
-      },
-      {
-        "key": "D",
-        "text": "D. A belief that the price of good Q is likely to double in the next three months 107.According to the theory of the firm, which of the following statements describes"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "an oligopoly? A. There are no barriers to entry into or exit from the market B. There is only one producer in the market C. There are four nroducers exertina considerable influence in the market 15:36 CN 27thg 9 100%",
-    "image_file": "images/cau_106.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 107,
-    "question_number": 107,
-    "part": 6,
-    "question_text": "According to the theory of the firm, which of the following statements describes an oligopoly?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. There are no barriers to entry into or exit from the market"
-      },
-      {
-        "key": "B",
-        "text": "B. There is only one producer in the market"
-      },
-      {
-        "key": "C",
-        "text": "C. There are four producers exerting considerable influence in the market"
-      },
-      {
-        "key": "D",
-        "text": "D. There are many producers but they each use product differentiation to"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "distinguish themselves from each other",
-    "image_file": "images/cau_107.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 108,
-    "question_number": 108,
-    "part": 6,
-    "question_text": "Which of the following is NOT a substitute for carpets?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Ceramic floor tiles"
-      },
-      {
-        "key": "B",
-        "text": "B. Wooden floorboard"
-      },
-      {
-        "key": "C",
-        "text": "C. Carpet underlay"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_108.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 109,
-    "question_number": 109,
-    "part": 6,
-    "question_text": "Which of the following is NOT a complement to cars?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Petrol"
-      },
-      {
-        "key": "B",
-        "text": "B. Tyres"
-      },
-      {
-        "key": "C",
-        "text": "C. Holidays"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_109.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 110,
-    "question_number": 110,
-    "part": 6,
-    "question_text": "The demand for fashion goods is NOT influenced by:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Price"
-      },
-      {
-        "key": "B",
-        "text": "B. Allocative inefficiency among producers"
-      },
-      {
-        "key": "C",
-        "text": "C. The distribution of income among households"
-      },
-      {
-        "key": "D",
-        "text": "D. Expectation of future price changes"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_110.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 111,
-    "question_number": 111,
-    "part": 6,
-    "question_text": "Ill.lfthe price of coffee falls, which the following outcomes should be expected to",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A fall in the quantity of coffee demanded"
-      },
-      {
-        "key": "B",
-        "text": "B. A rise in the price of tea"
-      },
-      {
-        "key": "C",
-        "text": "C. A fall in the demand for drinking cups"
-      },
-      {
-        "key": "D",
-        "text": "D. A fall in the demand for tea"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_111.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 112,
-    "question_number": 112,
-    "part": 6,
-    "question_text": "What is an inferiorgood?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A good of such poor quality that demand for it is very weak"
-      },
-      {
-        "key": "B",
-        "text": "B. A good for which the cross elasticity of demand with a substitute product is greater than I"
-      },
-      {
-        "key": "C",
-        "text": "C. A good for which demand will fall as household income rises 113.Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "A. The demand curve for flower vases will shift to the left; their price will rise B. The demand curve for flower vases will shift to the right; their price will rise C. There will be movement in the demand curve for vases; their price will go down 15:36 CN 27thg 9 100%",
-    "image_file": "images/cau_112.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 113,
-    "question_number": 113,
-    "part": 6,
-    "question_text": "Consider the price and demand for flower vases. The price of cut flowers goes up sharply. Which of the following should happen?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The demand curve for flower vases will shift to the left; their price will rise"
-      },
-      {
-        "key": "B",
-        "text": "B. The demand curve for flower vases will shift to the right; their price will rise"
-      },
-      {
-        "key": "C",
-        "text": "C. There will be movement in the demand curve for vases; their price will go down"
-      },
-      {
-        "key": "D",
-        "text": "D. The demand curve for vases will shift to the left; their price will go down"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_113.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 114,
-    "question_number": 114,
-    "part": 6,
-    "question_text": "Consider the price and demand for tickets to travel by sea ferry. The price of travelling by hovercraft (a substitute form of travel) goes up. Which of the following should happen?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The demand curve for sea ferry tickets will shift to the left, and their price will go"
-      },
-      {
-        "key": "D",
-        "text": "D. own. More sea ferry tickets will be sold."
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "B. The demand curve for sea ferry tickets will shift to the right, and their price will go up. More ferry tickets will be sold. C. The demand curve for sea ferry tickets will shift to the right and their price will go down. More sea ferry tickets will be sold. D. The demand curve for sea ferry tickets will shift to the right and their price will go up. Fewer sea ferry tickets will be sold.",
-    "image_file": "images/cau_114.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 115,
-    "question_number": 115,
-    "part": 6,
-    "question_text": "The summer demand for hotel accommodation in London comes mainly from foreign tourists. Demand for hotel rooms in London in summer could be reduced by a fall in the price or value of which of the following?\n(1) US dollars\n(2) Aeroplane tickets\n(3) Sterling",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Item 1 only"
-      },
-      {
-        "key": "B",
-        "text": "B. Items 1 and 2 only"
-      },
-      {
-        "key": "C",
-        "text": "C. Items 2 and 3 only"
-      },
-      {
-        "key": "D",
-        "text": "D. Item 3 only"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Nếu đồng USD mất giá (fall in value of US dollars), khách du lịch Mỹ sẽ thấy chi phí du lịch đến London đắt hơn, làm giảm lượng cầu phòng khách sạn tại London.",
-    "image_file": "images/cau_115.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 116,
-    "question_number": 116,
-    "part": 6,
-    "question_text": "ABC produces a variety of soft drink. It has two competitors but all three producers use product differentiation to distinguish themselves from each other. What type of market is this?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Perfect competition"
-      },
-      {
-        "key": "B",
-        "text": "B. Monopoly"
-      },
-      {
-        "key": "C",
-        "text": "C. Monopolistic competition"
-      },
-      {
-        "key": "D",
-        "text": "D. Oligopoly"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_116.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 117,
-    "question_number": 117,
-    "part": 6,
-    "question_text": "II 7.1n a certain advanced industrialised country, the government has applied price controls over rents of both public and private rented accommodation for a number of years, and a serious problem of widespread homelessness has built up. Just recently, the rent price controls have been eased. 15:36 CN 27thg 9 100% Which TWO of the following consequences should now occur?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. An increase in homelessness"
-      },
-      {
-        "key": "B",
-        "text": "B. In the longer term, an increase in new building work"
-      },
-      {
-        "key": "C",
-        "text": "C. The provision of more rented accommodation"
-      },
-      {
-        "key": "D",
-        "text": "D. Fewer owner-occupied dwellings"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_117.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 118,
-    "question_number": 118,
-    "part": 6,
-    "question_text": "The demand curve for a resource may shift because of:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A change in the demand for a good whose production is dependent on the resource"
-      },
-      {
-        "key": "B",
-        "text": "B. Concerns about potential harmful pollution from the resource"
-      },
-      {
-        "key": "C",
-        "text": "C. A change in the price ofa substitute resource"
-      },
-      {
-        "key": "D",
-        "text": "D. All of the above"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_118.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 119,
-    "question_number": 119,
-    "part": 6,
-    "question_text": "The income elasticity of demand for a product is high. This means that:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Sales will fall only slightly when incomes of households fall"
-      },
-      {
-        "key": "B",
-        "text": "B. Sales will rise sharply when incomes of households rise"
-      },
-      {
-        "key": "C",
-        "text": "C. The good is an inferior good"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_119.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 120,
-    "question_number": 120,
-    "part": 6,
-    "question_text": "Using the point method, what is the price elasticity of demand of product X as price falls from its current price of $20 to $15?\nOld Price: $20, Old Quantity: 10\nNew Price: $15, New Quantity: 15",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1.0"
-      },
-      {
-        "key": "B",
-        "text": "B. 1.5"
-      },
-      {
-        "key": "C",
-        "text": "C. 2.0"
-      },
-      {
-        "key": "D",
-        "text": "D. 0.5"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "PED = (% thay đổi lượng cầu) / (% thay đổi giá) = ((15 - 10) / 10) / ((15 - 20) / 20) = (+50%) / (-25%) = -2.0. Lấy giá trị tuyệt đối |PED| = 2.0.",
-    "image_file": "images/cau_120.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 121,
-    "question_number": 121,
     "part": 7,
-    "question_text": "Consumer surplus is:",
-    "options": [
+    "title": "Phần 7: Câu 121 - 140",
+    "questions_range": "Câu 121 - 140",
+    "pdf_file": "output_pdf/De_7_Cau_121_140.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. The excess between what consumers are prepared to pay for a good or service, and the prevailing market price"
+        "id": 121,
+        "question_number": 121,
+        "part": 7,
+        "question_text": "Consumer surplus is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The excess between what consumers are prepared to pay for a good or service, and the prevailing market price"
+          },
+          {
+            "key": "B",
+            "text": "B. The indirect tax producers pay on a good or service"
+          },
+          {
+            "key": "C",
+            "text": "C. The marginal utility gained by consuming one more unit of a good or service"
+          },
+          {
+            "key": "D",
+            "text": "D. The indirect tax consumers pay on a good or service"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Thặng dư người tiêu dùng (Consumer surplus) là khoản chênh lệch giữa mức giá tối đa người tiêu dùng sẵn sàng trả và mức giá thị trường thực tế.",
+        "image_file": "images/cau_121.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. The indirect tax producers pay on a good or service"
+        "id": 122,
+        "question_number": 122,
+        "part": 7,
+        "question_text": "Which combination of demand and supply curves would be appropriate for a firm attempting to increase its profits by increasing its market share?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Inelastic demand, inelastic supply"
+          },
+          {
+            "key": "B",
+            "text": "B. Elastic demand, elastic supply"
+          },
+          {
+            "key": "C",
+            "text": "C. Inelastic demand, elastic supply"
+          },
+          {
+            "key": "D",
+            "text": "D. Elastic demand, inelastic supply"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_122.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. The marginal utility gained by consuming one more unit of a good or service"
+        "id": 123,
+        "question_number": 123,
+        "part": 7,
+        "question_text": "1fthe absolute value of the price elasticity of demand for dry white wine is greater than one, a decrease in the price of all wine would result in: 15:36 CN 27thg 9 100%",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A more than proportional decrease in the quantity of dry white wine purchased"
+          },
+          {
+            "key": "B",
+            "text": "B. A less than proportional decrease in the quantity of dry white wine purchased"
+          },
+          {
+            "key": "C",
+            "text": "C. A less than proportional increase in the quantity of dry white wine purchased"
+          },
+          {
+            "key": "D",
+            "text": "D. A more than proportional increase in the quantity of dry white wine purchased"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_123.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. The indirect tax consumers pay on a good or service"
+        "id": 124,
+        "question_number": 124,
+        "part": 7,
+        "question_text": "Mr Smith has a limited income which restricts the number of different goods he can buy. Which of the following describes the position at which Mr Smith's utility from purchasing different goods is maximised?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Marginal utility from each good is equal"
+          },
+          {
+            "key": "B",
+            "text": "B. Marginal utility from each good is 0"
+          },
+          {
+            "key": "C",
+            "text": "C. Ratio of marginal utility to price is equal for each good"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_124.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 125,
+        "question_number": 125,
+        "part": 7,
+        "question_text": "Are the following statements about elasticities true or false? If income elasticity is positive, the commodity is an inferior good.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_125.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 126,
+        "question_number": 126,
+        "part": 7,
+        "question_text": "Are the following statements about elasticities true or false? If two goods are complements, the cross elasticity will be negative.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_126.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 127,
+        "question_number": 127,
+        "part": 7,
+        "question_text": "Are the following statements about elasticities true or false? If price elasticity is greater than I, demand is inelastic.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_127.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 128,
+        "question_number": 128,
+        "part": 7,
+        "question_text": "Are the following statements about elasticities true or false? Unrelated products have a cross elasticity of infinity.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_128.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 129,
+        "question_number": 129,
+        "part": 7,
+        "question_text": "Which THREE of the following reasons would result in a shift of the demand curve to the right for a normal good?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A fall in the price of substitutes"
+          },
+          {
+            "key": "B",
+            "text": "B. A change in taste towards a competitor good"
+          },
+          {
+            "key": "C",
+            "text": "C. An increase in household incomes"
+          },
+          {
+            "key": "D",
+            "text": "D. An expected future rise in the price of the good"
+          },
+          {
+            "key": "E",
+            "text": "E. A rise in the price of complements"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "E An increase in population 15:36 CN 27thg 9 100%",
+        "image_file": "images/cau_129.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 130,
+        "question_number": 130,
+        "part": 7,
+        "question_text": "A company has recently reviewed its data protection policy and would like to ensure it complies with the UK Data Protection Act.\nMatch the policies to the data protection principles:\n1. Data held must be adequate, relevant and not excessive -> Data minimization\n2. Data must not be held for longer than is needed -> Storage limitation\n3. Records must be kept of how data collected is used -> Accountability\n4. Reasonable steps should be taken to ensure data is accurate -> Accuracy",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1-Data minimization, 2-Storage limitation, 3-Accountability, 4-Accuracy"
+          },
+          {
+            "key": "B",
+            "text": "B. 1-Storage limitation, 2-Accountability, 3-Accuracy, 4-Data minimization"
+          },
+          {
+            "key": "C",
+            "text": "C. 1-Accuracy, 2-Storage limitation, 3-Accountability, 4-Data minimization"
+          },
+          {
+            "key": "D",
+            "text": "D. 1-Accountability, 2-Accuracy, 3-Storage limitation, 4-Data minimization"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Nguyên tắc bảo vệ dữ liệu: giới hạn lưu trữ (Storage limitation), giảm thiểu dữ liệu (Data minimization), trách nhiệm giải trình (Accountability) và tính chính xác (Accuracy).",
+        "image_file": "images/cau_130.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 131,
+        "question_number": 131,
+        "part": 7,
+        "question_text": "Are the following statements about the rights of data subjects true or false? Data subjects have the right to object to the processing of their data. Objections must be made in writing only.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_131.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 132,
+        "question_number": 132,
+        "part": 7,
+        "question_text": "Are the following statements about the rights of data subjects true or false? Data subjects have the right to access data held about them. Requested information must be supplied within one month and no charge can be made for it.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False 133. The following are steps that governments can take to influence certain areas. • Tax incentives for investment • Equal opportunities legislation o Forbid takeovers • Product safety standards Match the steps above to the areas of government concern below. Output Consumer"
+          },
+          {
+            "key": "C",
+            "text": "C. apacity Competition Employment protection Tax incentives for o investment"
+          },
+          {
+            "key": "E",
+            "text": "E. qual opportunities o o o legislation 15:36 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_132.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 133,
+        "question_number": 133,
+        "part": 7,
+        "question_text": "Match the following government steps to the areas of government concern:\n1. Tax incentives for investment -> Output capacity\n2. Equal opportunities legislation -> Employment\n3. Forbid takeovers -> Competition\n4. Product safety standards -> Consumer protection",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1-Output capacity, 2-Employment, 3-Competition, 4-Consumer protection"
+          },
+          {
+            "key": "B",
+            "text": "B. 1-Competition, 2-Output capacity, 3-Employment, 4-Consumer protection"
+          },
+          {
+            "key": "C",
+            "text": "C. 1-Consumer protection, 2-Competition, 3-Output capacity, 4-Employment"
+          },
+          {
+            "key": "D",
+            "text": "D. 1-Employment, 2-Consumer protection, 3-Competition, 4-Output capacity"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Khuyến khích thuế cho đầu tư -> Nâng cao năng lực sản xuất (Output capacity). Luật bình đẳng cơ hội -> Việc làm (Employment). Chống thâu tóm độc quyền -> Cạnh tranh (Competition). Tiêu chuẩn an toàn sản phẩm -> Bảo vệ người tiêu dùng (Consumer protection).",
+        "image_file": "images/cau_133.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 134,
+        "question_number": 134,
+        "part": 7,
+        "question_text": "Match the following government policy tools to the policies they relate to:\n1. Borrowing\n2. Taxation\n3. Interest rates\n4. Money supply",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Fiscal policy: 1, 2 | Monetary policy: 3, 4"
+          },
+          {
+            "key": "B",
+            "text": "B. Fiscal policy: 3, 4 | Monetary policy: 1, 2"
+          },
+          {
+            "key": "C",
+            "text": "C. Fiscal policy: 1, 3 | Monetary policy: 2, 4"
+          },
+          {
+            "key": "D",
+            "text": "D. Fiscal policy: 2, 4 | Monetary policy: 1, 3"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Chính sách tài khóa quản lý thuế và vay nợ/chi tiêu công (1, 2). Chính sách tiền tệ quản lý lãi suất và cung tiền (3, 4).",
+        "image_file": "images/cau_134.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 135,
+        "question_number": 135,
+        "part": 7,
+        "question_text": "Match the primary activities from Porter's value chain to the departments of GHJ Co:\n- Dept W (produces final product using materials and labour)\n- Dept X (stores and delivers final product to customers)\n- Dept Y (advertising and promotion)\n- Dept Z (provides spare parts and maintenance to customers)",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Dept W: Operations | Dept X: Outbound logistics | Dept Y: Marketing & sales | Dept Z: After sales service"
+          },
+          {
+            "key": "B",
+            "text": "B. Dept W: Inbound logistics | Dept X: Operations | Dept Y: Marketing & sales | Dept Z: Service"
+          },
+          {
+            "key": "C",
+            "text": "C. Dept W: Operations | Dept X: Inbound logistics | Dept Y: Outbound logistics | Dept Z: After sales service"
+          },
+          {
+            "key": "D",
+            "text": "D. Dept W: Marketing & sales | Dept X: Operations | Dept Y: Outbound logistics | Dept Z: After sales service"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Trong chuỗi giá trị Porter: Sản xuất (Operations - W), Lưu kho & giao hàng (Outbound logistics - X), Tiếp thị bán hàng (Marketing & sales - Y), Dịch vụ hậu mãi (Service - Z).",
+        "image_file": "images/cau_135.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 136,
+        "question_number": 136,
+        "part": 7,
+        "question_text": "Which TWO of the following factors indicate that suppliers have high bargaining power in an industry?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. There are a large number of suppliers"
+          },
+          {
+            "key": "B",
+            "text": "B. There is a lack of substitute products available"
+          },
+          {
+            "key": "C",
+            "text": "C. Switching costs for customers are low"
+          },
+          {
+            "key": "D",
+            "text": "D. The product supplied is highly differentiated"
+          },
+          {
+            "key": "E",
+            "text": "E. Product quality is not important to customers"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_136.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 137,
+        "question_number": 137,
+        "part": 7,
+        "question_text": "(1) Product BB15 has recently reduced its price by 5% which increased the sales volume by 12.5%. This price change also caused a fall in the sales volume of product CC25 by 2.5%. There was no change in the price of product CC25.\nWhat is the price elasticity of demand for product BB15?\n(2) What is the cross elasticity of demand between BB15 and CC25?\n(3) Products BB15 and CC25 are:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) -2.5, (2) +0.5, (3) Substitutes"
+          },
+          {
+            "key": "B",
+            "text": "B. (1) -0.4, (2) -0.5, (3) Complements"
+          },
+          {
+            "key": "C",
+            "text": "C. (1) +2.5, (2) -0.5, (3) Substitutes"
+          },
+          {
+            "key": "D",
+            "text": "D. (1) -2.5, (2) -0.5, (3) Complements"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "PED = 12.5% / -5% = -2.5. XED = -2.5% / -5% = +0.5. Vì XED dương (>0), hai sản phẩm là hàng hóa thay thế (Substitutes).",
+        "image_file": "images/cau_137.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 138,
+        "question_number": 138,
+        "part": 7,
+        "question_text": "Which word from the list below correctly fills in the blank? For a normal, inferior good, demand curve slopes to the right.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Downwards"
+          },
+          {
+            "key": "B",
+            "text": "B. Horizontally"
+          },
+          {
+            "key": "C",
+            "text": "C. Upwards"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_138.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 139,
+        "question_number": 139,
+        "part": 7,
+        "question_text": "Which THREE of the following statements reflect the activities of an NGO?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. They have targets for customer satisfaction."
+          },
+          {
+            "key": "B",
+            "text": "B. They are almost always charities."
+          },
+          {
+            "key": "C",
+            "text": "C. They are aimed at promoting social, political or environmental change."
+          },
+          {
+            "key": "D",
+            "text": "D. They often raise funds through donations."
+          },
+          {
+            "key": "E",
+            "text": "E. They are legally constituted organisations with commercial aims."
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "E They are measured in terms of effectiveness and efficiency.",
+        "image_file": "images/cau_139.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 140,
+        "question_number": 140,
+        "part": 7,
+        "question_text": "What acronym is generally used for performance measurement of an NGO?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. VFM"
+          },
+          {
+            "key": "B",
+            "text": "B. ROCE"
+          },
+          {
+            "key": "C",
+            "text": "C. PBIT"
+          },
+          {
+            "key": "D",
+            "text": "D. SWOT"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_140.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "Thặng dư người tiêu dùng (Consumer surplus) là khoản chênh lệch giữa mức giá tối đa người tiêu dùng sẵn sàng trả và mức giá thị trường thực tế.",
-    "image_file": "images/cau_121.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 122,
-    "question_number": 122,
-    "part": 7,
-    "question_text": "Which combination of demand and supply curves would be appropriate for a firm attempting to increase its profits by increasing its market share?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Inelastic demand, inelastic supply"
-      },
-      {
-        "key": "B",
-        "text": "B. Elastic demand, elastic supply"
-      },
-      {
-        "key": "C",
-        "text": "C. Inelastic demand, elastic supply"
-      },
-      {
-        "key": "D",
-        "text": "D. Elastic demand, inelastic supply"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_122.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 123,
-    "question_number": 123,
-    "part": 7,
-    "question_text": "1fthe absolute value of the price elasticity of demand for dry white wine is greater than one, a decrease in the price of all wine would result in: 15:36 CN 27thg 9 100%",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A more than proportional decrease in the quantity of dry white wine purchased"
-      },
-      {
-        "key": "B",
-        "text": "B. A less than proportional decrease in the quantity of dry white wine purchased"
-      },
-      {
-        "key": "C",
-        "text": "C. A less than proportional increase in the quantity of dry white wine purchased"
-      },
-      {
-        "key": "D",
-        "text": "D. A more than proportional increase in the quantity of dry white wine purchased"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_123.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 124,
-    "question_number": 124,
-    "part": 7,
-    "question_text": "Mr Smith has a limited income which restricts the number of different goods he can buy. Which of the following describes the position at which Mr Smith's utility from purchasing different goods is maximised?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Marginal utility from each good is equal"
-      },
-      {
-        "key": "B",
-        "text": "B. Marginal utility from each good is 0"
-      },
-      {
-        "key": "C",
-        "text": "C. Ratio of marginal utility to price is equal for each good"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_124.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 125,
-    "question_number": 125,
-    "part": 7,
-    "question_text": "Are the following statements about elasticities true or false? If income elasticity is positive, the commodity is an inferior good.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_125.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 126,
-    "question_number": 126,
-    "part": 7,
-    "question_text": "Are the following statements about elasticities true or false? If two goods are complements, the cross elasticity will be negative.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_126.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 127,
-    "question_number": 127,
-    "part": 7,
-    "question_text": "Are the following statements about elasticities true or false? If price elasticity is greater than I, demand is inelastic.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_127.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 128,
-    "question_number": 128,
-    "part": 7,
-    "question_text": "Are the following statements about elasticities true or false? Unrelated products have a cross elasticity of infinity.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_128.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 129,
-    "question_number": 129,
-    "part": 7,
-    "question_text": "Which THREE of the following reasons would result in a shift of the demand curve to the right for a normal good?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A fall in the price of substitutes"
-      },
-      {
-        "key": "B",
-        "text": "B. A change in taste towards a competitor good"
-      },
-      {
-        "key": "C",
-        "text": "C. An increase in household incomes"
-      },
-      {
-        "key": "D",
-        "text": "D. An expected future rise in the price of the good"
-      },
-      {
-        "key": "E",
-        "text": "E. A rise in the price of complements"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "E An increase in population 15:36 CN 27thg 9 100%",
-    "image_file": "images/cau_129.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 130,
-    "question_number": 130,
-    "part": 7,
-    "question_text": "A company has recently reviewed its data protection policy and would like to ensure it complies with the UK Data Protection Act.\nMatch the policies to the data protection principles:\n1. Data held must be adequate, relevant and not excessive -> Data minimization\n2. Data must not be held for longer than is needed -> Storage limitation\n3. Records must be kept of how data collected is used -> Accountability\n4. Reasonable steps should be taken to ensure data is accurate -> Accuracy",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1-Data minimization, 2-Storage limitation, 3-Accountability, 4-Accuracy"
-      },
-      {
-        "key": "B",
-        "text": "B. 1-Storage limitation, 2-Accountability, 3-Accuracy, 4-Data minimization"
-      },
-      {
-        "key": "C",
-        "text": "C. 1-Accuracy, 2-Storage limitation, 3-Accountability, 4-Data minimization"
-      },
-      {
-        "key": "D",
-        "text": "D. 1-Accountability, 2-Accuracy, 3-Storage limitation, 4-Data minimization"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Nguyên tắc bảo vệ dữ liệu: giới hạn lưu trữ (Storage limitation), giảm thiểu dữ liệu (Data minimization), trách nhiệm giải trình (Accountability) và tính chính xác (Accuracy).",
-    "image_file": "images/cau_130.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 131,
-    "question_number": 131,
-    "part": 7,
-    "question_text": "Are the following statements about the rights of data subjects true or false? Data subjects have the right to object to the processing of their data. Objections must be made in writing only.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_131.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 132,
-    "question_number": 132,
-    "part": 7,
-    "question_text": "Are the following statements about the rights of data subjects true or false? Data subjects have the right to access data held about them. Requested information must be supplied within one month and no charge can be made for it.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False 133. The following are steps that governments can take to influence certain areas. • Tax incentives for investment • Equal opportunities legislation o Forbid takeovers • Product safety standards Match the steps above to the areas of government concern below. Output Consumer"
-      },
-      {
-        "key": "C",
-        "text": "C. apacity Competition Employment protection Tax incentives for o investment"
-      },
-      {
-        "key": "E",
-        "text": "E. qual opportunities o o o legislation 15:36 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_132.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 133,
-    "question_number": 133,
-    "part": 7,
-    "question_text": "Match the following government steps to the areas of government concern:\n1. Tax incentives for investment -> Output capacity\n2. Equal opportunities legislation -> Employment\n3. Forbid takeovers -> Competition\n4. Product safety standards -> Consumer protection",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1-Output capacity, 2-Employment, 3-Competition, 4-Consumer protection"
-      },
-      {
-        "key": "B",
-        "text": "B. 1-Competition, 2-Output capacity, 3-Employment, 4-Consumer protection"
-      },
-      {
-        "key": "C",
-        "text": "C. 1-Consumer protection, 2-Competition, 3-Output capacity, 4-Employment"
-      },
-      {
-        "key": "D",
-        "text": "D. 1-Employment, 2-Consumer protection, 3-Competition, 4-Output capacity"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Khuyến khích thuế cho đầu tư -> Nâng cao năng lực sản xuất (Output capacity). Luật bình đẳng cơ hội -> Việc làm (Employment). Chống thâu tóm độc quyền -> Cạnh tranh (Competition). Tiêu chuẩn an toàn sản phẩm -> Bảo vệ người tiêu dùng (Consumer protection).",
-    "image_file": "images/cau_133.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 134,
-    "question_number": 134,
-    "part": 7,
-    "question_text": "Match the following government policy tools to the policies they relate to:\n1. Borrowing\n2. Taxation\n3. Interest rates\n4. Money supply",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Fiscal policy: 1, 2 | Monetary policy: 3, 4"
-      },
-      {
-        "key": "B",
-        "text": "B. Fiscal policy: 3, 4 | Monetary policy: 1, 2"
-      },
-      {
-        "key": "C",
-        "text": "C. Fiscal policy: 1, 3 | Monetary policy: 2, 4"
-      },
-      {
-        "key": "D",
-        "text": "D. Fiscal policy: 2, 4 | Monetary policy: 1, 3"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Chính sách tài khóa quản lý thuế và vay nợ/chi tiêu công (1, 2). Chính sách tiền tệ quản lý lãi suất và cung tiền (3, 4).",
-    "image_file": "images/cau_134.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 135,
-    "question_number": 135,
-    "part": 7,
-    "question_text": "Match the primary activities from Porter's value chain to the departments of GHJ Co:\n- Dept W (produces final product using materials and labour)\n- Dept X (stores and delivers final product to customers)\n- Dept Y (advertising and promotion)\n- Dept Z (provides spare parts and maintenance to customers)",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Dept W: Operations | Dept X: Outbound logistics | Dept Y: Marketing & sales | Dept Z: After sales service"
-      },
-      {
-        "key": "B",
-        "text": "B. Dept W: Inbound logistics | Dept X: Operations | Dept Y: Marketing & sales | Dept Z: Service"
-      },
-      {
-        "key": "C",
-        "text": "C. Dept W: Operations | Dept X: Inbound logistics | Dept Y: Outbound logistics | Dept Z: After sales service"
-      },
-      {
-        "key": "D",
-        "text": "D. Dept W: Marketing & sales | Dept X: Operations | Dept Y: Outbound logistics | Dept Z: After sales service"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Trong chuỗi giá trị Porter: Sản xuất (Operations - W), Lưu kho & giao hàng (Outbound logistics - X), Tiếp thị bán hàng (Marketing & sales - Y), Dịch vụ hậu mãi (Service - Z).",
-    "image_file": "images/cau_135.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 136,
-    "question_number": 136,
-    "part": 7,
-    "question_text": "Which TWO of the following factors indicate that suppliers have high bargaining power in an industry?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. There are a large number of suppliers"
-      },
-      {
-        "key": "B",
-        "text": "B. There is a lack of substitute products available"
-      },
-      {
-        "key": "C",
-        "text": "C. Switching costs for customers are low"
-      },
-      {
-        "key": "D",
-        "text": "D. The product supplied is highly differentiated"
-      },
-      {
-        "key": "E",
-        "text": "E. Product quality is not important to customers"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_136.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 137,
-    "question_number": 137,
-    "part": 7,
-    "question_text": "(1) Product BB15 has recently reduced its price by 5% which increased the sales volume by 12.5%. This price change also caused a fall in the sales volume of product CC25 by 2.5%. There was no change in the price of product CC25.\nWhat is the price elasticity of demand for product BB15?\n(2) What is the cross elasticity of demand between BB15 and CC25?\n(3) Products BB15 and CC25 are:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (1) -2.5, (2) +0.5, (3) Substitutes"
-      },
-      {
-        "key": "B",
-        "text": "B. (1) -0.4, (2) -0.5, (3) Complements"
-      },
-      {
-        "key": "C",
-        "text": "C. (1) +2.5, (2) -0.5, (3) Substitutes"
-      },
-      {
-        "key": "D",
-        "text": "D. (1) -2.5, (2) -0.5, (3) Complements"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "PED = 12.5% / -5% = -2.5. XED = -2.5% / -5% = +0.5. Vì XED dương (>0), hai sản phẩm là hàng hóa thay thế (Substitutes).",
-    "image_file": "images/cau_137.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 138,
-    "question_number": 138,
-    "part": 7,
-    "question_text": "Which word from the list below correctly fills in the blank? For a normal, inferior good, demand curve slopes to the right.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Downwards"
-      },
-      {
-        "key": "B",
-        "text": "B. Horizontally"
-      },
-      {
-        "key": "C",
-        "text": "C. Upwards"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_138.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 139,
-    "question_number": 139,
-    "part": 7,
-    "question_text": "Which THREE of the following statements reflect the activities of an NGO?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. They have targets for customer satisfaction."
-      },
-      {
-        "key": "B",
-        "text": "B. They are almost always charities."
-      },
-      {
-        "key": "C",
-        "text": "C. They are aimed at promoting social, political or environmental change."
-      },
-      {
-        "key": "D",
-        "text": "D. They often raise funds through donations."
-      },
-      {
-        "key": "E",
-        "text": "E. They are legally constituted organisations with commercial aims."
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "E They are measured in terms of effectiveness and efficiency.",
-    "image_file": "images/cau_139.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 140,
-    "question_number": 140,
-    "part": 7,
-    "question_text": "What acronym is generally used for performance measurement of an NGO?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. VFM"
-      },
-      {
-        "key": "B",
-        "text": "B. ROCE"
-      },
-      {
-        "key": "C",
-        "text": "C. PBIT"
-      },
-      {
-        "key": "D",
-        "text": "D. SWOT"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_140.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 141,
-    "question_number": 141,
     "part": 8,
-    "question_text": "Which of the following statements about an organisation chart is NOT true?",
-    "options": [
+    "title": "Phần 8: Câu 141 - 160",
+    "questions_range": "Câu 141 - 160",
+    "pdf_file": "output_pdf/De_8_Cau_141_160.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. An organisation chart provides a summary of the structure ofa business."
+        "id": 141,
+        "question_number": 141,
+        "part": 8,
+        "question_text": "Which of the following statements about an organisation chart is NOT true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. An organisation chart provides a summary of the structure ofa business."
+          },
+          {
+            "key": "B",
+            "text": "B. An organisation chart can improve internal communications within a business."
+          },
+          {
+            "key": "C",
+            "text": "C. An organisation chart can improve employees' understanding of their role in a"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "business. D. An organisation chart can indicate functional authority but not line authority within a business. 142. Which of the following is a correct definition of 'span of control'? 15:36 CN 27 thg9 100%",
+        "image_file": "images/cau_141.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. An organisation chart can improve internal communications within a business."
+        "id": 142,
+        "question_number": 142,
+        "part": 8,
+        "question_text": "Which of the following is a correct definition of 'span of control'?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The number of employees subordinate in the hierarchy to a given manager."
+          },
+          {
+            "key": "B",
+            "text": "B. The number of levels in the hierarchy 'below' a given manager's."
+          },
+          {
+            "key": "C",
+            "text": "C. The number of employees directly responsible to a manager."
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_142.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. An organisation chart can improve employees' understanding of their role in a"
+        "id": 143,
+        "question_number": 143,
+        "part": 8,
+        "question_text": "Y plc is a growing organisation which has recently diversified into a number of significant new product markets. It has also recently acquired another company in one of its overseas markets. What would be the most appropriate form of organisation for Y plc?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Geographical departmentation"
+          },
+          {
+            "key": "B",
+            "text": "B. Divisionalisation"
+          },
+          {
+            "key": "C",
+            "text": "C. Functional departmentation"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_143.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 144,
+        "question_number": 144,
+        "part": 8,
+        "question_text": "Which of the following principles of classical management is challenged by matrix management?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Structuring the organisation on functional lines"
+          },
+          {
+            "key": "B",
+            "text": "B. Structuring the organisation on geographical lines"
+          },
+          {
+            "key": "C",
+            "text": "C. Unity of command"
+          },
+          {
+            "key": "D",
+            "text": "D. Decentralisation of decision-making"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_144.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 145,
+        "question_number": 145,
+        "part": 8,
+        "question_text": "Which of the following statements about the informal organisation is NOT true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The influence of the informal organisation was highlighted by the Hawthorne Studies, in the way group norms and dynamics affected productivity."
+          },
+          {
+            "key": "B",
+            "text": "B. Informal organisation can pose a threat to employee health and safety."
+          },
+          {
+            "key": "C",
+            "text": "C. Informal organisation can stimulate innovation."
+          },
+          {
+            "key": "D",
+            "text": "D. Managers in positions of authority generally cannot be part of the informal organisation. 146. Which of the following is an advantage of centralisation? 15:36 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_145.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 146,
+        "question_number": 146,
+        "part": 8,
+        "question_text": "Which of the following is an advantage of centralisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. It helps to develop the skills of junior managers."
+          },
+          {
+            "key": "B",
+            "text": "B. It avoids overburdening top managers in terms of workload and stress."
+          },
+          {
+            "key": "C",
+            "text": "C. Senior managers can take a wider view of problems and consequences."
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_146.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 147,
+        "question_number": 147,
+        "part": 8,
+        "question_text": "Which of the following statements is/are true? (1) An informal organisation exists within every formal organisation (2) Objectives of the informal organisation are broadly the same the formal organisation (3) A strong, close-knit informal organisation is desirable within the formal organisation",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Statement (1) only"
+          },
+          {
+            "key": "B",
+            "text": "B. Statements (I) and (3) only"
+          },
+          {
+            "key": "C",
+            "text": "C. Statements (2) and (3) only"
+          },
+          {
+            "key": "D",
+            "text": "D. Statement (3) only"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_147.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 148,
+        "question_number": 148,
+        "part": 8,
+        "question_text": "What is an organisation which has removed the internal barriers which separate hierarchy levels and functions and also between the organisation and its suppliers, customers and competitors known as?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Modular organisation"
+          },
+          {
+            "key": "B",
+            "text": "B. Hollow organisation"
+          },
+          {
+            "key": "C",
+            "text": "C. Jobless structure"
+          },
+          {
+            "key": "D",
+            "text": "D. Boundaryless organisation 149. Which of the following statements are true? (1) With a shared service centre services are likely to be less tailored (2) The IT function is commonly provided using shared service approach (3) A shared service centre is not part of the organisation"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "A. Statement (1) and (3) only B. Statements 11) and [2) onlv 15:36 CN 27thg 9 100%",
+        "image_file": "images/cau_148.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 149,
+        "question_number": 149,
+        "part": 8,
+        "question_text": "Which of the following statements are true? (I) With a shared service centre services are likely to be less tailored (2) The IT function is commonly provided using shared service approach (3) A shared service centre is not part of the organisation",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Statement (1) and (3) only"
+          },
+          {
+            "key": "B",
+            "text": "B. Statements (I) and (2) only"
+          },
+          {
+            "key": "C",
+            "text": "C. Statements (2) and (3) only"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_149.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 150,
+        "question_number": 150,
+        "part": 8,
+        "question_text": "BZ Ness Ltd is an organisation with a strongly traditional outlook. It is structured and managed according to classical principles: specialisation, the scalar chain of command, unity of command and direction. Personnel tend to focus on their own distinct tasks, which are strictly defined and directed. Communication is vertical, rather than lateral. Discipline is much prized and enshrined in the rule book of the company. From the scenario, what sort of culture does BZ Ness Ltd have, using Harrison's classifications?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Role culture"
+          },
+          {
+            "key": "B",
+            "text": "B. Task culture"
+          },
+          {
+            "key": "C",
+            "text": "C. Existential culture"
+          },
+          {
+            "key": "D",
+            "text": "D. Power culture"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_150.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 151,
+        "question_number": 151,
+        "part": 8,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Strong values improve corporate performance"
+          },
+          {
+            "key": "B",
+            "text": "B. Strong values can replace rules and controls in an organisation"
+          },
+          {
+            "key": "C",
+            "text": "C. Strong values minimise conflict within an organisation"
+          },
+          {
+            "key": "D",
+            "text": "D. Strong values are dangerous if they filter out 'uncomfortable' environmental information 152. Which word or phrase most accurately completes the definition?"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Culture is the collective programming of the mind which distinguishes the members of one from another. 15:36 CN 27thg 9 100%",
+        "image_file": "images/cau_151.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 152,
+        "question_number": 152,
+        "part": 8,
+        "question_text": "Which word or phrase most accurately completes the definition? Culture is the collective programming of the mind which distinguishes the members of one from another.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Category of people"
+          },
+          {
+            "key": "B",
+            "text": "B. Ethnic group"
+          },
+          {
+            "key": "C",
+            "text": "C. Nation"
+          },
+          {
+            "key": "D",
+            "text": "D. Social class"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_152.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 153,
+        "question_number": 153,
+        "part": 8,
+        "question_text": "Which of the following is NOT one of the terms used by Hofstede to describe a key dimension of culture?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Power-distance"
+          },
+          {
+            "key": "B",
+            "text": "B. Acquisitive/giving"
+          },
+          {
+            "key": "C",
+            "text": "C. Individualism/collectivism"
+          },
+          {
+            "key": "D",
+            "text": "D. Uncertainty avoidance"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_153.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 154,
+        "question_number": 154,
+        "part": 8,
+        "question_text": "Which is the 'deepest' set of underlying factors which determine culture, and the hardest to manage?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Values"
+          },
+          {
+            "key": "B",
+            "text": "B. Rituals"
+          },
+          {
+            "key": "C",
+            "text": "C. Assumptions"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_154.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 155,
+        "question_number": 155,
+        "part": 8,
+        "question_text": "Who defined organisational culture as 'the set of shared, taken-for-granted implicit assumptions that a group holds and that determines how it perceives, thinks about and reacts to its environment'?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Maslow"
+          },
+          {
+            "key": "B",
+            "text": "B. Schein"
+          },
+          {
+            "key": "C",
+            "text": "C. Porter"
+          },
+          {
+            "key": "D",
+            "text": "D. Mintzberg 156.Research has indicated that workers in country A display characteristics such 15:36 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_155.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 156,
+        "question_number": 156,
+        "part": 8,
+        "question_text": "Research has indicated that workers in country A display characteristics such as toughness and the desire for material wealth and possessions. Workers in country B value personal relationships, belonging and the quality of life. According to Hofstede's theory, these distinctions relate to which of the following cultural dimensions?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Masculinity -femininity"
+          },
+          {
+            "key": "B",
+            "text": "B. Power - distance"
+          },
+          {
+            "key": "C",
+            "text": "C. Individualism - collectivism"
+          },
+          {
+            "key": "D",
+            "text": "D. Uncertainty avoidance"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_156.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 157,
+        "question_number": 157,
+        "part": 8,
+        "question_text": "The research and development (R & D) function ofa business: (I) Is primarily concerned with market research (2) Can improve existing products as well as developing completely new products (3) Has been less important for firms manufacturing computers to meet an industry standard than for thosefirms developing the next generation of computers (4) Is always undertaken under contract by specialist external consultancies Which of the above statements are correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (I) and (2) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (2) and (3) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (1), (3) and (4) only"
+          },
+          {
+            "key": "D",
+            "text": "D. (2) and (4) only"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_157.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 158,
+        "question_number": 158,
+        "part": 8,
+        "question_text": "Which of the following words most accurately completes the sentence? Services have certain qualities which distinguish them from products. Because of their physical elements such as vouchers, tickets, confirmations and merchandise are an important part of service provision.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Inseparability"
+          },
+          {
+            "key": "B",
+            "text": "B. Intangibility"
+          },
+          {
+            "key": "C",
+            "text": "C. Perishability"
+          },
+          {
+            "key": "D",
+            "text": "D. Variability 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_158.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 159,
+        "question_number": 159,
+        "part": 8,
+        "question_text": "U Ltd produces a portfolio of products and focuses its efforts and resources on persuading customers to buy them. This is an example of which type of 'orientation'?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Production"
+          },
+          {
+            "key": "B",
+            "text": "B. Sales"
+          },
+          {
+            "key": "C",
+            "text": "C. Marketing"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_159.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 160,
+        "question_number": 160,
+        "part": 8,
+        "question_text": "Which of the following is/are objectives of human resource management? (I) To meet the organisation's social and legal responsibilities relating to the human resource (2) To manage an organisation's relationship with its customers (3) To develop human resources that will respond effectively to change",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) and (2)"
+          },
+          {
+            "key": "B",
+            "text": "B. (1) and (3)"
+          },
+          {
+            "key": "C",
+            "text": "C. (1) only"
+          },
+          {
+            "key": "D",
+            "text": "D. (2) and (3)"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_160.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "business. D. An organisation chart can indicate functional authority but not line authority within a business. 142. Which of the following is a correct definition of 'span of control'? 15:36 CN 27 thg9 100%",
-    "image_file": "images/cau_141.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 142,
-    "question_number": 142,
-    "part": 8,
-    "question_text": "Which of the following is a correct definition of 'span of control'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The number of employees subordinate in the hierarchy to a given manager."
-      },
-      {
-        "key": "B",
-        "text": "B. The number of levels in the hierarchy 'below' a given manager's."
-      },
-      {
-        "key": "C",
-        "text": "C. The number of employees directly responsible to a manager."
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_142.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 143,
-    "question_number": 143,
-    "part": 8,
-    "question_text": "Y plc is a growing organisation which has recently diversified into a number of significant new product markets. It has also recently acquired another company in one of its overseas markets. What would be the most appropriate form of organisation for Y plc?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Geographical departmentation"
-      },
-      {
-        "key": "B",
-        "text": "B. Divisionalisation"
-      },
-      {
-        "key": "C",
-        "text": "C. Functional departmentation"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_143.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 144,
-    "question_number": 144,
-    "part": 8,
-    "question_text": "Which of the following principles of classical management is challenged by matrix management?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Structuring the organisation on functional lines"
-      },
-      {
-        "key": "B",
-        "text": "B. Structuring the organisation on geographical lines"
-      },
-      {
-        "key": "C",
-        "text": "C. Unity of command"
-      },
-      {
-        "key": "D",
-        "text": "D. Decentralisation of decision-making"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_144.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 145,
-    "question_number": 145,
-    "part": 8,
-    "question_text": "Which of the following statements about the informal organisation is NOT true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The influence of the informal organisation was highlighted by the Hawthorne Studies, in the way group norms and dynamics affected productivity."
-      },
-      {
-        "key": "B",
-        "text": "B. Informal organisation can pose a threat to employee health and safety."
-      },
-      {
-        "key": "C",
-        "text": "C. Informal organisation can stimulate innovation."
-      },
-      {
-        "key": "D",
-        "text": "D. Managers in positions of authority generally cannot be part of the informal organisation. 146. Which of the following is an advantage of centralisation? 15:36 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_145.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 146,
-    "question_number": 146,
-    "part": 8,
-    "question_text": "Which of the following is an advantage of centralisation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. It helps to develop the skills of junior managers."
-      },
-      {
-        "key": "B",
-        "text": "B. It avoids overburdening top managers in terms of workload and stress."
-      },
-      {
-        "key": "C",
-        "text": "C. Senior managers can take a wider view of problems and consequences."
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_146.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 147,
-    "question_number": 147,
-    "part": 8,
-    "question_text": "Which of the following statements is/are true? (1) An informal organisation exists within every formal organisation (2) Objectives of the informal organisation are broadly the same the formal organisation (3) A strong, close-knit informal organisation is desirable within the formal organisation",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Statement (1) only"
-      },
-      {
-        "key": "B",
-        "text": "B. Statements (I) and (3) only"
-      },
-      {
-        "key": "C",
-        "text": "C. Statements (2) and (3) only"
-      },
-      {
-        "key": "D",
-        "text": "D. Statement (3) only"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_147.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 148,
-    "question_number": 148,
-    "part": 8,
-    "question_text": "What is an organisation which has removed the internal barriers which separate hierarchy levels and functions and also between the organisation and its suppliers, customers and competitors known as?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Modular organisation"
-      },
-      {
-        "key": "B",
-        "text": "B. Hollow organisation"
-      },
-      {
-        "key": "C",
-        "text": "C. Jobless structure"
-      },
-      {
-        "key": "D",
-        "text": "D. Boundaryless organisation 149. Which of the following statements are true? (1) With a shared service centre services are likely to be less tailored (2) The IT function is commonly provided using shared service approach (3) A shared service centre is not part of the organisation"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "A. Statement (1) and (3) only B. Statements 11) and [2) onlv 15:36 CN 27thg 9 100%",
-    "image_file": "images/cau_148.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 149,
-    "question_number": 149,
-    "part": 8,
-    "question_text": "Which of the following statements are true? (I) With a shared service centre services are likely to be less tailored (2) The IT function is commonly provided using shared service approach (3) A shared service centre is not part of the organisation",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Statement (1) and (3) only"
-      },
-      {
-        "key": "B",
-        "text": "B. Statements (I) and (2) only"
-      },
-      {
-        "key": "C",
-        "text": "C. Statements (2) and (3) only"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_149.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 150,
-    "question_number": 150,
-    "part": 8,
-    "question_text": "BZ Ness Ltd is an organisation with a strongly traditional outlook. It is structured and managed according to classical principles: specialisation, the scalar chain of command, unity of command and direction. Personnel tend to focus on their own distinct tasks, which are strictly defined and directed. Communication is vertical, rather than lateral. Discipline is much prized and enshrined in the rule book of the company. From the scenario, what sort of culture does BZ Ness Ltd have, using Harrison's classifications?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Role culture"
-      },
-      {
-        "key": "B",
-        "text": "B. Task culture"
-      },
-      {
-        "key": "C",
-        "text": "C. Existential culture"
-      },
-      {
-        "key": "D",
-        "text": "D. Power culture"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_150.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 151,
-    "question_number": 151,
-    "part": 8,
-    "question_text": "Which of the following statements is true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Strong values improve corporate performance"
-      },
-      {
-        "key": "B",
-        "text": "B. Strong values can replace rules and controls in an organisation"
-      },
-      {
-        "key": "C",
-        "text": "C. Strong values minimise conflict within an organisation"
-      },
-      {
-        "key": "D",
-        "text": "D. Strong values are dangerous if they filter out 'uncomfortable' environmental information 152. Which word or phrase most accurately completes the definition?"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Culture is the collective programming of the mind which distinguishes the members of one from another. 15:36 CN 27thg 9 100%",
-    "image_file": "images/cau_151.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 152,
-    "question_number": 152,
-    "part": 8,
-    "question_text": "Which word or phrase most accurately completes the definition? Culture is the collective programming of the mind which distinguishes the members of one from another.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Category of people"
-      },
-      {
-        "key": "B",
-        "text": "B. Ethnic group"
-      },
-      {
-        "key": "C",
-        "text": "C. Nation"
-      },
-      {
-        "key": "D",
-        "text": "D. Social class"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_152.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 153,
-    "question_number": 153,
-    "part": 8,
-    "question_text": "Which of the following is NOT one of the terms used by Hofstede to describe a key dimension of culture?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Power-distance"
-      },
-      {
-        "key": "B",
-        "text": "B. Acquisitive/giving"
-      },
-      {
-        "key": "C",
-        "text": "C. Individualism/collectivism"
-      },
-      {
-        "key": "D",
-        "text": "D. Uncertainty avoidance"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_153.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 154,
-    "question_number": 154,
-    "part": 8,
-    "question_text": "Which is the 'deepest' set of underlying factors which determine culture, and the hardest to manage?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Values"
-      },
-      {
-        "key": "B",
-        "text": "B. Rituals"
-      },
-      {
-        "key": "C",
-        "text": "C. Assumptions"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_154.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 155,
-    "question_number": 155,
-    "part": 8,
-    "question_text": "Who defined organisational culture as 'the set of shared, taken-for-granted implicit assumptions that a group holds and that determines how it perceives, thinks about and reacts to its environment'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Maslow"
-      },
-      {
-        "key": "B",
-        "text": "B. Schein"
-      },
-      {
-        "key": "C",
-        "text": "C. Porter"
-      },
-      {
-        "key": "D",
-        "text": "D. Mintzberg 156.Research has indicated that workers in country A display characteristics such 15:36 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_155.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 156,
-    "question_number": 156,
-    "part": 8,
-    "question_text": "Research has indicated that workers in country A display characteristics such as toughness and the desire for material wealth and possessions. Workers in country B value personal relationships, belonging and the quality of life. According to Hofstede's theory, these distinctions relate to which of the following cultural dimensions?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Masculinity -femininity"
-      },
-      {
-        "key": "B",
-        "text": "B. Power - distance"
-      },
-      {
-        "key": "C",
-        "text": "C. Individualism - collectivism"
-      },
-      {
-        "key": "D",
-        "text": "D. Uncertainty avoidance"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_156.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 157,
-    "question_number": 157,
-    "part": 8,
-    "question_text": "The research and development (R & D) function ofa business: (I) Is primarily concerned with market research (2) Can improve existing products as well as developing completely new products (3) Has been less important for firms manufacturing computers to meet an industry standard than for thosefirms developing the next generation of computers (4) Is always undertaken under contract by specialist external consultancies Which of the above statements are correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (I) and (2) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (2) and (3) only"
-      },
-      {
-        "key": "C",
-        "text": "C. (1), (3) and (4) only"
-      },
-      {
-        "key": "D",
-        "text": "D. (2) and (4) only"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_157.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 158,
-    "question_number": 158,
-    "part": 8,
-    "question_text": "Which of the following words most accurately completes the sentence? Services have certain qualities which distinguish them from products. Because of their physical elements such as vouchers, tickets, confirmations and merchandise are an important part of service provision.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Inseparability"
-      },
-      {
-        "key": "B",
-        "text": "B. Intangibility"
-      },
-      {
-        "key": "C",
-        "text": "C. Perishability"
-      },
-      {
-        "key": "D",
-        "text": "D. Variability 15:37 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_158.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 159,
-    "question_number": 159,
-    "part": 8,
-    "question_text": "U Ltd produces a portfolio of products and focuses its efforts and resources on persuading customers to buy them. This is an example of which type of 'orientation'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Production"
-      },
-      {
-        "key": "B",
-        "text": "B. Sales"
-      },
-      {
-        "key": "C",
-        "text": "C. Marketing"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_159.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 160,
-    "question_number": 160,
-    "part": 8,
-    "question_text": "Which of the following is/are objectives of human resource management? (I) To meet the organisation's social and legal responsibilities relating to the human resource (2) To manage an organisation's relationship with its customers (3) To develop human resources that will respond effectively to change",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (1) and (2)"
-      },
-      {
-        "key": "B",
-        "text": "B. (1) and (3)"
-      },
-      {
-        "key": "C",
-        "text": "C. (1) only"
-      },
-      {
-        "key": "D",
-        "text": "D. (2) and (3)"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_160.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 161,
-    "question_number": 161,
     "part": 9,
-    "question_text": "]eff, Jane and Jaitinder work in different departments in the firm XYZ Co. They are members of the permanent 'staff committee' which meets on a monthly basis to discuss staff issues such as pensions and benefits. Their purpose is to listen to communication from staff within their department and raise issues on behalf of their department at committee meetings. What is the name given to this type of committee?",
-    "options": [
+    "title": "Phần 9: Câu 161 - 180",
+    "questions_range": "Câu 161 - 180",
+    "pdf_file": "output_pdf/De_9_Cau_161_180.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Joint committee"
+        "id": 161,
+        "question_number": 161,
+        "part": 9,
+        "question_text": "]eff, Jane and Jaitinder work in different departments in the firm XYZ Co. They are members of the permanent 'staff committee' which meets on a monthly basis to discuss staff issues such as pensions and benefits. Their purpose is to listen to communication from staff within their department and raise issues on behalf of their department at committee meetings. What is the name given to this type of committee?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Joint committee"
+          },
+          {
+            "key": "B",
+            "text": "B. Taskforce"
+          },
+          {
+            "key": "C",
+            "text": "C. Standing committee 162.Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance"
+          },
+          {
+            "key": "D",
+            "text": "D. epartment. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration? 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_161.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Taskforce"
+        "id": 162,
+        "question_number": 162,
+        "part": 9,
+        "question_text": "Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance department. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Josh"
+          },
+          {
+            "key": "B",
+            "text": "B. Joanne"
+          },
+          {
+            "key": "D",
+            "text": "D. Sue"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_162.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Standing committee 162.Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance"
+        "id": 163,
+        "question_number": 163,
+        "part": 9,
+        "question_text": "ManagersJill and Paul are talking about how to resolve a business problem. Jill suggests that a committee should be formed to discuss the issues. Paul argues that committees are: (1) Time-consuming and expensive (2) They invite a compromise instead ofa clear-cut decision Which of these statements is true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Both (1) and (2)"
+          },
+          {
+            "key": "B",
+            "text": "B. (I) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (2) only"
+          },
+          {
+            "key": "D",
+            "text": "D. Neither statement is true"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_163.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. epartment. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration? 15:37 CN 27 thg9 100%"
+        "id": 164,
+        "question_number": 164,
+        "part": 9,
+        "question_text": "Diane carries out routine processing of invoices in the purchasing department of L Co. Joanne is Diane's supervisor. Lesley is trying to decide how many staff will be needed if some proposed new technology is implemented. Tracey is considering the new work that L Co will be able to offer and the new markets it could enter, once the new technology is well established. Which member of L Co carries out tactical activities?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Diane"
+          },
+          {
+            "key": "B",
+            "text": "B. Joanne"
+          },
+          {
+            "key": "C",
+            "text": "C. Lesley"
+          },
+          {
+            "key": "D",
+            "text": "D. Tracey 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_164.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 165,
+        "question_number": 165,
+        "part": 9,
+        "question_text": "Mr Q is manager ofa division which is undergoing a business downturn. He tries to shelter the workforce from the effects of downsizing: taking time for consultation, organising counselling and refusing to institute compulsory redundancies. Which ofthefollowing cultural types identified in the Hofstede model does this manager represent?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Low power-distance"
+          },
+          {
+            "key": "B",
+            "text": "B. Low masculinity"
+          },
+          {
+            "key": "C",
+            "text": "C. Low uncertainty avoidance"
+          },
+          {
+            "key": "D",
+            "text": "D. High individuality"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_165.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 166,
+        "question_number": 166,
+        "part": 9,
+        "question_text": "Which of the following would NOT be an objective of stakeholder management in relation to procurement?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Continuity of supply"
+          },
+          {
+            "key": "B",
+            "text": "B. Mutual dependency"
+          },
+          {
+            "key": "C",
+            "text": "C. Information sharing"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_166.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 167,
+        "question_number": 167,
+        "part": 9,
+        "question_text": "Janet works for a toy company called K Co. She telephones Mary at P Co on a daily basis to order parts. Janet has no contact with customers but does deal with complaint letters from D Group, an organisation against slave labour. D Group believe that K Co use slave labour in the toy manufacturing factories. Which of the following are internal stakeholders of K Co?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Janet only"
+          },
+          {
+            "key": "B",
+            "text": "B. Janet and Mary at P Co"
+          },
+          {
+            "key": "C",
+            "text": "C. Janet and D Group"
+          },
+          {
+            "key": "D",
+            "text": "D. Janet, Mary and D Group 168.Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Fixing the date and time of the next meeting B. Giving a ruling on matters in dispute C. Taking notes during the meeting 15:37 CN 27 thg9 100%",
+        "image_file": "images/cau_167.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 168,
+        "question_number": 168,
+        "part": 9,
+        "question_text": "Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Fixing the date and time of the next meeting"
+          },
+          {
+            "key": "B",
+            "text": "B. Giving a ruling on matters in dispute"
+          },
+          {
+            "key": "C",
+            "text": "C. Taking notes during the meeting"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_168.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 169,
+        "question_number": 169,
+        "part": 9,
+        "question_text": "AIi is responsible for preparing and issuing documents prior to a meeting, then acting on and communicating decisions following the meeting. What is his role?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Committee secretary"
+          },
+          {
+            "key": "B",
+            "text": "B. Committee member"
+          },
+          {
+            "key": "C",
+            "text": "C. Committee Chair 169. Which of the following is a role of the Secretary ofa committee?"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Agreeing the minutes of meetings as a true and accurate record B. Maintaining order at meetings, and ensuring that all members contribute fully to discussions C. Ascertaining whether specific matters fall within the terms of reference of the committee",
+        "image_file": "images/cau_169.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 170,
+        "question_number": 170,
+        "part": 9,
+        "question_text": "The audit committee and remuneration committee ofa company are examples of which of the following?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Ad hoc committees"
+          },
+          {
+            "key": "B",
+            "text": "B. Management committees"
+          },
+          {
+            "key": "C",
+            "text": "C. Executive committees"
+          },
+          {
+            "key": "D",
+            "text": "D. Standing committees 171. Which of the following statements about corporate social responsibility is/are (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_170.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 171,
+        "question_number": 171,
+        "part": 9,
+        "question_text": "Which of the following statements about corporate social responsibility is/are true? (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels (3) Social responsibility may have commercial benefits (4) Social responsibility is a concern confined to business organisations",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (3) and (4)"
+          },
+          {
+            "key": "B",
+            "text": "B. (1) and (3)"
+          },
+          {
+            "key": "C",
+            "text": "C. (2) and (4)"
+          },
+          {
+            "key": "D",
+            "text": "D. (3) only"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_171.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 172,
+        "question_number": 172,
+        "part": 9,
+        "question_text": "CaIum, Heidi and Jonas are managers for Zip Co. They have been told that their salary will be based on company performance and that a bonus scheme will also be introduced. The bonus will also be related to company performance. Which of the following theories describes the approach to governance that Zip Co is using ?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Stewardship theory"
+          },
+          {
+            "key": "B",
+            "text": "B. Agency theory"
+          },
+          {
+            "key": "C",
+            "text": "C. Stakeholder theory"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_172.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 173,
+        "question_number": 173,
+        "part": 9,
+        "question_text": "Michael has been asked to prepare a presentation for the company directors on good corporate governance. Which of the following is NOT appropriate for him to include in his presentation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Risk management"
+          },
+          {
+            "key": "B",
+            "text": "B. Internal controls"
+          },
+          {
+            "key": "C",
+            "text": "C. Maximising shareholder wealth"
+          },
+          {
+            "key": "D",
+            "text": "D. Accountability to stakeholders 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_173.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 174,
+        "question_number": 174,
+        "part": 9,
+        "question_text": "Corporate governance is essentially of what significance?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Control system"
+          },
+          {
+            "key": "B",
+            "text": "B. Strategic importance"
+          },
+          {
+            "key": "C",
+            "text": "C. Risk management"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_174.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 175,
+        "question_number": 175,
+        "part": 9,
+        "question_text": "Which of the following is a feature of poor corporate governance?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Domination of the board by a single individual"
+          },
+          {
+            "key": "B",
+            "text": "B. Critical questioning of senior managers by external auditors"
+          },
+          {
+            "key": "C",
+            "text": "C. Supervision of staffin key roles"
+          },
+          {
+            "key": "D",
+            "text": "D. Lack of focus on short-term profitability"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_175.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 176,
+        "question_number": 176,
+        "part": 9,
+        "question_text": "The tasks of which body include: monitoring the chief executive officer; formulating strategy; and ensuring that there is effective communication of the strategic plan?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The audit committee"
+          },
+          {
+            "key": "B",
+            "text": "B. The Public Oversight Board"
+          },
+          {
+            "key": "C",
+            "text": "C. The board of directors"
+          },
+          {
+            "key": "D",
+            "text": "D. The nomination committee"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_176.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 177,
+        "question_number": 177,
+        "part": 9,
+        "question_text": "Which of the following would be in the principles of Corporate Social Responsibility? (1) Human rights (2) Employee welfare (3) Professional ethics (4) Support for local suppliers",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (2) and (3) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (2), (3) and (4) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (1), (2) and (4) only 15:37 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_177.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 178,
+        "question_number": 178,
+        "part": 9,
+        "question_text": "1n most countries, what is the usual purpose of codes of practice on corporate governance?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To establish legally binding requirements to which all companies must adhere"
+          },
+          {
+            "key": "B",
+            "text": "B. To set down detailed rules to regulate the ways in which companies must operate"
+          },
+          {
+            "key": "C",
+            "text": "C. To provide guidance on the standards of best practice companies should adopt"
+          },
+          {
+            "key": "D",
+            "text": "D. To provide a comprehensive framework for management and administration"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_178.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 179,
+        "question_number": 179,
+        "part": 9,
+        "question_text": "Who should set directors' reward and incentive packages, according to corporate governance provisions?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The board of directors"
+          },
+          {
+            "key": "B",
+            "text": "B. The nomination committee"
+          },
+          {
+            "key": "C",
+            "text": "C. A remuneration committee made up of independent non-executive directors"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_179.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 180,
+        "question_number": 180,
+        "part": 9,
+        "question_text": "What is the purpose of an Operating and Financial Review (OFR)?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To provide the board ofdirectors with a narrative statement by the audit"
+          },
+          {
+            "key": "C",
+            "text": "C. ommittee of its findings on the efficacy of internal operational and financial"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "controls. B. To set out the directors' analysis of the business, in order to provide investors with a historical and prospective view through the eyes of management. C. To provide a statement that the company is a going concern.",
+        "image_file": "images/cau_180.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_161.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 162,
-    "question_number": 162,
-    "part": 9,
-    "question_text": "Josh,Joanne, Ed, and Sue all workfor D Co. Josh works in the finance department. Joanne works in the human resources department. Ed is Sue's line manager in the purchasing department. Which of the staff members would be responsible for payroll administration?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Josh"
-      },
-      {
-        "key": "B",
-        "text": "B. Joanne"
-      },
-      {
-        "key": "D",
-        "text": "D. Sue"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_162.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 163,
-    "question_number": 163,
-    "part": 9,
-    "question_text": "ManagersJill and Paul are talking about how to resolve a business problem. Jill suggests that a committee should be formed to discuss the issues. Paul argues that committees are: (1) Time-consuming and expensive (2) They invite a compromise instead ofa clear-cut decision Which of these statements is true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Both (1) and (2)"
-      },
-      {
-        "key": "B",
-        "text": "B. (I) only"
-      },
-      {
-        "key": "C",
-        "text": "C. (2) only"
-      },
-      {
-        "key": "D",
-        "text": "D. Neither statement is true"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_163.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 164,
-    "question_number": 164,
-    "part": 9,
-    "question_text": "Diane carries out routine processing of invoices in the purchasing department of L Co. Joanne is Diane's supervisor. Lesley is trying to decide how many staff will be needed if some proposed new technology is implemented. Tracey is considering the new work that L Co will be able to offer and the new markets it could enter, once the new technology is well established. Which member of L Co carries out tactical activities?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Diane"
-      },
-      {
-        "key": "B",
-        "text": "B. Joanne"
-      },
-      {
-        "key": "C",
-        "text": "C. Lesley"
-      },
-      {
-        "key": "D",
-        "text": "D. Tracey 15:37 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_164.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 165,
-    "question_number": 165,
-    "part": 9,
-    "question_text": "Mr Q is manager ofa division which is undergoing a business downturn. He tries to shelter the workforce from the effects of downsizing: taking time for consultation, organising counselling and refusing to institute compulsory redundancies. Which ofthefollowing cultural types identified in the Hofstede model does this manager represent?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Low power-distance"
-      },
-      {
-        "key": "B",
-        "text": "B. Low masculinity"
-      },
-      {
-        "key": "C",
-        "text": "C. Low uncertainty avoidance"
-      },
-      {
-        "key": "D",
-        "text": "D. High individuality"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_165.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 166,
-    "question_number": 166,
-    "part": 9,
-    "question_text": "Which of the following would NOT be an objective of stakeholder management in relation to procurement?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Continuity of supply"
-      },
-      {
-        "key": "B",
-        "text": "B. Mutual dependency"
-      },
-      {
-        "key": "C",
-        "text": "C. Information sharing"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_166.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 167,
-    "question_number": 167,
-    "part": 9,
-    "question_text": "Janet works for a toy company called K Co. She telephones Mary at P Co on a daily basis to order parts. Janet has no contact with customers but does deal with complaint letters from D Group, an organisation against slave labour. D Group believe that K Co use slave labour in the toy manufacturing factories. Which of the following are internal stakeholders of K Co?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Janet only"
-      },
-      {
-        "key": "B",
-        "text": "B. Janet and Mary at P Co"
-      },
-      {
-        "key": "C",
-        "text": "C. Janet and D Group"
-      },
-      {
-        "key": "D",
-        "text": "D. Janet, Mary and D Group 168.Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Fixing the date and time of the next meeting B. Giving a ruling on matters in dispute C. Taking notes during the meeting 15:37 CN 27 thg9 100%",
-    "image_file": "images/cau_167.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 168,
-    "question_number": 168,
-    "part": 9,
-    "question_text": "Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Fixing the date and time of the next meeting"
-      },
-      {
-        "key": "B",
-        "text": "B. Giving a ruling on matters in dispute"
-      },
-      {
-        "key": "C",
-        "text": "C. Taking notes during the meeting"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_168.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 169,
-    "question_number": 169,
-    "part": 9,
-    "question_text": "AIi is responsible for preparing and issuing documents prior to a meeting, then acting on and communicating decisions following the meeting. What is his role?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Committee secretary"
-      },
-      {
-        "key": "B",
-        "text": "B. Committee member"
-      },
-      {
-        "key": "C",
-        "text": "C. Committee Chair 169. Which of the following is a role of the Secretary ofa committee?"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Agreeing the minutes of meetings as a true and accurate record B. Maintaining order at meetings, and ensuring that all members contribute fully to discussions C. Ascertaining whether specific matters fall within the terms of reference of the committee",
-    "image_file": "images/cau_169.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 170,
-    "question_number": 170,
-    "part": 9,
-    "question_text": "The audit committee and remuneration committee ofa company are examples of which of the following?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Ad hoc committees"
-      },
-      {
-        "key": "B",
-        "text": "B. Management committees"
-      },
-      {
-        "key": "C",
-        "text": "C. Executive committees"
-      },
-      {
-        "key": "D",
-        "text": "D. Standing committees 171. Which of the following statements about corporate social responsibility is/are (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels 15:37 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_170.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 171,
-    "question_number": 171,
-    "part": 9,
-    "question_text": "Which of the following statements about corporate social responsibility is/are true? (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels (3) Social responsibility may have commercial benefits (4) Social responsibility is a concern confined to business organisations",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (3) and (4)"
-      },
-      {
-        "key": "B",
-        "text": "B. (1) and (3)"
-      },
-      {
-        "key": "C",
-        "text": "C. (2) and (4)"
-      },
-      {
-        "key": "D",
-        "text": "D. (3) only"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_171.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 172,
-    "question_number": 172,
-    "part": 9,
-    "question_text": "CaIum, Heidi and Jonas are managers for Zip Co. They have been told that their salary will be based on company performance and that a bonus scheme will also be introduced. The bonus will also be related to company performance. Which of the following theories describes the approach to governance that Zip Co is using ?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Stewardship theory"
-      },
-      {
-        "key": "B",
-        "text": "B. Agency theory"
-      },
-      {
-        "key": "C",
-        "text": "C. Stakeholder theory"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_172.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 173,
-    "question_number": 173,
-    "part": 9,
-    "question_text": "Michael has been asked to prepare a presentation for the company directors on good corporate governance. Which of the following is NOT appropriate for him to include in his presentation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Risk management"
-      },
-      {
-        "key": "B",
-        "text": "B. Internal controls"
-      },
-      {
-        "key": "C",
-        "text": "C. Maximising shareholder wealth"
-      },
-      {
-        "key": "D",
-        "text": "D. Accountability to stakeholders 15:37 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_173.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 174,
-    "question_number": 174,
-    "part": 9,
-    "question_text": "Corporate governance is essentially of what significance?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Control system"
-      },
-      {
-        "key": "B",
-        "text": "B. Strategic importance"
-      },
-      {
-        "key": "C",
-        "text": "C. Risk management"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_174.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 175,
-    "question_number": 175,
-    "part": 9,
-    "question_text": "Which of the following is a feature of poor corporate governance?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Domination of the board by a single individual"
-      },
-      {
-        "key": "B",
-        "text": "B. Critical questioning of senior managers by external auditors"
-      },
-      {
-        "key": "C",
-        "text": "C. Supervision of staffin key roles"
-      },
-      {
-        "key": "D",
-        "text": "D. Lack of focus on short-term profitability"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_175.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 176,
-    "question_number": 176,
-    "part": 9,
-    "question_text": "The tasks of which body include: monitoring the chief executive officer; formulating strategy; and ensuring that there is effective communication of the strategic plan?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The audit committee"
-      },
-      {
-        "key": "B",
-        "text": "B. The Public Oversight Board"
-      },
-      {
-        "key": "C",
-        "text": "C. The board of directors"
-      },
-      {
-        "key": "D",
-        "text": "D. The nomination committee"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_176.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 177,
-    "question_number": 177,
-    "part": 9,
-    "question_text": "Which of the following would be in the principles of Corporate Social Responsibility? (1) Human rights (2) Employee welfare (3) Professional ethics (4) Support for local suppliers",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (2) and (3) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (2), (3) and (4) only"
-      },
-      {
-        "key": "C",
-        "text": "C. (1), (2) and (4) only 15:37 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_177.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 178,
-    "question_number": 178,
-    "part": 9,
-    "question_text": "1n most countries, what is the usual purpose of codes of practice on corporate governance?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To establish legally binding requirements to which all companies must adhere"
-      },
-      {
-        "key": "B",
-        "text": "B. To set down detailed rules to regulate the ways in which companies must operate"
-      },
-      {
-        "key": "C",
-        "text": "C. To provide guidance on the standards of best practice companies should adopt"
-      },
-      {
-        "key": "D",
-        "text": "D. To provide a comprehensive framework for management and administration"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_178.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 179,
-    "question_number": 179,
-    "part": 9,
-    "question_text": "Who should set directors' reward and incentive packages, according to corporate governance provisions?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The board of directors"
-      },
-      {
-        "key": "B",
-        "text": "B. The nomination committee"
-      },
-      {
-        "key": "C",
-        "text": "C. A remuneration committee made up of independent non-executive directors"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_179.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 180,
-    "question_number": 180,
-    "part": 9,
-    "question_text": "What is the purpose of an Operating and Financial Review (OFR)?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To provide the board ofdirectors with a narrative statement by the audit"
-      },
-      {
-        "key": "C",
-        "text": "C. ommittee of its findings on the efficacy of internal operational and financial"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "controls. B. To set out the directors' analysis of the business, in order to provide investors with a historical and prospective view through the eyes of management. C. To provide a statement that the company is a going concern.",
-    "image_file": "images/cau_180.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 181,
-    "question_number": 181,
     "part": 10,
-    "question_text": "Which of the following are advantages of having non-executive directors on the company board? (1) They can provide a wider perspective than executive directors. (2) They provide reassurance to shareholders. (3) They may have external experience and knowledge which executive directors do not possess. (4) They have more time to devote to the role.",
-    "options": [
+    "title": "Phần 10: Câu 181 - 200",
+    "questions_range": "Câu 181 - 200",
+    "pdf_file": "output_pdf/De_10_Cau_181_200.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. (1) and (3)"
+        "id": 181,
+        "question_number": 181,
+        "part": 10,
+        "question_text": "Which of the following are advantages of having non-executive directors on the company board? (1) They can provide a wider perspective than executive directors. (2) They provide reassurance to shareholders. (3) They may have external experience and knowledge which executive directors do not possess. (4) They have more time to devote to the role.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) and (3)"
+          },
+          {
+            "key": "B",
+            "text": "B. (2) and (3)"
+          },
+          {
+            "key": "C",
+            "text": "C. (3) and (4) 15:38 CN 9 100%"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_181.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. (2) and (3)"
+        "id": 182,
+        "question_number": 182,
+        "part": 10,
+        "question_text": "PauI, Mary, Alan and Kate are having a board meeting ofa newly formed company and they are discussing the orientation of the company. Paul believes that the company will actively need to persuade customers to buy their products. Mary believes they should add additional features to their products, without carrying out market research, and this will increase demand from customers. Alan believes the products will sell as they are and the company should produce as many items as it can. Kate believes that they should research what customers need and value and adapt the products to meet the findings of the research. For each board member, select the orientation they are recommending. Paul Sales orientation Mary_Product orientation Alan_Production orientation Kate Marketing orientation",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Marketing orientation"
+          },
+          {
+            "key": "B",
+            "text": "B. Product orientation"
+          },
+          {
+            "key": "C",
+            "text": "C. Production orientation"
+          },
+          {
+            "key": "D",
+            "text": "D. Sales orientation"
+          },
+          {
+            "key": "E",
+            "text": "E. Something"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_182.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. (3) and (4) 15:38 CN 9 100%"
+        "id": 183,
+        "question_number": 183,
+        "part": 10,
+        "question_text": "Which of the options below correctly fills the blank? Breaking up the market into different groups, which each have common needs, wants and preferences is known as",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Market segmentation"
+          },
+          {
+            "key": "B",
+            "text": "B. Marketing mix"
+          },
+          {
+            "key": "C",
+            "text": "C. Mass marketing"
+          },
+          {
+            "key": "D",
+            "text": "D. Undifferentiated marketing 184. The main levels of strategy in an organisation are as follows: 15:38 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_183.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 184,
+        "question_number": 184,
+        "part": 10,
+        "question_text": "The main levels of strategy in an organisation are Corporate strategy, Business strategy, and Operational (functional) strategy. Match each definition to the appropriate strategy level.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Corporate: Overall purpose and scope of the business | Business: How to compete successfully in particular markets | Operational: How component parts deliver effectively"
+          },
+          {
+            "key": "B",
+            "text": "B. Corporate: How component parts deliver | Business: Overall purpose | Operational: How to compete"
+          },
+          {
+            "key": "C",
+            "text": "C. Corporate: How to compete | Business: Overall purpose | Operational: How component parts deliver"
+          },
+          {
+            "key": "D",
+            "text": "D. Corporate: Overall purpose | Business: How component parts deliver | Operational: How to compete"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Chiến lược cấp công ty (Corporate) định hình mục tiêu tổng thể. Chiến lược kinh doanh (Business) xác định cách cạnh tranh trên thị trường. Chiến lược tác nghiệp (Operational) tập trung vào thực thi của các bộ phận.",
+        "image_file": "images/cau_184.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 185,
+        "question_number": 185,
+        "part": 10,
+        "question_text": "Which TWO of the following are advantages of centralisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Decision makers have a greater awareness of local problems"
+          },
+          {
+            "key": "B",
+            "text": "B. Managers are able to take a wider view"
+          },
+          {
+            "key": "C",
+            "text": "C. Avoids overburdening top managers"
+          },
+          {
+            "key": "D",
+            "text": "D. Help to develop junior managers"
+          },
+          {
+            "key": "E",
+            "text": "E. Procedures and documentation can be standardised"
+          }
+        ],
+        "correct_answer": "E",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_185.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 186,
+        "question_number": 186,
+        "part": 10,
+        "question_text": "Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests. Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated. Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions. Company Z has a flat organisation structure and a high level of employee participation in decision-making. For each company, select which of Hofstede's four main dimensions of cultural differences is being displayed. Company W_lndividualism Company X_ Uncertainty avoidance Company Y_MascuIinity 15:38 CN 9 100% Company W Individualism Company X_ Uncertainty avoidance Company Y_MascuIinity Company Z_Power distance",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Individualism"
+          },
+          {
+            "key": "B",
+            "text": "B. Masculinity"
+          },
+          {
+            "key": "C",
+            "text": "C. Power distance"
+          },
+          {
+            "key": "D",
+            "text": "D. Femininity"
+          },
+          {
+            "key": "E",
+            "text": "E. Uncertainty avoidance"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_186.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 187,
+        "question_number": 187,
+        "part": 10,
+        "question_text": "According to Schein there are three determinants of culture, the first being observable. Patterns of greeting styles and business formalities are known as .Attitudes Concrete expressions, such as office premises design, are .Artefacts",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Artefacts"
+          },
+          {
+            "key": "B",
+            "text": "B. Attitudes"
+          },
+          {
+            "key": "C",
+            "text": "C. Behaviour"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_187.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 188,
+        "question_number": 188,
+        "part": 10,
+        "question_text": "Match the statements below to the type of organisational structure they relate to:\n1. Employees are grouped by specialism\n2. Dominated by a key central figure\n3. Employees report to more than one manager\n4. Organised in semi-autonomous blocks",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1-Functional, 2-Entrepreneurial, 3-Matrix, 4-Divisional"
+          },
+          {
+            "key": "B",
+            "text": "B. 1-Entrepreneurial, 2-Functional, 3-Divisional, 4-Matrix"
+          },
+          {
+            "key": "C",
+            "text": "C. 1-Matrix, 2-Divisional, 3-Functional, 4-Entrepreneurial"
+          },
+          {
+            "key": "D",
+            "text": "D. 1-Divisional, 2-Matrix, 3-Entrepreneurial, 4-Functional"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "1: Functional (chức năng). 2: Entrepreneurial (doanh nhân/tập trung). 3: Matrix (ma trận, 2 sếp). 4: Divisional (chi nhánh/bộ phận độc lập).",
+        "image_file": "images/cau_188.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 189,
+        "question_number": 189,
+        "part": 10,
+        "question_text": "1n Marchfield Co, all of the organisation's products are produced as components by other businesses which are then assembled in Marchfield CO's factory. Which type of organisation is Marchfield Co?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Modular"
+          },
+          {
+            "key": "B",
+            "text": "B. Hollow"
+          },
+          {
+            "key": "C",
+            "text": "C. Virtual"
+          },
+          {
+            "key": "D",
+            "text": "D. Boundaryless"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_189.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 190,
+        "question_number": 190,
+        "part": 10,
+        "question_text": "For each of the following tasks, select which department is responsible (Financial accounting vs Treasury):\n1. Arranging an overdraft\n2. Managing foreign currency exposure\n3. Recording financial transactions\n4. Cash budgeting\n5. Reporting to shareholders\n6. Repaying loans",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Treasury: 1, 2, 4, 6 | Financial accounting: 3, 5"
+          },
+          {
+            "key": "B",
+            "text": "B. Treasury: 3, 5 | Financial accounting: 1, 2, 4, 6"
+          },
+          {
+            "key": "C",
+            "text": "C. Treasury: 1, 3, 5 | Financial accounting: 2, 4, 6"
+          },
+          {
+            "key": "D",
+            "text": "D. Treasury: 2, 4 | Financial accounting: 1, 3, 5, 6"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Treasury (Ngân quỹ) quản lý dòng tiền, vay vốn, ngoại tệ và thanh toán nợ (1, 2, 4, 6). Financial accounting (Kế toán tài chính) ghi sổ nghiệp vụ và lập báo cáo tài chính gửi cổ đông (3, 5).",
+        "image_file": "images/cau_190.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 191,
+        "question_number": 191,
+        "part": 10,
+        "question_text": "Which of the following correctly fills the gap? Markets for trading short-term financial instruments are known as",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Capital markets"
+          },
+          {
+            "key": "B",
+            "text": "B. Money markets"
+          },
+          {
+            "key": "C",
+            "text": "C. Venture capital 192.Fill in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. Implementation B. Purpose C. Stakeholders 15:38 CN 9 100%",
+        "image_file": "images/cau_191.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 192,
+        "question_number": 192,
+        "part": 10,
+        "question_text": "FiII in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Implementation"
+          },
+          {
+            "key": "B",
+            "text": "B. Purpose"
+          },
+          {
+            "key": "C",
+            "text": "C. Stakeholders"
+          },
+          {
+            "key": "D",
+            "text": "D. Strategy"
+          },
+          {
+            "key": "E",
+            "text": "E. Values"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_192.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 193,
+        "question_number": 193,
+        "part": 10,
+        "question_text": "Which of the following is NOT part of the role ofa company secretary?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Establishment and maintenance ofa registered office"
+          },
+          {
+            "key": "B",
+            "text": "B. Filing of annual returns"
+          },
+          {
+            "key": "C",
+            "text": "C. Chairing management committee meetings"
+          },
+          {
+            "key": "D",
+            "text": "D. Maintaining statutory books and records"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_193.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 194,
+        "question_number": 194,
+        "part": 10,
+        "question_text": "Joseph has just started his first job in an accountancy department. A qualified senior member of staff explains to him what the main aim of accounting is. Which of the following options is the correct aim of accounting?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To maintain ledger accounts for every asset and liability"
+          },
+          {
+            "key": "B",
+            "text": "B. To provide financial information to users of such information"
+          },
+          {
+            "key": "C",
+            "text": "C. To produce a trial balance"
+          },
+          {
+            "key": "D",
+            "text": "D. To record every financial transaction individually 195. Which of the following statements about accounting information is NOT"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "correct? A. Some companies voluntarily provide specially-prepared financial information to employees. B. Accounting information should be relevant, reliable, complete, objective and 15:38 CN 27thg 9 100%",
+        "image_file": "images/cau_194.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 195,
+        "question_number": 195,
+        "part": 10,
+        "question_text": "Which of the following statements about accounting information is NOT correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Some companies voluntarily provide specially-prepared financial information to"
+          },
+          {
+            "key": "E",
+            "text": "E. mployees."
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "B. Accounting information should be relevant, reliable, complete, objective and timely. C. Accountants have a strong obligation to ensure that company accounts conform to accounting standards. D. Charities and professional bodies do not have to produce financial statements in the same way as businesses.",
+        "image_file": "images/cau_195.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 196,
+        "question_number": 196,
+        "part": 10,
+        "question_text": "1n a typical finance function, preparation of budgets and budgetary control would usually be the responsibility of which of the following roles?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The Financial Controller"
+          },
+          {
+            "key": "B",
+            "text": "B. The Management Accountant"
+          },
+          {
+            "key": "C",
+            "text": "C. The Treasurer"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_196.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 197,
+        "question_number": 197,
+        "part": 10,
+        "question_text": "Three of the following are outputs ofa payroll system, and one is an input to the system. Which is the input?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Credit transfer forms"
+          },
+          {
+            "key": "B",
+            "text": "B. Time sheets"
+          },
+          {
+            "key": "C",
+            "text": "C. Payroll analysis"
+          },
+          {
+            "key": "D",
+            "text": "D. Pay slips 198. Which of the following is an aim of the control system relating to payables and purchases?"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. To ensure that all credit notes received are recorded in the general and payables ledger B. To ensure that goods and services are only supplied to customers with good credit ratings C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers 15:38 CN 27thg 9 100%",
+        "image_file": "images/cau_197.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 198,
+        "question_number": 198,
+        "part": 10,
+        "question_text": "Which of the following is an aim of the control system relating to payables and purchases?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To ensure that all credit notes received are recorded in the general and payables ledger"
+          },
+          {
+            "key": "B",
+            "text": "B. To ensure that goods and services are only supplied to customers with good"
+          },
+          {
+            "key": "C",
+            "text": "C. redit ratings"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers D. To ensure that potentially doubtful debts are identified",
+        "image_file": "images/cau_198.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 199,
+        "question_number": 199,
+        "part": 10,
+        "question_text": "Which of the following does company law require a statement of financial position to give?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A true and fair view of the profit or loss of the company for the financial year"
+          },
+          {
+            "key": "B",
+            "text": "B. An unqualified (or 'clean') report on the statement of affairs of the company as at the end of the financial year"
+          },
+          {
+            "key": "C",
+            "text": "C. A true and fair view of the statement of affairs of the company as at the end of the financial year"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_199.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 200,
+        "question_number": 200,
+        "part": 10,
+        "question_text": "All of the following, with one exception, are areas in which an integrated accounting software package has advantages compared to a series of separate (stand-alone) dedicated programs. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Efficiency in updating data"
+          },
+          {
+            "key": "B",
+            "text": "B. Flexibility in preparing reports"
+          },
+          {
+            "key": "C",
+            "text": "C. Data integrity"
+          },
+          {
+            "key": "D",
+            "text": "D. Specialised capabilities 201. Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "business accounting system. A. Database B. Module C. Spreadsheet 15:38 CN 27thg 9 100%",
+        "image_file": "images/cau_200.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_181.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 182,
-    "question_number": 182,
-    "part": 10,
-    "question_text": "PauI, Mary, Alan and Kate are having a board meeting ofa newly formed company and they are discussing the orientation of the company. Paul believes that the company will actively need to persuade customers to buy their products. Mary believes they should add additional features to their products, without carrying out market research, and this will increase demand from customers. Alan believes the products will sell as they are and the company should produce as many items as it can. Kate believes that they should research what customers need and value and adapt the products to meet the findings of the research. For each board member, select the orientation they are recommending. Paul Sales orientation Mary_Product orientation Alan_Production orientation Kate Marketing orientation",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Marketing orientation"
-      },
-      {
-        "key": "B",
-        "text": "B. Product orientation"
-      },
-      {
-        "key": "C",
-        "text": "C. Production orientation"
-      },
-      {
-        "key": "D",
-        "text": "D. Sales orientation"
-      },
-      {
-        "key": "E",
-        "text": "E. Something"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_182.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 183,
-    "question_number": 183,
-    "part": 10,
-    "question_text": "Which of the options below correctly fills the blank? Breaking up the market into different groups, which each have common needs, wants and preferences is known as",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Market segmentation"
-      },
-      {
-        "key": "B",
-        "text": "B. Marketing mix"
-      },
-      {
-        "key": "C",
-        "text": "C. Mass marketing"
-      },
-      {
-        "key": "D",
-        "text": "D. Undifferentiated marketing 184. The main levels of strategy in an organisation are as follows: 15:38 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_183.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 184,
-    "question_number": 184,
-    "part": 10,
-    "question_text": "The main levels of strategy in an organisation are Corporate strategy, Business strategy, and Operational (functional) strategy. Match each definition to the appropriate strategy level.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Corporate: Overall purpose and scope of the business | Business: How to compete successfully in particular markets | Operational: How component parts deliver effectively"
-      },
-      {
-        "key": "B",
-        "text": "B. Corporate: How component parts deliver | Business: Overall purpose | Operational: How to compete"
-      },
-      {
-        "key": "C",
-        "text": "C. Corporate: How to compete | Business: Overall purpose | Operational: How component parts deliver"
-      },
-      {
-        "key": "D",
-        "text": "D. Corporate: Overall purpose | Business: How component parts deliver | Operational: How to compete"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Chiến lược cấp công ty (Corporate) định hình mục tiêu tổng thể. Chiến lược kinh doanh (Business) xác định cách cạnh tranh trên thị trường. Chiến lược tác nghiệp (Operational) tập trung vào thực thi của các bộ phận.",
-    "image_file": "images/cau_184.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 185,
-    "question_number": 185,
-    "part": 10,
-    "question_text": "Which TWO of the following are advantages of centralisation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Decision makers have a greater awareness of local problems"
-      },
-      {
-        "key": "B",
-        "text": "B. Managers are able to take a wider view"
-      },
-      {
-        "key": "C",
-        "text": "C. Avoids overburdening top managers"
-      },
-      {
-        "key": "D",
-        "text": "D. Help to develop junior managers"
-      },
-      {
-        "key": "E",
-        "text": "E. Procedures and documentation can be standardised"
-      }
-    ],
-    "correct_answer": "E",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_185.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 186,
-    "question_number": 186,
-    "part": 10,
-    "question_text": "Company W focuses on autonomy of its employees. Task achievement is seen as more important than working relationships. The company is impersonal and defends its business interests. Company X has a strict task structure with written rules and regulations which are adhered to by all employees. Dissent is not tolerated. Company Y has a focus on good working relationships between employees and seeks consensus on all business decisions. Company Z has a flat organisation structure and a high level of employee participation in decision-making. For each company, select which of Hofstede's four main dimensions of cultural differences is being displayed. Company W_lndividualism Company X_ Uncertainty avoidance Company Y_MascuIinity 15:38 CN 9 100% Company W Individualism Company X_ Uncertainty avoidance Company Y_MascuIinity Company Z_Power distance",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Individualism"
-      },
-      {
-        "key": "B",
-        "text": "B. Masculinity"
-      },
-      {
-        "key": "C",
-        "text": "C. Power distance"
-      },
-      {
-        "key": "D",
-        "text": "D. Femininity"
-      },
-      {
-        "key": "E",
-        "text": "E. Uncertainty avoidance"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_186.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 187,
-    "question_number": 187,
-    "part": 10,
-    "question_text": "According to Schein there are three determinants of culture, the first being observable. Patterns of greeting styles and business formalities are known as .Attitudes Concrete expressions, such as office premises design, are .Artefacts",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Artefacts"
-      },
-      {
-        "key": "B",
-        "text": "B. Attitudes"
-      },
-      {
-        "key": "C",
-        "text": "C. Behaviour"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_187.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 188,
-    "question_number": 188,
-    "part": 10,
-    "question_text": "Match the statements below to the type of organisational structure they relate to:\n1. Employees are grouped by specialism\n2. Dominated by a key central figure\n3. Employees report to more than one manager\n4. Organised in semi-autonomous blocks",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1-Functional, 2-Entrepreneurial, 3-Matrix, 4-Divisional"
-      },
-      {
-        "key": "B",
-        "text": "B. 1-Entrepreneurial, 2-Functional, 3-Divisional, 4-Matrix"
-      },
-      {
-        "key": "C",
-        "text": "C. 1-Matrix, 2-Divisional, 3-Functional, 4-Entrepreneurial"
-      },
-      {
-        "key": "D",
-        "text": "D. 1-Divisional, 2-Matrix, 3-Entrepreneurial, 4-Functional"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "1: Functional (chức năng). 2: Entrepreneurial (doanh nhân/tập trung). 3: Matrix (ma trận, 2 sếp). 4: Divisional (chi nhánh/bộ phận độc lập).",
-    "image_file": "images/cau_188.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 189,
-    "question_number": 189,
-    "part": 10,
-    "question_text": "1n Marchfield Co, all of the organisation's products are produced as components by other businesses which are then assembled in Marchfield CO's factory. Which type of organisation is Marchfield Co?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Modular"
-      },
-      {
-        "key": "B",
-        "text": "B. Hollow"
-      },
-      {
-        "key": "C",
-        "text": "C. Virtual"
-      },
-      {
-        "key": "D",
-        "text": "D. Boundaryless"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_189.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 190,
-    "question_number": 190,
-    "part": 10,
-    "question_text": "For each of the following tasks, select which department is responsible (Financial accounting vs Treasury):\n1. Arranging an overdraft\n2. Managing foreign currency exposure\n3. Recording financial transactions\n4. Cash budgeting\n5. Reporting to shareholders\n6. Repaying loans",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Treasury: 1, 2, 4, 6 | Financial accounting: 3, 5"
-      },
-      {
-        "key": "B",
-        "text": "B. Treasury: 3, 5 | Financial accounting: 1, 2, 4, 6"
-      },
-      {
-        "key": "C",
-        "text": "C. Treasury: 1, 3, 5 | Financial accounting: 2, 4, 6"
-      },
-      {
-        "key": "D",
-        "text": "D. Treasury: 2, 4 | Financial accounting: 1, 3, 5, 6"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Treasury (Ngân quỹ) quản lý dòng tiền, vay vốn, ngoại tệ và thanh toán nợ (1, 2, 4, 6). Financial accounting (Kế toán tài chính) ghi sổ nghiệp vụ và lập báo cáo tài chính gửi cổ đông (3, 5).",
-    "image_file": "images/cau_190.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 191,
-    "question_number": 191,
-    "part": 10,
-    "question_text": "Which of the following correctly fills the gap? Markets for trading short-term financial instruments are known as",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Capital markets"
-      },
-      {
-        "key": "B",
-        "text": "B. Money markets"
-      },
-      {
-        "key": "C",
-        "text": "C. Venture capital 192.Fill in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. Implementation B. Purpose C. Stakeholders 15:38 CN 9 100%",
-    "image_file": "images/cau_191.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 192,
-    "question_number": 192,
-    "part": 10,
-    "question_text": "FiII in the gaps in the King report's summary of the role of the board below. To define the of the company B To define the by which the company will perform its daily duties E To identify the relevant to the company C To develop a combining these factors D To ensure of this strategy A",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Implementation"
-      },
-      {
-        "key": "B",
-        "text": "B. Purpose"
-      },
-      {
-        "key": "C",
-        "text": "C. Stakeholders"
-      },
-      {
-        "key": "D",
-        "text": "D. Strategy"
-      },
-      {
-        "key": "E",
-        "text": "E. Values"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_192.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 193,
-    "question_number": 193,
-    "part": 10,
-    "question_text": "Which of the following is NOT part of the role ofa company secretary?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Establishment and maintenance ofa registered office"
-      },
-      {
-        "key": "B",
-        "text": "B. Filing of annual returns"
-      },
-      {
-        "key": "C",
-        "text": "C. Chairing management committee meetings"
-      },
-      {
-        "key": "D",
-        "text": "D. Maintaining statutory books and records"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_193.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 194,
-    "question_number": 194,
-    "part": 10,
-    "question_text": "Joseph has just started his first job in an accountancy department. A qualified senior member of staff explains to him what the main aim of accounting is. Which of the following options is the correct aim of accounting?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To maintain ledger accounts for every asset and liability"
-      },
-      {
-        "key": "B",
-        "text": "B. To provide financial information to users of such information"
-      },
-      {
-        "key": "C",
-        "text": "C. To produce a trial balance"
-      },
-      {
-        "key": "D",
-        "text": "D. To record every financial transaction individually 195. Which of the following statements about accounting information is NOT"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "correct? A. Some companies voluntarily provide specially-prepared financial information to employees. B. Accounting information should be relevant, reliable, complete, objective and 15:38 CN 27thg 9 100%",
-    "image_file": "images/cau_194.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 195,
-    "question_number": 195,
-    "part": 10,
-    "question_text": "Which of the following statements about accounting information is NOT correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Some companies voluntarily provide specially-prepared financial information to"
-      },
-      {
-        "key": "E",
-        "text": "E. mployees."
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "B. Accounting information should be relevant, reliable, complete, objective and timely. C. Accountants have a strong obligation to ensure that company accounts conform to accounting standards. D. Charities and professional bodies do not have to produce financial statements in the same way as businesses.",
-    "image_file": "images/cau_195.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 196,
-    "question_number": 196,
-    "part": 10,
-    "question_text": "1n a typical finance function, preparation of budgets and budgetary control would usually be the responsibility of which of the following roles?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The Financial Controller"
-      },
-      {
-        "key": "B",
-        "text": "B. The Management Accountant"
-      },
-      {
-        "key": "C",
-        "text": "C. The Treasurer"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_196.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 197,
-    "question_number": 197,
-    "part": 10,
-    "question_text": "Three of the following are outputs ofa payroll system, and one is an input to the system. Which is the input?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Credit transfer forms"
-      },
-      {
-        "key": "B",
-        "text": "B. Time sheets"
-      },
-      {
-        "key": "C",
-        "text": "C. Payroll analysis"
-      },
-      {
-        "key": "D",
-        "text": "D. Pay slips 198. Which of the following is an aim of the control system relating to payables and purchases?"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. To ensure that all credit notes received are recorded in the general and payables ledger B. To ensure that goods and services are only supplied to customers with good credit ratings C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers 15:38 CN 27thg 9 100%",
-    "image_file": "images/cau_197.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 198,
-    "question_number": 198,
-    "part": 10,
-    "question_text": "Which of the following is an aim of the control system relating to payables and purchases?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To ensure that all credit notes received are recorded in the general and payables ledger"
-      },
-      {
-        "key": "B",
-        "text": "B. To ensure that goods and services are only supplied to customers with good"
-      },
-      {
-        "key": "C",
-        "text": "C. redit ratings"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "C. To ensure that all credit notes that have been issued are recorded in the general and receivables ledgers D. To ensure that potentially doubtful debts are identified",
-    "image_file": "images/cau_198.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 199,
-    "question_number": 199,
-    "part": 10,
-    "question_text": "Which of the following does company law require a statement of financial position to give?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A true and fair view of the profit or loss of the company for the financial year"
-      },
-      {
-        "key": "B",
-        "text": "B. An unqualified (or 'clean') report on the statement of affairs of the company as at the end of the financial year"
-      },
-      {
-        "key": "C",
-        "text": "C. A true and fair view of the statement of affairs of the company as at the end of the financial year"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_199.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 200,
-    "question_number": 200,
-    "part": 10,
-    "question_text": "All of the following, with one exception, are areas in which an integrated accounting software package has advantages compared to a series of separate (stand-alone) dedicated programs. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Efficiency in updating data"
-      },
-      {
-        "key": "B",
-        "text": "B. Flexibility in preparing reports"
-      },
-      {
-        "key": "C",
-        "text": "C. Data integrity"
-      },
-      {
-        "key": "D",
-        "text": "D. Specialised capabilities 201. Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "business accounting system. A. Database B. Module C. Spreadsheet 15:38 CN 27thg 9 100%",
-    "image_file": "images/cau_200.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 201,
-    "question_number": 201,
     "part": 11,
-    "question_text": "Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised business accounting system.",
-    "options": [
+    "title": "Phần 11: Câu 201 - 220",
+    "questions_range": "Câu 201 - 220",
+    "pdf_file": "output_pdf/De_11_Cau_201_220.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Database"
+        "id": 201,
+        "question_number": 201,
+        "part": 11,
+        "question_text": "Which of the following terms correctly completes this definition? is a program which deals with one particular part ofa computerised business accounting system.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Database"
+          },
+          {
+            "key": "B",
+            "text": "B. Module"
+          },
+          {
+            "key": "C",
+            "text": "C. Spreadsheet"
+          },
+          {
+            "key": "D",
+            "text": "D. Suite"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_201.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Module"
+        "id": 202,
+        "question_number": 202,
+        "part": 11,
+        "question_text": "All of the following, except one, are tasks that can be performed by spreadsheet software. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The presentation of numerical data in the form of graphs and charts"
+          },
+          {
+            "key": "B",
+            "text": "B. The application of logical tests to data"
+          },
+          {
+            "key": "C",
+            "text": "C. The application of 'What if?' scenarios"
+          },
+          {
+            "key": "D",
+            "text": "D. Automatic correction of all data entered by the operator into the spreadsheet"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_202.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Spreadsheet"
+        "id": 203,
+        "question_number": 203,
+        "part": 11,
+        "question_text": "The preparation and filing of accounts by limited companies each year is required by which of the following?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Codes of corporate governance"
+          },
+          {
+            "key": "B",
+            "text": "B. National legislation"
+          },
+          {
+            "key": "C",
+            "text": "C. International Accounting Standards"
+          },
+          {
+            "key": "D",
+            "text": "D. Local Accounting Standards"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_203.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Suite"
+        "id": 204,
+        "question_number": 204,
+        "part": 11,
+        "question_text": "Gordon works in the accounts department of a retail business. He and his colleagues are looking at the sales figures for various types of clothing.\nThe director asks them to use exception reporting to summarise their findings.\nWhich of the following correctly defines the concept of 'exception reporting' within a business context?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The reporting of unusual events, outside the normal course of events"
+          },
+          {
+            "key": "B",
+            "text": "B. The analysis of those items where performance differs significantly from standard or budget"
+          },
+          {
+            "key": "C",
+            "text": "C. The preparation of reports on routine matters on an 'ad hoc' basis"
+          },
+          {
+            "key": "D",
+            "text": "D. The scrutiny of all data as a matter of course, save in exceptional circumstances"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Quản trị theo ngoại lệ (Exception reporting) tập trung vào phân tích các khoản mục có sự chênh lệch đáng kể so với định mức hoặc ngân sách (performance differs significantly from standard or budget).",
+        "image_file": "images/cau_204.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 205,
+        "question_number": 205,
+        "part": 11,
+        "question_text": "A small company's computer system comprises five desktop personal computers located in separate offices linked together in an intranet within the same building. The computers are not connected to the Internet and employees are not allowed to take storage media into or out of the building. Information which the business' owner wishes to keep confidential to herself is stored in one of the computers. Which of the following statements can be concluded from this information?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. This company's computer system does not need a back-up storage system"
+          },
+          {
+            "key": "B",
+            "text": "B. This company's computer system does not need a password access system"
+          },
+          {
+            "key": "C",
+            "text": "C. This company's computer system does not receive email from customers or suppliers"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_205.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 206,
+        "question_number": 206,
+        "part": 11,
+        "question_text": "Which word or phrase correctly completes this sentence? Systems pool data from internal and external sources and make information available to senior managers, for strategic, unstructured decision-making.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Decision Support"
+          },
+          {
+            "key": "B",
+            "text": "B. Executive Support"
+          },
+          {
+            "key": "C",
+            "text": "C. Expert"
+          },
+          {
+            "key": "D",
+            "text": "D. Management Support"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_206.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 207,
+        "question_number": 207,
+        "part": 11,
+        "question_text": "All the following statements, except one, describe the relationship between data and information. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Information is data which has been processed in such a way as to be meaningful to the person who receives it."
+          },
+          {
+            "key": "B",
+            "text": "B. The relationship between data and information is one of inputs and outputs."
+          },
+          {
+            "key": "C",
+            "text": "C. Data is always in numerical form whereas information is always in text form. 15:38 CN 27thg 9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_207.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 208,
+        "question_number": 208,
+        "part": 11,
+        "question_text": "What element ofa database system is represented by the question mark in the below diagram? Input data Database Application programs Sales Branch and staff Other applications personnel payroll applications statistics etc statistics etc analysis etc",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Data storage"
+          },
+          {
+            "key": "B",
+            "text": "B. Database administrator"
+          },
+          {
+            "key": "C",
+            "text": "C. Database management system"
+          },
+          {
+            "key": "D",
+            "text": "D. Electronic point of sale system"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_208.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 209,
+        "question_number": 209,
+        "part": 11,
+        "question_text": "Which of the following statements about data security is NOT true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Loss or corruption of data is almost always non-deliberate."
+          },
+          {
+            "key": "B",
+            "text": "B. New staffin particular pose a threat."
+          },
+          {
+            "key": "C",
+            "text": "C. It is impossible to prevent all threats cost-effectively."
+          },
+          {
+            "key": "D",
+            "text": "D. Smoke detectors are a form of data protection."
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_209.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 210,
+        "question_number": 210,
+        "part": 11,
+        "question_text": "Which word correctly completes this sentence? Office Automation Systems are designed mainly to increase the of data and information workers.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Decision-making capability"
+          },
+          {
+            "key": "B",
+            "text": "B. Flexibility"
+          },
+          {
+            "key": "C",
+            "text": "C. Productivity 15:38 CN 9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_210.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 211,
+        "question_number": 211,
+        "part": 11,
+        "question_text": "Which of the following user groups of financial and accounting information are likely to need, and have access to, this information most?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Managers of the company"
+          },
+          {
+            "key": "B",
+            "text": "B. Shareholders of the company"
+          },
+          {
+            "key": "C",
+            "text": "C. Financial analysis advisers"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_211.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 212,
+        "question_number": 212,
+        "part": 11,
+        "question_text": "To whom should the internal audit department of an organisation report?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The Finance Director"
+          },
+          {
+            "key": "B",
+            "text": "B. The audit committee of the board of directors"
+          },
+          {
+            "key": "C",
+            "text": "C. The shareholders"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_212.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 213,
+        "question_number": 213,
+        "part": 11,
+        "question_text": "Which function in an organisation is responsible for ensuring that only properly authorised purchases which are necessary for the business are made?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Goods inwards"
+          },
+          {
+            "key": "B",
+            "text": "B. Finance/accounts"
+          },
+          {
+            "key": "C",
+            "text": "C. Purchasing/procurement"
+          },
+          {
+            "key": "D",
+            "text": "D. Production/operations"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_213.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 214,
+        "question_number": 214,
+        "part": 11,
+        "question_text": "There is a need for co-ordinated information flow between sections and departments in accounting management, To which of the following should the receivables ledger section give information about overdue debts?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Cost accounting staff"
+          },
+          {
+            "key": "B",
+            "text": "B. The credit control department"
+          },
+          {
+            "key": "C",
+            "text": "C. The payables section 215. Which of the following is NOT part of the regulatory system?"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. GAAP B. International financial reporting standards C. IFAC 15:38 CN 9 100%",
+        "image_file": "images/cau_214.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 215,
+        "question_number": 215,
+        "part": 11,
+        "question_text": "Which of the following is NOT part of the regulatory system?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. GAAP"
+          },
+          {
+            "key": "B",
+            "text": "B. International financial reporting standards"
+          },
+          {
+            "key": "C",
+            "text": "C. IFAC"
+          },
+          {
+            "key": "D",
+            "text": "D. The European Union"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_215.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 216,
+        "question_number": 216,
+        "part": 11,
+        "question_text": "1nternational Financial Reporting Standards are issued by which of the following organisations?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. IASB"
+          },
+          {
+            "key": "B",
+            "text": "B. ASB"
+          },
+          {
+            "key": "C",
+            "text": "C. The European Union"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_216.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 217,
+        "question_number": 217,
+        "part": 11,
+        "question_text": "Legally binding rules relating to the disclosure and presentation of financial statements are set down in which of the following?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. National legislation"
+          },
+          {
+            "key": "B",
+            "text": "B. International financial reporting standards"
+          },
+          {
+            "key": "C",
+            "text": "C. Generally agreed accounting principles"
+          },
+          {
+            "key": "D",
+            "text": "D. Rule books of professional accountancy bodies"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_217.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 218,
+        "question_number": 218,
+        "part": 11,
+        "question_text": "Which of the following is NOT an aim of internal controls?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To enable the organisation to respond appropriately to business, operational and financial risks"
+          },
+          {
+            "key": "B",
+            "text": "B. To eliminate the possibility of impacts from poor judgement and human error"
+          },
+          {
+            "key": "C",
+            "text": "C. To help ensure the quality of internal and external reporting"
+          },
+          {
+            "key": "D",
+            "text": "D. To help ensure compliance with applicable laws and regulations 219. Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_218.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 219,
+        "question_number": 219,
+        "part": 11,
+        "question_text": "Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer system. These are classified as controls.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Administrative"
+          },
+          {
+            "key": "B",
+            "text": "B. Detect"
+          },
+          {
+            "key": "C",
+            "text": "C. Mandated"
+          },
+          {
+            "key": "D",
+            "text": "D. Non-discretionary"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_219.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 220,
+        "question_number": 220,
+        "part": 11,
+        "question_text": "The mnemonic SPAMSOAP is often used to remember the range of financial control procedures. What does the 'O' stand for in this mnemonic?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Operations"
+          },
+          {
+            "key": "B",
+            "text": "B. Organisation"
+          },
+          {
+            "key": "C",
+            "text": "C. Oversight"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_220.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_201.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 202,
-    "question_number": 202,
-    "part": 11,
-    "question_text": "All of the following, except one, are tasks that can be performed by spreadsheet software. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The presentation of numerical data in the form of graphs and charts"
-      },
-      {
-        "key": "B",
-        "text": "B. The application of logical tests to data"
-      },
-      {
-        "key": "C",
-        "text": "C. The application of 'What if?' scenarios"
-      },
-      {
-        "key": "D",
-        "text": "D. Automatic correction of all data entered by the operator into the spreadsheet"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_202.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 203,
-    "question_number": 203,
-    "part": 11,
-    "question_text": "The preparation and filing of accounts by limited companies each year is required by which of the following?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Codes of corporate governance"
-      },
-      {
-        "key": "B",
-        "text": "B. National legislation"
-      },
-      {
-        "key": "C",
-        "text": "C. International Accounting Standards"
-      },
-      {
-        "key": "D",
-        "text": "D. Local Accounting Standards"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_203.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 204,
-    "question_number": 204,
-    "part": 11,
-    "question_text": "Gordon works in the accounts department of a retail business. He and his colleagues are looking at the sales figures for various types of clothing.\nThe director asks them to use exception reporting to summarise their findings.\nWhich of the following correctly defines the concept of 'exception reporting' within a business context?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The reporting of unusual events, outside the normal course of events"
-      },
-      {
-        "key": "B",
-        "text": "B. The analysis of those items where performance differs significantly from standard or budget"
-      },
-      {
-        "key": "C",
-        "text": "C. The preparation of reports on routine matters on an 'ad hoc' basis"
-      },
-      {
-        "key": "D",
-        "text": "D. The scrutiny of all data as a matter of course, save in exceptional circumstances"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Quản trị theo ngoại lệ (Exception reporting) tập trung vào phân tích các khoản mục có sự chênh lệch đáng kể so với định mức hoặc ngân sách (performance differs significantly from standard or budget).",
-    "image_file": "images/cau_204.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 205,
-    "question_number": 205,
-    "part": 11,
-    "question_text": "A small company's computer system comprises five desktop personal computers located in separate offices linked together in an intranet within the same building. The computers are not connected to the Internet and employees are not allowed to take storage media into or out of the building. Information which the business' owner wishes to keep confidential to herself is stored in one of the computers. Which of the following statements can be concluded from this information?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. This company's computer system does not need a back-up storage system"
-      },
-      {
-        "key": "B",
-        "text": "B. This company's computer system does not need a password access system"
-      },
-      {
-        "key": "C",
-        "text": "C. This company's computer system does not receive email from customers or suppliers"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_205.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 206,
-    "question_number": 206,
-    "part": 11,
-    "question_text": "Which word or phrase correctly completes this sentence? Systems pool data from internal and external sources and make information available to senior managers, for strategic, unstructured decision-making.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Decision Support"
-      },
-      {
-        "key": "B",
-        "text": "B. Executive Support"
-      },
-      {
-        "key": "C",
-        "text": "C. Expert"
-      },
-      {
-        "key": "D",
-        "text": "D. Management Support"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_206.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 207,
-    "question_number": 207,
-    "part": 11,
-    "question_text": "All the following statements, except one, describe the relationship between data and information. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Information is data which has been processed in such a way as to be meaningful to the person who receives it."
-      },
-      {
-        "key": "B",
-        "text": "B. The relationship between data and information is one of inputs and outputs."
-      },
-      {
-        "key": "C",
-        "text": "C. Data is always in numerical form whereas information is always in text form. 15:38 CN 27thg 9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_207.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 208,
-    "question_number": 208,
-    "part": 11,
-    "question_text": "What element ofa database system is represented by the question mark in the below diagram? Input data Database Application programs Sales Branch and staff Other applications personnel payroll applications statistics etc statistics etc analysis etc",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Data storage"
-      },
-      {
-        "key": "B",
-        "text": "B. Database administrator"
-      },
-      {
-        "key": "C",
-        "text": "C. Database management system"
-      },
-      {
-        "key": "D",
-        "text": "D. Electronic point of sale system"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_208.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 209,
-    "question_number": 209,
-    "part": 11,
-    "question_text": "Which of the following statements about data security is NOT true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Loss or corruption of data is almost always non-deliberate."
-      },
-      {
-        "key": "B",
-        "text": "B. New staffin particular pose a threat."
-      },
-      {
-        "key": "C",
-        "text": "C. It is impossible to prevent all threats cost-effectively."
-      },
-      {
-        "key": "D",
-        "text": "D. Smoke detectors are a form of data protection."
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_209.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 210,
-    "question_number": 210,
-    "part": 11,
-    "question_text": "Which word correctly completes this sentence? Office Automation Systems are designed mainly to increase the of data and information workers.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Decision-making capability"
-      },
-      {
-        "key": "B",
-        "text": "B. Flexibility"
-      },
-      {
-        "key": "C",
-        "text": "C. Productivity 15:38 CN 9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_210.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 211,
-    "question_number": 211,
-    "part": 11,
-    "question_text": "Which of the following user groups of financial and accounting information are likely to need, and have access to, this information most?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Managers of the company"
-      },
-      {
-        "key": "B",
-        "text": "B. Shareholders of the company"
-      },
-      {
-        "key": "C",
-        "text": "C. Financial analysis advisers"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_211.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 212,
-    "question_number": 212,
-    "part": 11,
-    "question_text": "To whom should the internal audit department of an organisation report?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The Finance Director"
-      },
-      {
-        "key": "B",
-        "text": "B. The audit committee of the board of directors"
-      },
-      {
-        "key": "C",
-        "text": "C. The shareholders"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_212.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 213,
-    "question_number": 213,
-    "part": 11,
-    "question_text": "Which function in an organisation is responsible for ensuring that only properly authorised purchases which are necessary for the business are made?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Goods inwards"
-      },
-      {
-        "key": "B",
-        "text": "B. Finance/accounts"
-      },
-      {
-        "key": "C",
-        "text": "C. Purchasing/procurement"
-      },
-      {
-        "key": "D",
-        "text": "D. Production/operations"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_213.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 214,
-    "question_number": 214,
-    "part": 11,
-    "question_text": "There is a need for co-ordinated information flow between sections and departments in accounting management, To which of the following should the receivables ledger section give information about overdue debts?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Cost accounting staff"
-      },
-      {
-        "key": "B",
-        "text": "B. The credit control department"
-      },
-      {
-        "key": "C",
-        "text": "C. The payables section 215. Which of the following is NOT part of the regulatory system?"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. GAAP B. International financial reporting standards C. IFAC 15:38 CN 9 100%",
-    "image_file": "images/cau_214.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 215,
-    "question_number": 215,
-    "part": 11,
-    "question_text": "Which of the following is NOT part of the regulatory system?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. GAAP"
-      },
-      {
-        "key": "B",
-        "text": "B. International financial reporting standards"
-      },
-      {
-        "key": "C",
-        "text": "C. IFAC"
-      },
-      {
-        "key": "D",
-        "text": "D. The European Union"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_215.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 216,
-    "question_number": 216,
-    "part": 11,
-    "question_text": "1nternational Financial Reporting Standards are issued by which of the following organisations?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. IASB"
-      },
-      {
-        "key": "B",
-        "text": "B. ASB"
-      },
-      {
-        "key": "C",
-        "text": "C. The European Union"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_216.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 217,
-    "question_number": 217,
-    "part": 11,
-    "question_text": "Legally binding rules relating to the disclosure and presentation of financial statements are set down in which of the following?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. National legislation"
-      },
-      {
-        "key": "B",
-        "text": "B. International financial reporting standards"
-      },
-      {
-        "key": "C",
-        "text": "C. Generally agreed accounting principles"
-      },
-      {
-        "key": "D",
-        "text": "D. Rule books of professional accountancy bodies"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_217.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 218,
-    "question_number": 218,
-    "part": 11,
-    "question_text": "Which of the following is NOT an aim of internal controls?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To enable the organisation to respond appropriately to business, operational and financial risks"
-      },
-      {
-        "key": "B",
-        "text": "B. To eliminate the possibility of impacts from poor judgement and human error"
-      },
-      {
-        "key": "C",
-        "text": "C. To help ensure the quality of internal and external reporting"
-      },
-      {
-        "key": "D",
-        "text": "D. To help ensure compliance with applicable laws and regulations 219. Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_218.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 219,
-    "question_number": 219,
-    "part": 11,
-    "question_text": "Which term correctly completes this statement? Some controls are provided automatically by the system and cannot be by-passed, ignored or overridden: for example, having to input a password to enter a computer system. These are classified as controls.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Administrative"
-      },
-      {
-        "key": "B",
-        "text": "B. Detect"
-      },
-      {
-        "key": "C",
-        "text": "C. Mandated"
-      },
-      {
-        "key": "D",
-        "text": "D. Non-discretionary"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_219.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 220,
-    "question_number": 220,
-    "part": 11,
-    "question_text": "The mnemonic SPAMSOAP is often used to remember the range of financial control procedures. What does the 'O' stand for in this mnemonic?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Operations"
-      },
-      {
-        "key": "B",
-        "text": "B. Organisation"
-      },
-      {
-        "key": "C",
-        "text": "C. Oversight"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_220.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 221,
-    "question_number": 221,
     "part": 12,
-    "question_text": "Which of the following is NOT an internal check?",
-    "options": [
+    "title": "Phần 12: Câu 221 - 240",
+    "questions_range": "Câu 221 - 240",
+    "pdf_file": "output_pdf/De_12_Cau_221_240.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Separation of duties for authorising, custody and recording"
+        "id": 221,
+        "question_number": 221,
+        "part": 12,
+        "question_text": "Which of the following is NOT an internal check?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Separation of duties for authorising, custody and recording"
+          },
+          {
+            "key": "B",
+            "text": "B. Pre-lists, post-lists and control totals"
+          },
+          {
+            "key": "C",
+            "text": "C. Bank reconciliations"
+          },
+          {
+            "key": "D",
+            "text": "D. Systems for authorising transactions within specified spending limits"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_221.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Pre-lists, post-lists and control totals"
+        "id": 222,
+        "question_number": 222,
+        "part": 12,
+        "question_text": "Which of the following statements about internal audit is true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Internal audit is an independent appraisal activity"
+          },
+          {
+            "key": "B",
+            "text": "B. Internal audit is separate from the organisation's internal control system"
+          },
+          {
+            "key": "C",
+            "text": "C. Internal audit is carried out solely for the benefit of the organisation 's stakeholders"
+          },
+          {
+            "key": "D",
+            "text": "D. The internal audit function reports to the finance director 223. The use of uninterruptible (protected) power supplies is a method of protecting"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "data and IT systems from what sort of security threat? 15:39 CN 27thg 9 100%",
+        "image_file": "images/cau_222.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Bank reconciliations"
+        "id": 223,
+        "question_number": 223,
+        "part": 12,
+        "question_text": "The use of uninterruptible (protected) power supplies is a method of protecting data and IT systems from what sort of security threat?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Accidental damage"
+          },
+          {
+            "key": "B",
+            "text": "B. Weather"
+          },
+          {
+            "key": "C",
+            "text": "C. Hacking"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_223.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Systems for authorising transactions within specified spending limits"
+        "id": 224,
+        "question_number": 224,
+        "part": 12,
+        "question_text": "Which of the following would be classed as a contingency control in an information system?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Password-only access to the system"
+          },
+          {
+            "key": "B",
+            "text": "B. System recovery procedures"
+          },
+          {
+            "key": "C",
+            "text": "C. Audit trails"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_224.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 225,
+        "question_number": 225,
+        "part": 12,
+        "question_text": "All of the following, except one, are inherent limitations of internal control systems. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The costs of control"
+          },
+          {
+            "key": "B",
+            "text": "B. Potential for human error and deliberate override"
+          },
+          {
+            "key": "C",
+            "text": "C. The types of transactions controls are designed to cope with"
+          },
+          {
+            "key": "D",
+            "text": "D. The independence of controls from the method of data processing"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_225.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 226,
+        "question_number": 226,
+        "part": 12,
+        "question_text": "Which of the following statements about external auditors is NOT correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. External auditors are appointed by the shareholders ofa company"
+          },
+          {
+            "key": "B",
+            "text": "B. The primary responsibility of external auditors is to investigate financial irregularities and report them to shareholders"
+          },
+          {
+            "key": "C",
+            "text": "C. External auditors may rely on the work of internal auditors, but first they have to"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "assess its worth D. External auditors are concerned with the financial records and statements of the organisation 227.1n the context of audit, what are 'substantive tests' designed to accomplish? A. To establish whether internal controls are being applied as prescribed Tn iHønfrifi' ørrnrc nnH nmiccinnc in finnnr•inl rør•nrHc 15:39 CN 27thg 9 100%",
+        "image_file": "images/cau_226.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 227,
+        "question_number": 227,
+        "part": 12,
+        "question_text": "1n the context of audit, what are 'substantive tests' designed to accomplish?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. To establish whether internal controls are being applied as prescribed"
+          },
+          {
+            "key": "B",
+            "text": "B. To identify errors and omissions in financial records"
+          },
+          {
+            "key": "C",
+            "text": "C. To establish the causes of errors or omissions in financial records"
+          },
+          {
+            "key": "D",
+            "text": "D. To establish an audit trail"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_227.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 228,
+        "question_number": 228,
+        "part": 12,
+        "question_text": "Backing up computer files and storing copies of software in separate locations to the main system are examples of which type of controls?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Prevent"
+          },
+          {
+            "key": "B",
+            "text": "B. Detect"
+          },
+          {
+            "key": "C",
+            "text": "C. Correct"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_228.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 229,
+        "question_number": 229,
+        "part": 12,
+        "question_text": "Which word or phrase correctly completes this definition? In the context of data security controls, are records showing who has accessed a computer system and what operations he or she has performed.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Archives"
+          },
+          {
+            "key": "B",
+            "text": "B. Audit trails"
+          },
+          {
+            "key": "C",
+            "text": "C. Passwords"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_229.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 230,
+        "question_number": 230,
+        "part": 12,
+        "question_text": "Which type of audit is concerned with the monitoring of management's performance, concentrating on the outputs of the system and the efficiency of the organisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Systems audit"
+          },
+          {
+            "key": "B",
+            "text": "B. Operational audit"
+          },
+          {
+            "key": "C",
+            "text": "C. Probity audit"
+          },
+          {
+            "key": "D",
+            "text": "D. Social audit 231. Which of the following circumstances would cast doubt on the external"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "auditor's ability to rely on the work of internal auditors? A. There is evidence that management and directors consistently act on internal 15:39 CN 9 100%",
+        "image_file": "images/cau_230.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 231,
+        "question_number": 231,
+        "part": 12,
+        "question_text": "Which of the following circumstances would cast doubt on the external auditor's ability to rely on the work of internal auditors?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. There is evidence that management and directors consistently act on internal audit recommendations"
+          },
+          {
+            "key": "B",
+            "text": "B. The internal audit function has a direct line of communication to the audit committee"
+          },
+          {
+            "key": "C",
+            "text": "C. No audit manuals or working papers are available for inspection"
+          },
+          {
+            "key": "D",
+            "text": "D. Internal auditors are recruited on technical qualifications and demonstrated proficiency"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Nếu không có sổ tay kiểm toán hoặc tài liệu làm việc (working papers) để kiểm tra, kiểm toán viên độc lập sẽ nghi ngờ tính chuyên nghiệp và không thể dựa vào kết quả công việc của kiểm toán nội bộ.",
+        "image_file": "images/cau_231.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 232,
+        "question_number": 232,
+        "part": 12,
+        "question_text": "What is the term given to a method of fraud in the accounts receivable area, by which cash or cheque receipts are stolen, and the theft concealed by setting subsequent receipts against the outstanding debt?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Collusion"
+          },
+          {
+            "key": "B",
+            "text": "B. Misrepresentation"
+          },
+          {
+            "key": "C",
+            "text": "C. Teeming and lading"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_232.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 233,
+        "question_number": 233,
+        "part": 12,
+        "question_text": "Which of the following activities create vulnerability to fraud? (1) Calculating payslips (2) Preparing delivery notes (3) Paying supplier invoices (4) Meeting budgets and performance targets",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (3) only"
+          },
+          {
+            "key": "B",
+            "text": "B. (1) and (3) only"
+          },
+          {
+            "key": "C",
+            "text": "C. (1) and (2) only"
+          },
+          {
+            "key": "D",
+            "text": "D. (3) and (4) 234.X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects? 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_233.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 234,
+        "question_number": 234,
+        "part": 12,
+        "question_text": "X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. It removes funds from the business"
+          },
+          {
+            "key": "B",
+            "text": "B. It results in the understatement of profits and net assets"
+          },
+          {
+            "key": "C",
+            "text": "C. It results in the overstatement of profits and net assets"
+          },
+          {
+            "key": "D",
+            "text": "D. It results in the intentional overstatement of profits and net assets"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_234.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 235,
+        "question_number": 235,
+        "part": 12,
+        "question_text": "Which word correctly completes this statement? Dishonesty is a to act in ways which contravene accepted ethical, social, organisational or legal norms for fair and honest dealing.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Motivation"
+          },
+          {
+            "key": "B",
+            "text": "B. Pre-disposition"
+          },
+          {
+            "key": "C",
+            "text": "C. Stimulus"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_235.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 236,
+        "question_number": 236,
+        "part": 12,
+        "question_text": "All of the following, with one exception, are internal factors which might increase the risk profile ofa business. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Increased competition"
+          },
+          {
+            "key": "B",
+            "text": "B. Corporate restructuring"
+          },
+          {
+            "key": "C",
+            "text": "C. Upgraded management information system"
+          },
+          {
+            "key": "D",
+            "text": "D. New personnel"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_236.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 237,
+        "question_number": 237,
+        "part": 12,
+        "question_text": "Which of the following would most clearly present a personnel risk of fraud?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Segregation of duties"
+          },
+          {
+            "key": "B",
+            "text": "B. High staff morale"
+          },
+          {
+            "key": "C",
+            "text": "C. Staff not taking their full holiday entitlements"
+          },
+          {
+            "key": "D",
+            "text": "D. Consultative management style 238.All ofthe following, except one, are potential impacts on a business of removal 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_237.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 238,
+        "question_number": 238,
+        "part": 12,
+        "question_text": "All of the following, except one, are potential impacts on a business of removal of significant funds or assets. Which is the exception?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Fall in returns to shareholders"
+          },
+          {
+            "key": "B",
+            "text": "B. Reduction in profits"
+          },
+          {
+            "key": "C",
+            "text": "C. Increase in working capital"
+          },
+          {
+            "key": "D",
+            "text": "D. Reputational damage"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_238.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 239,
+        "question_number": 239,
+        "part": 12,
+        "question_text": "Which of the following internal controls might be least effective in preventing fraud, if staff are in collusion with customers?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Physical security"
+          },
+          {
+            "key": "B",
+            "text": "B. Requiring signatures to confirm receipt of goods or services"
+          },
+          {
+            "key": "C",
+            "text": "C. Sequential numbering of transaction documents"
+          },
+          {
+            "key": "D",
+            "text": "D. Authorisation policies"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_239.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 240,
+        "question_number": 240,
+        "part": 12,
+        "question_text": "Which word or phrase correctly completes this statement? In a limited company, or plc, it is the ultimate responsibility of to take reasonable steps to prevent and detect fraud.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The audit committee"
+          },
+          {
+            "key": "B",
+            "text": "B. The board of directors"
+          },
+          {
+            "key": "C",
+            "text": "C. The external auditor"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_240.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_221.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 222,
-    "question_number": 222,
-    "part": 12,
-    "question_text": "Which of the following statements about internal audit is true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Internal audit is an independent appraisal activity"
-      },
-      {
-        "key": "B",
-        "text": "B. Internal audit is separate from the organisation's internal control system"
-      },
-      {
-        "key": "C",
-        "text": "C. Internal audit is carried out solely for the benefit of the organisation 's stakeholders"
-      },
-      {
-        "key": "D",
-        "text": "D. The internal audit function reports to the finance director 223. The use of uninterruptible (protected) power supplies is a method of protecting"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "data and IT systems from what sort of security threat? 15:39 CN 27thg 9 100%",
-    "image_file": "images/cau_222.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 223,
-    "question_number": 223,
-    "part": 12,
-    "question_text": "The use of uninterruptible (protected) power supplies is a method of protecting data and IT systems from what sort of security threat?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Accidental damage"
-      },
-      {
-        "key": "B",
-        "text": "B. Weather"
-      },
-      {
-        "key": "C",
-        "text": "C. Hacking"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_223.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 224,
-    "question_number": 224,
-    "part": 12,
-    "question_text": "Which of the following would be classed as a contingency control in an information system?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Password-only access to the system"
-      },
-      {
-        "key": "B",
-        "text": "B. System recovery procedures"
-      },
-      {
-        "key": "C",
-        "text": "C. Audit trails"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_224.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 225,
-    "question_number": 225,
-    "part": 12,
-    "question_text": "All of the following, except one, are inherent limitations of internal control systems. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The costs of control"
-      },
-      {
-        "key": "B",
-        "text": "B. Potential for human error and deliberate override"
-      },
-      {
-        "key": "C",
-        "text": "C. The types of transactions controls are designed to cope with"
-      },
-      {
-        "key": "D",
-        "text": "D. The independence of controls from the method of data processing"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_225.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 226,
-    "question_number": 226,
-    "part": 12,
-    "question_text": "Which of the following statements about external auditors is NOT correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. External auditors are appointed by the shareholders ofa company"
-      },
-      {
-        "key": "B",
-        "text": "B. The primary responsibility of external auditors is to investigate financial irregularities and report them to shareholders"
-      },
-      {
-        "key": "C",
-        "text": "C. External auditors may rely on the work of internal auditors, but first they have to"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "assess its worth D. External auditors are concerned with the financial records and statements of the organisation 227.1n the context of audit, what are 'substantive tests' designed to accomplish? A. To establish whether internal controls are being applied as prescribed Tn iHønfrifi' ørrnrc nnH nmiccinnc in finnnr•inl rør•nrHc 15:39 CN 27thg 9 100%",
-    "image_file": "images/cau_226.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 227,
-    "question_number": 227,
-    "part": 12,
-    "question_text": "1n the context of audit, what are 'substantive tests' designed to accomplish?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. To establish whether internal controls are being applied as prescribed"
-      },
-      {
-        "key": "B",
-        "text": "B. To identify errors and omissions in financial records"
-      },
-      {
-        "key": "C",
-        "text": "C. To establish the causes of errors or omissions in financial records"
-      },
-      {
-        "key": "D",
-        "text": "D. To establish an audit trail"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_227.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 228,
-    "question_number": 228,
-    "part": 12,
-    "question_text": "Backing up computer files and storing copies of software in separate locations to the main system are examples of which type of controls?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Prevent"
-      },
-      {
-        "key": "B",
-        "text": "B. Detect"
-      },
-      {
-        "key": "C",
-        "text": "C. Correct"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_228.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 229,
-    "question_number": 229,
-    "part": 12,
-    "question_text": "Which word or phrase correctly completes this definition? In the context of data security controls, are records showing who has accessed a computer system and what operations he or she has performed.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Archives"
-      },
-      {
-        "key": "B",
-        "text": "B. Audit trails"
-      },
-      {
-        "key": "C",
-        "text": "C. Passwords"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_229.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 230,
-    "question_number": 230,
-    "part": 12,
-    "question_text": "Which type of audit is concerned with the monitoring of management's performance, concentrating on the outputs of the system and the efficiency of the organisation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Systems audit"
-      },
-      {
-        "key": "B",
-        "text": "B. Operational audit"
-      },
-      {
-        "key": "C",
-        "text": "C. Probity audit"
-      },
-      {
-        "key": "D",
-        "text": "D. Social audit 231. Which of the following circumstances would cast doubt on the external"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "auditor's ability to rely on the work of internal auditors? A. There is evidence that management and directors consistently act on internal 15:39 CN 9 100%",
-    "image_file": "images/cau_230.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 231,
-    "question_number": 231,
-    "part": 12,
-    "question_text": "Which of the following circumstances would cast doubt on the external auditor's ability to rely on the work of internal auditors?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. There is evidence that management and directors consistently act on internal audit recommendations"
-      },
-      {
-        "key": "B",
-        "text": "B. The internal audit function has a direct line of communication to the audit committee"
-      },
-      {
-        "key": "C",
-        "text": "C. No audit manuals or working papers are available for inspection"
-      },
-      {
-        "key": "D",
-        "text": "D. Internal auditors are recruited on technical qualifications and demonstrated proficiency"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Nếu không có sổ tay kiểm toán hoặc tài liệu làm việc (working papers) để kiểm tra, kiểm toán viên độc lập sẽ nghi ngờ tính chuyên nghiệp và không thể dựa vào kết quả công việc của kiểm toán nội bộ.",
-    "image_file": "images/cau_231.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 232,
-    "question_number": 232,
-    "part": 12,
-    "question_text": "What is the term given to a method of fraud in the accounts receivable area, by which cash or cheque receipts are stolen, and the theft concealed by setting subsequent receipts against the outstanding debt?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Collusion"
-      },
-      {
-        "key": "B",
-        "text": "B. Misrepresentation"
-      },
-      {
-        "key": "C",
-        "text": "C. Teeming and lading"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_232.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 233,
-    "question_number": 233,
-    "part": 12,
-    "question_text": "Which of the following activities create vulnerability to fraud? (1) Calculating payslips (2) Preparing delivery notes (3) Paying supplier invoices (4) Meeting budgets and performance targets",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (3) only"
-      },
-      {
-        "key": "B",
-        "text": "B. (1) and (3) only"
-      },
-      {
-        "key": "C",
-        "text": "C. (1) and (2) only"
-      },
-      {
-        "key": "D",
-        "text": "D. (3) and (4) 234.X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects? 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_233.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 234,
-    "question_number": 234,
-    "part": 12,
-    "question_text": "X plc has a bad debt policy whereby aged receivables who are obviously not going to pay, are written off The financial accountant does not enforce this policy. This might be fraudulent insofar as it creates which of the following effects?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. It removes funds from the business"
-      },
-      {
-        "key": "B",
-        "text": "B. It results in the understatement of profits and net assets"
-      },
-      {
-        "key": "C",
-        "text": "C. It results in the overstatement of profits and net assets"
-      },
-      {
-        "key": "D",
-        "text": "D. It results in the intentional overstatement of profits and net assets"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_234.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 235,
-    "question_number": 235,
-    "part": 12,
-    "question_text": "Which word correctly completes this statement? Dishonesty is a to act in ways which contravene accepted ethical, social, organisational or legal norms for fair and honest dealing.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Motivation"
-      },
-      {
-        "key": "B",
-        "text": "B. Pre-disposition"
-      },
-      {
-        "key": "C",
-        "text": "C. Stimulus"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_235.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 236,
-    "question_number": 236,
-    "part": 12,
-    "question_text": "All of the following, with one exception, are internal factors which might increase the risk profile ofa business. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Increased competition"
-      },
-      {
-        "key": "B",
-        "text": "B. Corporate restructuring"
-      },
-      {
-        "key": "C",
-        "text": "C. Upgraded management information system"
-      },
-      {
-        "key": "D",
-        "text": "D. New personnel"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_236.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 237,
-    "question_number": 237,
-    "part": 12,
-    "question_text": "Which of the following would most clearly present a personnel risk of fraud?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Segregation of duties"
-      },
-      {
-        "key": "B",
-        "text": "B. High staff morale"
-      },
-      {
-        "key": "C",
-        "text": "C. Staff not taking their full holiday entitlements"
-      },
-      {
-        "key": "D",
-        "text": "D. Consultative management style 238.All ofthe following, except one, are potential impacts on a business of removal 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_237.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 238,
-    "question_number": 238,
-    "part": 12,
-    "question_text": "All of the following, except one, are potential impacts on a business of removal of significant funds or assets. Which is the exception?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Fall in returns to shareholders"
-      },
-      {
-        "key": "B",
-        "text": "B. Reduction in profits"
-      },
-      {
-        "key": "C",
-        "text": "C. Increase in working capital"
-      },
-      {
-        "key": "D",
-        "text": "D. Reputational damage"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_238.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 239,
-    "question_number": 239,
-    "part": 12,
-    "question_text": "Which of the following internal controls might be least effective in preventing fraud, if staff are in collusion with customers?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Physical security"
-      },
-      {
-        "key": "B",
-        "text": "B. Requiring signatures to confirm receipt of goods or services"
-      },
-      {
-        "key": "C",
-        "text": "C. Sequential numbering of transaction documents"
-      },
-      {
-        "key": "D",
-        "text": "D. Authorisation policies"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_239.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 240,
-    "question_number": 240,
-    "part": 12,
-    "question_text": "Which word or phrase correctly completes this statement? In a limited company, or plc, it is the ultimate responsibility of to take reasonable steps to prevent and detect fraud.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The audit committee"
-      },
-      {
-        "key": "B",
-        "text": "B. The board of directors"
-      },
-      {
-        "key": "C",
-        "text": "C. The external auditor"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_240.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 241,
-    "question_number": 241,
     "part": 13,
-    "question_text": "Which of the following is NOT a key risk area for computer fraud?",
-    "options": [
+    "title": "Phần 13: Câu 241 - 260",
+    "questions_range": "Câu 241 - 260",
+    "pdf_file": "output_pdf/De_13_Cau_241_260.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Hackers"
+        "id": 241,
+        "question_number": 241,
+        "part": 13,
+        "question_text": "Which of the following is NOT a key risk area for computer fraud?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Hackers"
+          },
+          {
+            "key": "B",
+            "text": "B. Lack of managerial understanding"
+          },
+          {
+            "key": "C",
+            "text": "C. Inability to secure access to data"
+          },
+          {
+            "key": "D",
+            "text": "D. Integration of data systems"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_241.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Lack of managerial understanding"
+        "id": 242,
+        "question_number": 242,
+        "part": 13,
+        "question_text": "Which TWO of the following stakeholders will be most directly affected if a business overstates its financial position?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Staff"
+          },
+          {
+            "key": "B",
+            "text": "B. Customers"
+          },
+          {
+            "key": "C",
+            "text": "C. Investors"
+          },
+          {
+            "key": "D",
+            "text": "D. Suppliers 243. Which of the following would NOT form part ofafraud response plan? 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_242.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Inability to secure access to data"
+        "id": 243,
+        "question_number": 243,
+        "part": 13,
+        "question_text": "Which of the following would NOT form part of a fraud response plan?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Suspending staff suspected of fraudulent activity"
+          },
+          {
+            "key": "B",
+            "text": "B. Investigating the activities and contacts ofa suspected fraudster"
+          },
+          {
+            "key": "C",
+            "text": "C. Fraud awareness training and recruitment controls"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_243.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Integration of data systems"
+        "id": 244,
+        "question_number": 244,
+        "part": 13,
+        "question_text": "0nIy allowing purchasing staff to choose suppliers from an approved list is an example of what sort of fraud prevention measure?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Segregation ofduties"
+          },
+          {
+            "key": "B",
+            "text": "B. Appropriate documentation"
+          },
+          {
+            "key": "C",
+            "text": "C. Limitation control"
+          },
+          {
+            "key": "D",
+            "text": "D. Check control"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_244.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 245,
+        "question_number": 245,
+        "part": 13,
+        "question_text": "Which of the following statements aboutfraud prevention is NOT true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Cash sales are an area of high risk of fraud."
+          },
+          {
+            "key": "B",
+            "text": "B. Performance-based rewards for managers reduce the risk of fraud."
+          },
+          {
+            "key": "C",
+            "text": "C. Emphasis on the autonomy of operational management may weaken controls."
+          },
+          {
+            "key": "D",
+            "text": "D. Fraud awareness and ethics education can reduce the risk offraud."
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_245.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 246,
+        "question_number": 246,
+        "part": 13,
+        "question_text": "Which word(s) completes the sentence? constitutes any financial transactions whose purpose is to conceal the origins of the proceeds of criminal activity.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Fraud"
+          },
+          {
+            "key": "B",
+            "text": "B. Misrepresentation of results"
+          },
+          {
+            "key": "C",
+            "text": "C. Money laundering"
+          },
+          {
+            "key": "D",
+            "text": "D. Teeming and lading"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_246.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 247,
+        "question_number": 247,
+        "part": 13,
+        "question_text": "The initial disposal of the proceeds of an illegal activity into apparently legitimate business activity is known as what?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Placement"
+          },
+          {
+            "key": "B",
+            "text": "B. Layering"
+          },
+          {
+            "key": "C",
+            "text": "C. Integration 248.Landis Co has a team of experts whose role is to analyse vast volumes of data"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "concerning many areas of the business that come from a wide variety of sources. Landis Co is seeking competitive advantage from: uauue•stue) pauueos 15•.39 CN 27 thg9 100%",
+        "image_file": "images/cau_247.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 248,
+        "question_number": 248,
+        "part": 13,
+        "question_text": "Landis Co has a team of experts whose role is to analyse vast volumes of data concerning many areas of the business that come from a wide variety of sources.\nLandis Co is seeking competitive advantage from:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. An internet gateway"
+          },
+          {
+            "key": "B",
+            "text": "B. Big data"
+          },
+          {
+            "key": "C",
+            "text": "C. Its accounting information system"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Big Data (Dữ liệu lớn) đặc trưng bởi khối lượng dữ liệu khổng lồ đến từ nhiều nguồn khác nhau, giúp doanh nghiệp tạo lợi thế cạnh tranh.",
+        "image_file": "images/cau_248.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 249,
+        "question_number": 249,
+        "part": 13,
+        "question_text": "Which characteristic of big data relates to the ability to stream data in real-time?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Veracity"
+          },
+          {
+            "key": "B",
+            "text": "B. Volume"
+          },
+          {
+            "key": "C",
+            "text": "C. Variety"
+          },
+          {
+            "key": "D",
+            "text": "D. Velocity"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Velocity trong 4 chữ V của Big Data mô tả tốc độ tạo lập và xử lý dữ liệu truyền phát theo thời gian thực (real-time streaming).",
+        "image_file": "images/cau_249.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 250,
+        "question_number": 250,
+        "part": 13,
+        "question_text": "Which of the following accounting tasks could data analytics help to make more effective?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Processing routine transactions"
+          },
+          {
+            "key": "B",
+            "text": "B. Asset management"
+          },
+          {
+            "key": "C",
+            "text": "C. Risk management"
+          },
+          {
+            "key": "D",
+            "text": "D. Payroll processing"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Phân tích dữ liệu (Data analytics) giúp quản trị rủi ro (Risk management) hiệu quả hơn thông qua phân tích dự đoán và cảnh báo sớm các dấu hiệu bất thường.",
+        "image_file": "images/cau_250.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 251,
+        "question_number": 251,
+        "part": 13,
+        "question_text": "_____ is a source of big data that originates from public sector data (for example transport, government financial and public service data).\nWhich word correctly completes this statement?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Machine-generated data"
+          },
+          {
+            "key": "B",
+            "text": "B. Open data"
+          },
+          {
+            "key": "C",
+            "text": "C. Processed data"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Open data (Dữ liệu mở) là nguồn dữ liệu công khai do các cơ quan nhà nước và dịch vụ công phát hành mà mọi người đều có thể tiếp cận.",
+        "image_file": "images/cau_251.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 252,
+        "question_number": 252,
+        "part": 13,
+        "question_text": "Which of the following is a disadvantage of using cloud accounting software?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Cloud accounting software only allows one user to access the system at any one time."
+          },
+          {
+            "key": "B",
+            "text": "B. Financial data held in the cloud must be manually transferred between individual computers."
+          },
+          {
+            "key": "C",
+            "text": "C. Upgrading cloud accounting software is expensive and time-consuming."
+          },
+          {
+            "key": "D",
+            "text": "D. Users of cloud accounting software are completely reliant on the provider of the software to ensure their data is secure and to take backups of it."
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Nhược điểm chính của phần mềm kế toán đám mây là phụ thuộc hoàn toàn vào nhà cung cấp về bảo mật, kết nối và sao lưu dữ liệu.",
+        "image_file": "images/cau_252.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 253,
+        "question_number": 253,
+        "part": 13,
+        "question_text": "Which of the following technologies allows unconnected organisations and individuals people to trust a shared record of events?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Cloud computing"
+          },
+          {
+            "key": "B",
+            "text": "B. Data analytics"
+          },
+          {
+            "key": "C",
+            "text": "C. Distributed ledger (Blockchain)"
+          },
+          {
+            "key": "D",
+            "text": "D. Artificial intelligence"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_253.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 254,
+        "question_number": 254,
+        "part": 13,
+        "question_text": "Which of the following is an area of an accountant or auditor's work that is made more effective by automation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Downloading bank transactions into the accounting system"
+          },
+          {
+            "key": "B",
+            "text": "B. Report writing"
+          },
+          {
+            "key": "C",
+            "text": "C. Forming an audit opinion"
+          },
+          {
+            "key": "D",
+            "text": "D. Posting transactions to nominal codes"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_254.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 255,
+        "question_number": 255,
+        "part": 13,
+        "question_text": "Which of the following is an area of an accountant or auditor's work that is made more effective by artificial intelligence?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Report writing"
+          },
+          {
+            "key": "B",
+            "text": "B. Forming an audit opinion"
+          },
+          {
+            "key": "C",
+            "text": "C. Downloading bank transactions into the accounting system"
+          },
+          {
+            "key": "D",
+            "text": "D. Posting transactions to nominal codes"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_255.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 256,
+        "question_number": 256,
+        "part": 13,
+        "question_text": "Which word or phrase correctly completes this statement? Distributed ledgers reduce the need for auditors to because they have a source of information that they can trust.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Check for material misstatement"
+          },
+          {
+            "key": "B",
+            "text": "B. Form an audit opinion"
+          },
+          {
+            "key": "C",
+            "text": "C. Verify the ownership of assets 257. The following are reasons why people might be interested in financial information about a large public company. • Assessing how effectively management is running the company o To advise clients • To assess tax payable by the company o To assess the ability of the company to pay its debts For each of the following users of financial information, match the appropriate rpncnn fnr umntinn tho infnrnontinn frnm tho lict nhnvp• 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_256.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 257,
+        "question_number": 257,
+        "part": 13,
+        "question_text": "For each of the following users of financial information, match the appropriate reason for wanting the information:\n1. Managers\n2. Financial analysts / advisers\n3. Tax authorities (HMRC / IRS)\n4. Trade creditors / Suppliers",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1-Assessing how effectively management is running the company, 2-To advise clients, 3-To assess tax payable, 4-To assess ability to pay debts"
+          },
+          {
+            "key": "B",
+            "text": "B. 1-To advise clients, 2-Assessing management performance, 3-To assess tax payable, 4-To assess ability to pay debts"
+          },
+          {
+            "key": "C",
+            "text": "C. 1-To assess ability to pay debts, 2-To advise clients, 3-Assessing management performance, 4-To assess tax payable"
+          },
+          {
+            "key": "D",
+            "text": "D. 1-To assess tax payable, 2-Assessing management performance, 3-To advise clients, 4-To assess ability to pay debts"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Nhà quản lý đánh giá hiệu quả điều hành. Chuyên viên tư vấn để khuyến nghị khách hàng. Cơ quan thuế tính số thuế phải nộp. Nhà cung cấp đánh giá khả năng thanh toán nợ.",
+        "image_file": "images/cau_257.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 258,
+        "question_number": 258,
+        "part": 13,
+        "question_text": "0nly businesses need to prepare financial statements.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_258.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 259,
+        "question_number": 259,
+        "part": 13,
+        "question_text": "Which of the following correctly fills the blank? The statement of financial position must give view of the company at the end of the financial year.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A GAAP compliant"
+          },
+          {
+            "key": "B",
+            "text": "B. A true and fair"
+          },
+          {
+            "key": "C",
+            "text": "C. An informative 260.QRT Co has just implemented a new computerised accounting package and also reinforced some of its accounting controls. The new system has the following features: 1. All accounting entries must balance or they cannot be entered. 2. A module exists so that non-current asset purchases can be authorised by the relevant member of management. 3. Users are set up with passwords in order to login to the system. 4. An audit trail is produced so all transactions can be traced to the time of 15:39 CN 9 100%"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_259.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 260,
+        "question_number": 260,
+        "part": 13,
+        "question_text": "QRT Co has implemented a new computerised accounting package with features:\n1. All accounting entries must balance or they cannot be entered.\n2. A module exists so that non-current asset purchases can be authorised by the relevant member of management.\n3. Users are set up with passwords in order to login to the system.\n4. An audit trail is produced so all transactions can be traced to the time of entry.\nMatch each feature to the correct accounting control type:",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1-Internal check, 2-Authorization, 3-Access control, 4-Audit trail"
+          },
+          {
+            "key": "B",
+            "text": "B. 1-Authorization, 2-Internal check, 3-Audit trail, 4-Access control"
+          },
+          {
+            "key": "C",
+            "text": "C. 1-Access control, 2-Audit trail, 3-Internal check, 4-Authorization"
+          },
+          {
+            "key": "D",
+            "text": "D. 1-Audit trail, 2-Access control, 3-Authorization, 4-Internal check"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "1: Tự động kiểm tra cân đối kép (Internal check). 2: Phê duyệt của người có thẩm quyền (Authorization). 3: Mật khẩu kiểm soát đăng nhập (Access control). 4: Vết kiểm toán truy xuất thời điểm nhập liệu (Audit trail).",
+        "image_file": "images/cau_260.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_241.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 242,
-    "question_number": 242,
-    "part": 13,
-    "question_text": "Which TWO of the following stakeholders will be most directly affected if a business overstates its financial position?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Staff"
-      },
-      {
-        "key": "B",
-        "text": "B. Customers"
-      },
-      {
-        "key": "C",
-        "text": "C. Investors"
-      },
-      {
-        "key": "D",
-        "text": "D. Suppliers 243. Which of the following would NOT form part ofafraud response plan? 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_242.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 243,
-    "question_number": 243,
-    "part": 13,
-    "question_text": "Which of the following would NOT form part of a fraud response plan?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Suspending staff suspected of fraudulent activity"
-      },
-      {
-        "key": "B",
-        "text": "B. Investigating the activities and contacts ofa suspected fraudster"
-      },
-      {
-        "key": "C",
-        "text": "C. Fraud awareness training and recruitment controls"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_243.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 244,
-    "question_number": 244,
-    "part": 13,
-    "question_text": "0nIy allowing purchasing staff to choose suppliers from an approved list is an example of what sort of fraud prevention measure?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Segregation ofduties"
-      },
-      {
-        "key": "B",
-        "text": "B. Appropriate documentation"
-      },
-      {
-        "key": "C",
-        "text": "C. Limitation control"
-      },
-      {
-        "key": "D",
-        "text": "D. Check control"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_244.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 245,
-    "question_number": 245,
-    "part": 13,
-    "question_text": "Which of the following statements aboutfraud prevention is NOT true?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Cash sales are an area of high risk of fraud."
-      },
-      {
-        "key": "B",
-        "text": "B. Performance-based rewards for managers reduce the risk of fraud."
-      },
-      {
-        "key": "C",
-        "text": "C. Emphasis on the autonomy of operational management may weaken controls."
-      },
-      {
-        "key": "D",
-        "text": "D. Fraud awareness and ethics education can reduce the risk offraud."
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_245.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 246,
-    "question_number": 246,
-    "part": 13,
-    "question_text": "Which word(s) completes the sentence? constitutes any financial transactions whose purpose is to conceal the origins of the proceeds of criminal activity.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Fraud"
-      },
-      {
-        "key": "B",
-        "text": "B. Misrepresentation of results"
-      },
-      {
-        "key": "C",
-        "text": "C. Money laundering"
-      },
-      {
-        "key": "D",
-        "text": "D. Teeming and lading"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_246.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 247,
-    "question_number": 247,
-    "part": 13,
-    "question_text": "The initial disposal of the proceeds of an illegal activity into apparently legitimate business activity is known as what?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Placement"
-      },
-      {
-        "key": "B",
-        "text": "B. Layering"
-      },
-      {
-        "key": "C",
-        "text": "C. Integration 248.Landis Co has a team of experts whose role is to analyse vast volumes of data"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "concerning many areas of the business that come from a wide variety of sources. Landis Co is seeking competitive advantage from: uauue•stue) pauueos 15•.39 CN 27 thg9 100%",
-    "image_file": "images/cau_247.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 248,
-    "question_number": 248,
-    "part": 13,
-    "question_text": "Landis Co has a team of experts whose role is to analyse vast volumes of data concerning many areas of the business that come from a wide variety of sources.\nLandis Co is seeking competitive advantage from:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. An internet gateway"
-      },
-      {
-        "key": "B",
-        "text": "B. Big data"
-      },
-      {
-        "key": "C",
-        "text": "C. Its accounting information system"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Big Data (Dữ liệu lớn) đặc trưng bởi khối lượng dữ liệu khổng lồ đến từ nhiều nguồn khác nhau, giúp doanh nghiệp tạo lợi thế cạnh tranh.",
-    "image_file": "images/cau_248.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 249,
-    "question_number": 249,
-    "part": 13,
-    "question_text": "Which characteristic of big data relates to the ability to stream data in real-time?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Veracity"
-      },
-      {
-        "key": "B",
-        "text": "B. Volume"
-      },
-      {
-        "key": "C",
-        "text": "C. Variety"
-      },
-      {
-        "key": "D",
-        "text": "D. Velocity"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Velocity trong 4 chữ V của Big Data mô tả tốc độ tạo lập và xử lý dữ liệu truyền phát theo thời gian thực (real-time streaming).",
-    "image_file": "images/cau_249.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 250,
-    "question_number": 250,
-    "part": 13,
-    "question_text": "Which of the following accounting tasks could data analytics help to make more effective?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Processing routine transactions"
-      },
-      {
-        "key": "B",
-        "text": "B. Asset management"
-      },
-      {
-        "key": "C",
-        "text": "C. Risk management"
-      },
-      {
-        "key": "D",
-        "text": "D. Payroll processing"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Phân tích dữ liệu (Data analytics) giúp quản trị rủi ro (Risk management) hiệu quả hơn thông qua phân tích dự đoán và cảnh báo sớm các dấu hiệu bất thường.",
-    "image_file": "images/cau_250.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 251,
-    "question_number": 251,
-    "part": 13,
-    "question_text": "_____ is a source of big data that originates from public sector data (for example transport, government financial and public service data).\nWhich word correctly completes this statement?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Machine-generated data"
-      },
-      {
-        "key": "B",
-        "text": "B. Open data"
-      },
-      {
-        "key": "C",
-        "text": "C. Processed data"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Open data (Dữ liệu mở) là nguồn dữ liệu công khai do các cơ quan nhà nước và dịch vụ công phát hành mà mọi người đều có thể tiếp cận.",
-    "image_file": "images/cau_251.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 252,
-    "question_number": 252,
-    "part": 13,
-    "question_text": "Which of the following is a disadvantage of using cloud accounting software?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Cloud accounting software only allows one user to access the system at any one time."
-      },
-      {
-        "key": "B",
-        "text": "B. Financial data held in the cloud must be manually transferred between individual computers."
-      },
-      {
-        "key": "C",
-        "text": "C. Upgrading cloud accounting software is expensive and time-consuming."
-      },
-      {
-        "key": "D",
-        "text": "D. Users of cloud accounting software are completely reliant on the provider of the software to ensure their data is secure and to take backups of it."
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Nhược điểm chính của phần mềm kế toán đám mây là phụ thuộc hoàn toàn vào nhà cung cấp về bảo mật, kết nối và sao lưu dữ liệu.",
-    "image_file": "images/cau_252.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 253,
-    "question_number": 253,
-    "part": 13,
-    "question_text": "Which of the following technologies allows unconnected organisations and individuals people to trust a shared record of events?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Cloud computing"
-      },
-      {
-        "key": "B",
-        "text": "B. Data analytics"
-      },
-      {
-        "key": "C",
-        "text": "C. Distributed ledger (Blockchain)"
-      },
-      {
-        "key": "D",
-        "text": "D. Artificial intelligence"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_253.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 254,
-    "question_number": 254,
-    "part": 13,
-    "question_text": "Which of the following is an area of an accountant or auditor's work that is made more effective by automation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Downloading bank transactions into the accounting system"
-      },
-      {
-        "key": "B",
-        "text": "B. Report writing"
-      },
-      {
-        "key": "C",
-        "text": "C. Forming an audit opinion"
-      },
-      {
-        "key": "D",
-        "text": "D. Posting transactions to nominal codes"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_254.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 255,
-    "question_number": 255,
-    "part": 13,
-    "question_text": "Which of the following is an area of an accountant or auditor's work that is made more effective by artificial intelligence?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Report writing"
-      },
-      {
-        "key": "B",
-        "text": "B. Forming an audit opinion"
-      },
-      {
-        "key": "C",
-        "text": "C. Downloading bank transactions into the accounting system"
-      },
-      {
-        "key": "D",
-        "text": "D. Posting transactions to nominal codes"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_255.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 256,
-    "question_number": 256,
-    "part": 13,
-    "question_text": "Which word or phrase correctly completes this statement? Distributed ledgers reduce the need for auditors to because they have a source of information that they can trust.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Check for material misstatement"
-      },
-      {
-        "key": "B",
-        "text": "B. Form an audit opinion"
-      },
-      {
-        "key": "C",
-        "text": "C. Verify the ownership of assets 257. The following are reasons why people might be interested in financial information about a large public company. • Assessing how effectively management is running the company o To advise clients • To assess tax payable by the company o To assess the ability of the company to pay its debts For each of the following users of financial information, match the appropriate rpncnn fnr umntinn tho infnrnontinn frnm tho lict nhnvp• 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_256.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 257,
-    "question_number": 257,
-    "part": 13,
-    "question_text": "For each of the following users of financial information, match the appropriate reason for wanting the information:\n1. Managers\n2. Financial analysts / advisers\n3. Tax authorities (HMRC / IRS)\n4. Trade creditors / Suppliers",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1-Assessing how effectively management is running the company, 2-To advise clients, 3-To assess tax payable, 4-To assess ability to pay debts"
-      },
-      {
-        "key": "B",
-        "text": "B. 1-To advise clients, 2-Assessing management performance, 3-To assess tax payable, 4-To assess ability to pay debts"
-      },
-      {
-        "key": "C",
-        "text": "C. 1-To assess ability to pay debts, 2-To advise clients, 3-Assessing management performance, 4-To assess tax payable"
-      },
-      {
-        "key": "D",
-        "text": "D. 1-To assess tax payable, 2-Assessing management performance, 3-To advise clients, 4-To assess ability to pay debts"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Nhà quản lý đánh giá hiệu quả điều hành. Chuyên viên tư vấn để khuyến nghị khách hàng. Cơ quan thuế tính số thuế phải nộp. Nhà cung cấp đánh giá khả năng thanh toán nợ.",
-    "image_file": "images/cau_257.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 258,
-    "question_number": 258,
-    "part": 13,
-    "question_text": "0nly businesses need to prepare financial statements.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_258.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 259,
-    "question_number": 259,
-    "part": 13,
-    "question_text": "Which of the following correctly fills the blank? The statement of financial position must give view of the company at the end of the financial year.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. A GAAP compliant"
-      },
-      {
-        "key": "B",
-        "text": "B. A true and fair"
-      },
-      {
-        "key": "C",
-        "text": "C. An informative 260.QRT Co has just implemented a new computerised accounting package and also reinforced some of its accounting controls. The new system has the following features: 1. All accounting entries must balance or they cannot be entered. 2. A module exists so that non-current asset purchases can be authorised by the relevant member of management. 3. Users are set up with passwords in order to login to the system. 4. An audit trail is produced so all transactions can be traced to the time of 15:39 CN 9 100%"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_259.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 260,
-    "question_number": 260,
-    "part": 13,
-    "question_text": "QRT Co has implemented a new computerised accounting package with features:\n1. All accounting entries must balance or they cannot be entered.\n2. A module exists so that non-current asset purchases can be authorised by the relevant member of management.\n3. Users are set up with passwords in order to login to the system.\n4. An audit trail is produced so all transactions can be traced to the time of entry.\nMatch each feature to the correct accounting control type:",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1-Internal check, 2-Authorization, 3-Access control, 4-Audit trail"
-      },
-      {
-        "key": "B",
-        "text": "B. 1-Authorization, 2-Internal check, 3-Audit trail, 4-Access control"
-      },
-      {
-        "key": "C",
-        "text": "C. 1-Access control, 2-Audit trail, 3-Internal check, 4-Authorization"
-      },
-      {
-        "key": "D",
-        "text": "D. 1-Audit trail, 2-Access control, 3-Authorization, 4-Internal check"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "1: Tự động kiểm tra cân đối kép (Internal check). 2: Phê duyệt của người có thẩm quyền (Authorization). 3: Mật khẩu kiểm soát đăng nhập (Access control). 4: Vết kiểm toán truy xuất thời điểm nhập liệu (Audit trail).",
-    "image_file": "images/cau_260.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 261,
-    "question_number": 261,
     "part": 14,
-    "question_text": "Which of the following correctly fills the blank? audit is testing and evaluating internal controls of an organisation.",
-    "options": [
+    "title": "Phần 14: Câu 261 - 280",
+    "questions_range": "Câu 261 - 280",
+    "pdf_file": "output_pdf/De_14_Cau_261_280.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. A systems"
+        "id": 261,
+        "question_number": 261,
+        "part": 14,
+        "question_text": "Which of the following correctly fills the blank? audit is testing and evaluating internal controls of an organisation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. A systems"
+          },
+          {
+            "key": "B",
+            "text": "B. A transactions"
+          },
+          {
+            "key": "C",
+            "text": "C. An operational"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_261.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. A transactions"
+        "id": 262,
+        "question_number": 262,
+        "part": 14,
+        "question_text": "A control system consisting of sufficient controls will be entirely effective.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_262.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. An operational"
+        "id": 263,
+        "question_number": 263,
+        "part": 14,
+        "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?\n1. The risk of errors in the information is eradicated\n2. Information is available quickly\n3. Changes to information are made in real-time\n4. Information is less accessible to accounting staff",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. 1 and 2"
+          },
+          {
+            "key": "B",
+            "text": "B. 2 and 3"
+          },
+          {
+            "key": "C",
+            "text": "C. 1 and 4"
+          },
+          {
+            "key": "D",
+            "text": "D. 3 and 4"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Ý 2 và 3 đúng: Hệ thống tin học hóa cung cấp thông tin nhanh chóng và cập nhật thời gian thực. Rủi ro sai sót không bị triệt tiêu hoàn toàn vì vẫn có thể sai sót do con người nhập liệu (Garbage in, garbage out).",
+        "image_file": "images/cau_263.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 264,
+        "question_number": 264,
+        "part": 14,
+        "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. The risk of errors in the information is eradicated"
+          },
+          {
+            "key": "B",
+            "text": "B. Information is available quickly"
+          },
+          {
+            "key": "C",
+            "text": "C. Changes to information are made in real-time"
+          },
+          {
+            "key": "D",
+            "text": "D. Information is less accessible to accountina staff 15:40 CN 27 thg9 100% IC wor 1 smte an a ove. is a program that deals with a particular part of the accounting system."
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "A. Database B. Module C. Spreadsheet",
+        "image_file": "images/cau_264.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 265,
+        "question_number": 265,
+        "part": 14,
+        "question_text": "A database does not need updating once it has been set up.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. True"
+          },
+          {
+            "key": "B",
+            "text": "B. False"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_265.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 266,
+        "question_number": 266,
+        "part": 14,
+        "question_text": "Which TWO of the following are examples of physical access controls?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Door locks"
+          },
+          {
+            "key": "B",
+            "text": "B. Automatic system backups"
+          },
+          {
+            "key": "C",
+            "text": "C. Intruder alarms"
+          },
+          {
+            "key": "D",
+            "text": "D. Authorisation of purchases"
+          },
+          {
+            "key": "E",
+            "text": "E. Physical inspection of inventory"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_266.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 267,
+        "question_number": 267,
+        "part": 14,
+        "question_text": "Check digits, control totals and limit checks are examples of which type of control?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Output control"
+          },
+          {
+            "key": "B",
+            "text": "B. Processing control"
+          },
+          {
+            "key": "C",
+            "text": "C. Input control"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_267.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 268,
+        "question_number": 268,
+        "part": 14,
+        "question_text": "Which word fills in the blank above? controls help an organisation recover in the event ofa disaster.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Contingency"
+          },
+          {
+            "key": "B",
+            "text": "B. Integrity"
+          },
+          {
+            "key": "C",
+            "text": "C. Security 269.SteIIa is an external auditor who has observed some cash transactions that"
+          },
+          {
+            "key": "D",
+            "text": "D. on't have any supporting documentation. Upon further investigation she"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients 15:40 CN 27 thg9 100%",
+        "image_file": "images/cau_268.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 269,
+        "question_number": 269,
+        "part": 14,
+        "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report. Which of the following offences has been committed by Stella?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Failure to report"
+          },
+          {
+            "key": "B",
+            "text": "B. No offence has been committed"
+          },
+          {
+            "key": "C",
+            "text": "C. Tipping off Which of the following offences has been committed by James?"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Failure to report B. No offence has been committed C. Tipping off",
+        "image_file": "images/cau_269.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 270,
+        "question_number": 270,
+        "part": 14,
+        "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity. Laura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements. Which of the following phases of money laundering is being undertaken by Elyse?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Integration"
+          },
+          {
+            "key": "B",
+            "text": "B. Layering"
+          },
+          {
+            "key": "C",
+            "text": "C. Placement Which ofthefollowing phases of money laundering is being undertaken by Laura?"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "A. Integration B. Layering C. Placement",
+        "image_file": "images/cau_270.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 271,
+        "question_number": 271,
+        "part": 14,
+        "question_text": "Which of these is an example ofan 'internal check'?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Adherence to internal policies"
+          },
+          {
+            "key": "B",
+            "text": "B. Completeness of the accounting records"
+          },
+          {
+            "key": "C",
+            "text": "C. Safeguarding ofassets"
+          },
+          {
+            "key": "D",
+            "text": "D. Use of control totals 15:40 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "D",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_271.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 272,
+        "question_number": 272,
+        "part": 14,
+        "question_text": "Categorise the following as relating to the work of internal or external audit:\n1. Work relates to financial statements and underlying records\n2. Designed to add value and improve operations\n3. Enables an opinion to be expressed on financial statements\n4. Report is to those charged with governance (audit committee / board)\n5. Work relates to the operations of the organisation\n6. Independent of the company and its management",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. External audit: 1, 3, 6 | Internal audit: 2, 4, 5"
+          },
+          {
+            "key": "B",
+            "text": "B. External audit: 2, 4, 5 | Internal audit: 1, 3, 6"
+          },
+          {
+            "key": "C",
+            "text": "C. External audit: 1, 2, 3 | Internal audit: 4, 5, 6"
+          },
+          {
+            "key": "D",
+            "text": "D. External audit: 4, 5, 6 | Internal audit: 1, 2, 3"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Kiểm toán độc lập (External audit) độc lập với công ty và đưa ra ý kiến về BCTC (1, 3, 6). Kiểm toán nội bộ (Internal audit) đánh giá quy trình và kiểm soát để gia tăng giá trị cho doanh nghiệp (2, 4, 5).",
+        "image_file": "images/cau_272.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 273,
+        "question_number": 273,
+        "part": 14,
+        "question_text": "Which of the following types of power correctly completes this statement? Leaders may be distinguished from managers by the fact that they do not depend on in the organisation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Expert power"
+          },
+          {
+            "key": "B",
+            "text": "B. Physical power"
+          },
+          {
+            "key": "C",
+            "text": "C. Position power"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_273.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 274,
+        "question_number": 274,
+        "part": 14,
+        "question_text": "Monica is a manager in the finance department of P Co and she has several staff working for her. She has become quite friendly with most of her staff and they like her and appreciate that she does everything she can to attend to their needs. Which type of managerial style does Monica have?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Impoverished"
+          },
+          {
+            "key": "B",
+            "text": "B. Task management"
+          },
+          {
+            "key": "C",
+            "text": "C. Country club"
+          },
+          {
+            "key": "D",
+            "text": "D. Dampened pendulum"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_274.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 275,
+        "question_number": 275,
+        "part": 14,
+        "question_text": "According to Fiedler, which of the following are true of psychologically distant managers? (I) They judge their staff on the basis ofperformance (2) They are primarily task-oriented (3) They prefer formal consultation methods rather than seeking staff opinions (4) They are closer to their staff",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. (1) and (2)"
+          },
+          {
+            "key": "B",
+            "text": "B. (2) and (3)"
+          },
+          {
+            "key": "C",
+            "text": "C. (2) and (3)"
+          },
+          {
+            "key": "D",
+            "text": "D. (3) and (4) 15:40 CN 27 thg9 100%"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_275.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 276,
+        "question_number": 276,
+        "part": 14,
+        "question_text": "What is delegated by a superior to a subordinate?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Authority"
+          },
+          {
+            "key": "B",
+            "text": "B. Power"
+          },
+          {
+            "key": "C",
+            "text": "C. Responsibility"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_276.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 277,
+        "question_number": 277,
+        "part": 14,
+        "question_text": "Which of the following is NOT a management technique advocated by Taylor?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Micro-design of jobs"
+          },
+          {
+            "key": "B",
+            "text": "B. Work study techniques to establish efficient methods"
+          },
+          {
+            "key": "C",
+            "text": "C. Multi-skilled teamworking"
+          },
+          {
+            "key": "D",
+            "text": "D. Financial incentives"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_277.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 278,
+        "question_number": 278,
+        "part": 14,
+        "question_text": "0fMintzberg's nine managerial roles, which is being exercised by a manager who gathers information from contacts within and outside the organisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Leader"
+          },
+          {
+            "key": "B",
+            "text": "B. Monitor"
+          },
+          {
+            "key": "C",
+            "text": "C. Spokesperson"
+          },
+          {
+            "key": "D",
+            "text": "D. Disseminator"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_278.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 279,
+        "question_number": 279,
+        "part": 14,
+        "question_text": "Which word or phrase correctly completes this definition? is the role at the interface between the operational core (non-managerial workers) and management.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Junior management"
+          },
+          {
+            "key": "B",
+            "text": "B. Middle line"
+          },
+          {
+            "key": "C",
+            "text": "C. Supervision"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_279.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 280,
+        "question_number": 280,
+        "part": 14,
+        "question_text": "According to research, which of the following statements is true ofa consultative style of management, compared to other styles?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. It is most popular among subordinates"
+          },
+          {
+            "key": "B",
+            "text": "B. It is most popular among leaders"
+          },
+          {
+            "key": "C",
+            "text": "C. It encourages the highest productivity 281. Which of the following terms is used to describe the 'right' to perform an action in an organisation?"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "A. Responsibility 15:40 CN 27 thg9 100%",
+        "image_file": "images/cau_280.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_261.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   },
   {
-    "id": 262,
-    "question_number": 262,
-    "part": 14,
-    "question_text": "A control system consisting of sufficient controls will be entirely effective.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_262.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 263,
-    "question_number": 263,
-    "part": 14,
-    "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?\n1. The risk of errors in the information is eradicated\n2. Information is available quickly\n3. Changes to information are made in real-time\n4. Information is less accessible to accounting staff",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. 1 and 2"
-      },
-      {
-        "key": "B",
-        "text": "B. 2 and 3"
-      },
-      {
-        "key": "C",
-        "text": "C. 1 and 4"
-      },
-      {
-        "key": "D",
-        "text": "D. 3 and 4"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Ý 2 và 3 đúng: Hệ thống tin học hóa cung cấp thông tin nhanh chóng và cập nhật thời gian thực. Rủi ro sai sót không bị triệt tiêu hoàn toàn vì vẫn có thể sai sót do con người nhập liệu (Garbage in, garbage out).",
-    "image_file": "images/cau_263.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 264,
-    "question_number": 264,
-    "part": 14,
-    "question_text": "Which TWO of the following statements regarding computerised accounting systems are correct?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. The risk of errors in the information is eradicated"
-      },
-      {
-        "key": "B",
-        "text": "B. Information is available quickly"
-      },
-      {
-        "key": "C",
-        "text": "C. Changes to information are made in real-time"
-      },
-      {
-        "key": "D",
-        "text": "D. Information is less accessible to accountina staff 15:40 CN 27 thg9 100% IC wor 1 smte an a ove. is a program that deals with a particular part of the accounting system."
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "A. Database B. Module C. Spreadsheet",
-    "image_file": "images/cau_264.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 265,
-    "question_number": 265,
-    "part": 14,
-    "question_text": "A database does not need updating once it has been set up.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. True"
-      },
-      {
-        "key": "B",
-        "text": "B. False"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_265.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 266,
-    "question_number": 266,
-    "part": 14,
-    "question_text": "Which TWO of the following are examples of physical access controls?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Door locks"
-      },
-      {
-        "key": "B",
-        "text": "B. Automatic system backups"
-      },
-      {
-        "key": "C",
-        "text": "C. Intruder alarms"
-      },
-      {
-        "key": "D",
-        "text": "D. Authorisation of purchases"
-      },
-      {
-        "key": "E",
-        "text": "E. Physical inspection of inventory"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_266.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 267,
-    "question_number": 267,
-    "part": 14,
-    "question_text": "Check digits, control totals and limit checks are examples of which type of control?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Output control"
-      },
-      {
-        "key": "B",
-        "text": "B. Processing control"
-      },
-      {
-        "key": "C",
-        "text": "C. Input control"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_267.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 268,
-    "question_number": 268,
-    "part": 14,
-    "question_text": "Which word fills in the blank above? controls help an organisation recover in the event ofa disaster.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Contingency"
-      },
-      {
-        "key": "B",
-        "text": "B. Integrity"
-      },
-      {
-        "key": "C",
-        "text": "C. Security 269.SteIIa is an external auditor who has observed some cash transactions that"
-      },
-      {
-        "key": "D",
-        "text": "D. on't have any supporting documentation. Upon further investigation she"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients 15:40 CN 27 thg9 100%",
-    "image_file": "images/cau_268.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 269,
-    "question_number": 269,
-    "part": 14,
-    "question_text": "Stella is an external auditor who has observed some cash transactions that don't have any supporting documentation. Upon further investigation she discovered that these payments are made into bank accounts of the Finance Director's family. She discusses this with the audit manager and they jointly decide not to take any further action. James is also an external auditor and has discovered a fraud at one of his clients and has decided he will make a report to his nominated officer. At the same time he decides to inform the financial controller of the client about making the report. Which of the following offences has been committed by Stella?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Failure to report"
-      },
-      {
-        "key": "B",
-        "text": "B. No offence has been committed"
-      },
-      {
-        "key": "C",
-        "text": "C. Tipping off Which of the following offences has been committed by James?"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Failure to report B. No offence has been committed C. Tipping off",
-    "image_file": "images/cau_269.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 270,
-    "question_number": 270,
-    "part": 14,
-    "question_text": "Elyse is transferring amounts of money from business to business to disguise the fact that the money was originally the proceeds from criminal activity. Laura is in the process of banking several small amounts of illegally obtained money with a variety of banks in order to avoid anti-money laundering requirements. Which of the following phases of money laundering is being undertaken by Elyse?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Integration"
-      },
-      {
-        "key": "B",
-        "text": "B. Layering"
-      },
-      {
-        "key": "C",
-        "text": "C. Placement Which ofthefollowing phases of money laundering is being undertaken by Laura?"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "A. Integration B. Layering C. Placement",
-    "image_file": "images/cau_270.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 271,
-    "question_number": 271,
-    "part": 14,
-    "question_text": "Which of these is an example ofan 'internal check'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Adherence to internal policies"
-      },
-      {
-        "key": "B",
-        "text": "B. Completeness of the accounting records"
-      },
-      {
-        "key": "C",
-        "text": "C. Safeguarding ofassets"
-      },
-      {
-        "key": "D",
-        "text": "D. Use of control totals 15:40 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "D",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_271.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 272,
-    "question_number": 272,
-    "part": 14,
-    "question_text": "Categorise the following as relating to the work of internal or external audit:\n1. Work relates to financial statements and underlying records\n2. Designed to add value and improve operations\n3. Enables an opinion to be expressed on financial statements\n4. Report is to those charged with governance (audit committee / board)\n5. Work relates to the operations of the organisation\n6. Independent of the company and its management",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. External audit: 1, 3, 6 | Internal audit: 2, 4, 5"
-      },
-      {
-        "key": "B",
-        "text": "B. External audit: 2, 4, 5 | Internal audit: 1, 3, 6"
-      },
-      {
-        "key": "C",
-        "text": "C. External audit: 1, 2, 3 | Internal audit: 4, 5, 6"
-      },
-      {
-        "key": "D",
-        "text": "D. External audit: 4, 5, 6 | Internal audit: 1, 2, 3"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Kiểm toán độc lập (External audit) độc lập với công ty và đưa ra ý kiến về BCTC (1, 3, 6). Kiểm toán nội bộ (Internal audit) đánh giá quy trình và kiểm soát để gia tăng giá trị cho doanh nghiệp (2, 4, 5).",
-    "image_file": "images/cau_272.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 273,
-    "question_number": 273,
-    "part": 14,
-    "question_text": "Which of the following types of power correctly completes this statement? Leaders may be distinguished from managers by the fact that they do not depend on in the organisation.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Expert power"
-      },
-      {
-        "key": "B",
-        "text": "B. Physical power"
-      },
-      {
-        "key": "C",
-        "text": "C. Position power"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_273.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 274,
-    "question_number": 274,
-    "part": 14,
-    "question_text": "Monica is a manager in the finance department of P Co and she has several staff working for her. She has become quite friendly with most of her staff and they like her and appreciate that she does everything she can to attend to their needs. Which type of managerial style does Monica have?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Impoverished"
-      },
-      {
-        "key": "B",
-        "text": "B. Task management"
-      },
-      {
-        "key": "C",
-        "text": "C. Country club"
-      },
-      {
-        "key": "D",
-        "text": "D. Dampened pendulum"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_274.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 275,
-    "question_number": 275,
-    "part": 14,
-    "question_text": "According to Fiedler, which of the following are true of psychologically distant managers? (I) They judge their staff on the basis ofperformance (2) They are primarily task-oriented (3) They prefer formal consultation methods rather than seeking staff opinions (4) They are closer to their staff",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. (1) and (2)"
-      },
-      {
-        "key": "B",
-        "text": "B. (2) and (3)"
-      },
-      {
-        "key": "C",
-        "text": "C. (2) and (3)"
-      },
-      {
-        "key": "D",
-        "text": "D. (3) and (4) 15:40 CN 27 thg9 100%"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_275.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 276,
-    "question_number": 276,
-    "part": 14,
-    "question_text": "What is delegated by a superior to a subordinate?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Authority"
-      },
-      {
-        "key": "B",
-        "text": "B. Power"
-      },
-      {
-        "key": "C",
-        "text": "C. Responsibility"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_276.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 277,
-    "question_number": 277,
-    "part": 14,
-    "question_text": "Which of the following is NOT a management technique advocated by Taylor?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Micro-design of jobs"
-      },
-      {
-        "key": "B",
-        "text": "B. Work study techniques to establish efficient methods"
-      },
-      {
-        "key": "C",
-        "text": "C. Multi-skilled teamworking"
-      },
-      {
-        "key": "D",
-        "text": "D. Financial incentives"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_277.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 278,
-    "question_number": 278,
-    "part": 14,
-    "question_text": "0fMintzberg's nine managerial roles, which is being exercised by a manager who gathers information from contacts within and outside the organisation?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Leader"
-      },
-      {
-        "key": "B",
-        "text": "B. Monitor"
-      },
-      {
-        "key": "C",
-        "text": "C. Spokesperson"
-      },
-      {
-        "key": "D",
-        "text": "D. Disseminator"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_278.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 279,
-    "question_number": 279,
-    "part": 14,
-    "question_text": "Which word or phrase correctly completes this definition? is the role at the interface between the operational core (non-managerial workers) and management.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Junior management"
-      },
-      {
-        "key": "B",
-        "text": "B. Middle line"
-      },
-      {
-        "key": "C",
-        "text": "C. Supervision"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_279.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 280,
-    "question_number": 280,
-    "part": 14,
-    "question_text": "According to research, which of the following statements is true ofa consultative style of management, compared to other styles?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. It is most popular among subordinates"
-      },
-      {
-        "key": "B",
-        "text": "B. It is most popular among leaders"
-      },
-      {
-        "key": "C",
-        "text": "C. It encourages the highest productivity 281. Which of the following terms is used to describe the 'right' to perform an action in an organisation?"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "A. Responsibility 15:40 CN 27 thg9 100%",
-    "image_file": "images/cau_280.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 281,
-    "question_number": 281,
     "part": 15,
-    "question_text": "Which of the following terms is used to describe the 'right' to perform an action in an organisation?",
-    "options": [
+    "title": "Phần 15: Câu 281 - 287",
+    "questions_range": "Câu 281 - 287",
+    "pdf_file": "output_pdf/De_15_Cau_281_287.pdf",
+    "questions": [
       {
-        "key": "A",
-        "text": "A. Responsibility"
+        "id": 281,
+        "question_number": 281,
+        "part": 15,
+        "question_text": "Which of the following terms is used to describe the 'right' to perform an action in an organisation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Responsibility"
+          },
+          {
+            "key": "B",
+            "text": "B. Authority"
+          },
+          {
+            "key": "C",
+            "text": "C. Influence"
+          },
+          {
+            "key": "D",
+            "text": "D. Power"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_281.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "B",
-        "text": "B. Authority"
+        "id": 282,
+        "question_number": 282,
+        "part": 15,
+        "question_text": "Which of the following is an 'interpersonal' role of management, in Mintzberg's classification of nine managerial roles?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Spokesperson"
+          },
+          {
+            "key": "B",
+            "text": "B. Figurehead"
+          },
+          {
+            "key": "C",
+            "text": "C. Negotiator"
+          },
+          {
+            "key": "D",
+            "text": "D. Resource allocator"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_282.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "C",
-        "text": "C. Influence"
+        "id": 283,
+        "question_number": 283,
+        "part": 15,
+        "question_text": "Are the following statements true or false?\n1. Adair's leadership model focuses on what leaders do and not what they are.\n2. The Ashridge leadership model proposes a democratic approach to leadership.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Statement 1 is True, Statement 2 is False"
+          },
+          {
+            "key": "B",
+            "text": "B. Statement 1 is True, Statement 2 is True"
+          },
+          {
+            "key": "C",
+            "text": "C. Statement 1 is False, Statement 2 is False"
+          },
+          {
+            "key": "D",
+            "text": "D. Statement 1 is False, Statement 2 is True"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Mệnh đề 1 Đúng: Mô hình của John Adair tập trung vào hành vi lãnh đạo (Cân bằng Công việc, Đội nhóm, Cá nhân). Mệnh đề 2 Sai: Mô hình Ashridge mô tả 4 phong cách từ chuyên quyền đến dân chủ chứ không mặc định chỉ có dân chủ.",
+        "image_file": "images/cau_283.png",
+        "has_image": false,
+        "diagram_file": null
       },
       {
-        "key": "D",
-        "text": "D. Power"
+        "id": 284,
+        "question_number": 284,
+        "part": 15,
+        "question_text": "Which leadership approach sees the leadership as made up of three interrelated variables: task needs, individual needs of group members and needs of the group as a whole?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Action-centred leadership"
+          },
+          {
+            "key": "B",
+            "text": "B. Ashridge Management College model"
+          },
+          {
+            "key": "C",
+            "text": "C. The managerial grid"
+          },
+          {
+            "key": "D",
+            "text": "D. Dispersed leadership"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_284.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 285,
+        "question_number": 285,
+        "part": 15,
+        "question_text": "Which managerial function is referred to in this definition? is the managerial function concerned with establishing a structure of tasks; grouping and assigning them to appropriate units; and establishing lines of information and reporting to support performance.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Organising"
+          },
+          {
+            "key": "B",
+            "text": "B. Planning"
+          }
+        ],
+        "correct_answer": "A",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_285.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 286,
+        "question_number": 286,
+        "part": 15,
+        "question_text": "Which of the following is NOT one of Fayol's five functions of management?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Planning"
+          },
+          {
+            "key": "B",
+            "text": "B. Organising"
+          },
+          {
+            "key": "C",
+            "text": "C. Motivating"
+          },
+          {
+            "key": "D",
+            "text": "D. Commanding"
+          }
+        ],
+        "correct_answer": "C",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_286.png",
+        "has_image": false,
+        "diagram_file": null
+      },
+      {
+        "id": 287,
+        "question_number": 287,
+        "part": 15,
+        "question_text": "According to Drucker, which of the following is a management task?",
+        "options": [
+          {
+            "key": "A",
+            "text": "A. Informational"
+          },
+          {
+            "key": "B",
+            "text": "B. Developing people"
+          },
+          {
+            "key": "C",
+            "text": "C. Decisional"
+          }
+        ],
+        "correct_answer": "B",
+        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "image_file": "images/cau_287.png",
+        "has_image": false,
+        "diagram_file": null
       }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_281.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 282,
-    "question_number": 282,
-    "part": 15,
-    "question_text": "Which of the following is an 'interpersonal' role of management, in Mintzberg's classification of nine managerial roles?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Spokesperson"
-      },
-      {
-        "key": "B",
-        "text": "B. Figurehead"
-      },
-      {
-        "key": "C",
-        "text": "C. Negotiator"
-      },
-      {
-        "key": "D",
-        "text": "D. Resource allocator"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_282.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 283,
-    "question_number": 283,
-    "part": 15,
-    "question_text": "Are the following statements true or false?\n1. Adair's leadership model focuses on what leaders do and not what they are.\n2. The Ashridge leadership model proposes a democratic approach to leadership.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Statement 1 is True, Statement 2 is False"
-      },
-      {
-        "key": "B",
-        "text": "B. Statement 1 is True, Statement 2 is True"
-      },
-      {
-        "key": "C",
-        "text": "C. Statement 1 is False, Statement 2 is False"
-      },
-      {
-        "key": "D",
-        "text": "D. Statement 1 is False, Statement 2 is True"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Mệnh đề 1 Đúng: Mô hình của John Adair tập trung vào hành vi lãnh đạo (Cân bằng Công việc, Đội nhóm, Cá nhân). Mệnh đề 2 Sai: Mô hình Ashridge mô tả 4 phong cách từ chuyên quyền đến dân chủ chứ không mặc định chỉ có dân chủ.",
-    "image_file": "images/cau_283.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 284,
-    "question_number": 284,
-    "part": 15,
-    "question_text": "Which leadership approach sees the leadership as made up of three interrelated variables: task needs, individual needs of group members and needs of the group as a whole?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Action-centred leadership"
-      },
-      {
-        "key": "B",
-        "text": "B. Ashridge Management College model"
-      },
-      {
-        "key": "C",
-        "text": "C. The managerial grid"
-      },
-      {
-        "key": "D",
-        "text": "D. Dispersed leadership"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_284.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 285,
-    "question_number": 285,
-    "part": 15,
-    "question_text": "Which managerial function is referred to in this definition? is the managerial function concerned with establishing a structure of tasks; grouping and assigning them to appropriate units; and establishing lines of information and reporting to support performance.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Organising"
-      },
-      {
-        "key": "B",
-        "text": "B. Planning"
-      }
-    ],
-    "correct_answer": "A",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_285.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 286,
-    "question_number": 286,
-    "part": 15,
-    "question_text": "Which of the following is NOT one of Fayol's five functions of management?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Planning"
-      },
-      {
-        "key": "B",
-        "text": "B. Organising"
-      },
-      {
-        "key": "C",
-        "text": "C. Motivating"
-      },
-      {
-        "key": "D",
-        "text": "D. Commanding"
-      }
-    ],
-    "correct_answer": "C",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_286.png",
-    "has_image": false,
-    "diagram_file": null
-  },
-  {
-    "id": 287,
-    "question_number": 287,
-    "part": 15,
-    "question_text": "According to Drucker, which of the following is a management task?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A. Informational"
-      },
-      {
-        "key": "B",
-        "text": "B. Developing people"
-      },
-      {
-        "key": "C",
-        "text": "C. Decisional"
-      }
-    ],
-    "correct_answer": "B",
-    "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
-    "image_file": "images/cau_287.png",
-    "has_image": false,
-    "diagram_file": null
+    ]
   }
 ];
