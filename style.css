@@ -548,6 +548,7 @@ body {
   line-height: 1.5;
   color: #fff;
   margin-bottom: 24px;
+  white-space: pre-line;
 }
 
 /* Question Image / Diagram Display */
@@ -711,6 +712,7 @@ body {
   font-size: 14px;
   color: #d1fae5;
   line-height: 1.6;
+  white-space: pre-line;
 }
 
 /* Question Navigation Buttons */

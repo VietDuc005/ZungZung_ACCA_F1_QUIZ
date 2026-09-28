@@ -120,6 +120,11 @@ function renderDashboard() {
   window.QUIZ_DATA.forEach((partData, idx) => {
     const card = document.createElement('div');
     card.className = 'quiz-card';
+    card.onclick = (e) => {
+      if (!e.target.closest('.btn-pdf')) {
+        startQuiz(idx);
+      }
+    };
 
     const pAnswers = userAnswers[idx] || {};
     const totalQ = partData.questions.length;
