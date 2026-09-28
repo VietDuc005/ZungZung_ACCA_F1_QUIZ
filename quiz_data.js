@@ -4714,7 +4714,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Quản lý các bên liên quan trong hoạt động thu mua (procurement) nhằm đảm bảo tính liên tục của nguồn cung (A) và chia sẻ thông tin (C). Sự phụ thuộc lẫn nhau (Mutual dependency) là một rủi ro hoặc đặc điểm cần kiểm soát chứ KHÔNG PHẢI là mục tiêu hướng tới.",
         "image_file": "images/cau_166.png",
         "has_image": false,
         "diagram_file": null
@@ -4723,7 +4723,7 @@ window.QUIZ_DATA = [
         "id": 167,
         "question_number": 167,
         "part": 9,
-        "question_text": "Janet works for a toy company called K Co. She telephones Mary at P Co on a daily basis to order parts. Janet has no contact with customers but does deal with complaint letters from D Group, an organisation against slave labour. D Group believe that K Co use slave labour in the toy manufacturing factories. Which of the following are internal stakeholders of K Co?",
+        "question_text": "Janet works for a toy company called K Co. She telephones Mary at P Co on a daily basis to order parts. Janet has no contact with customers but does deal with complaint letters from D Group, an organisation against slave labour. D Group believe that K Co use slave labour in the toy manufacturing factories.\nWhich of the following are internal stakeholders of K Co?",
         "options": [
           {
             "key": "A",
@@ -4743,7 +4743,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Các bên liên quan nội bộ (Internal stakeholders) là những người làm việc trực tiếp bên trong doanh nghiệp (nhân viên, ban giám đốc). Trong các đối tượng nêu trên, chỉ có Janet là nhân viên của công ty đồ chơi K Co. Mary làm việc tại P Co và tổ chức D Group là các bên liên quan bên ngoài (External stakeholders).",
         "image_file": "images/cau_167.png",
         "has_image": false,
         "diagram_file": null
@@ -4752,7 +4752,7 @@ window.QUIZ_DATA = [
         "id": 168,
         "question_number": 168,
         "part": 9,
-        "question_text": "Josina has been appointed Chair ofa remuneration committee. She is responsible for which of the following duties?",
+        "question_text": "Josina has been appointed Chair of a remuneration committee. She is responsible for which of the following duties?",
         "options": [
           {
             "key": "A",
@@ -4768,7 +4768,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chủ tịch ủy ban (Chair) có trách nhiệm điều hành cuộc họp và đưa ra phán quyết/kết luận đối với các vấn đề tranh chấp (B). Việc sắp xếp ngày họp (A) và ghi biên bản cuộc họp (C) là nhiệm vụ của thư ký ủy ban (Secretary).",
         "image_file": "images/cau_168.png",
         "has_image": false,
         "diagram_file": null
@@ -4802,7 +4802,7 @@ window.QUIZ_DATA = [
         "id": 170,
         "question_number": 170,
         "part": 9,
-        "question_text": "The audit committee and remuneration committee ofa company are examples of which of the following?",
+        "question_text": "The audit committee and remuneration committee of a company are examples of which of the following?",
         "options": [
           {
             "key": "A",
@@ -4822,7 +4822,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Ủy ban kiểm toán (Audit committee) và Ủy ban lương thưởng (Remuneration committee) là các ủy ban thường trực (Standing committees) trực thuộc Hội đồng quản trị, hoạt động liên tục và định kỳ.",
         "image_file": "images/cau_170.png",
         "has_image": false,
         "diagram_file": null
@@ -4831,7 +4831,7 @@ window.QUIZ_DATA = [
         "id": 171,
         "question_number": 171,
         "part": 9,
-        "question_text": "Which of the following statements about corporate social responsibility is/are true? (1) CSR guarantees increased profit levels (2) CSR adds cost to organisational activities and reduces profit levels (3) Social responsibility may have commercial benefits (4) Social responsibility is a concern confined to business organisations",
+        "question_text": "Which of the following statements about corporate social responsibility is/are true?\n(1) CSR guarantees increased profit levels\n(2) CSR adds cost to organisational activities and reduces profit levels\n(3) Social responsibility may have commercial benefits\n(4) Social responsibility is a concern confined to business organisations",
         "options": [
           {
             "key": "A",
@@ -4851,7 +4851,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "(1) sai vì CSR không đảm bảo chắc chắn tăng lợi nhuận. (2) sai vì CSR không phải lúc nào cũng làm giảm lợi nhuận. (4) sai vì trách nhiệm xã hội không chỉ giới hạn ở các tổ chức kinh doanh. (3) đúng vì thực hiện tốt CSR có thể mang lại lợi ích thương mại (nâng cao uy tín, thương hiệu).",
         "image_file": "images/cau_171.png",
         "has_image": false,
         "diagram_file": null
@@ -4860,7 +4860,7 @@ window.QUIZ_DATA = [
         "id": 172,
         "question_number": 172,
         "part": 9,
-        "question_text": "CaIum, Heidi and Jonas are managers for Zip Co. They have been told that their salary will be based on company performance and that a bonus scheme will also be introduced. The bonus will also be related to company performance. Which of the following theories describes the approach to governance that Zip Co is using ?",
+        "question_text": "Calum, Heidi and Jonas are managers for Zip Co. They have been told that their salary will be based on company performance and that a bonus scheme will also be introduced. The bonus will also be related to company performance.\nWhich of the following theories describes the approach to governance that Zip Co is using?",
         "options": [
           {
             "key": "A",
@@ -4876,7 +4876,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Lý thuyết người đại diện (Agency theory) chỉ ra rằng có sự xung đột lợi ích giữa cổ đông (chủ sở hữu) và các nhà quản lý (người đại diện). Việc gắn lương thưởng của nhà quản lý với kết quả hoạt động của công ty là cơ chế căn bản để giải quyết xung đột đại diện (Agency problem), căn chỉnh mục tiêu của nhà quản lý theo mục tiêu của cổ đông.",
         "image_file": "images/cau_172.png",
         "has_image": false,
         "diagram_file": null
@@ -4901,11 +4901,11 @@ window.QUIZ_DATA = [
           },
           {
             "key": "D",
-            "text": "D. Accountability to stakeholders 15:37 CN 27 thg9 100%"
+            "text": "D. Accountability to stakeholders"
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Quản trị công ty tốt (Corporate governance) hướng tới quản lý rủi ro (A), kiểm soát nội bộ (B), và cân bằng lợi ích các bên liên quan một cách minh bạch và bền vững. Tối đa hóa tài sản cổ đông (C) là mục tiêu tài chính truyền thống của doanh nghiệp chứ KHÔNG PHẢI là nguyên tắc quản trị công ty.",
         "image_file": "images/cau_173.png",
         "has_image": false,
         "diagram_file": null
