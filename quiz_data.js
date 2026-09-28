@@ -1165,7 +1165,7 @@ window.QUIZ_DATA = [
         "id": 41,
         "question_number": 41,
         "part": 3,
-        "question_text": "Country Y has an increasingly high rate of unemployment. Which of the following statements is/are correct regarding the effect of this on consumers and businesses? Businesses may offer lower wages to staff Government spending on social security will fall (iii) Businesses will find it easier to locate new employees (iv) Businesses may find that demand for their goods and services falls",
+        "question_text": "Country Y has an increasingly high rate of unemployment.\nWhich of the following statements is/are correct regarding the effect of this on consumers and businesses?\n(i) Businesses may offer lower wages to staff\n(ii) Government spending on social security will fall\n(iii) Businesses will find it easier to locate new employees\n(iv) Businesses may find that demand for their goods and services falls",
         "options": [
           {
             "key": "A",
@@ -1185,7 +1185,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "'_(ii) is incorrect. Given the high rate of unemployment, the governmen will have to pay more in social security tesgpport the increasing number of workers who are without jobs,] • The other three statements are correc",
+        "explanation": "• (ii) is incorrect: Khi tỷ lệ thất nghiệp tăng cao, chính phủ phải chi trả nhiều hơn cho trợ cấp an sinh xã hội (Government spending on social security will rise, not fall) để hỗ trợ những người mất việc làm.\n• Các phát biểu (i), (iii), (iv) đều đúng: (i) Doanh nghiệp có thể trả lương thấp hơn do nguồn cung lao động dồi dào; (iii) Doanh nghiệp dễ tuyển dụng nhân viên mới hơn; (iv) Thu nhập hộ gia đình giảm dẫn đến cầu tiêu dùng đối với hàng hóa, dịch vụ giảm.",
         "image_file": "images/cau_041.png",
         "has_image": false,
         "diagram_file": null
