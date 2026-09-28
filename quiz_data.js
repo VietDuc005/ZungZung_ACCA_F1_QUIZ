@@ -1939,7 +1939,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Chính quyền địa phương (A local authority) là tổ chức phi lợi nhuận thuộc khu vực công, không hướng đến lợi nhuận (profitability) mà tập trung đánh giá hiệu quả chi tiêu thông qua các chỉ số Giá trị đồng tiền (Value for Money - 3E: Economy, Efficiency, Effectiveness).",
         "image_file": "images/cau_067.png",
         "has_image": false,
         "diagram_file": null
@@ -1948,7 +1948,7 @@ window.QUIZ_DATA = [
         "id": 68,
         "question_number": 68,
         "part": 4,
-        "question_text": "ADB is a business which is owned by its workers. The workers share the profits and they each have a vote on how the business is run. Which ofthefollowing should be used to describe ADB?",
+        "question_text": "ADB is a business which is owned by its workers. The workers share the profits and they each have a vote on how the business is run.\nWhich of the following should be used to describe ADB?",
         "options": [
           {
             "key": "A",
@@ -1968,7 +1968,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hợp tác xã (Co-operative) là tổ chức do chính người lao động hoặc thành viên sở hữu, chia sẻ lợi nhuận và có quyền biểu quyết bình đẳng (mỗi người 1 phiếu bầu: 1 member 1 vote).",
         "image_file": "images/cau_068.png",
         "has_image": false,
         "diagram_file": null
@@ -1977,7 +1977,7 @@ window.QUIZ_DATA = [
         "id": 69,
         "question_number": 69,
         "part": 4,
-        "question_text": "What is an acronym used to describe the key elements of an organisation 's external environment?",
+        "question_text": "What is an acronym used to describe the key elements of an organisation's external environment?",
         "options": [
           {
             "key": "A",
@@ -1993,7 +1993,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "PEST (Political, Economic, Socio-cultural, Technological) là từ viết tắt mô tả các yếu tố trọng yếu của môi trường vĩ mô bên ngoài tổ chức (External macro-environment). SMART dùng cho mục tiêu, SWOT bao gồm cả điểm mạnh/yếu bên trong.",
         "image_file": "images/cau_069.png",
         "has_image": false,
         "diagram_file": null
@@ -2002,11 +2002,11 @@ window.QUIZ_DATA = [
         "id": 70,
         "question_number": 70,
         "part": 4,
-        "question_text": "Which of the following is NOT a legitimate method of influencing government policy in the interests ofa business?",
+        "question_text": "Which of the following is NOT a legitimate method of influencing government policy in the interests of a business?",
         "options": [
           {
             "key": "A",
-            "text": "A. Employing lobbyists to put the organisation 's case to ministers or civil servants"
+            "text": "A. Employing lobbyists to put the organisation's case to ministers or civil servants"
           },
           {
             "key": "B",
@@ -2022,7 +2022,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Hối lộ hoặc đưa lợi ích tài chính cho quan chức công quyền (Offering financial incentives to public officials) là hành vi tham nhũng bất hợp pháp (Bribery/Corruption), không phải là phương thức hợp pháp để vận động chính sách.",
         "image_file": "images/cau_070.png",
         "has_image": false,
         "diagram_file": null
