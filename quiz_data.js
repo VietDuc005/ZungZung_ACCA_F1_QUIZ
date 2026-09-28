@@ -3355,7 +3355,7 @@ window.QUIZ_DATA = [
           },
           {
             "key": "C",
-            "text": "C. A change in the price ofa substitute resource"
+            "text": "C. A change in the price of a substitute resource"
           },
           {
             "key": "D",
@@ -3363,7 +3363,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đường cầu đối với nguồn lực/yếu tố sản xuất (Derived demand) có thể dịch chuyển do: cầu sản phẩm đầu ra thay đổi (A), các lo ngại về môi trường ô nhiễm (B), hoặc giá của nguồn lực thay thế thay đổi (C). Do đó đáp án là All of the above (D).",
         "image_file": "images/cau_118.png",
         "has_image": false,
         "diagram_file": null
@@ -3388,7 +3388,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Độ co giãn của cầu theo thu nhập cao (YED > 1, hàng hóa xa xỉ/cao cấp) nghĩa là khi thu nhập của các hộ gia đình tăng lên, lượng tiêu thụ sản phẩm sẽ tăng rất mạnh (tỷ lệ tăng doanh số lớn hơn tỷ lệ tăng thu nhập).",
         "image_file": "images/cau_119.png",
         "has_image": false,
         "diagram_file": null
@@ -3454,7 +3454,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Thặng dư người tiêu dùng (Consumer surplus) là khoản chênh lệch giữa mức giá tối đa người tiêu dùng sẵn sàng trả và mức giá thị trường thực tế.",
+        "explanation": "Thặng dư người tiêu dùng (Consumer surplus) là phần chênh lệch thặng dư giữa mức giá tối đa mà người tiêu dùng sẵn sàng chi trả (prepared to pay) và mức giá thị trường thực tế mà họ phải trả (prevailing market price).",
         "image_file": "images/cau_121.png",
         "has_image": false,
         "diagram_file": null
@@ -3483,7 +3483,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Để tăng lợi nhuận bằng cách mở rộng thị phần (bán nhiều sản phẩm hơn khi giảm giá hoặc đẩy mạnh quy mô), doanh nghiệp cần cầu co giãn (Elastic demand - giảm giá nhẹ sẽ kích thích lượng cầu tăng mạnh) và cung co giãn (Elastic supply - doanh nghiệp có khả năng mở rộng sản lượng nhanh chóng để đáp ứng).",
         "image_file": "images/cau_122.png",
         "has_image": false,
         "diagram_file": null
@@ -3492,7 +3492,7 @@ window.QUIZ_DATA = [
         "id": 123,
         "question_number": 123,
         "part": 7,
-        "question_text": "1fthe absolute value of the price elasticity of demand for dry white wine is greater than one, a decrease in the price of all wine would result in: 15:36 CN 27thg 9 100%",
+        "question_text": "If the absolute value of the price elasticity of demand for dry white wine is greater than one, a decrease in the price of all wine would result in:",
         "options": [
           {
             "key": "A",
@@ -3512,7 +3512,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "D",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Khi độ co giãn của cầu theo giá có giá trị tuyệt đối lớn hơn 1 (|PED| > 1, cầu co giãn), việc giảm giá sẽ làm lượng cầu tăng lên với tỷ lệ lớn hơn tỷ lệ giảm giá (A more than proportional increase in the quantity purchased).",
         "image_file": "images/cau_123.png",
         "has_image": false,
         "diagram_file": null
@@ -3537,7 +3537,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "C",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Theo nguyên lý tối đa hóa hữu dụng của người tiêu dùng có ngân sách giới hạn (Equi-marginal principle), tổng lợi ích đạt cực đại khi tỷ số giữa lợi ích cận biên và giá của các hàng hóa là bằng nhau: MUx / Px = MUy / Py.",
         "image_file": "images/cau_124.png",
         "has_image": false,
         "diagram_file": null
@@ -3546,7 +3546,7 @@ window.QUIZ_DATA = [
         "id": 125,
         "question_number": 125,
         "part": 7,
-        "question_text": "Are the following statements about elasticities true or false? If income elasticity is positive, the commodity is an inferior good.",
+        "question_text": "Are the following statements about elasticities true or false?\nIf income elasticity is positive, the commodity is an inferior good.",
         "options": [
           {
             "key": "A",
@@ -3558,7 +3558,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False). Khi độ co giãn theo thu nhập mang giá trị dương (YED > 0), đó là hàng hóa thông thường (normal good). Hàng hóa thứ cấp (inferior good) có độ co giãn theo thu nhập âm (YED < 0).",
         "image_file": "images/cau_125.png",
         "has_image": false,
         "diagram_file": null
@@ -3567,7 +3567,7 @@ window.QUIZ_DATA = [
         "id": 126,
         "question_number": 126,
         "part": 7,
-        "question_text": "Are the following statements about elasticities true or false? If two goods are complements, the cross elasticity will be negative.",
+        "question_text": "Are the following statements about elasticities true or false?\nIf two goods are complements, the cross elasticity will be negative.",
         "options": [
           {
             "key": "A",
@@ -3579,7 +3579,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "A",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Đúng (True). Hai hàng hóa bổ sung (complements) có độ co giãn chéo của cầu theo giá mang giá trị âm (XED < 0), vì khi giá hàng hóa này tăng thì lượng cầu hàng hóa kia giảm.",
         "image_file": "images/cau_126.png",
         "has_image": false,
         "diagram_file": null
@@ -3588,7 +3588,7 @@ window.QUIZ_DATA = [
         "id": 127,
         "question_number": 127,
         "part": 7,
-        "question_text": "Are the following statements about elasticities true or false? If price elasticity is greater than I, demand is inelastic.",
+        "question_text": "Are the following statements about elasticities true or false?\nIf price elasticity is greater than 1, demand is inelastic.",
         "options": [
           {
             "key": "A",
@@ -3600,7 +3600,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False). Nếu độ co giãn của cầu theo giá lớn hơn 1 (|PED| > 1) thì cầu là co giãn (Elastic), chứ không phải không co giãn (Inelastic - khi |PED| < 1).",
         "image_file": "images/cau_127.png",
         "has_image": false,
         "diagram_file": null
@@ -3609,7 +3609,7 @@ window.QUIZ_DATA = [
         "id": 128,
         "question_number": 128,
         "part": 7,
-        "question_text": "Are the following statements about elasticities true or false? Unrelated products have a cross elasticity of infinity.",
+        "question_text": "Are the following statements about elasticities true or false?\nUnrelated products have a cross elasticity of infinity.",
         "options": [
           {
             "key": "A",
@@ -3621,7 +3621,7 @@ window.QUIZ_DATA = [
           }
         ],
         "correct_answer": "B",
-        "explanation": "Xem phần giải thích chi tiết trong câu hỏi gốc.",
+        "explanation": "Sai (False). Hai hàng hóa hoàn toàn độc lập/không liên quan (unrelated products) có độ co giãn chéo của cầu bằng 0 (XED = 0), chứ không phải vô cùng (infinity).",
         "image_file": "images/cau_128.png",
         "has_image": false,
         "diagram_file": null
